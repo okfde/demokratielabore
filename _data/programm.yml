@@ -1,0 +1,323 @@
+- name:
+    de: Registrierung der Teilnehmenden
+    en: Registration
+  room: BMVI
+  day: 1
+  time: "09:00"
+  duration: "01:00"
+  type: meta
+  id: "0010"
+
+- name:
+    de: Willkommen
+    en: Welcome
+  room: BMVI
+  day: 1
+  time: "10:00"
+  duration: "00:10"
+  type: talk
+  speakers:
+    - name: Christian Heise
+      desc:
+        de: Vorsitzender des Vorstands, Open Knowledge Foundation Deutschland
+        en: Chairman of the Board, Open Knowledge Foundation Germany
+      slug: christian
+      speakerid: 10
+  id: "0020"
+
+- name:
+    de: Begrüßung
+    en: Opening
+  room: BMVI
+  day: 1
+  time: "10:10"
+  duration: "00:20"
+  type: talk
+  speakers:
+    - name: Dorothee Bär
+      desc:
+        de: Parlamentarische Staatssekretärin beim Bundesminister für Verkehr und digitale Infrastruktur
+        en: Parliamentary State Secretary to the Federal Minister for Transport and Digital Infrastructure
+      slug: baer
+      speakerid: 20
+  id: "0030"
+
+- name:
+    de: "State of the Open: Work in Progress"
+    en: "State of the Open: Work in Progress"
+  loading: yes
+  room: BMVI
+  day: 1
+  time: "10:35"
+  duration: "00:35"
+  type: talk
+  speakers:
+    - name: Fiona Krakenbürger
+      desc:
+        de: Community Organizer Code for Germany, Open Knowledge Foundation Deutschland
+        en: Community Organizer Code for Germany, Open Knowledge Foundation Germany
+      slug: fiona
+      speakerid: 170
+    - name: Maxi Richt
+      desc:
+        de: Entwickler und Projektleiter, kleineAnfragen.de, Open Knowledge Foundation Deutschland
+        en: Developer and Project Lead, kleineAnfragen.de, Open Knowledge Foundation Germany
+      slug: maxi
+      speakerid: 171
+    - name: Arne Semsrott
+      desc:
+        de: Projektleiter, FragDenStaat, Open Knowledge Foundation Deutschland
+        en: Project Lead, FragdenStaat, Open Knowledge Foundation Deutschland
+      slug: arne
+      speakerid: 172
+  id: "0170"
+  
+- name:
+    de: "Offene Verwaltung: Langfristige Perspektive für Deutschland"
+    en: "Open Administration: Long-term perspective for Germany"
+  desc:
+    de:
+    en: The challenges are manifold - whether socially, economically or politically. OpenData, transparency and Civic Tech open up new possibilities to solve these challenges.
+  room: BMVI
+  day: 1
+  time: "11:10"
+  duration: "00:20"
+  type: talk
+  speakers:
+    - name: Franz-Reinhard Habbel
+      desc:
+        de: Schriftsteller und Sprecher des Deutschen Städte- und Gemeindebundes Berlin
+        en: Writer and Speaker of the German Association of Towns and Municipalities, Berlin
+      slug: habbel
+      speakerid: 31
+  id: "0040"
+
+- name:
+    de: Kaffeepause
+    en: Break
+  room: BMVI
+  day: 1
+  time: "11:30"
+  duration: "00:30"
+  type: meta
+  id: "0050"
+
+- name:
+    de: Von Menschen, Daten und guten Vorsätze
+    en: About people, data and good intentions
+  room: BMVI
+  day: 1
+  time: "12:00"
+  duration: "00:30"
+  type: talk
+  speakers:
+    - name: Zara Rahman
+      desc:
+        de: Research Lead, The Engine Room, Berlin
+        en: Research Lead, The Engine Room
+      slug: zara
+      speakerid: 60
+  id: "0060"
+
+- name:
+    de: Civic Tech Inspirations
+    en: Civic Tech Inspirations
+  desc:
+    de: Jahr für Jahr wächst die Civic Tech Community in Deutschland. Ihre spannendsten Projekte und nützlichsten Anwendungen stellt sie hier vor.
+    en: The Civic Tech Community is growing year after year in Germany. It presents your most exciting projects and most useful applications here.
+  room: BMVI
+  day: 1
+  time: "12:30"
+  duration: "00:30"
+  type: talk
+  speakers:
+    - name: Melanie Thewlis
+      desc:
+      slug:
+      speakerid: 70
+      info: GentriMap
+      infourl: "https://gentrima.lepus.uberspace.de"
+    - name: Jan Lutz
+      desc:
+      slug:
+      speakerid: 71
+      info: luftdaten.info
+      infourl: "http://luftdaten.info"
+    - name: Tobias Hößl
+      desc:
+      slug:
+      speakerid: 72
+      info: München Transparent
+      infourl: "https://muenchen-transparent.de"
+    - name: Ernesto Ruge
+      desc:
+      slug:
+      speakerid: 73
+      info: OParl
+      infourl: "https://oparl.org"
+  id: "0070"
+
+- name:
+    de: Mittagspause
+    en: Lunchbreak
+  room: BMVI
+  day: 1
+  time: "13:00"
+  duration: "01:00"
+  type: meta
+  id: "0080"
+
+- name:
+    de: "Data-Run: Mobilitätskonzepte mit offenen Daten umsetzen"
+    en: "Data-Run: Converting Mobility Concepts with Open Data"
+  desc:
+    de: Die drei Gewinner des BMVI Data Runs stellen ihre Projekte vor und zeigen, wie sich Offene Daten und Mobilität gewinnbringend verbinden lassen.
+    en:
+  room: BMVI
+  day: 1
+  time: "14:00"
+  duration: "00:20"
+  type: talk
+  speakers:
+    - name: Marko Jeftic
+      desc:
+      slug:
+      speakerid: 90
+      info: Truckoo
+      infourl: "https://www.bmvi.de/SharedDocs/DE/Artikel/DG/bmvi-data-run-2nd-projekt01-truckoo.html"
+    - name: Alexander Schmid & Robert R. Biene
+      desc:
+      slug:
+      speakerid: 91
+      info: waterRUNners
+      infourl: "https://www.bmvi.de/SharedDocs/DE/Artikel/DG/bmvi-data-run-2nd-projekt09-waterrunners.html"
+    - name: Valentin Jahn
+      desc:
+      slug:
+      speakerid: 92
+      info: FreeMobility
+      infourl: "https://www.bmvi.de/SharedDocs/DE/Artikel/DG/bmvi-data-run-2nd-projekt12-freemobility.html"
+  id: "0090"
+
+- name:
+    de: Das wirtschaftliche Potential von offenen Daten
+    en: The economic potential of open data
+  room: BMVI
+  day: 1
+  time: "14:20"
+  duration: "00:10"
+  type: talk
+  speakers:
+    - name: Walter Palmetshofer
+      desc:
+        de: Projektleiter, Open Data Incubator for Europe, Open Knowledge Foundation Deutschland
+        en: Project Lead, Open Data Incubator for Europe, Open Knowledge Foundation Deutschland
+      slug: walter
+      speakerid: 100
+  id: "0100"
+
+- name:
+    de: Kuchenpause
+    en: Break
+  room: BMVI
+  day: 1
+  time: "14:30"
+  duration: "00:15"
+  type: meta
+  id: "0110"
+
+- name:
+    de: Amnesty International on small tasks, big data and massive engagement
+    en: Amnesty International on small tasks, big data and massive engagement
+  room: BMVI
+  day: 1
+  time: "14:45"
+  duration: "00:30"
+  type: talk
+  speakers:
+    - name: Milena Marin
+      desc:
+        de: Senior Innovations Campaigner, Amnesty International
+        en: Senior Innovations Campaigner, Amnesty International
+      slug: milena
+      speakerid: 120
+  id: "0120"
+
+- name:
+    de: Journalismus zwischen Leaks, Open und Private Data
+    en: Journalism, Leaks, Open and Private Data
+  room: BMVI
+  day: 1
+  time: "15:15"
+  duration: "00:25"
+  type: talk
+  speakers:
+    - name: Vanessa Wormer
+      desc:
+        de: Datenjournalistin, Süddeutsche Zeitung
+        en: Data Journalist, Süddeutsche Zeitung
+      slug: vanessa
+      speakerid: 130
+  id: "0130"
+
+- name:
+    de: Reflections on Dear Data
+    en: Reflections on Dear Data
+  room: BMVI
+  day: 1
+  time: "15:40"
+  duration: "00:25"
+  type: talk
+  speakers:
+    - name: Stefanie Posavec
+      desc:
+        de: Informationsdesignerin, Co-Autorin von Dear Data
+        en: Data Centred Designer and Co-author of Dear Data
+      slug: stefanie
+      speakerid: 140
+  id: "0140"
+
+- name:
+    de: Kaffeepause
+    en: Break
+  room: BMVI
+  day: 1
+  time: "16:05"
+  duration: "00:15"
+  type: meta
+  id: "0150"
+
+- name:
+    de: Evidence is Power. Data Literacy in Action
+    en: Evidence is Power. Data Literacy in Action
+  desc:
+    de: Mit internationalen VertreterInnen aus dem School of Data Netzwerk diskutiert die Datenschule über Data-Literacy- Ansätze und digitale NGO-Projekte.
+    en: The Datenschule discusses data literacy approaches and digital NGO projects with representatives from the international School of Data Network.
+  room: BMVI
+  day: 1
+  time: "16:20"
+  duration: "01:00"
+  type: talk
+  speakers:
+    - name: Bardhyl Jashari
+      desc:
+        de: Executive Direktor, Metamorphosis Foundation, Mazedonien
+        en: Executive Director, Metamorphosis Foundation, Macedonia
+      slug: bardhyl
+      speakerid: 160
+    - name: Sylvia Fredriksson
+      desc:
+        de: Designwissenschaftlerin, Cité du Design, Sainte-Etienne
+        en: Designer-Researcher at the Cité du Design in Sainte-Etienne
+      slug: sylvia
+      speakerid: 161
+  id: "0160"
+
+- name:
+    de: Abschluss
+    en: Closing
+  room: BMVI
+  day: 1
+  time: "17:30"
+  type: meta
+  id: "0180"

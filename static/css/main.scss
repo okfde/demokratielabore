@@ -1,0 +1,25 @@
+---
+# dashes are needed to build css
+---
+
+
+@import "../_sass/base";
+//@import "mobilemenubutton";
+
+@media screen and (min-width: 481px) {
+	@import "../_sass/481";
+}
+
+@media screen and (min-width: 768px) {
+	@import "../_sass/768";
+}
+
+
+@media screen and (min-width: 960px) {
+	@import "../_sass/960";
+}
+
+@media screen and (min-width: 1200px) {
+	@import "../_sass/1200";
+}
+

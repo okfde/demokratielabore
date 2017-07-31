@@ -1,0 +1,171 @@
+
+.mobile-menu-toggle {
+	display: none;
+}
+
+.nav-meta {
+	text-align: right;
+}
+
+
+.nav-wrap {
+  top: 40px;
+  right: 60px;
+  z-index: 1001;
+  width: auto;
+  height: auto;
+  padding: 0;
+}
+
+.page-wrap {
+  -webkit-transform: translateX(0);
+          transform: translateX(0);
+  transition: -webkit-transform 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+}
+
+.mobile-menu-open .page-wrap {
+  -webkit-transform: translateX(calc(-100% + #{$keep}));
+          transform: translateX(calc(-100% + #{$keep}));
+}
+
+
+.main-nav-wrapper {
+
+	.nav-pills>li {
+		a {
+		}
+	}
+
+		.nav-pills .current {
+		display: block;
+	}
+
+}
+
+
+.nav-pills>li {
+	float: right;
+}
+#animation-wrapper {
+	background: transparent;
+}
+
+.packery-item {
+	width: 47.5%;
+}
+
+.members .member {
+	min-width: 33%;
+}
+
+
+.introtext{
+		font-size: 30px;
+		line-height: 32px;
+}
+
+
+.slogan{
+
+	h2 {
+		bottom: 60px;
+		right: 120px;
+		position: absolute;
+		text-transform:none;
+		max-width: 550px;
+		font-size: 18px;
+		line-height: 28px;
+		text-align: left;
+
+	}
+}
+
+
+.format__illustration{
+	padding: 10% 10% 5% 10%;
+}
+
+
+.title {
+
+  p {
+    font-size: 40px;
+    line-height: 1.5;
+    padding-bottom: 60px;
+  }
+}
+
+
+
+.format__point_one{
+  width: 52%;
+  z-index: 1;
+}
+
+
+.format__point_two{
+  margin-top: -20%;
+  width: 52%;
+  z-index: 2;
+  float: right;
+}
+
+
+.format__point_three{
+  margin-top: 20%;
+  width: 52%;
+  z-index: 3;
+}
+
+.format__point_four{
+  margin-top: -20%;
+  width: 52%;
+  z-index: 2;
+  float: right;
+}
+
+.format__point_five{
+  margin-top: 20%;
+  width: 52%;
+  z-index: 1;
+}
+
+.format__illustration-wrapper{
+  text-align: right;
+}
+
+
+
+.format__statement{
+  padding: 0 60px 40px 60px;
+
+}
+
+
+.format__statement{
+  padding: 0 40px 40px 40px;
+
+}
+
+
+.members {
+  line-height: 26px;
+  font-size: 20px;
+  text-align: left;
+
+  .member {
+    margin-bottom: 26px;
+    min-width: 100%;
+    display: block;
+    float: center;
+
+  }
+
+  .member-avatar {
+    margin: 60px auto 10px auto;
+    width: 240px;
+    height: 240px;
+  }
+}

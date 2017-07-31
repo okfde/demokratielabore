@@ -1,5 +1,5 @@
 
-# Datensummit.de
+# demokratielabore.de
 
 
 ## Setup
@@ -36,6 +36,3 @@ This command will give you a link where you can preview your changes in your bro
  * You can set a teaser for texts by defining it in the frontmatter: `excerpt: "<TEXT>"`.
 
  * The teaser  for an image can be set with `imgname-teaser: "<[RELATIVE] PATH TO IMAGE>"`.
-
-# demokratielabore
-# demokratielabore

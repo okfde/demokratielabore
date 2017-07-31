@@ -1,0 +1,19 @@
+ <div class="main-nav-wrapper">
+   <ul class="nav nav-pills">
+        <li class="text-center nav-meta-lang">
+
+        </li>
+
+        {% assign navigation = site.data.navigation.de %}
+
+        {% for link in navigation %}
+        {% assign current = nil %}
+        {% if page.url contains link.url %}
+        {% assign current = 'current' %}
+        {% endif %}
+        <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+          <a href="{{ link.url }}">{{ link.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>

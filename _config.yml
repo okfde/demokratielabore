@@ -1,0 +1,27 @@
+title: "Demokratielabore"
+description: ""
+url: https://demokratielabore.de
+markdown: kramdown
+exclude:
+  - "vendor"
+  - "CNAME"
+  - "Gemfile*"
+  - "mission"
+  - "README.md"
+  - "*.sh"
+  - "doc/"
+  - "local/"
+  - "update_avatars.py"
+  #- "projekte" # uncomment line to speed up jekyll build for development
+  #- "blog" # uncomment line to speed up jekyll build for development
+  #- "termine" # uncomment line to speed up jekyll build for development
+  #- "presse" # uncomment line to speed up jekyll build for development
+sass:
+    style: :compressed
+permalink: /blog/:title
+excerpt_separator: "\n"
+paginate: 5
+paginate_path: "blog/:num"
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate

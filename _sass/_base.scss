@@ -161,6 +161,7 @@ body {
 }
 
 .logo {
+	width: 300px;
 
 }
 
@@ -594,10 +595,7 @@ $keep: 44 + 2 * 15px;
 .hero-start {
 	background-image: url("/static/img/logo_white.svg");
 	background-repeat: no-repeat;
-   	top: 50%;
-    left: 50%;
-    margin-left: -250px;
-  	background-size: 250px;
+  	background-size: 350px;
 }
 
 .hero-pattern {
@@ -605,6 +603,18 @@ $keep: 44 + 2 * 15px;
 	position: relative;
 
 }
+
+.hero-pattern__drl { 
+	
+	&:before {
+		padding-top: 30%;
+	}
+
+	svg {
+		stroke: none;
+	}
+}
+
 
 
 /* Newsletter Signup */
@@ -906,7 +916,7 @@ $keep: 44 + 2 * 15px;
 
 
 
-.hero-pattern-wrap, .story--pattern-wrap {
+.hero-pattern-wrap {
 	background-repeat: no-repeat;
 	background-position: center;
 	width: 100%;

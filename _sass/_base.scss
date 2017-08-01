@@ -533,43 +533,7 @@ $keep: 44 + 2 * 15px;
 }
 
 
-.nav-meta li {
-  display: inline-block;
-	margin-right: 5px;
-	margin-bottom: 20px;
-	&:last-child { margin-right: 0 ;}
-}
 
-.nav-meta > li > a {
-	height: 44px;
-	line-height: 42px;
-	color: $red;
-	padding: 0 10px;
-	border: 2px solid $red;
-	white-space: nowrap;
-}
-
-.nav-meta > li > a:hover, .nav-meta > li > a:focus {
-	color: $red;
-	background: transparent;
-}
-
-.nav-meta > li.nav-meta-social {
-	display: inline-block;
-	width: inherit;
-}
-
-.nav-meta > li.nav-meta-social > a {
-	background: $red;
-	color: $white;
-	width: 44px;
-	padding: 0;
-}
-
-.nav-meta > li.nav-meta-social > a:hover {
-	background: $red;
-	color: $white;
-}
 
 .main-nav-wrapper {
 	.nav-pills>li {
@@ -581,7 +545,7 @@ $keep: 44 + 2 * 15px;
 	}
 
 	.nav-pills .current {
-		border: 2px solid $red;
+		border: 2px solid $purple;
 		display: inline-block;
 	}
 }
@@ -708,24 +672,15 @@ $keep: 44 + 2 * 15px;
 		min-width: 100%;
 		display: block;
 		float: center;
-
 	}
 
 	.member-avatar {
 		margin: 60px auto 10px auto;
 		width: 240px;
 		height: 240px;
-
-		background: linear-gradient( #fff, #ccc );
-    transition: all 0.45s;
-    
-    &:hover{
-      background: linear-gradient( #ccc, #fff );
-    }
-
 	}
-
 }
+
 
 .speaker-big {
 	width: 350px;
@@ -852,9 +807,7 @@ $keep: 44 + 2 * 15px;
 .post-description {
 	img {
 		margin: 30px auto;
-		max-width: 70%;
 		height: auto;
-		display: block;
 	}
 
 	iframe {
@@ -1166,4 +1119,10 @@ $keep: 44 + 2 * 15px;
 		font-size: 25px;
 	}
 
+}
+
+.hover_team{
+	margin-top: -240px;
+	background-image: linear-gradient(148deg, #8CBBE8, #C8FFB5);
+	border-radius: 50%;
 }

@@ -1,90 +1,127 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
 
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>
-        {% if page.title %}
-            {{ page.title }} | {{ site.title }}
-        {% else %}
-            {{ site.title }} ~ {{ site.description }}
-        {% endif %}
-    </title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+		{% if page.title %}
+		{{ page.title }} | {{ site.title }}
+		{% else %}
+		{{ site.title }} ~ {{ site.description }}
+		{% endif %}
+	</title>
 
-    <meta name="description" content="{{ page.excerpt | strip_html }}">
-    <meta name="viewport" content="width=device-width">
+	<meta name="description" content="{{ page.excerpt | strip_html }}">
+	<meta name="viewport" content="width=device-width">
 
-    {% include head-social-og.html %}
+	{% include head-social-og.html %}
 
-    <link rel="stylesheet" href="/static/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/static/css/animate.css">
-    <link rel="stylesheet" href="/static/css/main.css?v=1.4">
-    <link rel="icon" href="/static/img/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="/static/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/static/css/animate.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/slick.css"/>
+	<link rel="stylesheet" type="text/css" href="/static/css/slick-theme.css"/>
+	<link rel="stylesheet" href="/static/css/main.css?v=1.4">
+	<!--<link rel="icon" href="/static/img/favicon.ico" type="image/x-icon" />-->
 
-    <script src="/static/js/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-    <script src="/static/js/jquery-1.11.2.min.js"></script>
-    <script src="/static/js/bootstrap.min.js"></script>
-    <script src="/static/js/formChanger.js"></script>
+	<script src="/static/js/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="/static/js/jquery-1.11.2.min.js"></script>
+	<script src="/static/js/bootstrap.min.js"></script>
+	<script src="/static/js/formChanger.js"></script>
+	<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+	<script src="/static/js/slider.js"></script>
 
-    <style>
-        @import url('https://fonts.googleapis.com/css?family=Overpass');
-    </style>
+	<style>
+		@import url('https://fonts.googleapis.com/css?family=Overpass');
+	</style>
 </head>
 
 
 <body>
-    <!--[if lt IE 7]>
-    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
-    <![endif]-->
+<!--[if lt IE 7]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to
+	improve your experience.</p>
+<![endif]-->
 
-    <div class="body-wrap">
-        <div class="page-wrap">
-            <div class="nav-wrap">{% include navigation.html %}</div>
-                <div class="navbar">
-                    <div class="logo">
-                        <a class="" href="/">
-                            <img class="img-responsive" src="/static/img/logo_bold.svg" width="120" alt="Demokratielabore">
-                        </a>
-                    </div>
-                </div>
-            </div>
+<div class="body-wrap">
+	<div class="page-wrap">
+		<div class="nav-wrap">{% include navigation.html %}</div>
+		<div class="navbar">
+			<div class="logo">
+				<a class="" href="/">
+					<img class="img-responsive" src="/static/img/logo_bold.svg" width="120" alt="Demokratielabore">
+				</a>
+			</div>
+		</div>
+	</div>
 
-            {{ content }}
+	{{ content }}
 
-            <footer>
-                <div class="beneath-sections jumbotron fond__white meta-links-foot">
-                    <div class="container text-uppercase">
-                        <div class="col-lg-12">
-                            <a href="/impressum">Impressum</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="fond__white partner">
-                    <div class="container">
-                        <ul>
-                            <li>
-                                <a href="http://www.okfn.de/">
-                                    <img class="okfn-logo img-responsive" src="/static/img/OKFN.png" alt="OKFN Logo" />
-                                </a>
-                            </li>
-                               <!-- <li>
-                                <a href="http://bmfsfj.de/">
-                                    <img class="img-responsive" width="400" src="/static/img/bmfsfj.jpg" alt="BMFSFJ" />
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </footer>
-        </div>
+	<footer>
+		<div class="beneath-sections jumbotron fond__white meta-links-foot">
+			<div class="container text-uppercase">
+				<div class="row">
+					<div class="col-md-6">
+						<p>
+							Fragen? So erreichst du uns: <br/>
+							E-Mail: <a href="mailto:info@demokratielabore.de">info@demokratielabore.de</a> <br/>
+							Telefon: <a href="tel:+4930577036660">+49 (0)30 577 036 660</a><br/>
+							Adresse: Singerstraße 109, 10179 Berlin
+						</p>
+					</div>
+					<div class="col-md-6">
+						<p>
+							Du möchtest auf dem Laufenden bleiben? Dann melde Dich für unseren <a href="#">Newsletter</a> an!
+						</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<a href="/impressum">Impressum</a>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						Folge uns auf <a href="#" class="fa fa-facebook"></a>
+						<a href="#" class="fa fa-twitter"></a>
+						<a href="#" class="fa fa-google"></a>
+						<a href="#" class="fa fa-linkedin"></a>
+					</div>
+				</div>
 
-        {% include piwik.html %}
+			</div>
+		</div>
+</div>
+<div class="fond__white partner">
+	<div class="container">
+		<ul>
+			<li>
+				<a href="http://www.okfn.de/">
+					<img class="okfn-logo img-responsive" src="/static/img/OKFN.png" alt="OKFN Logo"/>
+				</a>
+			</li>
+			<!-- <li>
+			 <a href="http://bmfsfj.de/">
+				 <img class="img-responsive" width="400" src="/static/img/bmfsfj.jpg" alt="BMFSFJ" />
+			 </a>
+		 </li>
+	 </ul>
+ </div>
+</div>
+</footer>
+</div>
 
-    </div>
+{% include piwik.html %}
+
+</div>
 </body>
 
 </html>

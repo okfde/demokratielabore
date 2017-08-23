@@ -1,13 +1,19 @@
 de:
+  - title: Presse
+    url: /presse
+
   - title: Mach mit!
     url: /mitmachen
 
   - title: Über uns
     url: /team
 
-  - title: Workshops
-    url: /workshops
+  - title: Blog
+    url: /blog
 
-  - title: Info
-    url: /info
+  - title: Angebote
+    url: /angebote
+
+  - title: Projekt
+    url: /projekt
 

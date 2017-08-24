@@ -1,21 +1,44 @@
-<div class="event-wrapper fond__white clearfix">
-  <div class="post-header clearfix">
-    <h1 class="post-title" ><a href="{{ page.url }}">{{ page.title }}</a></h1>
-    <div class="post-meta">
-      <span class="blog-author-and-date"> von {{ page.author }} am {{ page.date | date: "%d.%m.%y" }}</span><br>
-      {% unless page.tags == empty %}
-        <span class="blog-tags"> in: {% for tag in page.tags %} <a href="/blog/{{ tag | replace:' ','-' | downcase }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %} {% endfor %}</span>
-      {% endunless %}
-    </div>
-  </div>
-  <div class="post-description">{{ page.content | markdownify }}</div>
-
-  <ul class="list-unstyled post-links" >
-    {% for link in page.links %}
-    <li>
-      <a href="{{ link.url }}">{{ link.name }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-
+<div class="container">
+	<div class="row">
+		<div class="col-lg-12">
+			<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-12">
+			<div class="post-meta">
+				<span class="blog-author-and-date"> von {{ page.author }} am {{ page.date | date: "%d.%m.%y" }}</span><br>
+				{% unless page.tags == empty %}
+				<span class="blog-tags"> in: {% for tag in page.tags %} <a href="/blog/{{ tag | replace:' ','-' | downcase }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %} {% endfor %}</span>
+				{% endunless %}
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-12">
+			{% if page.images %}
+				<img src="/assets/blog/{{ page.images[0].imgname }}" alt="{{ page.images[0].alt }}" class="img-responsive">
+				{% if page.images[0].sub %}<span class="post-img-caption">
+					{{ page.images[0].sub }}</span>
+				{% endif %}
+			{% endif %}
+		</div>
+	</div>
+	<div class="row margin-top-huge">
+		<div class="col-lg-12">
+			<div class="post-description">{{ page.content | markdownify }}</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-12">
+			<ul class="list-unstyled post-links">
+				{% for link in page.links %}
+				<li>
+					<a href="{{ link.url }}">{{ link.name }}</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
 </div>
+

@@ -2,6 +2,7 @@
 layout: post
 title: "Launch: Die Demokratielabore stellen sich vor!"
 author: Jasmin
+date: 2017-08-24
 excerpt: 
 images:
   - imgname: illustration_vorab_dl.png
@@ -32,5 +33,3 @@ Um das zu schaffen, haben wir verschiedene [Angebote](https://demokratielabore.d
 
 Wir wollen mit Jugendlichen, Jugendeinrichtungen & Bildungsverbänden in ganz Deutschland zusammenarbeiten -  egal ob in der Stadt oder auf dem Land, im Problembezirk oder Vorzeigeviertel, Couchpotato oder Actionheld/in: **Jede/r ist bei uns willkommen!**  
 Schreibt uns dazu am besten einfach eine Mail an *info@demokratielabore.de*, wir melden uns bei euch so schnell es geht und planen gemeinsam das weitere Vorgehen. Wir freuen uns auf euch! :)
-
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="de" dir="ltr">Alle Tiere und Pflanzen mit Unicodesymbol <a href="https://twitter.com/hashtag/okwiki?src=hash">#okwiki</a> <a href="https://t.co/8Qem4fm3fl">https://t.co/8Qem4fm3fl</a></p>&mdash; 95P (@NearBeteigeuze) <a href="https://twitter.com/NearBeteigeuze/status/805059238217318400">December 3, 2016</a></blockquote>

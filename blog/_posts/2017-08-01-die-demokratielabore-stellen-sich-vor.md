@@ -7,7 +7,6 @@ excerpt:
 images:
   - imgname: online.gif
 published: true
-url: 2017-08-01-die-demokratielabore-stellen-sich-vor
 ---	 
 Die Lebens- und Erfahrungswelt von Jugendlichen in Deutschland ist geprägt von der digitalen Revolution: Viele Bereiche des öffentlichen und privaten Lebens spielen sich online ab, prägen unsere Beziehungen und unser Zusammenleben in der Gesellschaft. In Zeiten von Hate Speech, Fake News und Populismus, auch im Netz, wird klar, dass es für Jugendliche gar nicht so einfach ist, digital mündig zu sein. Gleichzeitig wird es aber immer wichtiger, sich in Fragen des gesellschaftlichen Zusammenlebens aktiv einzumischen.
 <br />		 

@@ -3,6 +3,10 @@ layout: default
 sponsor: yes
 title: Hello
 ---
+
+<div class="parallax"></div>
+</div>
+<!--
 <div class="hero-container fond_green_gradient margin-top-huge">
    <a href="/info">
       <div class="hero-pattern hero-pattern__drl">
@@ -11,14 +15,16 @@ title: Hello
       </div>
    </a>
 </div>
+>-->
 
 <div class="beneath-sections jumbotron fond__white">
     <div class="container text__black">
         <div class="row">
-            <div class="col-lg-12 title">
+            <div class="col-lg-8 col-lg-offset-2 title">
+            <img width="250" class="img-center" src="/static/img/logo_bold.svg">
                 <p>
-                   <br> Die Demokratielabore sind ein Modellprojekt der <a href="https://okfn.de">Open Knowledge Foundation Deutschland</a>, das vom <a href="http://www.bmfsfj.de">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a href="http://www.demokratie-leben.de/">Demokratie leben!</a> gefördert wird. </br>
-                   <br> Wir führen verschiedene Workshop- und Aktionsformate mit Jugendlichen im Alter von 12 bis 21 Jahren rund um Digitalisierung, Technologien und gesellschaftliches Miteinander durch. Dazu arbeiten wir sowohl eng mit außerschulischen Jugendeinrichtungen als auch überregionalen Bildungsverbänden und Initiativen zusammen - deutschlandweit. </br>
+                   <br> Die Demokratielabore sind ein Modellprojekt der <a class="highlight-grey" href="https://okfn.de">Open Knowledge Foundation Deutschland</a>, das vom <a class="highlight-grey" href="http://www.bmfsfj.de">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="http://www.demokratie-leben.de/">Demokratie leben!</a> gefördert wird. </br>
+                   <br> Wir führen verschiedene Workshop- und Aktionsformate mit Jugendlichen im Alter von 12 bis 21 Jahren rund um Digitalisierung, Technologien und gesellschaftliches Miteinander durch. Dazu arbeiten wir sowohl eng mit außerschulischen Jugendeinrichtungen als auch überregionalen Bildungsverbänden und Initiativen zusammen – deutschlandweit. </br>
                    <a href="/projekt"><button  class="btn btn-start">Mehr erfahren!</button> </a> 
                 </p>   
             </div>
@@ -50,53 +56,59 @@ title: Hello
     <!--</div>-->
 <!--</div>-->
 <div class="parallax"></div>
-<div class="beneath-sections jumbotron">
+</div>
+
+<div class="beneath-sections jumbotron fond__white">
     <div class="container text__black">
         <div class="row">
-            <div class="col-lg-12 title">
-                <h1><u>Neues aus unserem Blog</u></h1>
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2 class="text-center">Neues, News und Neuigkeiten</h2>
             </div>
         </div>
+        <br>
         <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 title">
+
             {% for post in site.posts limit:3 %}
             {% assign url=post.url |replace_first:'/','' %}
-            <div class="col-md-4">
                 {% include post-teaser.html post=post %}
-            </div>
             {% endfor %}
+            </div>
         </div>
     </div>
 </div>
-<div class="parallax"></div>
-<!--<div class="beneath-sections jumbotron fond__grey-bright">-->
-    <!--<div class="container text__black title">-->
-        <!--<div class="col-lg-10  text-left">-->
-            <!--<div id="mc_embed_signup">-->
-                <!--<form action="//okfn.us5.list-manage.com/subscribe/post?u=929f1e07936386d34833e20d1&amp;id=3b8102edce" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate  mc-form " target="_blank" novalidate>-->
-                    <!--<p> -->
-                        <!--Du möchtest auf dem Laufenden bleiben? <br> -->
-                        <!--Dann melde Dich f&uuml;r unseren Newsletter an!-->
-                    <!--</p>-->
 
-                    <!--<div class="mc-field-group form-group form-group-newsletter text-left">-->
-                        <!--<div class="col-lg-5">-->
-                            <!--<label for="mce-EMAIL" class="sr-only" >E-Mail</label>-->
-                            <!--<input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="E-Mail" required >-->
-                        <!--</div>-->
+<div class="beneath-sections jumbotron fond_blue_gradient">
+    <div class="container text__white title">
+        <div class="col-lg-9 col-lg-offset-2  text-left">
+            <div id="mc_embed_signup">
+                <form action="//okfn.us5.list-manage.com/subscribe/post?u=929f1e07936386d34833e20d1&amp;id=3b8102edce" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate  mc-form " target="_blank" novalidate>
+                    <p>
+                        Du möchtest auf dem Laufenden bleiben? <br>
+                        Dann melde Dich f&uuml;r unseren Newsletter an!
+                    </p>
 
-                        <!--<div class="col-lg-3">-->
-                            <!--<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-mitmachen">Abonnieren!-->
-                            <!--</button>-->
+                    <div class="mc-field-group form-group form-group-newsletter text-left">
+                        <div class="col-lg-6">
+                            <label for="mce-EMAIL" class="sr-only" >E-Mail</label>
+                            <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="E-Mail" required >
+                        </div>
 
-                            <!--<div style="position: absolute; left: -5000px;"><input type="text" name="b_929f1e07936386d34833e20d1_6c6b5db59f" value="">-->
-                                                     <!--&lt;!&ndash; set to newsletter only&ndash;&gt;-->
-                            <!--<input type="checkbox" value="1" checked="checked" name="group[16985][1]" id="mce-group[16985]-16985-0" style="display:none;">-->
-                        <!--</div>-->
-                    <!--</div>-->
-                <!--</form>    -->
-            <!--</div>-->
-        <!--</div>-->
-    <!--</div>-->
-<!--</div>-->
-</div></div>
+                        <div class="col-lg-3">
+                            <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-mitmachen">Abonnieren!
+                            </button>
+
+                            <div style="position: absolute; left: -5000px;"><input type="text" name="b_929f1e07936386d34833e20d1_6c6b5db59f" value="">&lt;!&ndash; set to newsletter only&ndash;&gt;<input type="checkbox" value="1" checked="checked" name="group[16985][1]" id="mce-group[16985]-16985-0" style="display:none;">
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="parallax">
+</div>
+
 

@@ -23,25 +23,19 @@
 	<meta name="viewport" content="width=device-width">
 
 	{% include head-social-og.html %}
+	<link rel="stylesheet" href="/static/fonts/overpass/overpass.css">
+
 
 	<link rel="stylesheet" href="/static/css/bootstrap.min.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="/static/css/animate.css">
-	<link rel="stylesheet" type="text/css" href="/static/css/slick.css"/>
-	<link rel="stylesheet" type="text/css" href="/static/css/slick-theme.css"/>
 	<link rel="stylesheet" href="/static/css/main.css?v=1.4">
 	<!--<link rel="icon" href="/static/img/favicon.ico" type="image/x-icon" />-->
 
 	<script src="/static/js/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 	<script src="/static/js/jquery-1.11.2.min.js"></script>
 	<script src="/static/js/bootstrap.min.js"></script>
-	<script src="/static/js/formChanger.js"></script>
-	<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
-	<script src="/static/js/slider.js"></script>
 
-	<style>
-		@import url('https://fonts.googleapis.com/css?family=Overpass');
-	</style>
+
 </head>
 
 
@@ -66,82 +60,59 @@
 	{{ content }}
 </div>
 
-<footer>
-	<div class="beneath-sections jumbotron fond__white meta-links-foot">
-		<div class="container text-uppercase">
-			<div class="row">
-				<div class="col-md-6">
-					<p>
-						Fragen? So erreichst du uns: <br/>
-						E-Mail: <a href="mailto:info@demokratielabore.de">info@demokratielabore.de</a> <br/>
-						Telefon: <a href="tel:+4930577036660">+49 (0)30 577 036 660</a><br/>
-						Adresse: Singerstraße 109, 10179 Berlin
-					</p>
-				</div>
-				<div class="col-md-6">
-					<p>
-						Du möchtest auf dem Laufenden bleiben? Dann melde Dich für unseren <a href="https://okfn.us5.list-manage.com/subscribe/post?u=929f1e07936386d34833e20d1&id=3b8102edce&utm_source=Demokratielabore&utm_campaign=6190cc3b7a-EMAIL_CAMPAIGN_2017_08_22&utm_medium=email&utm_term=0_3b8102edce-6190cc3b7a-128971577">Newsletter</a> an!
-					</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12">
-					<a href="/impressum">Impressum</a>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12">
-					Folge uns auf <a href="https://facebook.com/demokratielabs" target="_blank" class="fa fa-facebook"></a>
-					<a href="https://twitter.com/demokratielabs" target="_blank" class="fa fa-twitter"></a>
-					<a href="https://instagram.com/demokratielabs" target="_blank" class="fa fa-instagram"></a>
-				</div>
-			</div>
 
+<footer>
+	<div class="beneath-sections jumbotron fond_darkblue_gradient text__white">
+		<div class="container text__white">
+        <div class="col-lg-12 title">
+				<h2> Du hast Fragen? Du erreichst uns...</h2>
+				<p>	
+					...per Mail: <a class="highlight-white" href="mailto:info@demokratielabore.de">info@demokratielabore.de</a> <br/>
+					...per Telefon: <a class="highlight-white" href="tel:+4930577036660">+49 (0)30 577 036 660</a><br/>
+					...vor Ort: Singerstraße 109, 10179 Berlin<br><br>
+					...oder hier: <a class="highlight-white" href="https://facebook.com/demokratielabs">Facebook</a> 
+					<a class="highlight-white" href="https://twitter.com/demokratielabs">Twitter</a>
+					<a class="highlight-white" href="https://instagram.com/demokratielabs">Instagram</a>
+					<br><br>
+				</p>
+			</div>	
 		</div>
 	</div>
-	<div class="beneath-sections jumbotron fond__white partner">
+	<div class="jumbotron fond__white partner">
 		<div class="container">
 			<div class="row">
-				<div class="container-md-12">
+				<div class="container-lg-12">
 					<h3>Ein Projekt von</h3>
-						<div class="row">
-							<a href="http://www.okfn.de/">
-								<img class="img-responsive logo-okf" src="/static/img/OKFN.png" alt="OKFN Logo"/>
-							</a>
-						</div>
-						<div class="row">
-							<a href="http://bmfsfj.de/">
-								<img class="img-responsive logo-bmfsfj" src="/static/img/BMFSFJ_DL_mitFoerderzusatz_RZ_neu.png" alt="BMFSFJ" />
-							</a>
-						</div>
-
-
-
-
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12">
-					<p class="text-center">
-						<small>
-							Die Open Knowledge Foundation Deutschland ist ein eingetragener Verein, Vereinsregister-Nr. VR 30468 B.
-							Die Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach
-							<a href="https://creativecommons.org/licenses/by/4.0/deed.de">Creative Commons 4.0 Attribution</a> lizensiert.
-						</small>
-					</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12">
-					<p class="text-center">
-						<small>Grafik: CC-BY-NC-ND, Illustrator: Christoph Hoppenbrock</small>
-					</p>
+					<div class="col-lg-4">
+						<a href="http://www.okfn.de/">
+							<img class="img-responsive logo-okf" src="/static/img/OKFN.png" alt="OKFN Logo"/>
+						</a>
+					</div>
+					<div class="col-lg-4">
+						<a href="http://bmfsfj.de/">
+							<img class="img-responsive logo-bmfsfj" src="/static/img/BMFSFJ.png" alt="BMFSFJ" />
+						</a>
+					</div>
+					<div class="col-lg-4">
+						<a href="https://www.demokratie-leben.de">
+							<img class="img-responsive logo-bmfsfj" src="/static/img/foerderzusatz.png" alt="Demokratie leben" />
+						</a>
+					</div>
 				</div>
 			</div>
 	 	</div>
 	</div>
+	<div class="jumbotron fond__grey meta-links-foot">
+        <div class="container">
+            <div class="row text-uppercase">
+                <div class="col-lg-12">
+                    <a href="/impressum">Impressum</a>  
+                    <!--<a href="/presse">Presse</a>-->
+                </div>
+            </div>
+        </div>
+    </div>
 </footer>
-
 
 </body>
 

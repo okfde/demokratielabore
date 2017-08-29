@@ -1,15 +1,12 @@
-de:
-  - title: Presse
-    url: /presse
-
-  - title: Mach mit!
-    url: /mitmachen
+de:  
+  - title: Blog
+    url: /blog
 
   - title: Über uns
     url: /team
 
-  - title: Blog
-    url: /blog
+  - title: Mach mit!
+    url: /mitmachen
 
   - title: Angebote
     url: /angebote

@@ -3,7 +3,7 @@ $blue: #0168FC;
 $green: #0F7676;
 $green2: #03A678;
 $mint: #00ffc2;
-$cyan: #00FFF9;
+$cyan: #FFA822;
 $grey-bright: #F2F2F2;
 $grey-mid: #E7E7E7;
 $grey-dark: #999999;
@@ -14,9 +14,9 @@ $orange: #FFB61B;
 $purple: #4C00C8;
 
 .fond_blue_gradient {
-  background: -webkit-linear-gradient(-30deg, #0205FF, #00F7D6, #0188FB); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(-30deg, #0205FF, #00F7D6, #0188FB); /* For Opera 11.1 to 12.0*/
-  background: -moz-linear-gradient(-30deg, #0205FF, #00F7D6, #0188FB); /* For Firefox 3.6 to 15 */
+  background: -webkit-linear-gradient(-30deg, #00F7D6, #0188FB); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(-30deg, #00F7D6, #0188FB); /* For Opera 11.1 to 12.0*/
+  background: -moz-linear-gradient(-30deg, #00F7D6, #0188FB); /* For Firefox 3.6 to 15 */
   background: linear-gradient(-30deg, #00F7D6, #0188FB); /* Standard syntax */
 }
 
@@ -195,30 +195,16 @@ $purple: #4C00C8;
   color: $white;
 }
 
-@font-face {
-  font-family: 'League Spartan';
-  src: url('../fonts/leaguespartan-bold.eot');
-  src: url('../fonts/leaguespartan-bold.eot?#iefix') format('embedded-opentype'),
-  url('../fonts/leaguespartan-bold.woff2') format('woff2'),
-  url('../fonts/leaguespartan-bold.woff') format('woff'),
-  url('../fonts/leaguespartan-bold.ttf') format('truetype'),
-  url('../fonts/leaguespartan-bold.svg#league_spartanbold') format('svg');
-  font-weight: bold;
-  font-style: normal;
-}
-
-$leaguespartan: 'League Spartan', sans-serif;
 
 body {
   @extend .fond__grey;
 }
 
 a:hover {
-  background-color: $grey-bright;
-}
+ text-decoration: underline;}
 
 a {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .logo {
@@ -270,7 +256,7 @@ $body-font-size: 20px;
 body {
   font-size: $body-font-size;
   line-height: 1.6em;
-  font-family: $leaguespartan;
+  font-family: 'Overpass', sans-serif;
   font-weight: normal;
   font-style: normal;
 }
@@ -301,9 +287,6 @@ h4, .h4 {
   line-height: 28px;
 }
 
-p {
-  text-align: justify;
-}
 
 a, a:hover, a:active {
   @extend .text__black;
@@ -397,10 +380,23 @@ label {
   @include inline-background($white);
 }
 
+
+.highlight-white {
+  @extend .fond__white;
+  @extend .text__black;
+  @include inline-background($white);
+}
+
 .highlight-purple {
   @extend .fond__purple;
   @extend .text__white;
   @include inline-background($purple);
+}
+
+.highlight-grey {
+  @extend .fond__grey-bright;
+  @extend .text__black;
+  @include inline-background($grey-bright);
 }
 
 .form-control, .btn {
@@ -469,7 +465,7 @@ label {
 .btn-blog {
   background-color: #00F7D6;
   color: $white;
-  margin-top: 1px;
+  margin-top: 15px;
   padding: 5px 10px;
   font-size: 18px;
 }
@@ -551,7 +547,7 @@ label {
 .title {
 
   p {
-    font-size: 22px;
+    font-size: 30px;
     line-height: 1.5;
     padding-bottom: 60px;
   }
@@ -616,14 +612,10 @@ $keep: 44 + 2 * 15px;
 
 }
 
-.margin-top-huge {
-  margin-top: 7em;
-}
-
 #animation-wrapper,
 .hero-overlay {
 
-  font-family: $leaguespartan;
+  font-family: 'Overpass', sans-serif;
   padding: 5% 0;
   top: 0;
   left: 0;
@@ -681,6 +673,17 @@ $keep: 44 + 2 * 15px;
 
 .panel-body {
   padding: 0;
+}
+
+.panel-group .panel+.panel{
+ margin: 0;
+}
+
+.panel {
+
+  h4{
+    margin: 15px 0 0 0;
+  }
 }
 
 .partner {
@@ -760,7 +763,7 @@ $keep: 44 + 2 * 15px;
 
   img {
     max-width: 80%;
-    margin: 30px auto;
+    margin: 50px 0 30px 0;
   }
 
   a {
@@ -1284,12 +1287,12 @@ a.fa:hover {
 
 .parallax {
   /* The image used */
-  background-image: url("/img/illustration_vorab_dl.png");
+  background-image: url("/static/img/illustration_vorab_dl.png");
   /* Set a specific height */
-  min-height: 500px;
+  min-height: 550px;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
-  background-position: center 7em;
+  background-position: center 8em;
   background-repeat: no-repeat;
   background-size: contain;
 }

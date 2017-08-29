@@ -1,36 +1,39 @@
 ---
 layout: base
-
 ---
 
 <!-- Blog -->
-<div class="fond__white">
-  <div class="container">
+<div class="beneath-sections jumbotron fond__white">
+</div>
 
-    <h1>{% if page.tagpage %}: {{ page.title }}{% endif %}</h1>
-
-    <div class="row">
-      <div class="col-lg-10 blog-main" >
-        
-        {{ content }}
-
-      </div> 
+<div class="beneath-sections jumbotron fond__white">
+    <div class="col-lg-8 col-lg-offset-2 title">
+        <div class="container text-center text__black">
+            <h1>Neues, News und Neuigkeiten</h1>
+        </div>
     </div>
-  </div>
+</div>
+
+<div class="beneath-sections jumbotron fond__white">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 blog-main" >
+            {{ content }}
+        </div> 
+    </div>
 </div>
 
 <script src="/static/js/jquery.infinitescroll.min.js"></script>
 
+
 <script type="text/javascript">
 $(document).ready(function() {
 
-  $('.blog-page-nav').css('display','none');
+    $('.blog-page-nav').css('display','none');
 
-  $('.blog-main').infinitescroll({
-    navSelector  : ".blog-page-nav",
-    nextSelector : ".blog-page-nav .older",
-    itemSelector : ".blog-main .blog-post-teaser",
-  });
-
-});
+    $('.blog-main').infinitescroll({
+        navSelector  : ".blog-page-nav",
+        nextSelector : ".blog-page-nav .older",
+        itemSelector : ".blog-main .blog-post-teaser",
+        });
+    });
 </script>

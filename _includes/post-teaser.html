@@ -1,6 +1,6 @@
 <div class="event-wrapper fond__white clearfix blog-post-teaser">
     <div class="post-header clearfix">
-        <h2 class="post-title" ><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <h3 class="post-title" ><a href="{{ post.url }}">{{ post.title }}</a></h3>
     </div>
     <div class="post-meta">
         <span class="blog-author-and-date"> von {{ post.author }} am {{ post.date | date: "%d.%m.%y" }}</span><br>
@@ -12,7 +12,7 @@
     </div>  
 
     {% if post.images %}
-        <a href="{{ post.url }}"><img src="/assets/blog/{{ post.images[0].imgname }}" alt="{{ post.images[0].alt }}" class="img-responsive"></a>
+        <a href="{{ post.url }}"><img src="/assets/blog/{{ post.images[0].imgname }}" width="300" alt="{{ post.images[0].alt }}" class="img-responsive"></a>
         {% if post.images[0].sub %}<span class="post-img-caption">
             {{ post.images[0].sub }}</span>
         {% endif %}

@@ -138,6 +138,18 @@ $purple: #4C00C8;
   }
 }
 
+
+.text__pink {
+  color: #FF0059;
+  text-decoration: underline;
+
+  a:hover, a:visited, a:focus {
+    color: $white;
+    text-decoration: underline;
+  }
+}
+
+
 .text__blue {
   color: $blue;
   a, a:hover, a:visited, a:focus {
@@ -193,6 +205,13 @@ $purple: #4C00C8;
 
 .text__white {
   color: $white;
+  a:hover {
+      color: #1000FF;
+  }
+}
+
+.text__blue-bright {
+  color: #B7AFFF;
 }
 
 
@@ -1285,17 +1304,7 @@ a.fa:hover {
   color: white;
 }
 
-.parallax {
-  /* The image used */
-  background-image: url("/static/img/illustration_vorab_dl.png");
-  /* Set a specific height */
-  min-height: 550px;
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center 8em;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
+
 
 .slick-prev:before, .slick-next:before {
   color: black
@@ -1311,4 +1320,16 @@ footer img {
 
 .logo-bmfsfj {
   width: 35em;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("/static/img/illustration_vorab_dl.png");
+  /* Set a specific height */
+  height: 300px;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center 8em;
+  background-repeat: no-repeat;
+  background-size: contain;
 }

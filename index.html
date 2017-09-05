@@ -69,7 +69,7 @@ title: Hello
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 title">
 
-            {% for post in site.posts limit:3 %}
+            {% for post in site.posts limit:1 %}
             {% assign url=post.url |replace_first:'/','' %}
             {% include post-teaser.html post=post %}
             {% endfor %}

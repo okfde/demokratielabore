@@ -2,14 +2,15 @@
     <div class="post-header clearfix">
         <h3 class="post-title" ><a href="{{ post.url }}">{{ post.title }}</a></h3>
     </div>
+
     <div class="post-meta">
         <span class="blog-author-and-date"> von {{ post.author }} am {{ post.date | date: "%d.%m.%y" }}</span><br>
 
         {% unless post.tags == empty %}
             <span class="blog-tags"> in: {% for tag in post.tags %} <a href="/blog/{{ tag | replace:' ','-' | downcase }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %} {% endfor %}</span>
         {% endunless %}
+    </div> 
 
-    </div>  
 
     {% if post.images %}
         <a href="{{ post.url }}"><img src="/assets/blog/{{ post.images[0].imgname }}" width="300" alt="{{ post.images[0].alt }}" class="img-responsive"></a>
@@ -24,4 +25,7 @@
                 <font color="#C0C0C0"><a class="btn btn-blog" href="{{ post.url }}">Mehr</a></font>
         </p>
     </div>
-</div>
+    <br><br>
+</div> 
+
+

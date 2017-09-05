@@ -71,7 +71,7 @@ title: Hello
 
             {% for post in site.posts limit:3 %}
             {% assign url=post.url |replace_first:'/','' %}
-                {% include post-teaser.html post=post %}
+            {% include post-teaser.html post=post %}
             {% endfor %}
             </div>
         </div>

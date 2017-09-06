@@ -30,11 +30,11 @@ Um das zu schaffen, haben wir verschiedene [Angebote](https://demokratielabore.d
 
 **WebTV-Channel**: Wir wollen in einem WebTV-Format wöchentlich gemeinsam mit verschiedenen Partnern, z.B. aus der netzpolitischen Szene, und interessierten Jugendlichen in einem eigenen YouTube-Kanal Sendungen zu digitalen, technologischen und gesellschaftlichen Themen produzieren. 
 
-**Bedarfsanalyse & Workshop für überregionale Bildungsinitiativen**: Überregionalen Bildungsverbänden und Initiativen bieten wir die Möglichkeit, auf eine Reise durch die Welt der Daten zu gehen: Bei unserem Workshop lernen Mitarbeiter*innen Tipps, Tricks und Tools für ihre digitalen Projekte kennen. Unsere Bedarfsanalyse zum Thema Daten und Digitalisierung untersucht, welche digitalen Arbeitsweisen sich im Bildungsbereich etablieren und welche Herausforderungen noch gemeistert werden müssen. 
+**Bedarfsanalyse & Workshop für überregionale Bildungsinitiativen**: Überregionalen Jugendverbänden und Initiativen bieten wir die Möglichkeit, auf eine Reise durch die Welt der Daten zu gehen: Bei unserem Workshop lernen Mitarbeiter*innen Tipps, Tricks und Tools für ihre digitalen Projekte kennen. Unsere Bedarfsanalyse zum Thema Daten und Digitalisierung untersucht, welche digitalen Arbeitsweisen sich im Bildungsbereich etablieren und welche Herausforderungen noch gemeistert werden müssen. 
 <br />		 
 <br />	
 
 # Werdet Teil der Demokratielabore & macht mit!
 
-Wir wollen mit Jugendlichen, Jugendeinrichtungen & Bildungsverbänden in ganz Deutschland zusammenarbeiten -  egal ob in der Stadt oder auf dem Land, im Problembezirk oder Vorzeigeviertel, Couchpotato oder Actionheld/in: **Jede/r ist bei uns willkommen!**  
+Wir wollen mit Jugendlichen, Jugendeinrichtungen & Jugendverbänden in ganz Deutschland zusammenarbeiten -  egal ob in der Stadt oder auf dem Land, im Problembezirk oder Vorzeigeviertel, Couchpotato oder Actionheld/in: **Jede/r ist bei uns willkommen!**  
 Schreibt uns dazu am besten einfach eine Mail an *info@demokratielabore.de*, wir melden uns bei euch so schnell es geht und planen gemeinsam das weitere Vorgehen. Wir freuen uns auf euch! :)

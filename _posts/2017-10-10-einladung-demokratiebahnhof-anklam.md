@@ -20,8 +20,7 @@ Alle Infos zum Programm in Anklam könnt ihr hier nachlesen:
 [Programmflyer_Demokratiebahnhof][1]
 
 [1]:{{ site.url }}/assets/blog/Demokratielabore_Flyer_Anklam_04.pdf
- 
-[Programmflyer_Demokratiebahnhof](assets/blog/Demokratielabore_Flyer_Anklam_04.pdf) <br>
+  <br>
 Allgemeine Infos zu den Workshops gibt’s [hier](https://demokratielabore.de/angebote). 
 
 ## Kurz gefasst

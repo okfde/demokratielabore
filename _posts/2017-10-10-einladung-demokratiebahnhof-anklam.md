@@ -17,9 +17,10 @@ Klar ist schon jetzt: Es wird bunt! Ihr könnt z.B. in die Rolle einer Fake News
 Teilnehmen kann jede/r zwischen 12 und 21 Jahren, natürlich kostenlos! **Interesse? [Dann meldet euch gleich an](http://tiny.cc/DLabsAnklam)** und vergesst nicht, euren Freund/innen und Freundesfreund/innen Bescheid zu sagen! ;)
 
 Alle Infos zum Programm in Anklam könnt ihr hier nachlesen:
-  <embed>
-       <a href="assets/blog/Demokratielabore_Flyer_Anklam_04.pdf">Programmflyer Demokratiebahnhof</a>
-    </embed>
+[Programmflyer_Demokratiebahnhof][1]
+
+[1]:{{ site.url }}/assets/blog/Demokratielabore_Flyer_Anklam_04.pdf
+ 
 [Programmflyer_Demokratiebahnhof](assets/blog/Demokratielabore_Flyer_Anklam_04.pdf) <br>
 Allgemeine Infos zu den Workshops gibt’s [hier](https://demokratielabore.de/angebote). 
 

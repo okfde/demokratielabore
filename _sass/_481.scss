@@ -88,7 +88,8 @@
 
 .post-title {
   float: left;
-  width: 60%;
+  width: 80%;
+  font-size: 24px;
 }
 
 .post-meta {
@@ -281,18 +282,6 @@ p {
 }
 
 
-.parallax {
-  /* The image used */
-  background-image: url("/static/img/illustration_vorab_dl.png");
-  /* Set a specific height */
-  height: 320px;
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center 8em;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
 .title {
   p{
     font-size: 17px;
@@ -305,4 +294,9 @@ p {
   p {
     font-size: 15px;
   }
+}
+
+.jumbotron {
+  padding-left: 15px;
+  padding-right: 15px;
 }

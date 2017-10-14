@@ -4,7 +4,7 @@ sponsor: yes
 title: Hello
 ---
 
-<div class="parallax"></div>
+<div class="parallax first"></div>
 </div>
 <!--
 <div class="hero-container fond_green_gradient margin-top-huge">
@@ -56,8 +56,6 @@ title: Hello
         <!--</div>-->
     <!--</div>-->
 <!--</div>-->
-<div class="parallax"></div>
-</div>
 
 <div class="beneath-sections jumbotron fond__white">
     <div class="container text__black">
@@ -68,7 +66,7 @@ title: Hello
         </div>
         <br>
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 title">
+            <div class="col-lg-8 col-lg-offset-2">
 
             {% for post in site.posts limit:1 %}
             {% assign url=post.url |replace_first:'/','' %}
@@ -108,8 +106,3 @@ title: Hello
         </div>
     </div>
 </div>
-
-<div class="parallax">
-</div>
-
-

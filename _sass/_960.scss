@@ -83,18 +83,6 @@
   }
 }
 
-.parallax {
-  /* The image used */
-  background-image: url("/static/img/illustration_vorab_dl.png");
-  /* Set a specific height */
-  height: 400px;
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center 8em;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
 .footer
 {
   p {
@@ -106,5 +94,11 @@
   p{
     font-size: 20px;
 
+  }
+}
+
+.intro {
+  img {
+    display: block
   }
 }

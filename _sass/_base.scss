@@ -8,7 +8,7 @@ $grey-bright: #F2F2F2;
 $grey-mid: #E7E7E7;
 $grey-dark: #999999;
 $black: #000000;
-$white: #ffffff;
+$white: #FFFFFF;
 $dark-red: #C53C3C;
 $orange: #FFB61B;
 $purple: #4C00C8;
@@ -292,8 +292,8 @@ h1, .h1, .jumbotron h1, h2, .h2, h3, .h3 {
   font-size: 25px
 }
 
-h2 .h2 {
-  font-size: 23px;
+h2, .h2 {
+  font-size: 28px;
 }
 
 h3, .h3 {
@@ -416,6 +416,12 @@ label {
   @extend .fond__grey-bright;
   @extend .text__black;
   @include inline-background($grey-bright);
+
+  &:hover {
+    background-color: #A5FFF8;
+    @include inline-background(#A5FFF8);
+    text-decoration: none;
+  }
 }
 
 .form-control, .btn {
@@ -454,7 +460,7 @@ label {
 =  Elements & Modifiers          =
 ================================*/
 .jumbotron {
-  padding: 15px;
+  padding: 15px 0;
 }
 
 .btn {
@@ -857,6 +863,7 @@ $keep: 44 + 2 * 15px;
 
 .post-title {
   margin-top: 0;
+  font-weight: 700;
 }
 
 .post-meta {
@@ -1322,23 +1329,13 @@ footer img {
   width: 35em;
 }
 
-.parallax {
-  /* The image used */
-  background-image: url("/static/img/illustration_vorab_dl.png");
-  /* Set a specific height */
-  height: 300px;
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center 8em;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-
 .intro {
+  img {
+    display: none;
+  }
 
   h2{
     text-transform: none;
-    margin: 70px 0 0 0;
+    margin: 45px 0 0 0;
   }
 }

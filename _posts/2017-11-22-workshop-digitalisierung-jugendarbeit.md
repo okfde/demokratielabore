@@ -17,6 +17,6 @@ Im nächsten Schritt setzten wir uns noch stärker mit den persönlichen Erfahru
 
 In einer abschließenden Übung ging es noch einmal verstärkt um die Bedarfe der Organisationen, denen wir uns mit Hilfe von drei verschiedenen Personas (digital native, digital inspiriert und digital eher skeptisch) annähern wollten. Gemeinsam überlegten wir, welche Wünsche, Bedürfnisse und Interessen diese Personen haben könnten, um ihre Ziele besser zu erreichen, was ihren Alltag erleichtert und welche Fähigkeiten, Angebote oder Tools sie benötigen, um auch in Zukunft gute Jugendarbeit machen zu können. Spannend war z.B. die Frage, wie Fachkräfte, die bisher eher analog unterwegs waren, durch digitale Tools in ihrer Arbeit unterstützt werden können. Eine Idee: Mit den Jugendlichen eine digitale Schnitzeljagd mit Hilfe von Open Street Maps veranstalten. 
 
-### Wie geht es weiter? 
+**Wie geht es weiter?** 
 
 Die Erkenntnisse, Ideen und Ansätze aus dem Workshop bilden eine gute Grundlage für unsere Bedarfsanalyse, die wir in Form einer Online-Umfrage in den kommenden Tagen starten. Im Anschluss daran wollen wir in einem weiteren Workshop noch tiefer in die Datenwelt von gemeinnützigen Organisationen in der Jugendarbeit eintauchen und mit digitalen Tools experimentieren. Interesse? Dann tragt euch in unseren [Verteiler](https://docs.google.com/forms/d/1wyh563KnqF9AZdMZgzDnzFae3kZtMwJu6HQaSssTm6o/edit?edit_requested=true) ein! Mehr Infos folgen bald.

@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <!--[if lt IE 7]>
-<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="de"> <![endif]-->
 <!--[if IE 7]>
-<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<html class="no-js lt-ie9 lt-ie8" lang="de" > <![endif]-->
 <!--[if IE 8]>
-<html class="no-js lt-ie9"> <![endif]-->
+<html class="no-js lt-ie9" lang="de" > <![endif]-->
 <!--[if gt IE 8]><!-->
-<html class="no-js"> <!--<![endif]-->
+<html class="no-js" lang="de" > <!--<![endif]-->
 
 <head>
 	<meta charset="utf-8">
@@ -20,20 +20,14 @@
 	</title>
 
 	<meta name="description" content="{{ page.excerpt | strip_html }}">
-	<meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
 
 	{% include head-social-og.html %}
 	<link rel="stylesheet" href="/static/fonts/overpass/overpass.css">
-
-
 	<link rel="stylesheet" href="/static/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/static/css/animate.css">
 	<link rel="stylesheet" href="/static/css/main.css?v=1.4">
 	<link rel="icon" href="/static/img/favicon.ico" type="image/x-icon" />
-
-	<script src="/static/js/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-	<script src="/static/js/jquery-1.11.2.min.js"></script>
-	<script src="/static/js/bootstrap.min.js"></script>
 
 
 </head>
@@ -47,17 +41,28 @@
 
 <div class="body-wrap">
 	<div class="page-wrap">
-		<div class="nav-wrap">{% include navigation.html %}</div>
-		<div class="navbar">
-			<div class="logo">
-				<a class="" href="/">
-					<img class="img-responsive" src="/static/img/logo_bold.svg" width="120" alt="Demokratielabore">
-				</a>
-			</div>
-		</div>
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="mobile-menu-toggle"><span></span></div>
+                <div class="nav-wrap gone">{% include navigation.html %}</div>
+                <div class="navbar">
+                    <a class="" href="/">
+                        <div class="logo">
+                            <img class="img-responsive" src="/static/img/logo_bold.svg" width="120" alt="Demokratielabore">
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="hero-wrap">
+            </div>
+            <div class="content-wrap col-xs-12">
+                {{ content }}
+            </div>
+        </div>
 	</div>
 
-	{{ content }}
 </div>
 
 
@@ -79,7 +84,7 @@
 		</div>
 	</div>
 	<div class="jumbotron fond__white partner">
-		<div class="container">
+		<div class="container partner-container">
 			<div class="row">
 				<div class="col-xs-12">
 					<h3>Ein Projekt von</h3>
@@ -107,13 +112,27 @@
         <div class="container">
             <div class="row text-uppercase">
                 <div class="col-lg-12">
-                    <a href="/impressum">Impressum</a> |  
+                    <a href="/impressum">Impressum</a>
                     <a href="/presse">Presse</a>
                 </div>
             </div>
         </div>
     </div>
 </footer>
+
+    <script src="/static/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    <script src="/static/js/vendor/jquery-1.11.2.min.js"></script>
+    <script src="/static/js/vendor/bootstrap.min.js"></script>
+    <script src="/static/js/vendor/logger.min.js"></script>
+    <script src="/static/js/main.js"></script>
+
+    <script>
+        jQuery(document).ready(function($) {
+            window.controller = new Controller($);
+            window.controller.init();
+        });
+    </script>
+
 {% include piwik.html %}
 </body>
 

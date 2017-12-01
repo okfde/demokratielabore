@@ -1,34 +1,3 @@
-.mobile-menu-toggle {
-  display: none;
-}
-
-.nav-meta {
-  text-align: right;
-}
-
-
-.nav-wrap {
-  top: 40px;
-  right: 10px;
-  z-index: 1001;
-  width: auto;
-  height: auto;
-  padding: 0;
-}
-
-.page-wrap {
-  -webkit-transform: translateX(0);
-          transform: translateX(0);
-  transition: -webkit-transform 0.3s ease-in-out;
-  transition: transform 0.3s ease-in-out;
-  transition: transform 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
-}
-
-.mobile-menu-open .page-wrap {
-  -webkit-transform: translateX(calc(-100% + #{$keep}));
-          transform: translateX(calc(-100% + #{$keep}));
-}
-
 
 .main-nav-wrapper {
 
@@ -43,10 +12,6 @@
 
 }
 
-
-.nav-pills>li {
-  float: right;
-}
 #animation-wrapper {
   background: transparent;
 }

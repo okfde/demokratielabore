@@ -4,7 +4,7 @@ $button-height: 40px;                   // The height of the button area
 $bar-thickness: 5px;                    // The thickness of the button bars
 $button-pad: 8px;                      // The left/right padding between button area and bars.
 $button-bar-space: 5px;                // The spacing between button bars
-$button-transistion-duration: 0.3s;     // The transition duration
+$button-transistion-duration: 0s;     // The transition duration
 $bar-color: $white; 
 $bckg-color: $red;
 
@@ -18,6 +18,7 @@ $bckg-color: $red;
   height: $button-height;
   font-size: 0;
   text-indent: -9999px;
+  z-index: 10000;
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;

@@ -2,8 +2,7 @@
   /* The image used */
   background-image: url("/static/img/illustration_vorab_dl.png");
   /* Set a specific height */
-  height: 280px;
-  margin-top: 120px;
+  height: 75vh;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center 8em;
@@ -13,38 +12,8 @@
 
 @media screen and (min-width: 360px) {
     .parallax {
-        height: 305px;
+        height: 65vh;
     }    
-}
-
-@media screen and (min-width: 400px) {
-    .parallax {
-        height: 340px;
-    }    
-}
-
-@media screen and (min-width: 460px) {
-    .parallax {
-        height: 380px;
-    }    
-}
-
-@media screen and (min-width: 520px) {
-    .parallax {
-        height: 430px;
-    }
-}
-
-@media screen and (min-width: 600px) {
-    .parallax {
-        height: 480px;
-    }
-}
-
-@media screen and (min-width: 670px) {
-    .parallax {
-        height: 660px;
-    }
 }
 
 @media screen and (min-width: 768px) {
@@ -52,4 +21,35 @@
       height: 480px;
       background-size: 55%;
     }
+}
+
+@media screen and (min-width: 1024px) {
+  .parallax {
+    height: 75vh;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .parallax {
+    height: 85vh;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .parallax {
+    height: 90vh;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .parallax {
+    background-size: 45%;
+    height: 80vh;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .parallax {
+    height: 85vh;
+  }
 }

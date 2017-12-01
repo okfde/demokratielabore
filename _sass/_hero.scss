@@ -1,0 +1,180 @@
+.hero-wrap {
+  height: 320px;
+  position: relative;
+  background: url("/static/img/illustration_vorab_dl.png") no-repeat center;;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-position-y: 160px;
+}
+
+@media screen and (min-width: 375px) {
+  .hero-wrap {
+    height: 360px;
+
+  }
+}
+
+@media screen and (min-width: 440px) {
+  .hero-wrap {
+    height: 390px;
+  }
+}
+
+@media screen and (min-width: 500px) {
+  .hero-wrap {
+    height: 420px;
+  }
+}
+
+@media screen and (min-width: 550px) {
+  .hero-wrap {
+    height: 460px;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .hero-wrap {
+    height: 490px;
+  }
+}
+
+@media screen and (min-width: 650px) {
+  .hero-wrap {
+    height: 530px;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  .hero-wrap {
+    height: 450px;
+    background-size: 80%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .hero-wrap {
+    background-size: 70%;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .hero-wrap {
+    height: 480px;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .hero-wrap {
+    height: 510px;
+  }
+}
+
+@media screen and (min-width: 950px) {
+  .hero-wrap {
+    height: 530px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .hero-wrap {
+    background-size: 65%;
+  }
+}
+
+@media screen and (min-width: 1100px) {
+  .hero-wrap {
+    background-size: 58%;
+    height: 500px;
+  }
+}
+
+@media screen and (min-width: 1150px) {
+  .hero-wrap {
+    height: 520px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .hero-wrap {
+    background-size: 55%;
+    height: 530px;
+  }
+}
+
+@media screen and (min-width: 1300px) {
+  .hero-wrap {
+    height: 570px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .hero-wrap {
+    background-size: 50%;
+    height: 560px;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  .hero-wrap {
+    height: 590px;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .hero-wrap {
+    height: 630px;
+  }
+}
+
+@media screen and (min-width: 1700px) {
+  .hero-wrap {
+    height: 660px;
+  }
+}
+
+@media screen and (min-width: 1800px) {
+  .hero-wrap {
+    height: 630px;
+    background-size: 45%;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .hero-wrap {
+    height: 670px;
+  }
+}
+
+@media screen and (min-width: 2000px) {
+  .hero-wrap {
+    height: 640px;
+    background-size: 40%;
+  }
+}
+
+@media screen and (min-width: 2100px) {
+  .hero-wrap {
+    height: 660px;
+  }
+}
+
+@media screen and (min-width: 2200px) {
+  .hero-wrap {
+    height: 680px;
+  }
+}
+
+@media screen and (min-width: 2300px) {
+  .hero-wrap {
+    height: 700px;
+  }
+}
+
+@media screen and (min-width: 2400px) {
+  .hero-wrap {
+    background-size: 38%;
+  }
+}
+
+
+

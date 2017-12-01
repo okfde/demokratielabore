@@ -3,10 +3,15 @@
 ---
 
 
+@import "../_sass/helpers";
+@import "../_sass/mixins";
 @import "../_sass/base";
-//@import "mobilemenubutton";
+@import "../_sass/hero";
+@import "../_sass/mobilemenubutton";
 
-@import "../_sass/parallax";
+@media screen and (min-width: 375px) {
+  @import "../_sass/375";
+}
 
 @media screen and (min-width: 481px) {
 	@import "../_sass/481";
@@ -19,6 +24,10 @@
 
 @media screen and (min-width: 960px) {
 	@import "../_sass/960";
+}
+
+@media screen and (min-width: 1024px) {
+  @import "../_sass/1024";
 }
 
 @media screen and (min-width: 1200px) {

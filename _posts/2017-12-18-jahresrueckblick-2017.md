@@ -15,7 +15,7 @@ In nur wenigen Wochen haben wir fünf Workshops für Jugendliche zwischen 12 und
 
 [Teilnehmende an Demokratielabore-Workshops 2017][1]
 
-[1]:{{ site.url }}/assets/blog/teilnehmende-workshops.png
+[1]/assets/blog/teilnehmende-workshops.png
 
 ### Unsere Pläne für 2018 - so geht es weiter mit den Demokratielaboren
 

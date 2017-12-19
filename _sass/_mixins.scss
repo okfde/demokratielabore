@@ -73,4 +73,11 @@ probably best not to use it. I mean, were you going to anyway? */
 	box-sizing:         $type;
 }
 
+@mixin dropshadow(){
+  box-shadow: 0 0 13px 0 rgba(114, 114, 114, 0.5);
+}
+@mixin dropshadow_tile(){
+  box-shadow: 0 0 20px 0 rgba(197, 197, 197, 0.5);
+}
+
 

@@ -1,0 +1,43 @@
+body{
+
+  &::-webkit-scrollbar {
+    width: 6px;
+    background-color: $white;
+  }
+  &::-webkit-scrollbar-thumb {
+    border-radius: 0px;
+    background-color: $blue;
+
+    &:hover{
+      background-color: darken($blue,5%);
+    }
+
+  }
+  &::-webkit-scrollbar-track {
+    border-radius: 0px;
+    background-color: transparent;
+  }
+
+}
+
+.events-panel {
+
+  &::-webkit-scrollbar {
+    width: 6px;
+    background-color: #ccc;
+  }
+  &::-webkit-scrollbar-thumb {
+    border-radius: 0px;
+    background-color: $white;
+
+    &:hover{
+      background-color: darken($white,5%);
+    }
+
+  }
+  &::-webkit-scrollbar-track {
+    border-radius: 0px;
+    background-color: transparent;
+  }
+
+}

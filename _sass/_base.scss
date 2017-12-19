@@ -12,6 +12,7 @@ $white: #FFFFFF;
 $dark-red: #C53C3C;
 $orange: #FFB61B;
 $purple: #4C00C8;
+$dl-mint: #00d4e2;
 
 p{
   -moz-hyphens: auto;
@@ -22,10 +23,10 @@ p{
 }
 
 .fond_blue_gradient {
-  background: -webkit-linear-gradient(-30deg, #00F7D6, #0188FB); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(-30deg, #00F7D6, #0188FB); /* For Opera 11.1 to 12.0*/
-  background: -moz-linear-gradient(-30deg, #00F7D6, #0188FB); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(-30deg, #00F7D6, #0188FB); /* Standard syntax */
+  background: -webkit-linear-gradient(-30deg, $dl-mint, #0188FB); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(-30deg, $dl-mint, #0188FB); /* For Opera 11.1 to 12.0*/
+  background: -moz-linear-gradient(-30deg, $dl-mint, #0188FB); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(-30deg, $dl-mint, #0188FB); /* Standard syntax */
 }
 
 .fond_darkblue_gradient {
@@ -227,6 +228,8 @@ body {
   @extend .fond__grey;
 }
 
+
+
 a:hover {
  text-decoration: none;}
 
@@ -258,6 +261,19 @@ a {
   }
 }
 
+/*********************
+content
+*********************/
+
+.section-headline{
+  font-size: 28px;
+  text-transform: none;
+}
+
+.form-group-newsletter{
+  margin: 0 auto;
+}
+
 /*===============================
 =            Helpers            =
 ===============================*/
@@ -280,7 +296,7 @@ a {
 =            Typography            =
 ==================================*/
 
-$body-font-size: 20px;
+$body-font-size: 16px;
 
 body {
   font-size: $body-font-size;
@@ -296,9 +312,9 @@ div, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-style: normal;
 }
 
-h1, .h1, .jumbotron h1, h2, .h2, h3, .h3 {
+h1, .h1, h2, .h2, h3, .h3 {
   margin: 24px 0;
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 22px
 }
 
@@ -364,10 +380,11 @@ label {
 }
 
 .jumbotron {
-  font-size: $body-font-size;
+
   margin-bottom: 0;
 
   p {
+    font-size: $body-font-size;
     margin: 28px 0;
     line-height: 1.6em;
   }
@@ -486,7 +503,7 @@ label {
 }
 
 .btn-mitmachen {
-  background-color: #00F7D6;
+  background-color: $dl-mint;
   color: $white;
   width: 100%;
 }
@@ -497,19 +514,23 @@ label {
 }
 
 .btn-start {
-  background-color: #00F7D6;
+  background-color: $dl-mint;
   color: $white;
-  margin-top: 40px;
-  padding: 7px 25px;
+  margin-top: 30px;
+  padding: 20px 25px 18px 25px;
   font-size: 18px;
+  line-height: 1;
+  @include transition(background-color .25s ease);
 }
 
 .btn-blog {
-  background-color: #00F7D6;
+  background-color: $dl-mint;
   color: $white;
-  margin-top: 15px;
-  padding: 5px 10px;
+  margin-top: 30px;
+  padding: 20px 25px 18px 25px;
   font-size: 18px;
+  line-height: 1;
+  @include transition(background-color .25s ease);
 }
 
 .btn-start:hover {
@@ -546,21 +567,39 @@ label {
   //z-index: 100;
 }
 
+.members-image-wrap, .members-image-content{
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  display: inline-block;
+}
+
+.post-teaser-read-more{
+
+  color: $dl-mint;
+
+  &:hover{
+    &:after{
+      margin-left: 15px;
+    }
+  }
+
+  &:after{
+
+    @include transition(margin .25s ease);
+
+    content: '\2192';
+    color: $dl-mint;
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+    top: 2px;
+  }
+}
+
 /*============================
 =   Home
 ============================*/
-
-.ptf-teaser {
-
-  .ptf-hidden {
-    visibility: hidden;
-  }
-
-  object {
-    pointer-events: none;
-  }
-
-}
 
 .init-hidden {
   visibility: hidden;
@@ -584,14 +623,7 @@ label {
   position: relative;
 }
 
-.title {
 
-  p {
-    font-size: 20px;
-    line-height: 1.5;
-    padding-bottom: 60px;
-  }
-}
 
 // burger itself + margin around
 $keep: 44 + 2 * 15px;
@@ -614,6 +646,11 @@ $keep: 44 + 2 * 15px;
   .nav-pills > li {
     border: 2px solid transparent;
     display: inline-block;
+    margin-right: 10px;
+
+    &:last-of-type{
+      margin-right: 0;
+    }
 
     a {
       padding: 3px 6px 0 6px;
@@ -686,6 +723,19 @@ $keep: 44 + 2 * 15px;
 
 /* Newsletter Signup */
 
+.newsletter-title {
+  p{
+    font-size: 20px;
+    line-height: 1.5;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+}
+
+#mc_embed_signup{
+  margin-bottom: 30px;
+}
+
 .form-control {
   height: 44px;
   padding: 6px 12px;
@@ -731,21 +781,26 @@ $keep: 44 + 2 * 15px;
     padding: 0;
     list-style-type: none;
 
+    li {
+      padding: 28px 0;
+      a{
+        display: block;
+        img {
+          height: auto;
+          margin-bottom: 50px;
+          width: 100%;
+        }
+      }
+    }
+
   }
 
-  li {
-    padding: 28px 0;
 
-  }
 
-  img {
-    height: auto;
-    margin-bottom: 50px;
-    width: inherit;
-    width: 100%;
 
-  }
 }
+
+
 
 /*-----  End of Home  ------*/
 

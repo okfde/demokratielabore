@@ -1,4 +1,6 @@
-.partner-container{  }
+.partner-container{
+  max-width: 1024px;
+}
 .partner {
 
   ul {
@@ -6,5 +8,16 @@
 
   img {
     width: 70%;
+  }
+}
+
+.section-headline{
+  font-size: 36px;
+}
+
+.jumbotron {
+  padding: 70px;
+  p {
+    font-size: 20px;
   }
 }

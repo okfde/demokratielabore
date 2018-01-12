@@ -35,6 +35,6 @@ Wir werden noch viele Bereiche der Netzpolitik beleuchten – von Algorithmen bi
 
 Folgt am besten unseren Kanälen auf:
 
-[facebook.com/aboutblankvideo/](https://www.facebook.com/aboutblankvideo/) 
-[instagram.com/aboutblankvideo/](https://www.instagram.com/aboutblankvideo/) 
+[facebook.com/aboutblankvideo/](https://www.facebook.com/aboutblankvideo/) <br>
+[instagram.com/aboutblankvideo/](https://www.instagram.com/aboutblankvideo/) <br>
 [youtube.com/channel](https://www.youtube.com/channel/UCLGZBlrotKM_nuPPcvuR9SQ)

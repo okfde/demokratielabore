@@ -9,7 +9,7 @@ published: true
 title: "About:blank - Unser Webvideo-Channel für Jugendliche"
 ---
 
-Wie schütze ich mich gegen Cybermobbing? Und wie kann ich sicher vor Überwachung kommunizieren? Gemeinsam mit [medialepfade.org](http://www.medialepfade.de/) und [Netzpolitik.org](https://netzpolitik.org/) haben wir den Webvideo-Channel **about:blank** ins Leben gerufen, der sich wöchentlich genau mit diesen Fragen auseinandersetzt und sie jugendgerecht aufarbeitet. Mit Daniel Seitz, Geschäftsführer von medialepfade.org, sprachen wir über das Format und warum Netzpolitik auch Jugendliche etwas angeht. 
+Wie kann ich sicher vor Überwachung kommunizieren?  Und wozu brauchen wir eigentlich ein neutrales Netz? Gemeinsam mit [medialepfade.org](http://www.medialepfade.de/) und [Netzpolitik.org](https://netzpolitik.org/) haben wir den Webvideo-Channel **about:blank** ins Leben gerufen, der sich wöchentlich genau mit diesen Fragen auseinandersetzt und sie jugendgerecht aufarbeitet. Mit Daniel Seitz, Geschäftsführer von medialepfade.org, sprachen wir über das Format und warum Netzpolitik auch Jugendliche etwas angeht. 
 
 ## *Demokratielabore*: Was ist die Idee von about:blank und warum habt ihr diesen Namen gewählt?
 

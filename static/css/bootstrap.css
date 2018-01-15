@@ -1067,7 +1067,7 @@ pre code {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1024px) {
   .container {
     max-width: 970px;
   }
@@ -1230,9 +1230,9 @@ pre code {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .container {
-    max-width: 1170px;
+    max-width: 1400px;
   }
   .col-lg-1,
   .col-lg-2,

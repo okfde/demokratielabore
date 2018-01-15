@@ -13,6 +13,11 @@
 	}
 }
 
+.container{
+  &.wide{
+    max-width: 1600px;
+  }
+}
 
 #animation-wrapper {
 	background: transparent;

@@ -1,5 +1,6 @@
 ---
 layout: post
+hide_hero: true
 author: Sebastian
 date: 2017-12-12
 excerpt: 

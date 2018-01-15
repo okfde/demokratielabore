@@ -17,7 +17,23 @@
 
 .jumbotron {
   padding: 70px;
-  p {
+  p, a {
     font-size: 20px;
+  }
+}
+
+/*==============================
+=            Workshop            =
+==============================*/
+
+.btn-download{
+
+  &:before{
+    width: 52px;
+    height: 42px;
+    top: 10px;
+  }
+  span{
+    padding-left: 25px;
   }
 }

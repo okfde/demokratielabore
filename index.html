@@ -3,47 +3,52 @@ layout: default
 sponsor: yes
 title: Hello
 ---
-
 <div class="beneath-sections jumbotron fond__white">
     <div class="container text__black">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 intro">
-            <img width="250" class="img-center" src="/static/img/logo_bold.svg">
+            <div class="col-lg-10 col-lg-offset-1 section-intro">
                 <h2 class="section-headline">Digital ist besser! </h2>
                 <p>
                    Die Demokratielabore sind ein Modellprojekt der <a class="highlight-grey" href="https://okfn.de">Open Knowledge Foundation Deutschland</a>, das vom <a class="highlight-grey" href="http://www.bmfsfj.de">Bundesministerium f&uuml;r Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="http://www.demokratie-leben.de/">Demokratie leben!</a> gef&ouml;rdert wird. </br>
                    <br> Wir f&uuml;hren verschiedene Workshop- und Aktionsformate mit Jugendlichen im Alter von 12 bis 21 Jahren rund um Digitalisierung, Technologien und gesellschaftliches Miteinander durch. Dazu arbeiten wir sowohl eng mit außerschulischen Jugendeinrichtungen als auch &uuml;berregionalen Jugendverb&auml;nde und Initiativen zusammen – deutschlandweit. </br>
-                   <a href="/projekt"><button  class="btn btn-start">Mehr erfahren!</button> </a> 
-                </p>   
+
+                </p>
+                <div class="btn-wrap">
+                    <a href="/projekt"><button  class="btn btn-start color-1">Mehr erfahren!</button> </a>
+                </div>
             </div>
         </div>
     </div>
 </div>
 
-<!--<div class="beneath-sections jumbotron fond_darkblue_gradient">-->
-    <!--<div class="container text__white">-->
-        <!--<div class="row goals">-->
-            <!--<h2 class="text-center">Wir wollen...</h2>-->
-            <!--<div class="col-lg-4">-->
-                <!--<p>-->
-                    <!--...das Internet für und mit jungen Zielgruppen als positiven Gestaltungsraum zurückerobern.-->
-                <!--</p>-->
-            <!--</div>-->
-            <!--<div class="col-lg-4">-->
-                <!--<p>-->
-                  <!--...digitale F&auml;higkeiten vermitteln, die es Kindern und Jugendlichen erm&ouml;glichen, sich selbstbestimmt und aktiv an demokratischen Prozessen zu beteiligen.-->
-                <!--</p>-->
-            <!--</div>-->
-            <!--<div class="col-lg-4">-->
-               <!--<p>                    -->
-                    <!--...die &ouml;ffentlichen Diskurse in unserer alternden Gesellschaft um die Perspektiven junger-->
-                    <!--Menschen bereichern.-->
-                <!--</p>-->
-            <!--</div>-->
-        <!--</div>-->
-    <!--</div>-->
-<!--</div>-->
-
+<div class="row">
+    <div class="col-xs-12 workshop-background jumbotron">
+        <div class="row">
+            <div class="container">
+                <div class="col-lg-10 col-lg-offset-1 section-workshop">
+                        <h2 class="section-headline">Workshops, Workshops, Workshops</h2>
+                        <p>
+                            Jugendliche können sich in unseren Workshops in Nachrichtenredaktionen verwandeln, lernen wie man den öffentlichen Raum positiv einnimmt oder Cybertrolle mit Argumenten zu besiegt.
+                        </p>
+                </div>
+            </div>
+            <div class="col-xs-12">
+                <div class="post-teaser-wrap">
+                    {% assign workshops = site.workshops | where:"featured",true %}
+                    {% for workshop in workshops limit:3 %}
+                    {% assign post = workshop %}
+                    <div class="col-xs-12 col-md-4 post-teaser">
+                        {% include workshop-teaser-tile.html post=post %}
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="btn-wrap">
+            <a href="/workshops"><button  class="btn btn-start color-2">Zur Workshopübersicht</button> </a>
+        </div>
+    </div>
+</div>
 <div class="beneath-sections jumbotron fond__white">
     <div class="text__black">
         <div class="row">
@@ -57,9 +62,14 @@ title: Hello
                 <div class="row">
                     {% for post in site.posts limit:2 %}
                     {% assign url=post.url |replace_first:'/','' %}
-                    {% include post-teaser-tile.html post=post %}
+                    <div class="col-xs-12 col-md-6 post-teaser">
+                        {% include post-teaser-tile.html post=post %}
+                    </div>
                     {% endfor %}
                 </div>
+            </div>
+            <div class="btn-wrap">
+                <a href="/blog"><button  class="btn btn-start color-2">Alle Blogbeiträge ansehen</button> </a>
             </div>
         </div>
     </div>

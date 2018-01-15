@@ -1,5 +1,6 @@
 ---
 layout: post
+hide_hero: true
 author: Mat, Jasmin
 date: 2017-11-14
 excerpt: 

@@ -1,5 +1,6 @@
 ---
 layout: post
+hide_hero: true
 author: Mat
 date: 2017-12-14
 excerpt: 

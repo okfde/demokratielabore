@@ -4,45 +4,64 @@
   padding: 0;
   max-width: 1200px;
   margin: 0 auto;
+  color: black;
 
-  .post-teaser{
-    .post-teaser-inner{
-      margin: 20px;
-      @include dropshadow_tile();
+}
 
-      .post-teaser-image{
-        height: 250px;
-        background-size: cover;
-        background-position: center;
+.post-teaser{
+  .post-teaser-inner{
+    margin: 20px;
+    @include dropshadow_tile();
+    background-color: white;
+    display: block;
+
+    .post-teaser-image{
+      height: 250px;
+      background-size: cover;
+      background-position: center;
+    }
+    .post-teaser-image-caption{
+    }
+    .post-teaser-content{
+      padding: 20px;
+      text-align: left;
+
+      .post-teaser-title{
+        text-transform: none;
+        margin: 10px 0;
+        font-size: 24px;
       }
-      .post-teaser-image-caption{
-      }
-      .post-teaser-content{
-        padding: 20px;
-        .post-teaser-title{
-          text-transform: none;
-        }
-        .post-teaser-meta{
+      .post-teaser-meta{
 
-        }
-        .post-teaser-description{
-          color: #4a5b6b;
-          a{
-            color: $dl-mint;
+      }
+      .post-teaser-description{
+        color: #4a5b6b;
+
+        &.workshop{
+          color: black;
+          p{
+            font-size: 16px;
+            margin: 20px 0;
           }
 
         }
+
+        a{
+          color: $dl-mint;
+        }
+
       }
     }
   }
 }
 
 @media screen and (min-width: 768px) {
-  .post-teaser-wrap {
-    .post-teaser {
-      .post-teaser-inner {
-        .post-teaser-content {
-          padding: 40px;
+  .post-teaser {
+    .post-teaser-inner {
+      .post-teaser-content {
+        padding: 40px;
+        &.workshop{
+          padding: 20px;
         }
       }
     }
@@ -50,9 +69,7 @@
 }
 
 @media screen and (min-width: 1024px) {
-  .post-teaser-wrap {
-    .post-teaser {
-      padding: 0;
-    }
+  .post-teaser {
+    padding: 0;
   }
 }

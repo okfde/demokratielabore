@@ -13,6 +13,12 @@
   }
 }
 
+.container{
+  &.wide{
+    width: 100%;
+  }
+}
+
 
 .format__point_one{
   width: 52%;

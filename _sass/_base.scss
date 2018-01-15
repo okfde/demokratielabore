@@ -14,6 +14,10 @@ $orange: #FFB61B;
 $purple: #4C00C8;
 $dl-mint: #00d4e2;
 
+$button-color-1: #00ffbf;
+$button-color-2: #00d4e2;
+$button-color-3: #f21c5e;
+
 p{
   -moz-hyphens: auto;
   -o-hyphens: auto;
@@ -272,6 +276,14 @@ a {
 content
 *********************/
 
+.isotope-wrap{
+  display: block;
+  width: 100%;
+  .isotope-item{
+    padding: 0;
+  }
+}
+
 .section-headline{
   font-size: 28px;
   text-transform: none;
@@ -331,6 +343,7 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: 21px;
+  font-weight: bold;
 }
 
 h4, .h4 {
@@ -395,6 +408,9 @@ label {
     margin: 28px 0;
     line-height: 1.6em;
   }
+  a{
+    font-size: $body-font-size;
+  }
 }
 
 .highlight {
@@ -452,7 +468,7 @@ label {
   @include inline-background($grey-bright);
 
   &:hover {
-    background-color: #A5FFF8;
+    background-color: $button-color-1;
     @include inline-background(#A5FFF8);
     text-decoration: none;
   }
@@ -524,6 +540,10 @@ label {
   color: $white;
 }
 
+.btn-wrap{
+  width: 100%;
+  text-align: center;
+}
 .btn-start {
   background-color: $dl-mint;
   color: $white;
@@ -532,6 +552,28 @@ label {
   font-size: 18px;
   line-height: 1;
   @include transition(background-color .25s ease);
+
+  &.color-1{
+    background-color: $button-color-1;
+    &:hover{
+      background-color: darken($button-color-1,10%);
+    }
+  }
+
+  &.color-2{
+    background-color: $button-color-2;
+    &:hover{
+      background-color: darken($button-color-2,10%);
+    }
+  }
+
+  &.color-3{
+    background-color: $button-color-3;
+    &:hover{
+      background-color: darken($button-color-3,10%);
+    }
+  }
+
 }
 
 .btn-blog {
@@ -1031,6 +1073,31 @@ $keep: 44 + 2 * 15px;
 
 }
 
+/*==============================
+=            Workshop            =
+==============================*/
+
+.btn-download{
+  display: block;
+  &:before{
+    content:'';
+    background-image: url('/static/img/folder.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    display: inline-block;
+    width: 35px;
+    height: 28px;
+    top: 7px;
+  }
+  span{
+    padding-left: 15px;
+  }
+  &:hover, &:active{
+    text-decoration: none;
+  }
+}
+
 /*-----  End of Presse  ------*/
 
 // IE responsive SVG fix
@@ -1093,6 +1160,9 @@ $keep: 44 + 2 * 15px;
   }
 }
 
+.section-intro, .section-workshop{
+  text-align: center;
+}
 .introtext {
   font-size: 20px;
 }
@@ -1106,6 +1176,29 @@ $keep: 44 + 2 * 15px;
   height: 100vh;
   background-color: #fff;
   padding: 0;
+}
+
+.workshop-background{
+  padding: 70px;
+  background: #0089f9; /* Ol browsers */
+  background: -moz-linear-gradient(left, #0089f9 0%, #00e1dd 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, #0089f9 0%,#00e1dd 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, #0089f9 0%,#00e1dd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0089f9', endColorstr='#00e1dd',GradientType=1 ); /* IE6-9 */
+  color:white;
+}
+.vs-background-wrap{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.vs-background{
+  padding: 35px;
+  background: #5e00bd; /* Old browsers */
+  background: -moz-linear-gradient(left, #5e00bd 0%, #db007a 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, #5e00bd 0%,#db007a 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, #5e00bd 0%,#db007a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5e00bd', endColorstr='#db007a',GradientType=1 ); /* IE6-9 */
+  color:white;
 }
 
 .main-nav-wrapper {

@@ -25,3 +25,9 @@ paginate_path: "blog/:num"
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+
+# Collections
+collections:
+    workshops:
+        output: true
+        permalink: /workshop/:path/

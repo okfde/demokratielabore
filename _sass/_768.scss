@@ -88,6 +88,12 @@
   }
 }
 
+.container{
+  &.wide{
+    width: 100%;
+  }
+}
+
 .partner-container{
   width: 100%;
 }

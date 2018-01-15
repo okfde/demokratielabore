@@ -1,5 +1,6 @@
 ---
 layout: post
+hide_hero: true
 title: "Launch: Die Demokratielabore stellen sich vor!"
 author: Jasmin
 date: 2017-08-24

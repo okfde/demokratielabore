@@ -11,7 +11,7 @@
 
     };
 
-    var ref, $, $mobileMenueToggle, $nav;
+    var ref, $, $mobileMenueToggle, $nav, isotopeController;
     function Controller(jQuery){
 
         $ = jQuery;
@@ -36,6 +36,16 @@
             ref.toggleMenu();
             e.preventDefault();
         });
+
+        //isotope
+        if($('.isotope-wrap').length > 0){
+            //isotope
+            isotopeController = new IsotopeController(this);
+            var options = {
+                multiple: true //if set to TRUE you can filter by multiple items
+            };
+            isotopeController.init(options);
+        }
 
         /*********************
          scroll to #id
@@ -106,7 +116,7 @@
      resize event handler
      *********************/
     Controller.prototype.resize = function(){
-
+        if(isotopeController) isotopeController.resize();
     };
 
     /*********************

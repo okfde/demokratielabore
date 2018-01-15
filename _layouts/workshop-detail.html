@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="de"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="de" > <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="de" > <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="de" > <!--<![endif]-->
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+		{% if page.title %}
+		{{ page.title }} | {{ site.title }}
+		{% else %}
+		{{ site.title }} ~ {{ site.description }}
+		{% endif %}
+	</title>
+
+	<meta name="description" content="{{ page.excerpt | strip_html }}">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+	{% include head-social-og.html %}
+	<link rel="stylesheet" href="/static/fonts/overpass/overpass.css">
+	<link rel="stylesheet" href="/static/css/bootstrap.css">
+	<link rel="stylesheet" href="/static/css/animate.css">
+	<link rel="stylesheet" href="/static/css/main.css?v=1.4">
+	<link rel="icon" href="/static/img/favicon.ico" type="image/x-icon" />
+
+
+</head>
+
+
+<body>
+<!--[if lt IE 7]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to
+	improve your experience.</p>
+<![endif]-->
+
+<div class="body-wrap">
+	<div class="page-wrap">
+        {% include header-nav.liquid %}
+        <div class="row">
+            {% if page.hide_hero != true %}
+                <div class="hero-wrap"></div>
+                {% if site.data.events  %}
+                <div class="events-wrap container">
+                    <div class="events-panel">
+                        <div class="events-panel-inner">
+                            <h3 class="events-headline">Kommende Events</h3>
+                            <ul class="events-list">
+                                {% for event in site.data.events %}
+                                {% if event.url %}
+                                <a href="{{event.url}}" target="_blank">
+                                    {% endif %}
+                                    <li class="events-item">
+
+                                        <div class="event-date">
+                                            {{ event.date }}
+                                        </div>
+                                        <div class="event-info">
+                                            {{ event.name }},<br/>{{ event.city }}
+                                        </div>
+                                    </li>
+                                    {% if event.url %}
+                                </a>
+                                {% endif %}
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+            {% endif %}
+            <div class="content-wrap col-xs-12">
+                {{ content }}
+            </div>
+        </div>
+	</div>
+
+</div>
+
+
+<footer>
+	<div class="beneath-sections jumbotron fond_darkblue_gradient">
+		<div class="container text__blue-bright footer">
+        <div class="col-lg-12 text-center">
+				<h2 class="section-headline"> Du hast Fragen? Du erreichst uns</h2>
+				<p>	
+					per Mail: <a class="text__white" href="mailto:info@demokratielabore.de">info@demokratielabore.de</a> <br/>
+					per Telefon: <a class="text__white" href="tel:+4930577036660">+49 (0)30 577 036 660</a><br/>
+					vor Ort: Singerstraße 109, 10179 Berlin<br><br>
+					oder hier: <a class="text__white" href="https://facebook.com/demokratielabs">Facebook</a> 
+					<a class="text__white" href="https://twitter.com/demokratielabs">Twitter</a>
+					<a class="text__white" href="https://instagram.com/demokratielabs">Instagram</a>
+					<br><br>
+				</p>
+			</div>	
+		</div>
+	</div>
+	<div class="jumbotron fond__white partner">
+		<div class="container partner-container">
+			<div class="row">
+				<div class="col-xs-12">
+					<h3>Ein Projekt von</h3>
+				</div>
+				<div class="col-sm-4">
+					<a href="http://www.okfn.de/">
+						<img class="img-responsive logo-okf" src="/static/img/OKFN.png" alt="OKFN Logo"/>
+					</a>
+				</div>
+				<div class="col-sm-4">
+					<a href="http://bmfsfj.de/">
+						<img class="img-responsive logo-bmfsfj" src="/static/img/BMFSFJ.png" alt="BMFSFJ" />
+					</a>
+				</div>
+				<div class="col-sm-4">
+					<a href="https://www.demokratie-leben.de">
+						<img class="img-responsive logo-bmfsfj" src="/static/img/foerderzusatz.png" alt="Demokratie leben" />
+					</a>
+				</div>
+				</div>
+			</div>
+	 	</div>
+	</div>
+	<div class="jumbotron fond__grey meta-links-foot">
+        <div class="container">
+            <div class="row text-uppercase">
+                <div class="col-lg-12">
+                    <a href="/impressum">Impressum</a>
+                    <a href="/presse">Presse</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <script src="/static/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    <script src="/static/js/vendor/jquery-1.11.2.min.js"></script>
+    <script src="/static/js/vendor/imagesloaded.pkgd.min.js"></script>
+    <script src="/static/js/vendor/isotope.pkgd.min.js"></script>
+    <script src="/static/js/vendor/bootstrap.min.js"></script>
+    <script src="/static/js/vendor/logger.min.js"></script>
+    <script src="/static/js/main.js"></script>
+    <script src="/static/js/IsotopeController.js"></script>
+
+    <script>
+        jQuery(document).ready(function($) {
+            window.controller = new Controller($);
+            window.controller.init();
+        });
+    </script>
+
+{% include piwik.html %}
+</body>
+
+</html>

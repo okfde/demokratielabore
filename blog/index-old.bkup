@@ -1,0 +1,20 @@
+---
+layout: blog
+title: Blog
+
+---
+
+<div class="container margin-top-huge"></div>
+{% for post in paginator.posts %}
+{% include post-teaser.html %}
+{% endfor %}
+
+<div class="blog-page-nav clearfix">
+	{% if paginator.previous_page_path %}
+	<a class="newer" href="{{ paginator.previous_page_path }}">Neuere Einträge</a>
+	{% endif %}
+
+	{% if paginator.next_page_path %}
+	<a class="older" href="{{ paginator.next_page_path }}">Ältere Einträge</a>
+	{% endif %}
+</div>

@@ -4,8 +4,8 @@ sponsor: yes
 title: Hello
 ---
 <div class="beneath-sections jumbotron fond__white">
-    <div class="container text__black">
-        <div class="row">
+    <div class="row">
+        <div class="container text__black">
             <div class="col-lg-10 col-lg-offset-1 section-intro">
                 <h2 class="section-headline">Digital ist besser! </h2>
                 <p>
@@ -22,7 +22,7 @@ title: Hello
 </div>
 
 <div class="row">
-    <div class="col-xs-12 workshop-background jumbotron">
+    <div class="jumbotron workshop-background">
         <div class="row">
             <div class="container">
                 <div class="col-lg-10 col-lg-offset-1 section-workshop">
@@ -32,8 +32,8 @@ title: Hello
                         </p>
                 </div>
             </div>
-            <div class="col-xs-12">
-                <div class="post-teaser-wrap">
+            <div class="post-teaser-wrap">
+                <div class="row">
                     {% assign workshops = site.workshops | where:"featured",true %}
                     {% for workshop in workshops limit:3 %}
                     {% assign post = workshop %}
@@ -49,15 +49,15 @@ title: Hello
         </div>
     </div>
 </div>
-<div class="beneath-sections jumbotron fond__white">
-    <div class="text__black">
+
+<div class="row">
+    <div class="jumbotron background-white">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2 class="text-center section-headline">Neues, News und Neuigkeiten</h2>
+            <div class="container">
+                <div class="col-lg-10 col-lg-offset-1 section-workshop">
+                    <h2 class="section-headline">Neues, News und Neuigkeiten</h2>
+                </div>
             </div>
-        </div>
-        <br>
-        <div class="row">
             <div class="post-teaser-wrap">
                 <div class="row">
                     {% for post in site.posts limit:2 %}
@@ -68,9 +68,9 @@ title: Hello
                     {% endfor %}
                 </div>
             </div>
-            <div class="btn-wrap">
-                <a href="/blog"><button  class="btn btn-start color-2">Alle Blogbeiträge ansehen</button> </a>
-            </div>
+        </div>
+        <div class="btn-wrap">
+            <a href="/blog"><button  class="btn btn-start color-2">Alle Blogbeiträge ansehen</button> </a>
         </div>
     </div>
 </div>

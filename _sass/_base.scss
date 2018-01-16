@@ -403,6 +403,10 @@ label {
 
   margin-bottom: 0;
 
+  &.background-white{
+    background-color: white;
+  }
+
   p {
     font-size: $body-font-size;
     margin: 28px 0;
@@ -777,6 +781,8 @@ $keep: 44 + 2 * 15px;
 /* Newsletter Signup */
 
 .newsletter-title {
+  color: white;
+  font-weight: normal;
   p{
     font-size: 20px;
     line-height: 1.5;
@@ -1179,7 +1185,6 @@ $keep: 44 + 2 * 15px;
 }
 
 .workshop-background{
-  padding: 70px;
   background: #0089f9; /* Ol browsers */
   background: -moz-linear-gradient(left, #0089f9 0%, #00e1dd 100%); /* FF3.6-15 */
   background: -webkit-linear-gradient(left, #0089f9 0%,#00e1dd 100%); /* Chrome10-25,Safari5.1-6 */
@@ -1327,6 +1332,102 @@ $keep: 44 + 2 * 15px;
   margin-top: -240px;
   background-image: linear-gradient(148deg, #8CBBE8, #C8FFB5);
   border-radius: 50%;
+}
+
+/*********************
+newsletter
+*********************/
+.newsletter-wrap{
+  padding: 50px 0;
+
+  .field-wrap{
+    text-align: center;
+  }
+
+  form{
+    display: table;
+    width: 100%;
+  }
+
+  input[type="email"],input[type="text"]{
+    width: 100%;
+    border: 0;
+    height: 66px;
+    text-align: left;
+    font-size: 1.75em;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 7px;
+    color: #4a5b6b;
+
+    &:focus{
+      outline: none;
+    }
+
+    &.error{
+      border-color: 3px solid $dark-red;
+    }
+
+  }
+
+  #mc-embedded-subscribe{
+    &.inactive{
+      pointer-events: none;
+      background-color: $grey-dark;
+      border-color: $grey-dark;
+    }
+  }
+
+  .success-message, .mc-status{
+    color: white;
+  }
+
+  .error-message, .success-message, .mc-status{
+    padding: 25px 0;
+    text-align: center;
+    font-size: 1.25em;
+    line-height: 1.2;
+
+    a{
+      font-size: inherit;
+    }
+  }
+  .error-message{
+    color: $dark-red;
+    a{
+      font-size: inherit;
+      color: $dark-red;
+    }
+  }
+
+  .button-wrap{
+    text-align: left;
+  }
+  .button {
+
+    @include transition(all .1s ease);
+
+    background-color: $button-color-1;
+    border: 1px solid $button-color-1;
+    display: inline-block;
+    font-size: 1.75em;
+    line-height: 1;
+    padding: 13px 30px 10px 30px;
+    width: 100%;
+    outline: none;
+    transform: scale(1);
+    height: 66px;
+    color: white;
+
+    &:hover{
+      background-color: darken($button-color-1, 10%);
+      border-color: darken($button-color-1, 10%);
+      text-decoration: none;
+      outline: none;
+    }
+
+  }
+
 }
 
 

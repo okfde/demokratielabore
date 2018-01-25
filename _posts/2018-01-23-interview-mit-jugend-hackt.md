@@ -9,7 +9,7 @@ published: true
 title: "Mit digitalen Tools Gesellschaft gestalten #1 - Interview mit jugend hackt"
 ---
 
-Mit den Demokratielaboren wollen wir Jugendliche dazu ermutigen, sich mit Hilfe von digitalen Kompetenzen und Technologien selbstbestimmt und aktiv an gesellschaftlichen Prozessen zu beteiligen. In Zeiten von Hate Speech, Fake News und Populismus ist es aber oft gar nicht so leicht, das Internet als positiven Raum zur Gestaltung zu nutzen. Wie können Jugendliche mit Hilfe von Technologien selbstwirksam werden und sich gesellschaftlich engagieren? Dazu sprechen wir jeden Monat mit Expert/innen aus digitalen Projekten für und mit jungen Menschen. In unserem ersten Interview: Tanja Zagel, Projektleiterin bei [jugend hackt](https://jugendhackt.org), einem gemeinnützigen Förderprogramm für junge Programmierer/innen. 
+Mit den Demokratielaboren wollen wir Jugendliche dazu ermutigen, sich mit Hilfe von digitalen Kompetenzen und Technologien selbstbestimmt und aktiv an gesellschaftlichen Prozessen zu beteiligen. In Zeiten von Hate Speech, Fake News und Populismus ist es aber oft gar nicht so leicht, das Internet als positiven Raum zur Gestaltung zu nutzen. Wie können Jugendliche mit Hilfe von Technologien selbstwirksam werden und sich beteiligen? Dazu sprechen wir jeden Monat mit Expert/innen aus digitalen Projekten für und mit jungen Menschen. In unserem ersten Interview: Tanja Zagel, Projektleiterin bei [jugend hackt](https://jugendhackt.org), einem gemeinnützigen Förderprogramm für junge Programmierer/innen. 
 
 ## *Demokratielabore*: Was ist die Idee von jugend hackt und an wen richtet sich das Programm?
 

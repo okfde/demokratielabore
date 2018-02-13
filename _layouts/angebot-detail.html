@@ -44,34 +44,6 @@
         <div class="row">
             {% if page.hide_hero != true %}
                 <div class="hero-wrap" style="background-image:url({{ page.img_full }});"></div>
-                {% if site.data.events  %}
-                <div class="events-wrap container">
-                    <div class="events-panel">
-                        <div class="events-panel-inner">
-                            <h3 class="events-headline">Kommende Events</h3>
-                            <ul class="events-list">
-                                {% for event in site.data.events %}
-                                {% if event.url %}
-                                <a href="{{event.url}}" target="_blank">
-                                    {% endif %}
-                                    <li class="events-item">
-
-                                        <div class="event-date">
-                                            {{ event.date }}
-                                        </div>
-                                        <div class="event-info">
-                                            {{ event.name }},<br/>{{ event.city }}
-                                        </div>
-                                    </li>
-                                    {% if event.url %}
-                                </a>
-                                {% endif %}
-                                {% endfor %}
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                {% endif %}
             {% endif %}
         </div>
         <div class="beneath-sections jumbotron fond__white">
@@ -79,43 +51,42 @@
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1 section-intro">
                         <h2 class="section-headline">{{ page.title }}</h2>
-                        <p>{{ page.ws_teaser }}</p>
                     </div>
                 </div>
             </div>
-            {% if page.voraussetzungen.length > 0 %}
-                <div class="row">
-                    <div class="container text__black vs-background-wrap">
-                        <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 vs-background">
-                            {% for vs in page.voraussetzungen %}
-                            <p>{{ vs.text }}</p>
-                            {% endfor %}
-                        </div>
+            <div class="row">
+                <div class="container text__black">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        {{ content }}
                     </div>
                 </div>
-            {% endif %}
-                <div class="row">
-                    <div class="container text__black">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            {{ content }}
-                        </div>
-                    </div>
-                </div>
-            {% if page.downloads.length > 0 %}
-                <div class="row">
-                    <div class="container text__black">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <h3>Downloads</h3>
-                            {% for dwl in page.downloads %}
-                            <a href="{{ dwl.file }}" class="btn-download" target="_blank"><span>{{ dwl.name }}</span></a>
-                            {% endfor %}
-                        </div>
-                    </div>
-                </div>
-            {% endif %}
+            </div>
         </div>
-	</div>
-
+        <div class="col-xs-12 fond_darkblue_gradient jumbotron">
+            <div class="row">
+                <div class="container">
+                    <div class="col-lg-10 col-lg-offset-1 section-workshop text__white">
+                        <h2 class="section-headline">Weitere Angebote</h2>
+                        <p>
+                            Damit unsere Workshopangebote keine einmalige Sache bleiben, wollen wir unser Wissen auf allen Ebenen weitergeben.
+                        </p>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="isotope-wrap">
+                        <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+                        {% assign sortedAngebote = site.angebote | sort: 'title' %}
+                        {% for angebot in sortedAngebote %}
+                            {% assign post = angebot %}
+                            <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+                                {% include angebote-teaser-tile.html post=post %}
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+    	</div>
+    </div>
 </div>
 
 <footer>
@@ -154,7 +125,6 @@
         </div>
     </div>
 </footer>
-
     <script src="/static/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     <script src="/static/js/vendor/jquery-1.11.2.min.js"></script>
     <script src="/static/js/vendor/imagesloaded.pkgd.min.js"></script>

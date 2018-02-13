@@ -1,8 +1,8 @@
 ---
 title: "Ungehörsam"
 layout: workshop-detail
-img: "/workshops/teasers/dummy.jpg"
-img_full: "/workshops/heros/dummy-large.jpg"
+img: "/workshops/teasers/ungehoersam.png"
+img_full: "/workshops/heros/ungehoersam.png"
 ws_date: "16. februar"
 ws_year: "2018"
 ws_teaser: "Innerhalb einer interaktiven Rallye wird die Stadt zurückerobert –  von Freifunk bis zu Urban Gardening."
@@ -22,10 +22,29 @@ downloads:
 
 
 ---
+<div class="join__statement fond_purple_gradient ">
+    <div class="container text__white text-center">
+        <div class="row">
+            <p>
+				Thema: Kreative Meinungsäußerung <br>
+				Prinzip: Digitales Spielbuch <br>
+				Dauer: 4 Stunden - 2 Tage
+            </p>
+		</div>
+	</div>
+</div>
+<br>
+
 <h3>Inhaltlicher Ablauf</h3>
-<p>Zu Beginn des Workshops finden sich Teams von circa zwei bis vier Personen zusammen, die eine fiktive Nachrichtenagentur gründen. Jede Agentur gibt sich einen Namen und definiert sich Themengebiete, über die sie berichten will. Anschließend recherchieren die Gruppen Schlagzeilen und Stories im Internet und verfassen davon ausgehend eigene Meldungen, die teilweise korrekt, teilweise aber auch mit Fehldarstellungen und Unwahrheiten versehen sind.
-Mit Hilfe bereits existierender Bausätze wie Mozilla Goggles, 24aktuelles oder Paul Newsman werden die Meldungen im Stil herkömmlicher Nachrichtenseiten veröffentlicht und zwischen den Gruppen ausgetauscht. Die Gruppen müssen dann die Fehler und Falschinformationen ihrer Konkurrenten finden und versuchen dieses durch eine faktenbasierte Gegendarstellungen aufzudecken. Es gewinnt das Team, das die glaubwürdigsten Fake-News erstellt und selbst die meisten Falschnachrichten aufdecken konnte.
-Im Anschluss werden die eigenen Methoden diskutiert und weitere vorgestellt. Außerdem zeigen wir reale Beispiele von Fake News, diskutieren gemeinsam deren Auswirkungen und wie man mit ihnen am besten umgehen kann.</p>
+<p>
+	Nach einer kurzen Einleitung in das Thema „interaktive Geschichten” wird mit Hilfe einer kleinen Übung in das Konzept einer QR-Rallye eingeführt, in dem eine bereits vorbereitete kurze Rallye gespielt wird: Die Teilnehmenden entwerfen als erstes gemeinsam eine Situation, die einen Startpunkt, ein konkretes Problem und zwei Möglichkeiten der Reaktion darauf enthält und schreiben dies auf einen Zettel. Dieser wird an einer Stelle im Raum platziert. Die Gruppe teilt sich auf diese zwei Möglichkeiten des Reaktion auf, verortet sie im Raum und beginnt erneut damit, zwei verschiedene Reaktionen darauf zu entwickeln. Das Prozedere geht solange so weiter, bis jeweils nur noch eine Person übrig ist, die ihre letzten beiden Zettel für zwei weitere mögliche Enden platziert. So entsteht in kurzer Zeit eine parallel erarbeitete, viel verzweigte Geschichte mit doppelt so vielen Enden wie Teilnehmenden.
+</p>
+<p>
+	Weiter geht es mit einem Input zur kreativen Stadtgestaltung, wie Graffiti, Urban Gardening / Knitting, Stickern, Dead Drops etc. und der Markierung von guten bzw. problematischen Orten in der Umgebung. Das Ziel: Wie können alle problematischen Orten zu guten Orten werden? Nun wird das gleiche Spielprinzip mit einer fiktiven Geschichte zum Thema “perfektes Stadtviertel” an realen Objekten in der Nähe und mit Hilfe einer App umgesetzt. Diese produziert QR-Codes statt großer Zettel.
+</p>
+<p>
+	Im Anschluss dieser Entwicklungsphase werden erneut verschiedene Pfade durchgespielt. Zum Ende werden die von den Spielenden ausgewählten Möglichkeiten diskutiert und geschaut, inwieweit sie der Realität entsprechen.
+</p>
 
 
 

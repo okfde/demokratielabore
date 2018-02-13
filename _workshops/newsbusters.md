@@ -1,8 +1,8 @@
 ---
 title: "Newsbusters"
 layout: workshop-detail
-img: "/workshops/teasers/dummy.jpg"
-img_full: "/workshops/heros/dummy-large.jpg"
+img: "/workshops/teasers/newsbusters.png"
+img_full: "/workshops/heros/newsbusters.png"
 ws_date: "16. februar"
 ws_year: "2018"
 ws_teaser: "Als fiktive Nachrichtenagentur wird versucht die Konkurrenz hinters Licht zu führen. Wer schafft es, alternative Fakten am glaubhaftesten zu verpacken, und wer kann sie am besten widerlegen?"
@@ -21,14 +21,24 @@ downloads:
 
 
 ---
+<div class="join__statement fond_purple_gradient ">
+    <div class="container text__white text-center">
+        <div class="row">
+            <p>
+                Themen: Medienanalyse und Fake News <br>
+				Prinzip: Simulationsspiel/Gruppenspiel<br>
+				Dauer: 2 - 4 Stunden
+
+            </p>
+		</div>
+	</div>
+</div>
+<br>
 <h3>Inhaltlicher Ablauf</h3>
-<p>Zu Beginn des Workshops finden sich Teams von circa zwei bis vier Personen zusammen, die eine fiktive Nachrichtenagentur gründen. Jede Agentur gibt sich einen Namen und definiert sich Themengebiete, über die sie berichten will. Anschließend recherchieren die Gruppen Schlagzeilen und Stories im Internet und verfassen davon ausgehend eigene Meldungen, die teilweise korrekt, teilweise aber auch mit Fehldarstellungen und Unwahrheiten versehen sind.
-Mit Hilfe bereits existierender Bausätze wie Mozilla Goggles, 24aktuelles oder Paul Newsman werden die Meldungen im Stil herkömmlicher Nachrichtenseiten veröffentlicht und zwischen den Gruppen ausgetauscht. Die Gruppen müssen dann die Fehler und Falschinformationen ihrer Konkurrenten finden und versuchen dieses durch eine faktenbasierte Gegendarstellungen aufzudecken. Es gewinnt das Team, das die glaubwürdigsten Fake-News erstellt und selbst die meisten Falschnachrichten aufdecken konnte.
-Im Anschluss werden die eigenen Methoden diskutiert und weitere vorgestellt. Außerdem zeigen wir reale Beispiele von Fake News, diskutieren gemeinsam deren Auswirkungen und wie man mit ihnen am besten umgehen kann.</p>
-
-
-
-
-
-
-
+<p>
+	Zu Beginn des Workshops finden sich Teams von ca. zwei bis vier Jugendlichen zusammen, die eine fiktive Nachrichtenagentur gründen. Jede Agentur gibt sich einen Namen und definiert für sich Themengebiete, über die sie berichten will, z.B. Fußball, Actionfilme oder Donald Trump. Anschließend recherchieren die Gruppen Schlagzeilen und Stories zu diesen Themen im Internet und verfassen ausgehend davon eigene Meldungen, die teilweise korrekt, teilweise aber auch mit Fehldarstellungen und Unwahrheiten versehen sind (mindestens eine echte und eine falsche Nachricht pro Agentur). 
+</p>
+<p>
+	Mit Hilfe bereits existierender Bausätze wie Mozilla Goggles, <a class="highlight-grey" href="http://www.24aktuelles.com">24aktuelles</a> oder 
+	<a class="highlight-grey" href="https://paulnewsman.com">Paul Newsman</a> werden die Meldungen inklusive Titel und Foto im Stil herkömmlicher Nachrichtenseiten veröffentlicht und zwischen den Gruppen ausgetauscht. Die Gruppen müssen dann die Fehler und Falschinformationen ihrer Konkurrenten finden und versuchen diese durch eine faktenbasierte Gegendarstellungen aufzudecken. Es gewinnt das Team, das die glaubwürdigsten Fake News erstellt und selbst die meisten Falschnachrichten aufdecken konnte.
+</p>

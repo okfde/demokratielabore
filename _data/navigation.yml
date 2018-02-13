@@ -5,15 +5,12 @@ de:
   - title: Über uns
     url: /team
 
-  - title: Mach mit!
+  - title: Mitmachen
     url: /mitmachen
-
-  - title: Angebote
-    url: /angebote
-
-  - title: Projekt
-    url: /projekt
 
   - title: Workshops
     url: /workshops
+
+  - title: Info
+    url: /info
 

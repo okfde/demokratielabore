@@ -31,3 +31,6 @@ collections:
     workshops:
         output: true
         permalink: /workshop/:path/
+    angebote:
+        output: true
+        permalink: /angebot/:path/

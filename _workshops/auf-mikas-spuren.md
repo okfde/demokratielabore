@@ -1,8 +1,8 @@
 ---
 title: "Auf Mikas Spuren"
 layout: workshop-detail
-img: "/workshops/teasers/dummy.jpg"
-img_full: "/workshops/heros/dummy-large.jpg"
+img: "/workshops/teasers/mika.png"
+img_full: "/workshops/heros/mika.png"
 ws_date: "16. februar"
 ws_year: "2018"
 ws_teaser: "Mika ist verschwunden. Um herauszufinden, wo Mika steckt, haben die Jugendlichen eine Stunde Zeit, um in seinem Zimmer auf Spurensuche zu gehen und das Rätsel zu lösen!"
@@ -21,10 +21,27 @@ downloads:
 
 
 ---
+<div class="join__statement fond_purple_gradient ">
+    <div class="container text__white text-center">
+        <div class="row">
+            <p>
+            	Thema: Populismus<br>
+				Prinzip: Escape Game<br>
+				Dauer: 2 - 4 Stunden
+            </p>
+		</div>
+	</div>
+</div>
+<br>
+
 <h3>Inhaltlicher Ablauf</h3>
-<p>Zu Beginn des Workshops finden sich Teams von circa zwei bis vier Personen zusammen, die eine fiktive Nachrichtenagentur gründen. Jede Agentur gibt sich einen Namen und definiert sich Themengebiete, über die sie berichten will. Anschließend recherchieren die Gruppen Schlagzeilen und Stories im Internet und verfassen davon ausgehend eigene Meldungen, die teilweise korrekt, teilweise aber auch mit Fehldarstellungen und Unwahrheiten versehen sind.
-Mit Hilfe bereits existierender Bausätze wie Mozilla Goggles, 24aktuelles oder Paul Newsman werden die Meldungen im Stil herkömmlicher Nachrichtenseiten veröffentlicht und zwischen den Gruppen ausgetauscht. Die Gruppen müssen dann die Fehler und Falschinformationen ihrer Konkurrenten finden und versuchen dieses durch eine faktenbasierte Gegendarstellungen aufzudecken. Es gewinnt das Team, das die glaubwürdigsten Fake-News erstellt und selbst die meisten Falschnachrichten aufdecken konnte.
-Im Anschluss werden die eigenen Methoden diskutiert und weitere vorgestellt. Außerdem zeigen wir reale Beispiele von Fake News, diskutieren gemeinsam deren Auswirkungen und wie man mit ihnen am besten umgehen kann.</p>
+<p> 
+	Nach einer kurzen Vorstellung des Formates und der Verhaltensregeln, werden die Teilnehmenden direkt in die Situation des Raumes gebracht: Besorgte Nachbarn bitten sie um Mithilfe, den/die vermisste/n Mika zu finden, bevor die Eltern zurückkehren. Dazu müssen sie verschiedensten Spuren folgen, Schlösser öffnen und letztlich Entscheidungen treffen, die sie zu einem der möglichen Enden führen.
+</p>
+<p>
+	Im Verlauf des Spieles kommen verschiedene mehrdeutige Informationen hinzu, mit denen sich verschiedene Interpretationen zur Person von Mika ergeben. Ist er/sie Faschist*in oder Islamist*in geworden oder keins von beidem? Die Entscheidungen der Gruppe und die unterschiedlichen Lösungsmöglichkeiten werden im Anschluss zur Diskussion gestellt und gemeinsam analysiert.
+
+</p>
 
 
 

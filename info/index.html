@@ -1,0 +1,112 @@
+---
+layout: base
+title: "Info"
+hide_hero: true
+---
+
+<div class="row">
+    <div class="col-xs-12 fond__white jumbotron">
+        <div class="row">
+            <div class="container">
+                <div class="col-lg-12">
+                    <div class="col-lg-10 col-lg-offset-1">
+                        <h2 class="section-headline text-center">Über die Demokratielabore</h2>
+                        <p class="text-center">
+                            Wir zeigen Jugendlichen mit digitalen Werkzeugen zu Teilhabern unserer Gesellschaft zu werden. Jugendliche können in unseren Workshops in Nachrichtenredaktionen verwandeln, lernen wie  man den öffentlichen Raum positiv einnimmt oder Cybertrolle mit Argumenten zu besiegt.
+                        </p>
+                    </div>
+                    <img  class="img-responsive" src="/static/img/wimmelbild.png" alt="Wimmelbild CC BY-SA 4.0">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <p>
+                            Die Demokratielabore sind ein Modellprojekt der <a class="highlight-grey" href="https://www.okfn.de/">Open Knowledge Foundation Deutschland</a>, das vom <a class="highlight-grey" href="https://www.bmfsfj.de/">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="https://www.demokratie-leben.de/">Demokratie leben!</a> gefördert wird.
+                        </p>
+                        <p>
+                            Wir führen verschiedene Workshop- und Aktionsformate mit Jugendlichen im Alter von 12 bis 21 Jahren rund um Digitalisierung, Technologien und gesellschaftliches Miteinander durch. Dazu arbeiten wir sowohl eng mit außerschulischen Jugendeinrichtungen als auch überregionalen Jugendverbänden und Initiativen zusammen – deutschlandweit. 
+                        </p>
+                    </div>
+                </div>
+           </div>
+        </div>
+    </div>
+</div>
+<div class="beneath-sections fond__grey-bright jumbotron">
+    <div class="container text__black">
+        <div class="row">
+
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-headline">Unser Ziel ist es...</h2>
+            </div>
+            <div class="col-lg-8 col-lg-offset-2">                        
+                <p>   
+                    ...  spielerisch R&auml;ume zu schaffen, in denen sich Jugendliche als Teilhaber einer politischen Gesellschaft ausprobieren k&ouml;nnen. Gleichzeitig wollen wir sie ermutigen, sich mit Hilfe von digitalen Kompetenzen, Werkzeugen &amp; Technologien selbstbestimmt und aktiv an gesellschaftlichen Prozessen zu beteiligen.
+                </p>
+                <p>
+                    ... in Zeiten von Fake News, Hate Speech und Populismus das Internet für und mit jungen Menschen als positiven Gestaltungsraum für die politische Öffentlichkeit zurückzuerobern und die &ouml;ffentlichen Diskurse in unserer alternden Gesellschaft um die Perspektiven Jugendlicher zu bereichern.
+                </p>
+                <p>
+                    ... Mitarbeiter*innen in Jugendeinrichtungen neue Zug&auml;nge zur Digitalisierung zu erm&ouml;glichen, deren gesellschaftliche Bedeutung diskutieren und sie dazu zu bef&auml;higen, unsere Formate jederzeit eigenst&auml;ndig und unkompliziert durchf&uuml;hren zu k&ouml;nnen.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-xs-12 fond_darkblue_gradient jumbotron">
+    <div class="row">
+        <div class="container">
+            <div class="col-lg-10 col-lg-offset-1 section-workshop text__white">
+                <h2 class="section-headline">Unsere Angebote</h2>
+                <p>
+                    Neben Workshops bieten wir noch weitere Angebebote für Jugendliche und Jugendeinrichtungen an, um unser Wissen auf allen Ebenen weiterzugeben.
+                </p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="isotope-wrap">
+                <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+                {% assign sortedAngebote = site.angebote | sort: 'title' %}
+                {% for angebot in sortedAngebote %}
+                    {% assign post = angebot %}
+                    <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+                        {% include angebote-teaser-tile.html post=post %}
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="beneath-sections fond__white jumbotron">
+    <div class="container text__black">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-headline">Evaluation</h2>
+            </div>
+            <div class="col-lg-8 col-lg-offset-2">
+                <p>
+                    Unsere Workshops werden von Expert*innen entwickelt und sind konkret auf Jugendliche zugeschnitten. Um die Qualität unseres Angebots zu sichern, hat uns bei diesem Vorhaben das <a class="highlight-grey" href="http://www.nexusinstitut.de/">Forschungsinstitut Nexus</a>  Berlin begleitet und alle fünf Workshops aus 2017 evaluiert und auf ihre Wirksamkeit hin überprüft. Die Ergebnisse, Instrumente und Methoden der Evaluation stellen wir  in diesem Abschlussbericht unter freier Lizenz zur Verfügung.  
+                </p>
+                <div class="btn-wrap">
+                    <a href="/static/doc/Abschlussbericht_nexus.pdf"><button  class="btn btn-start color-2">Abschlussbericht herunterladen</button> </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="beneath-sections jumbotron fond__white">
+    <div class="container">
+        <h2 class="section-headline text-center">Unser Leitbild</h2>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <p>
+                    Die Richtlinien des <a href="http://www.bpb.de/die-bpb/51310/beutelsbacher-konsens">Beutelsbacher Konsens</a> sind maßgeblich und richtungsweisend in unserer Jugendbildungsarbeit.
+                    Wir ver&ouml;ffentlichen alle Inhalte des Projekts, soweit dies m&ouml;glich ist, unter freier Lizenz als <a href="https://de.wikipedia.org/wiki/Open_Educational_Resources">Open Educational Resources</a>.
+                    Wir arbeiten &uuml;berparteilich und unabh&auml;ngig.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+

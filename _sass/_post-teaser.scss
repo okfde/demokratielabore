@@ -43,8 +43,16 @@
             font-size: 16px;
             margin: 20px 0;
           }
-
         }
+
+        &.angebot{
+          color: black;
+          p{
+            font-size: 16px;
+            margin: 20px 0;
+          }
+        }
+
 
         a{
           color: $dl-mint;

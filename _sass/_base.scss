@@ -343,7 +343,7 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: 21px;
-  font-weight: bold;
+  font-weight: regular;
 }
 
 h4, .h4 {
@@ -458,6 +458,12 @@ label {
   @extend .fond__white;
   @extend .text__black;
   @include inline-background($white);
+
+    &:hover {
+    background-color: $button-color-2;
+    @include inline-background(#A5FFF8);
+    text-decoration: none;
+  }
 }
 
 .highlight-purple {
@@ -530,7 +536,7 @@ label {
 }
 
 .btn-mitmachen {
-  background-color: $dl-mint;
+  background-color: $button-color-3;
   color: $white;
   width: 100%;
   padding: 12px;
@@ -631,15 +637,18 @@ label {
   display: inline-block;
 }
 
-.post-teaser-read-more{
+.post-teaser-read-more {
 
-  color: $dl-mint;
+  a{
+    color: $dl-mint;
+    font-size: 16px;
 
-  &:hover{
-    &:after{
-      margin-left: 15px;
+      &:hover{
+        &:after{
+          margin-left: 15px;
+        }
+      }
     }
-  }
 
   &:after{
 
@@ -1079,8 +1088,19 @@ $keep: 44 + 2 * 15px;
 
 }
 
+
 /*==============================
-=            Workshop            =
+=           Mitmachen          =
+==============================*/
+
+
+.section-mitmachen {
+  background-image: url("/static/img/mitmachen-teaser.png");
+
+}
+
+/*==============================
+=            Workshop          =
 ==============================*/
 
 .btn-download{
@@ -1166,7 +1186,7 @@ $keep: 44 + 2 * 15px;
   }
 }
 
-.section-intro, .section-workshop{
+.section-intro, .section-workshop, .section-angebot{
   text-align: center;
 }
 .introtext {

@@ -28,21 +28,20 @@ hide_hero: true
 
 </p>
 
-<div class="row">
-    <div class="col-xs-12 fond__grey-bright jumbotron">
+<div class="fond__grey-bright join__statement">
+    <div class="container text-center">
         <div class="row">
-            <div class="container">
-                <div class="col-lg-10 col-lg-offset-1 section-workshop">
-                    <h2 class="section-headline">Bedarfsanalyse</h2>
-                    <p>
-                    	Im letzten Jahr haben wir eine Bedarfsanalyse durchgeführt. Alle Ergebnisse haben wir in einer Publikation festgehalten.
-                    </p> 
-                </div>
+            <h2>Ihr habt Fragen oder wollt noch mehr Infos?</h2> 
+            <h2> Dann meldet euch am besten bei Helene</h2>
+            <div class="members justify-content-md-center">
+                <a class="members-image-wrap" href="mailto:helene.hahn@okfn.de"><img class="img-circle member-avatar" alt="Helene Hahn" src="/img/avatars/helene.jpg"></a>
+            </div>
+<p>
+    <span class="speaker-name"><a class="text__blue" href="mailto:helene.hahn@okfn.de">Helene Hahn</a> </span>Projektleiterin Datenschule<br>helene.hahn@okfn.de
+</p>
 </div>
 </div>
-</div>               
 </div>
-
 
 
 

@@ -18,10 +18,10 @@ hide_hero: true
                     <img  class="img-responsive" src="/static/img/wimmelbild.png" alt="Wimmelbild CC BY-SA 4.0">
                     <div class="col-lg-8 col-lg-offset-2">
                         <p>
-                            Die Demokratielabore sind ein Modellprojekt der <a class="highlight-grey" href="https://www.okfn.de/">Open Knowledge Foundation Deutschland</a>, das vom <a class="highlight-grey" href="https://www.bmfsfj.de/">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="https://www.demokratie-leben.de/">Demokratie leben!</a> gefördert wird.
+                            Die Demokratielabore sind ein Modellprojekt der <a class="highlight-grey" href="https://www.okfn.de/">Open Knowledge Foundation Deutschland</a>, das vom <a class="highlight-grey" href="https://www.bmfsfj.de/">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="https://www.demokratie-leben.de/">Demokratie leben!</a> und von der <a class="highlight-grey" href="https://www.bpb.de">Bundeszentrale für politische Bildung </a>gefördert wird.
                         </p>
                         <p>
-                            Wir führen verschiedene Workshop- und Aktionsformate mit Jugendlichen im Alter von 12 bis 21 Jahren rund um Digitalisierung, Technologien und gesellschaftliches Miteinander durch. Dazu arbeiten wir sowohl eng mit außerschulischen Jugendeinrichtungen als auch überregionalen Jugendverbänden und Initiativen zusammen – deutschlandweit. 
+                            Wir führen verschiedene Workshop- und Aktionsformate mit Jugendlichen im Alter von 12 bis 21 Jahren rund um Digitalisierung, Technologien und gesellschaftliches Miteinander durch. Dazu arbeiten wir sowohl eng mit außerschulischen Jugendeinrichtungen als auch überregionalen Bildungsverbänden und Initiativen zusammen – deutschlandweit. 
                         </p>
                     </div>
                 </div>
@@ -44,38 +44,12 @@ hide_hero: true
                     ... in Zeiten von Fake News, Hate Speech und Populismus das Internet für und mit jungen Menschen als positiven Gestaltungsraum für die politische Öffentlichkeit zurückzuerobern und die &ouml;ffentlichen Diskurse in unserer alternden Gesellschaft um die Perspektiven Jugendlicher zu bereichern.
                 </p>
                 <p>
-                    ... Mitarbeiter*innen in Jugendeinrichtungen neue Zug&auml;nge zur Digitalisierung zu erm&ouml;glichen, deren gesellschaftliche Bedeutung diskutieren und sie dazu zu bef&auml;higen, unsere Formate jederzeit eigenst&auml;ndig und unkompliziert durchf&uuml;hren zu k&ouml;nnen.
+                    ... Mitarbeiter*innen in Jugendeinrichtungen und Jugendverb&auml;nden neue Zug&auml;nge zur Digitalisierung zu erm&ouml;glichen, deren gesellschaftliche Bedeutung diskutieren und sie dazu zu bef&auml;higen, unsere Formate jederzeit eigenst&auml;ndig und unkompliziert umsätzen zu k&ouml;nnen.
                 </p>
             </div>
         </div>
     </div>
 </div>
-
-<div class="col-xs-12 fond_darkblue_gradient jumbotron">
-    <div class="row">
-        <div class="container">
-            <div class="col-lg-10 col-lg-offset-1 section-workshop text__white">
-                <h2 class="section-headline">Unsere Angebote</h2>
-                <p>
-                    Neben Workshops bieten wir noch weitere Angebebote für Jugendliche und Jugendeinrichtungen an, um unser Wissen auf allen Ebenen weiterzugeben.
-                </p>
-            </div>
-        </div>
-        <div class="container">
-            <div class="isotope-wrap">
-                <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
-                {% assign sortedAngebote = site.angebote | sort: 'title' %}
-                {% for angebot in sortedAngebote %}
-                    {% assign post = angebot %}
-                    <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
-                        {% include angebote-teaser-tile.html post=post %}
-                    </div>
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-</div>
-
 
 <div class="beneath-sections fond__white jumbotron">
     <div class="container text__black">
@@ -95,7 +69,7 @@ hide_hero: true
     </div>
 </div>
 
-<div class="beneath-sections jumbotron fond__white">
+<div class="beneath-sections jumbotron fond__grey-bright">
     <div class="container">
         <h2 class="section-headline text-center">Unser Leitbild</h2>
         <div class="row">
@@ -110,3 +84,31 @@ hide_hero: true
     </div>
 </div>
 
+<div class="row">
+    <div class="jumbotron workshop-background">
+        <div class="row">
+            <div class="container">
+                <div class="col-lg-10 col-lg-offset-1 section-workshop">
+                        <h2 class="section-headline">Workshops, Workshops, Workshops</h2>
+                        <p>
+                            Jugendliche können sich in unseren Workshops in Nachrichtenredaktionen verwandeln, lernen wie man den öffentlichen Raum positiv einnimmt oder Cybertrolle mit Argumenten zu besiegt.
+                        </p>
+                </div>
+            </div>
+            <div class="post-teaser-wrap">
+                <div class="row">
+                    {% assign workshops = site.workshops | where:"featured",true %}
+                    {% for workshop in workshops limit:3 %}
+                    {% assign post = workshop %}
+                    <div class="col-xs-12 col-md-4 post-teaser">
+                        {% include workshop-teaser-tile.html post=post %}
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="btn-wrap">
+            <a href="/workshops"><button  class="btn btn-start color-2">Zur Workshopübersicht</button> </a>
+        </div>
+    </div>
+</div>

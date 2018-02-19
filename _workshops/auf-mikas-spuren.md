@@ -6,7 +6,7 @@ img_full: "/workshops/heros/mika.png"
 ws_date: "16. februar"
 ws_year: "2018"
 ws_teaser: "Mika ist verschwunden. Um herauszufinden, wo Mika steckt, haben die Jugendlichen eine Stunde Zeit, um in seinem Zimmer auf Spurensuche zu gehen und das Rätsel zu lösen!"
-link: '/workshop/auf-mikas-spuren'
+link: '/workshops/auf-mikas-spuren'
 
 voraussetzungen:
 - text: 'Teilnehmer*innen: Gleiche Sprache, herkömmliche Internetsuchmaschinen sind bekannt'

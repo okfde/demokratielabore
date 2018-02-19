@@ -6,7 +6,7 @@ img_full: "/workshops/heros/invasiondercybertrolle.png"
 ws_date: "16. februar"
 ws_year: "2018"
 ws_teaser: "Digitale Abenteuer-Gruppen bringen Licht in die dunklen Gewölbe sozialer Plattformen. Gegen die dort lauernden Trolle helfen aber weder Schwerter noch Zauber, sondern nur gute Argumente und Redegeschick! "
-link: '/workshop/invasion-der-cybertrolle'
+link: '/workshops/invasion-der-cybertrolle'
 featured: true
 
 voraussetzungen:

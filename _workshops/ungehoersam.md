@@ -6,7 +6,7 @@ img_full: "/workshops/heros/ungehoersam.png"
 ws_date: "16. februar"
 ws_year: "2018"
 ws_teaser: "Innerhalb einer interaktiven Rallye wird die Stadt zurückerobert –  von Freifunk bis zu Urban Gardening."
-link: '/workshop/ungehoersam'
+link: '/workshops/ungehoersam'
 featured: true
 
 voraussetzungen:

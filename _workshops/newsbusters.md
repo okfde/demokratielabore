@@ -6,7 +6,7 @@ img_full: "/workshops/heros/newsbusters.png"
 ws_date: "16. februar"
 ws_year: "2018"
 ws_teaser: "Als fiktive Nachrichtenagentur wird versucht die Konkurrenz hinters Licht zu führen. Wer schafft es, alternative Fakten am glaubhaftesten zu verpacken, und wer kann sie am besten widerlegen?"
-link: '/workshop/newsbusters'
+link: '/workshops/newsbusters'
 
 voraussetzungen:
 - text: 'Teilnehmer*innen: Gleiche Sprache, herkömmliche Internetsuchmaschinen sind bekannt'

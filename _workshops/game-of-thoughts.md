@@ -6,7 +6,7 @@ img_full: "/workshops/heros/gameofthoughts.png"
 ws_date: "16. februar"
 ws_year: "2018"
 ws_teaser: "In kurzer Zeit und ohne Vorkenntnisse verwandelt ihr das, was euch gerade umtreibt und die Frage „Was müsste man daran mal ändern?“ in digitale Spiele!"
-link: '/workshop/game-of-thoughts'
+link: '/workshops/game-of-thoughts'
 featured: true
 
 voraussetzungen:

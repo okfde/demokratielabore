@@ -30,7 +30,7 @@ gems:
 collections:
     workshops:
         output: true
-        permalink: /workshop/:path/
+        permalink: /workshops/:path/
     angebote:
         output: true
         permalink: /angebot/:path/

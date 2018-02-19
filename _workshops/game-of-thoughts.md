@@ -43,6 +43,9 @@ downloads:
 <p>
 	Zunächst entwirft jedes Team ein Konzept für ein Spiel und stellt es den anderen vor. Dann wird das Spiel praktisch mit Hilfe von digitalen Tools und MentorInnen entwickelt. Ein erster Testlauf der Gruppen untereinander nach knapp zwei Dritteln der Entwicklungszeit stellt sicher, dass das Konzept noch realistisch ist und das Spiel inhaltlich wie technisch funktioniert. Die MentorInnen stehen hierzu die gesamte Zeit über mit Rat und Tat zur Seite. Zum Finale präsentieren alle Gruppen ihre Werke und probieren sie gegenseitig aus. Nach dem Workshop werden die Spiele zudem auf einer Internetplattform veröffentlicht.
 </p>
+<p>
+Workshopmaterialien werden bald nachgeliefert!
+</p>
 
 
 

@@ -45,6 +45,9 @@ downloads:
 <p>
 	Im Anschluss dieser Entwicklungsphase werden erneut verschiedene Pfade durchgespielt. Zum Ende werden die von den Spielenden ausgewählten Möglichkeiten diskutiert und geschaut, inwieweit sie der Realität entsprechen.
 </p>
+<p>
+Workshopmaterialien werden bald nachgeliefert!
+</p>
 
 
 

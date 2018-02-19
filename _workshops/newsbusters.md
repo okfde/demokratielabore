@@ -42,3 +42,6 @@ downloads:
 	Mit Hilfe bereits existierender Bausätze wie Mozilla Goggles, <a class="highlight-grey" href="http://www.24aktuelles.com">24aktuelles</a> oder 
 	<a class="highlight-grey" href="https://paulnewsman.com">Paul Newsman</a> werden die Meldungen inklusive Titel und Foto im Stil herkömmlicher Nachrichtenseiten veröffentlicht und zwischen den Gruppen ausgetauscht. Die Gruppen müssen dann die Fehler und Falschinformationen ihrer Konkurrenten finden und versuchen diese durch eine faktenbasierte Gegendarstellungen aufzudecken. Es gewinnt das Team, das die glaubwürdigsten Fake News erstellt und selbst die meisten Falschnachrichten aufdecken konnte.
 </p>
+<p>
+Workshopmaterialien werden bald nachgeliefert!
+</p>

@@ -40,7 +40,9 @@ downloads:
 </p>
 <p>
 	Im Verlauf des Spieles kommen verschiedene mehrdeutige Informationen hinzu, mit denen sich verschiedene Interpretationen zur Person von Mika ergeben. Ist er/sie Faschist*in oder Islamist*in geworden oder keins von beidem? Die Entscheidungen der Gruppe und die unterschiedlichen Lösungsmöglichkeiten werden im Anschluss zur Diskussion gestellt und gemeinsam analysiert.
-
+</p>
+<p>
+Workshopmaterialien werden bald nachgeliefert!
 </p>
 
 

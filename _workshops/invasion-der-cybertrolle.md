@@ -43,6 +43,9 @@ downloads:
 <p>
 	Das System des Brettspiels ist simpel genug, um sehr schnell erlernt und verstanden zu werden, aber dennoch Anreize und einen Rahmen für die Handlungsmöglichkeiten der Spielenden schafft. Alle Teilnehmenden können sich daher ganz auf die gemeinsame Geschichte konzentrieren. Eine App führt durch das Spiel und die Begegnungen, in der mehrere Lösungsstrategien möglich sind, welche zum Abschluss gegenseitig vorgestellt und auf reale Wirksamkeit untersucht werden sollen.
 </p>
+<p>
+Workshopmaterialien werden bald nachgeliefert!
+</p>
 
 
 

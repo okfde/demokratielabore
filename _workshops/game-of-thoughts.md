@@ -1,5 +1,9 @@
 ---
 title: "Game Of Thoughts"
+thema: "Meinungsbildung"
+prinzip: "Game Jam"
+dauer: "4 Stunden - 3 Tage"
+
 layout: workshop-detail
 img: "/workshops/teasers/gameofthoughts.png"
 img_full: "/workshops/heros/gameofthoughts.png"
@@ -17,22 +21,7 @@ downloads:
 - name: 'Steckbrief zum Workshop'
   file: '/workshops/downloads/logo_black.svg'
 
-- name: 'Steckbrief zum Workshop'
-  file: '/workshops/downloads/logo_black.svg'
-
 ---
-<div class="join__statement fond_purple_gradient ">
-    <div class="container text__white text-center">
-        <div class="row">
-            <p>
-				Thema:  Meinungsbildung <br>
-				Prinzip: Game Jam <br>
-				Dauer: 4 Stunden - 3 Tage
-            </p>
-		</div>
-	</div>
-</div>
-<br>
 <h3>Inhaltlicher Ablauf</h3>
 <p>
 	Nach einem Input zu Grundlagen des Gamedesign und dem Thema Meinungsäußerung werden zunächst kleine bereits existierende Games ausprobiert und diskutiert. Die Teilnehmenden finden sich anschließend in kleinen Gruppen zusammen und setzen erste Ideen und Erkenntnisse in Form von analogen Brettspielen um – und erlernen so schnell und einfach die Grundlagen von Spielmechaniken.

@@ -1,5 +1,8 @@
 ---
 title: "Auf Mikas Spuren"
+thema: "Populismus"
+dauer: "2 - 4 Stunden"
+prinzip: "Escape Game"
 layout: workshop-detail
 img: "/workshops/teasers/mika.png"
 img_full: "/workshops/heros/mika.png"
@@ -16,24 +19,8 @@ downloads:
 - name: 'Steckbrief zum Workshop'
   file: '/workshops/downloads/logo_black.svg'
 
-- name: 'Steckbrief zum Workshop'
-  file: '/workshops/downloads/logo_black.svg'
-
 
 ---
-<div class="join__statement fond_purple_gradient ">
-    <div class="container text__white text-center">
-        <div class="row">
-            <p>
-            	Thema: Populismus<br>
-				Prinzip: Escape Game<br>
-				Dauer: 2 - 4 Stunden
-            </p>
-		</div>
-	</div>
-</div>
-<br>
-
 <h3>Inhaltlicher Ablauf</h3>
 <p> 
 	Nach einer kurzen Vorstellung des Formates und der Verhaltensregeln, werden die Teilnehmenden direkt in die Situation des Raumes gebracht: Besorgte Nachbarn bitten sie um Mithilfe, den/die vermisste/n Mika zu finden, bevor die Eltern zurückkehren. Dazu müssen sie verschiedensten Spuren folgen, Schlösser öffnen und letztlich Entscheidungen treffen, die sie zu einem der möglichen Enden führen.

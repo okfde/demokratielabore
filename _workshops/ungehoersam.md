@@ -1,5 +1,9 @@
 ---
 title: "Ungehörsam"
+thema: "Kreative Meinungsäußerung"
+prinzip: "Digitales Spielbuch"
+dauer: "4 Stunden - 2 Tage"
+
 layout: workshop-detail
 img: "/workshops/teasers/ungehoersam.png"
 img_full: "/workshops/heros/ungehoersam.png"
@@ -22,19 +26,6 @@ downloads:
 
 
 ---
-<div class="join__statement fond_purple_gradient ">
-    <div class="container text__white text-center">
-        <div class="row">
-            <p>
-				Thema: Kreative Meinungsäußerung <br>
-				Prinzip: Digitales Spielbuch <br>
-				Dauer: 4 Stunden - 2 Tage
-            </p>
-		</div>
-	</div>
-</div>
-<br>
-
 <h3>Inhaltlicher Ablauf</h3>
 <p>
 	Nach einer kurzen Einleitung in das Thema „interaktive Geschichten” wird mit Hilfe einer kleinen Übung in das Konzept einer QR-Rallye eingeführt, in dem eine bereits vorbereitete kurze Rallye gespielt wird: Die Teilnehmenden entwerfen als erstes gemeinsam eine Situation, die einen Startpunkt, ein konkretes Problem und zwei Möglichkeiten der Reaktion darauf enthält und schreiben dies auf einen Zettel. Dieser wird an einer Stelle im Raum platziert. Die Gruppe teilt sich auf diese zwei Möglichkeiten des Reaktion auf, verortet sie im Raum und beginnt erneut damit, zwei verschiedene Reaktionen darauf zu entwickeln. Das Prozedere geht solange so weiter, bis jeweils nur noch eine Person übrig ist, die ihre letzten beiden Zettel für zwei weitere mögliche Enden platziert. So entsteht in kurzer Zeit eine parallel erarbeitete, viel verzweigte Geschichte mit doppelt so vielen Enden wie Teilnehmenden.

@@ -1204,6 +1204,10 @@ $keep: 44 + 2 * 15px;
   padding: 0;
 }
 
+.related-workshop-background{
+  background-image: linear-gradient(121deg, #0085fb, #00f2d8);
+}
+
 .workshop-background{
   background: #0089f9; /* Ol browsers */
   background: -moz-linear-gradient(left, #0089f9 0%, #00e1dd 100%); /* FF3.6-15 */

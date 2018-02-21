@@ -1204,6 +1204,10 @@ $keep: 44 + 2 * 15px;
   padding: 0;
 }
 
+.grid-sizer{
+  position: absolute;
+}
+
 .workshop-background{
   background: #0089f9; /* Ol browsers */
   background: -moz-linear-gradient(left, #0089f9 0%, #00e1dd 100%); /* FF3.6-15 */

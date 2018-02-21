@@ -1,22 +1,16 @@
-- name: Auf Mikas Spuren - Pixelwelten im FEZ
-  url: 'https://fez-berlin.de/nc/programm/detailansicht/pixelwelten-fuer-kleine-gamer-maker-und-ihre-eltern-847/'
-  date: 17.02.
-  city: Berlin
-  featured: false
-  id: "0001"
 - name: Game of Thoughts - Jugendbildungsstätte UHU
   date: 10.03.
   city: Ober-Mörlen-Langenheim
   featured: true
-  id: "0002"
+  id: "0001"
 - name: Verschiedene Workshops im Verschwörhaus
   url: 'https://verschwoerhaus.de/'
   date: 03.04.
   city: Ulm
   featured: true
-  id: "0003"
+  id: "0002"
 - name: Ungehörsam - Bildungsstätte der Humanistischen Union
   date: 17.04.
   city: Essen
   featured: true
-  id: "0004"
+  id: "0003"

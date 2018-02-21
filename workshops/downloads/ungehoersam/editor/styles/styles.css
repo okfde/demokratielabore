@@ -1,0 +1,725 @@
+body {
+    margin: 0;
+    font-family: "overpass","Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.7em;
+    line-height: 1.2em;
+    color: #000000;
+    overflow: hidden;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+.col-md-8{
+    width: 100%
+}
+
+.splash {
+    text-align: center;
+    /*margin: 10% 0 0 0;*/
+    box-sizing: border-box;
+}
+
+.splash-logo {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+}
+
+.splash .message {
+    font-size: 72px;
+    line-height: 72px;
+    text-shadow: rgba(0, 0, 0, 0.5) 0 0 15px;
+    text-transform: uppercase;
+    /*
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    */
+}
+
+.splash .fa-spinner {
+    text-align: center;
+    display: inline-block;
+    font-size: 72px;
+    margin-top: 0px;
+}
+
+.page-host {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50px;
+    bottom: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+@media print {
+    .page-host {
+        position: absolute;
+        left: 10px;
+        right: 0;
+        top: 50px;
+        bottom: 0;
+        overflow-y: inherit;
+        overflow-x: inherit;
+    }
+}
+
+section {
+    margin: 0 20px;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.navbar-nav li.loader {
+    margin: 12px 24px 0 6px;
+}
+
+.navbar-default{
+    background-color: #000000;
+    box-shadow: 0px 2px 10px #ccc;
+    color: #fff;
+}
+
+
+.navbar-default .navbar-brand, .navbar-default .navbar-brand:focus {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > .active > a{
+    color: #000;
+    background-color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    /* line-height entfernen*/
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #fff;
+    background-color: #333;
+    /* line-height entfernen*/
+}
+
+.pictureDetail {
+    max-width: 425px;
+}
+
+/* animate page transitions */
+section.au-enter-active {
+    -webkit-animation: fadeInRight 1s;
+    animation: fadeInRight 1s;
+}
+
+div.au-stagger {
+    /* 50ms will be applied between each successive enter operation */
+    -webkit-animation-delay: 50ms;
+    animation-delay: 50ms;
+}
+
+.card-container.au-enter {
+    opacity: 0;
+}
+
+.card-container.au-enter-active {
+    -webkit-animation: fadeIn 2s;
+    animation: fadeIn 2s;
+}
+
+.card {
+    overflow: hidden;
+    position: relative;
+    border: 1px solid #CCC;
+    border-radius: 8px;
+    text-align: center;
+    padding: 0;
+    background-color: #337ab7;
+    color: rgb(136, 172, 217);
+    margin-bottom: 32px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+}
+
+.card .content {
+    margin-top: 10px;
+}
+
+.card .content .name {
+    color: white;
+    text-shadow: 0 0 6px rgba(0, 0, 0, .5);
+    font-size: 18px;
+}
+
+.card .header-bg {
+    /* This stretches the canvas across the entire hero unit */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 70px;
+    border-bottom: 1px #FFF solid;
+    border-radius: 6px 6px 0 0;
+}
+
+.card .avatar {
+    position: relative;
+    margin-top: 15px;
+    z-index: 100;
+}
+
+.card .avatar img {
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    border: 2px #FFF solid;
+}
+
+/* animation definitions */
+@-webkit-keyframes fadeInRight {
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(100%, 0, 0);
+        transform: translate3d(100%, 0, 0)
+    }
+    100% {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none
+    }
+}
+
+@keyframes fadeInRight {
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(100%, 0, 0);
+        -ms-transform: translate3d(100%, 0, 0);
+        transform: translate3d(100%, 0, 0)
+    }
+    100% {
+        opacity: 1;
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+section {
+    margin: 0 20px;
+}
+
+a:focus {
+    outline: none;
+}
+
+.navbar-nav li.loader {
+    margin: 12px 24px 0 6px;
+}
+
+.no-selection {
+    margin: 20px;
+}
+
+.location-list {
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 0;
+}
+
+.location-list a {
+    cursor: pointer;
+    color: #000;
+}
+
+.location-list a:hover {
+    color: #000;
+    background-color: #e1e1e1;
+}
+
+.location-code {
+    display: inline-block;
+    min-width: 60px;
+    padding-right: 10px;
+    margin-right: 10px;
+    border-right: solid 1px #333;
+}
+
+.panel {
+    margin: 2em 20px 1em;
+    border: none;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .15);
+}
+
+.panel-primary > .panel-heading, .panel-heading {
+    border: none;
+    background-color: #000;
+}
+
+.panel-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.control-label {
+    text-align: left;
+}
+
+.label {
+    font-weight: normal;
+}
+
+.col-sm-2 .button{
+    background-color: #fff;
+    color: #000;
+    width: auto;
+    float: left;
+    padding: 4px 8px 4px 4px;
+}
+
+.locationform { /*block von kürzel bis beschreibung*/
+    margin-top: 0.5em;
+    margin-bottom: 3em;
+}
+
+.ifthen { /*block von wenn dann*/
+    border-bottom: 3px dashed #e1e1e1;
+    margin-top: 1.5em;
+}
+
+.ifthen-button-line {
+    max-width: 130px;
+}
+
+.ifthen-button-line-one {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ifthen-button-line-one button {
+    width: auto;
+    color: black;
+    background: none;
+}
+
+.addIfThen { /*block von ortsübergang*/
+    margin-top: 1.5em;
+}
+
+button, ux-dialog>ux-dialog-footer button.btn-normal {
+    width: 100%;
+    height: auto;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 0.3em;
+}
+
+button:hover {
+    color: #fff;
+    background-color: #333;
+}
+
+ux-dialog>ux-dialog-footer button.btn-normal:hover {
+    color: #fff !important;
+    background-color: #333 !important;
+}
+
+ux-dialog>ux-dialog-footer {
+    width: 100%;
+    display: flex !important;
+    justify-content: space-around;
+}
+
+ux-dialog>ux-dialog-footer button {
+    margin: 5px !important;
+    padding: 0.3em !important;
+    border: none !important;
+    font-size: inherit !important;
+    border-radius: 0 !important;
+}
+
+ux-dialog>ux-dialog-footer button.btn-danger:hover {
+    color: #fff !important;
+    background-color: #c9302c !important;
+    border-color: #ac2925 !important;
+}
+
+ux-dialog>ux-dialog-footer button.btn-success:hover {
+    color: #fff !important;
+    background-color: #449d44 !important;
+    border-color: #398439 !important;
+}
+
+.button-bar {
+    right: 0;
+    left: 0;
+    bottom: 0;
+    border-top: 1px solid #ddd;
+    background: white;
+}
+
+.button-bar > button {
+    float: right;
+    margin: 20px;
+}
+
+.list-group {
+    margin: 0;
+    font-size: 14px;
+}
+
+.list-group-item {
+    border-radius: 0 !important;
+    background-color: #eee;
+    /*border-bottom: 1px solid #ccc;*/
+    border: none;
+}
+
+li.list-group-item {
+    list-style: none;
+    padding: 0px;
+}
+
+li.list-group-item > a {
+    text-decoration: none;
+    margin: 0px;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+li.list-group-item > a {
+    padding: 10px 15px;
+    display: block;
+}
+
+li.list-group-item.active > a .list-text {
+    color: black;
+}
+
+.list-group-item.active {
+    color: #000;
+    background-color: #d5d5d5;
+    border: none;
+}
+
+.location-not-valid span {
+    color: rgb(255, 0, 0);
+}
+
+.save-state-display {
+    padding: 15px;
+    margin-right: 15px;
+    float: right;
+}
+
+.save-state-display i {
+    margin-right: 2px;
+}
+
+a.build-version-display {
+    padding: 15px;
+    margin-right: 25px;
+    float: right;
+    color: white;
+}
+
+a.build-version-display:hover {
+    color: #fff;
+    background-color: #333;
+    text-decoration: none;
+}
+
+a.build-version-display:focus {
+    text-decoration: none;
+}
+
+@media (min-width: 768px) {
+    .navbar-show-toggled {
+        display: none;
+    }
+}
+
+.navbar-hide-toggled {
+    display: none;
+}
+
+@media (min-width: 768px) {
+    .navbar-hide-toggled {
+        display: inline;
+    }
+}
+
+.add-location-button {
+    text-align: center;
+    padding: 0;
+}
+
+.game-info-editor {
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
+
+.panel-fit {
+    width: fit-content;
+}
+
+.center {
+    text-align: center;
+}
+
+.navbar {
+    z-index: 999 !important;
+}
+
+ux-dialog-overlay.active {
+    background-color: white;
+    opacity: 0.5 !important;
+}
+
+/*
+div.paragraph + div.paragraph {
+    margin-top: 10px;
+}
+*/
+
+button + div {
+    margin-top: 10px;
+}
+
+a > button {
+    color: #333;
+}
+
+.toolbar-button + .toolbar-button {
+    display: inline;
+    margin-left: 4px !important;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.toolbar-button {
+    float: left;
+    color: white;
+    width: 100%;
+}
+
+.toolbar-button button {
+    color: white;
+}
+
+.print-list {
+    border-style: none;
+    background-color:#eee;
+}
+
+.print-toolbar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.print-toolbar button {
+    margin: 0px 2px;
+}
+
+.well {
+    margin-bottom: 20px;
+}
+
+.well-preview {
+    border: none;
+    width: 210mm;
+    padding: 6mm;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, .20);
+    margin: 20px auto auto;
+}
+
+.well-success {
+    background-color: #dff0d8 !important;
+}
+
+.well-warning {
+    background-color: #fcf8e3 !important;
+}
+
+.well-danger {
+    background-color: #f2dede !important;
+}
+
+.tools {
+    max-width: 400px;
+    margin: auto;
+}
+
+.tools-import-buttons button {
+    margin-bottom: 10px;
+}
+
+.form-control{
+    border-style: none;
+    background-color:#eee;
+}
+
+.form-control.next-location-found {
+    border-color: rgba(0, 120, 0, 1) !important;
+    padding: 6px 12px;
+}
+
+.form-control.next-location-found:focus {
+    box-shadow: 0 1px 1px rgba(0, 120, 0, 0.075) inset, 0 0 8px rgba(0, 120, 0, 0.6);
+}
+
+.form-control.next-location-not-found {
+    border-color: rgba(255, 0, 0, 0.4) !important;
+    border-style: solid;
+    border-width: 2px;
+    padding: 4px 10px;
+}
+
+.form-control.next-location-not-found:focus {
+    box-shadow: 0 1px 1px rgba(255, 0, 0, 0.075) inset, 0 0 8px rgba(255, 0, 0, 0.6);
+}
+
+ux-dialog-body {
+    text-align: center;
+}
+
+.tools button {
+    width: 50%;
+}
+
+.about {
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.about h1 {
+    padding-top: 70px;
+}
+
+.about div {
+    padding-bottom: 20px;
+    clear: both;
+}
+
+.demokratielabore-logo {
+    float: right;
+}
+
+.demokratielabore-link {
+    float: right;
+    height: 0;
+    position: relative;
+}
+
+/* -------------------------------- */
+/* ----------- Printing ----------- */
+/* -------------------------------- */
+
+@media screen
+{
+    .print, .print * {
+        display: none !important;
+    }
+}
+@media print
+{
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+
+@page {
+    size: A4;
+    margin: 6mm;
+}
+
+.print-content {
+    width: 80mm;
+    height: 141mm; /* 2x3: 94mm, 2x2: 141mm */
+    float: left;
+    position: relative;
+    margin-left: 9mm;
+    margin-right: 9mm;
+    /*border: 1px solid black;*/
+}
+
+.print-content > * {
+    overflow: hidden;
+}
+
+.print-content qr-code-display img {
+    width: 80mm !important; /* 2x3: 50mm, 2x2: 98mm */
+    height: 80mm !important;
+    -ms-interpolation-mode: nearest-neighbor;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: pixelated;
+}
+
+.print-title {
+    font-size: 5mm;
+    font-weight: bold;
+    text-transform: uppercase;
+    height: 20mm;
+    margin: 0px 0mm 2mm 0mm;
+    display: flex;
+}
+
+.print-title span {
+    align-self: flex-end;
+}
+
+.print-game-info {
+    font-size: 5mm;
+    font-weight: bold;
+    margin: 3mm 0mm 2mm;
+    max-height: 20mm;
+}
+
+.print-game-info span {
+    text-transform: uppercase;
+}
+
+.print-manual {
+    font-size: 4mm;
+    margin: 0mm 0mm;
+    height: 11mm;
+}
+
+.print-internal-info {
+    font-size: 2mm;
+    position: absolute;
+    right: 0mm;
+    bottom: 0mm;
+}
+
+
+
+

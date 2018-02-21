@@ -2,13 +2,16 @@
   url: 'https://fez-berlin.de/nc/programm/detailansicht/pixelwelten-fuer-kleine-gamer-maker-und-ihre-eltern-847/'
   date: 17.02.
   city: Berlin
+  featured: false
   id: "0001"
 - name: Game of Thoughts - Jugendbildungsstätte UHU
   date: 10.03.
   city: Ober-Mörlen-Langenheim
+  featured: true
   id: "0002"
 - name: Verschiedene Workshops im Verschwörhaus Ulm
   url: 'https://verschwoerhaus.de/'
   date: 03.04.
   city: Ulm
+  featured: true
   id: "0003"

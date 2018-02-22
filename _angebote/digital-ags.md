@@ -1,7 +1,7 @@
 ---
 title: "Digital-AGs"
 layout: angebot-detail
-an_teaser: "Um unsere Themen langfristig in den  Jugendeinrichtungen zu verankern,  unterstützen wir euch inhaltlich und organisatorisch bei Gründung von wöchtlich stattfinden AGs."
+an_teaser: "Um unsere Themen langfristig in den Jugendeinrichtungen zu verankern, unterstützen wir euch inhaltlich und organisatorisch bei der Gründung von regelmäßig stattfindenden AGs."
 link: '/angebot/digital-ags'
 featured: true
 hide_hero: true

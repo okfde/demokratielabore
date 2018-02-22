@@ -1,7 +1,7 @@
 ---
 title: "Webvideo-Channel "
 layout: angebot-detail
-an_teaser: "Im Webvideo-Channel about:blank produzieren wir wöchentlich gemeinsam mit unseren Partnern medialepfade.org, netzpolitik.org Sendungen zu digitalen, technologischen und gesellschaftlichen Themen."
+an_teaser: "Im Webvideo-Channel about:blank produzieren wir wöchentlich gemeinsam mit unseren Partnern medialepfade.org und  netzpolitik.org Sendungen zu digitalen, technologischen und gesellschaftlichen Themen."
 link: '/angebot/about-blank'
 featured: true
 hide_hero: true

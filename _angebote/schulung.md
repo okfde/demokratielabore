@@ -20,7 +20,7 @@ hide_hero: true
 	Wie kann das Erlernte noch stärker in Bezug gesetzt werden mit den Fragestellungen und Tätigkeitsbereichen der verschiedenen gemeinnützigen Träger der außerschulischen Jugendarbeit? Wie können sie selbst digitale Projekte und Ideen umsetzen?
 </p>
 <p>
-	Wir laden euch im Juni zu einer zweitägigen Data Expedition ein, bei der wir gemeinnützige Einrichtungen mit technik-affinen Menschen wie Datenjournalist/nnen und Entwickler/innen vernetzen. In Teams werden konkrete Probleme in Angriff genommen, eine Fragestellung beantwortet oder ein digitales Projekt als Prototyp umgesetzt. Ziel der Data Expedition ist es, gemeinsam eine Idee mit digitalen Mitteln umzusetzen und im Peer-to-Peer-Ansatz von den Teammitgliedern zu lernen. 
+	Wir laden euch im Juni zu einer zweitägigen Data Expedition ein, bei der wir gemeinnützige Einrichtungen mit technik-affinen Menschen wie Datenjournalist/innen und Entwickler/innen vernetzen. In Teams werden konkrete Probleme in Angriff genommen, eine Fragestellung beantwortet oder ein digitales Projekt als Prototyp umgesetzt. Ziel der Data Expedition ist es, gemeinsam eine Idee mit digitalen Mitteln umzusetzen und im Peer-to-Peer-Ansatz von den Teammitgliedern zu lernen. 
 </p><br>
 <h2>Datenspaziergang</h2>
 <p>

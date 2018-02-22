@@ -9,7 +9,7 @@ hide_hero: true
 ---
 <h2>Jugendarbeit im digitalen Wandel – Kompetenzen, Daten und digitale Tools</h2>
 <p>
-	Von Oktober bis Dezember 2017 haben wir zwei Workshops mit Fachkräften aus der Jugendarbeit durchgeführt. Ziel war es, die Erfahrungen aus der alltäglichen, digitalen Arbeit aufzuarbeiten und zu diskutieren. Zusätzlich haben wir eine Umfrage zu digitalen Kompetenzen, Daten und Tools mit verschieden Vertreter*innen aus der Jugendarbeit durchgeführt. Die Ergebnisse unserer Analyse und Tipps aus den Workshops findet ihr zusammengefasst **<a href="https://bedarfsanalyse.demokratielabore.de">hier</a>**.
+	Von Oktober bis Dezember 2017 haben wir zwei Workshops mit Fachkräften aus der Jugendarbeit durchgeführt. Ziel war es, die Erfahrungen aus der alltäglichen, digitalen Arbeit aufzuarbeiten und zu diskutieren. Zusätzlich haben wir eine Umfrage zu digitalen Kompetenzen, Daten und Tools mit verschieden Vertreter*innen aus der Jugendarbeit durchgeführt. Die Ergebnisse unserer Analyse und Tipps aus den Workshops findet ihr zusammengefasst <a href="https://bedarfsanalyse.demokratielabore.de">hier</a>.
 </p><br>
 <h2>Workshops</h2>
 <p>

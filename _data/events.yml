@@ -1,16 +1,19 @@
-- name: Game of Thoughts - Jugendbildungsstätte UHU
-  date: 10.03.
-  city: Ober-Mörlen-Langenheim
-  featured: true
-  id: "0001"
-- name: Verschiedene Workshops im Verschwörhaus
-  url: 'https://verschwoerhaus.de/'
-  date: 03.04.
-  city: Ulm
-  featured: true
-  id: "0002"
+- name: Auf Mikas Spuren - Pixelwelten im FEZ
+  url: 'https://fez-berlin.de/nc/programm/detailansicht/pixelwelten-fuer-kleine-gamer-maker-und-ihre-eltern-847/'
+  date: 2017-02-17
+  city: Berlin
+  featured: false
 - name: Ungehörsam - Bildungsstätte der Humanistischen Union
-  date: 17.04.
+  date: 2017-04-17
   city: Essen
   featured: true
-  id: "0003"
+- name: Game of Thoughts - Jugendbildungsstätte UHU
+  date: 2017-03-10
+  city: Ober-Mörlen-Langenheim
+  featured: true
+- name: Verschiedene Workshops im Verschwörhaus
+  url: 'https://verschwoerhaus.de/'
+  date: 2017-04-03
+  city: Ulm
+  featured: true
+

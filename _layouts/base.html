@@ -50,14 +50,15 @@
                                 <div class="events-panel-inner">
                                     <h3 class="events-headline">Kommende Events</h3>
                                     <ul class="events-list">
-                                        {% for event in site.data.events %}
+                                        {% assign events = site.data.events | where: "featured","true" | sort: "date" %}
+                                        {% for event in  events %}
                                         {% if event.url %}
                                         <a href="{{event.url}}" target="_blank">
                                             {% endif %}
                                             <li class="events-item">
 
                                                 <div class="event-date">
-                                                    {{ event.date }}
+                                                    {{ event.date | date:"%d.%m" }}
                                                 </div>
                                                 <div class="event-info">
                                                     {{ event.name }},<br/>{{ event.city }}

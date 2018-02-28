@@ -17,7 +17,7 @@ voraussetzungen:
 
 downloads:
 - name: 'Steckbrief zum Workshop'
-  file: '/workshops/downloads/logo_black.svg'
+  file: 'workshops/downloads/steckbriefe/Steckbrief%20WS%20Auf%20Mikas%20Spuren.pdf'
 
 
 ---

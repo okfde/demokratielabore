@@ -26,6 +26,16 @@
   date: 2017-04-20
   city: Berlin
   featured: true
+- name: Workshop - Citizen Science (Fachkräfte)
+  url: 'https://demokratielabore.de/angebot/schulung'
+  date: 2017-05-11
+  city: Berlin
+  featured: true
+- name: Workshop - Twitterdebatten analysieren (Fachkräfte)
+  url: 'https://demokratielabore.de/angebot/schulung'
+  date: 2017-06-01
+  city: Berlin
+  featured: true
 
 
 

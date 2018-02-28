@@ -3,20 +3,6 @@
   date: 2017-02-17
   city: Berlin
   featured: false
-- name: Workshop: Digitales Storytelling (Fachkräfte)
-  url: 'https://demokratielabore.de/angebot/schulung'
-  date: 2017-04-20
-  city: Berlin
-  featured: true
-- name: Ungehörsam - Bildungsstätte der Humanistischen Union
-  date: 2017-04-17
-  city: Essen
-  featured: true
-- name: Workshop: Offene Daten in der Jugendarbeit (Fachkräfte)
-  url: 'https://demokratielabore.de/angebot/schulung'
-  date: 2017-04-06
-  city: Berlin
-  featured: true
 - name: Game of Thoughts - Jugendbildungsstätte UHU
   date: 2017-03-10
   city: Ober-Mörlen-Langenheim
@@ -26,4 +12,21 @@
   date: 2017-04-03
   city: Ulm
   featured: true
+- name: Workshop: Offene Daten in der Jugendarbeit (Fachkräfte)
+  url: 'https://demokratielabore.de/angebot/schulung'
+  date: 2017-04-06
+  city: Berlin
+  featured: true
+- name: Ungehörsam - Bildungsstätte der Humanistischen Union
+  date: 2017-04-17
+  city: Essen
+  featured: true
+- name: Workshop: Digitales Storytelling (Fachkräfte)
+  url: 'https://demokratielabore.de/angebot/schulung'
+  date: 2017-04-20
+  city: Berlin
+  featured: true
+
+
+
 

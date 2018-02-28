@@ -13,7 +13,7 @@ hide_hero: true
 </p><br>
 <h2>Workshops</h2>
 <p>
-	In unseren Workshops experimentieren wir zum Beispiel mit Sensoren und Hardware, verarbeiten Daten zu interessanten Stories oder schauen uns spannende Debatten auf Twitter an. Dazu laden wir alle Interessierten aus der Jugendarbeit herzlich ein:
+	In unseren Workshops experimentieren wir zum Beispiel mit Sensoren und Hardware, verarbeiten Daten zu interessanten Stories oder schauen uns spannende Debatten auf Twitter an. Dazu laden wir alle Interessierten aus der Jugendarbeit herzlich nach Berlin ein:
 </p><br>
 
 <h3>Workshop I: Offene Daten und digitale Beteiligung in der Jugendarbeit (06. April 2018)</h3>

@@ -11,9 +11,18 @@
   date: 2017-03-10
   city: Ober-Mörlen-Langenheim
   featured: true
+- name: Workshop: Offene Daten in der Jugendarbeit (Fachkräfte)
+  url: 'https://demokratielabore.de/angebot/schulung'
+  date: 2017-04-06
+  city: Berlin
+  featured: true
 - name: Verschiedene Workshops im Verschwörhaus
   url: 'https://verschwoerhaus.de/'
   date: 2017-04-03
   city: Ulm
   featured: true
-
+- name: Workshop: Digitales Storytelling (Fachkräfte)
+  url: 'https://demokratielabore.de/angebot/schulung'
+  date: 2017-04-20
+  city: Berlin
+  featured: true

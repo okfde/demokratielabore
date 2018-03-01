@@ -57,7 +57,7 @@ Politische Diskussionen finden immer mehr im digitalen Raum statt. Auch für Jug
                 <a class="members-image-wrap" href="mailto:helene.hahn@okfn.de"><img class="img-circle member-avatar" alt="Helene Hahn" src="/img/avatars/helene.jpg"></a>
             </div>
 <p>
-    <span class="speaker-name"><a class="text__blue" href="mailto:helene.hahn@okfn.de">Helene Hahn</a> </span>Projektmodulleiterin Fachkräfteschulung<br>helene.hahn@okfn.de
+    <span class="speaker-name"><a class="text__blue" href="mailto:helene.hahn@okfn.de">Helene Hahn</a> </span>Modulleiterin Fachkräfteschulung<br>helene.hahn@okfn.de
 </p>
 </div>
 </div>

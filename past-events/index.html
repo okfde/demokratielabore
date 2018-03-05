@@ -1,0 +1,29 @@
+---
+layout: base
+title: Presse
+hide_hero: true
+---
+
+<!-- presse -->
+<div class="beneath-sections jumbotron fond__white">
+    <div class="container text__black">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h1 class="text-center section-headline">Vergangene Events</h1>
+
+                    {% assign events = site.data.events | where: "featured","false" | sort: "date" %}
+                    {% for event in  events %}
+                    <p>
+                        {% if event.url %}
+                        <a href="{{event.url}}" target="_blank">{{ event.date | date:"%d.%m" }}: {{ event.name }}, {{ event.city }}</a>
+                        {% else %}
+                            {{ event.date | date:"%d.%m" }}: {{ event.name }}, {{ event.city }}
+                        {% endif %}
+                    </p>
+                    <hr />
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

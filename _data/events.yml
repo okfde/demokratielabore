@@ -3,17 +3,40 @@
   date: 2017-02-17
   city: Berlin
   featured: false
-- name: Ungehörsam - Bildungsstätte der Humanistischen Union
-  date: 2017-04-17
-  city: Essen
-  featured: true
 - name: Game of Thoughts - Jugendbildungsstätte UHU
   date: 2017-03-10
   city: Ober-Mörlen-Langenheim
   featured: true
-- name: Verschiedene Workshops im Verschwörhaus
+- name: Verschiedene Workshops für Jugendliche im Verschwörhaus
   url: 'https://verschwoerhaus.de/'
   date: 2017-04-03
   city: Ulm
   featured: true
+- name: Workshop - Offene Daten in der Jugendarbeit (Fachkräfte)
+  url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
+  date: 2017-04-06
+  city: Berlin
+  featured: true
+- name: Ungehörsam - Bildungsstätte der Humanistischen Union
+  date: 2017-04-17
+  city: Essen
+  featured: true
+- name: Workshop - Digitales Storytelling (Fachkräfte)
+  url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
+  date: 2017-04-20
+  city: Berlin
+  featured: true
+- name: Workshop - Citizen Science (Fachkräfte)
+  url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
+  date: 2017-05-11
+  city: Berlin
+  featured: true
+- name: Workshop - Twitterdebatten analysieren (Fachkräfte)
+  url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
+  date: 2017-06-01
+  city: Berlin
+  featured: true
+
+
+
 

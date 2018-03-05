@@ -19,10 +19,7 @@ voraussetzungen:
 
 downloads:
 - name: 'Steckbrief zum Workshop'
-  file: '/workshops/downloads/illu.png'
-
-- name: 'Train-The-Trainer-Konzept'
-  file: '/workshops/downloads/logo_black.svg'
+  file: '/workshops/downloads/steckbriefe/Steckbrief%20WS%20Invasion%20der%20Cybertrolle.pdf'
 
 
 ---

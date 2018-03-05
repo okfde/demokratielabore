@@ -19,7 +19,7 @@ voraussetzungen:
 
 downloads:
 - name: 'Steckbrief zum Workshop'
-  file: '/workshops/downloads/logo_black.svg'
+  file: '/workshops/downloads/steckbriefe/Steckbrief%20WS%20Game%20of%20Thoughts.pdf'
 
 ---
 <h3>Inhaltlicher Ablauf</h3>

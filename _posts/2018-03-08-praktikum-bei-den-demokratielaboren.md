@@ -11,11 +11,11 @@ title: "Mein Praktikum bei den Demokratielaboren"
 
 Ich bin Linus. Ich bin 14 Jahre alt und gehe in die 9. Klasse. Ich besuche die Paula Fürst Gemeinschaftsschule in Berlin, und mache zurzeit mein dreiwöchiges Praktikum bei den Demokratielaboren der Open Knowledge Foundation. Während des Praktikums schreibe diesen Blogpost über die Demokratielabore und meine Aufgaben dort. 
 
-# Was sind die Demokratielabore?
+## Was sind die Demokratielabore?
 
 Die Demokratielabore sind ein Projekt der [Open Knowledge Foundation](https://okfn.de), die das Internet für die Jugendlichen (12 bis 21) als positiven Gestaltungsraum zurückerobern wollen. Das bedeutet, dass sie den Jugendlichen zeigen wollen, wie vielfältig das Internet ist und was man damit alles machen kann. Sie wollen ihnen außerdem klarmachen, dass sie durch das Internet sehr viel bewirken können. Zum Beispiel kann man über ein Thema einen Comic erstellen und es ins Internet stellen. Das ist zwar nicht viel, wenn das nur einer macht, aber wenn dann auf einmal 10 Comics zum selben Thema im Internet sind, dann kriegen die schon ein bisschen mehr Aufmerksamkeit. Um das besser verständlich zu machen, entwickeln sie verschiedene Workshops die sie dann bei Anfragen mit den Jugendlichen  durchführen.
 
-# Und das sind meine Aufgaben:
+## Und das sind meine Aufgaben:
 
 In diesen drei Wochen bei den Demokratielaboren habe ich viele verschiedene Aufgaben erledigt. Dies sind einige davon: 
 

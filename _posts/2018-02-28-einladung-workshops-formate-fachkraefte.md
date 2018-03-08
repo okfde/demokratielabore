@@ -4,7 +4,7 @@ author: Jasmin
 date: 2018-02-28
 excerpt: 
 images:
-  - imgname: workshop-dl.jpg
+  - imgname: workshop-dl2.jpg
 published: true
 title: "Einladung: Workshops, Data Expedition & Datenspaziergang für Fachkräfte in der Jugendarbeit"
 ---

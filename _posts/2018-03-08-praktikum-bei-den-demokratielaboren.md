@@ -54,4 +54,6 @@ Game of Thoughts ist einer der Workshops, die von den Demokratielaboren angebote
 
 </script>
 
+Um das Spiel zu starten, drücke die Pfeiltaste auf deiner Tastatur!
+
 Alles in allem macht mir mein Praktikum hier sehr viel Spaß. Ich habe sehr viele Dinge gelernt, die ich sonst nie hingekriegt hätte. Und jetzt habe ich Ideen auf die ich sonst nie gekommen wäre.

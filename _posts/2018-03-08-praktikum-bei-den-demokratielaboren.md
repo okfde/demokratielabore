@@ -9,7 +9,7 @@ published: true
 title: "Mein Praktikum bei den Demokratielaboren"
 ---
 
-Ich bin Linus. Ich bin 14 Jahre alt und gehe in die 9. Klasse. Ich besuche die Paula Fürst Gemeinschaftsschule in Berlin, und mache zurzeit mein dreiwöchiges Praktikum bei den Demokratielaboren der Open Knowledge Foundation. Während des Praktikums schreibe ich diesen Blogpost über die Demokratielabore und meine Aufgaben dort. 
+Ich bin Linus. Ich bin 14 Jahre alt und gehe in die 9. Klasse. Ich besuche eine Gemeinschaftsschule in Berlin und mache zurzeit mein dreiwöchiges Praktikum bei den Demokratielaboren der Open Knowledge Foundation. Während des Praktikums schreibe ich diesen Blogpost über die Demokratielabore und meine Aufgaben dort. 
 
 ## Was sind die Demokratielabore?
 

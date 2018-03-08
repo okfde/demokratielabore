@@ -36,7 +36,7 @@ Wenn die Demokratielabore sich bei Konferenzen oder Tagungen vorstellen und dort
 Das Minecraft-Comic wird wahrscheinlich ein neuer Workshop der Demokratielabore. Das funktioniert folgendermaßen: Man kann alleine oder mit mehreren Leuten [Minecraft](https://minecraft.net/de-de/) spielen und eine Geschichte nachstellen. Während der einzelnen Schritten des Comics macht man immer Screenshots. Und fügt diese in ein Comic-Programm namens [Comic Life](http://www.comiclife.eu/download.html#sthash.ANgPFzZu.dpbs)
 ein. Dann kann man noch Sprechblasen und Text hinzufügen und man ist fertig. In meinem Comic geht es darum, dass eine Person sein Dorf vor Zombies beschützen muss.
 
-![Mein Minecraft-Comic](assets/blog/minecraft-comic.jpg)
+![Mein Minecraft-Comic](/assets/blog/minecraft-comic.JPG)
 
 Das gesamte Comic gibt es hier: [Minecraft-Comic von Linus][1]
 

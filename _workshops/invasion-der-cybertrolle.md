@@ -1,8 +1,8 @@
 ---
 title: "Invasion der Cybertrolle"
-thema: "Digitales Spielbuch"
-prinzip: "Game Jam"
-dauer: "4 Stunden - 2 Tage"
+thema: "Diskussionskultur im Netz"
+prinzip: "Digitales Pen&Paper-Rollenspiel"
+dauer: "2-8 Stunden"
 
 layout: workshop-detail
 img: "/workshops/teasers/invasiondercybertrolle.png"

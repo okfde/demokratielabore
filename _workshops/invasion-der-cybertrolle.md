@@ -13,9 +13,9 @@ ws_teaser: "Digitale Abenteuer-Gruppen bringen Licht in die dunklen Gewölbe soz
 link: '/workshops/invasion-der-cybertrolle'
 featured: true
 
- <!--voraussetzungen:
+voraussetzungen:
 - text: 'Teilnehmer*innen: Gleiche Sprache, herkömmliche Internetsuchmaschinen sind bekannt'
-- text: 'Pädagogische Fachkräfte: Herkömmliche Internetsuchmaschinen sind bekannt, Interesse an Methoden zu Fake News'-->
+- text: 'Pädagogische Fachkräfte: Herkömmliche Internetsuchmaschinen sind bekannt, Interesse an Methoden zu Fake News'
 
 downloads:
 - name: 'Steckbrief zum Workshop'

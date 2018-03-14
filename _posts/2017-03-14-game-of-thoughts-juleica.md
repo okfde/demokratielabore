@@ -6,7 +6,7 @@ excerpt:
 images:
   - imgname: Ober-Mörlen.jpg
 published: true
-title: ""Danke für die tollen Ideen" - unser erster GameJam in Hessen"
+title: "'Danke für die tollen Ideen' - unser erster GameJam in Hessen"
 ---
 
 Am Wochenende durften wir mit einer Gruppe JuLeiCa-Anwärter/innen unseren Workshop ["Game of Thoughts"](https://demokratielabore.de/workshops/game-of-thoughts/) durchführen. Die Gruppe von 14- bis 15-jährigen durchlaufen gerade eine ganze Reihe an Fortbildungen und lernen so Jugendgruppen zu leiten. Wir freuen uns sehr, dass wir die Möglichkeit hatten mit so engagierten Jugendlichen zu arbeiten und hoffen, sie werden unsere Konzepte in ihre Jugendarbeit integrieren.

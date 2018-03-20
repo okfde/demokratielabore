@@ -20,6 +20,12 @@ voraussetzungen:
 downloads:
 - name: 'Steckbrief zum Workshop'
   file: '/workshops/downloads/steckbriefe/Steckbrief%20WS%20Ungeho%CC%88rsam.pdf'
+- name: 'Ungehörsam Editor'
+  file: '/workshops/downloads/ungehoersam/editor/index.html'
+- name: 'Ungehörsam Reader (Android)'
+  file: '/workshops/downloads/ungehoersam/Ungeh%C3%B6rsam-Reader.apk'
+- name: 'GIT zum Ungehörsam Editor und Reader (Android)'
+  file: 'https://github.com/okfde/demolabs-ungehoersam'
 
 
 ---

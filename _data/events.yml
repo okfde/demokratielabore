@@ -40,6 +40,11 @@
   date: 2017-06-01
   city: Berlin
   featured: true
+- name: Game of Thoughts
+  url: 'https://demokratielabore.de/blog/Anmeldung-FFM'
+  date: 2017-06-15
+  city: Frankfurt am Main
+  featured: true
 
 
 

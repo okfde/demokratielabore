@@ -4,7 +4,7 @@ author: Leo und Paula
 date: 2018-03-21
 excerpt: 
 images:
-  - imgname: GoT_Blog_Bild.png
+  - imgname: freisteller_Räume_Demokratielabore_RGB_0004_game.png
 published: true
 title: "Anmeldung zum Game of Thoughts Workshop in Frankfurt/Main"
 ---

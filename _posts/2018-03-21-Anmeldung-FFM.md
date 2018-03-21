@@ -4,7 +4,7 @@ author: Leo und Paula
 date: 2018-03-21
 excerpt: 
 images:
-  - imgname: /workshops/teasers/gameofthoughts.png
+  - imgname: gameofthoughts.png
 published: true
 title: "Anmeldung zum Game of Thoughts Workshop in Frankfurt/Main"
 ---

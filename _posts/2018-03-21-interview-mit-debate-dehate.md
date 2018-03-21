@@ -8,7 +8,7 @@ images:
 published: true
 title: "Mit digitalen Tools Gesellschaft gestalten #3 - Interview mit debate//de:hate"
 ---
-Foto: Christina Dinar, Projektleiterin von debate//de:hate
+Christina Dinar, Projektleiterin von debate//de:hate, Foto: Anna Gold
 
 Mit den Demokratielaboren wollen wir Jugendliche dazu ermutigen, sich mit Hilfe von digitalen Kompetenzen und Technologien selbstbestimmt und aktiv an gesellschaftlichen Prozessen zu beteiligen. In Zeiten von Hate Speech, Fake News und Populismus ist es aber oft gar nicht so leicht, das Internet als positiven Raum zur Gestaltung zu nutzen. Wie können Jugendliche mit Hilfe von Technologien selbstwirksam werden und sich beteiligen? Dazu sprechen wir jeden Monat mit Expert/innen aus digitalen Projekten für und mit jungen Menschen. In Interview #3: Christina Dinar von **[debate//de:hate](http://debate-dehate.com/)**, einem Projekt, das sich für eine digitale demokratische Debattenkultur einsetzt.
 

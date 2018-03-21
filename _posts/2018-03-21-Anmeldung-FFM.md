@@ -10,7 +10,7 @@ title: "Anmeldung zum Game of Thoughts Workshop in Frankfurt/Main"
 ---
 Wolltest du schon immer einmal dein eigenes Computerspiel programmieren und damit gleichzeitig die deine Meinung sagen?! Dann bist du bei unserem Game of Thoughts Workshop genau richtig! In Frankfurt werden nicht nur Games programmiert, sondern beim parallel stattfindenden <a href="https://jugendhackt.org/ffm">Jugend hackt in Frankfurt am Main</a> kannst du andere Teams treffen, die an gesellschaftlich relevanten Technikprojekten arbeiten.
 
-Datum: 15.06. bis 17.06.2018
+Datum: 15.06. bis 17.06.2018 <br>
 Ort: Frankfurt am Main (genauer Ort wird noch bekanntgegeben)
 
 <a href="https://goo.gl/forms/YWIQvA2790mDiogu2"><button class="btn btn-start color-2">Anmeldung</button></a>

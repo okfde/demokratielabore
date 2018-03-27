@@ -18,9 +18,7 @@ hide_hero: true
 
 <h3>Workshop I: Offene Daten und digitale Beteiligung in der Jugendarbeit (06. April 2018)</h3>
 <p>
-Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreisentwicklungen oder dem Sanierungsbedarf von Schulen. Mit diesen Informationen können Vereine und Jugendverbände ihre politischen Anliegen mit neuen Argumenten untermauern. In unserem Workshop diskutieren wir die Bedeutung von offenen Daten und Informationsfreiheit. Gemeinsam entwickeln wir Ideen für digitale Jugendprojekte, die Transparenz & Beteiligung fördern. Hier geht’s <a class="highlight-grey" href="https://goo.gl/forms/BIp8tBFxbTWUP2Ox2">zur Anmeldung</a>. <br> <br>
-	
-**Bitte beachte: Workshop I ist aktuell ausgebucht. Du kannst dich gern anmelden, wir müssen dich aber auf die Warteliste setzen und melden uns bei dir, wenn ein Platz frei wird (spätestens zum 30.03.2018).**
+Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreisentwicklungen oder dem Sanierungsbedarf von Schulen. Mit diesen Informationen können Vereine und Jugendverbände ihre politischen Anliegen mit neuen Argumenten untermauern. In unserem Workshop diskutieren wir die Bedeutung von offenen Daten und Informationsfreiheit. Gemeinsam entwickeln wir Ideen für digitale Jugendprojekte, die Transparenz & Beteiligung fördern. Hier geht’s <a class="highlight-grey" href="https://goo.gl/forms/BIp8tBFxbTWUP2Ox2">zur Anmeldung</a>. 
 </p><br>
 
 <h3>Workshop II: Digitales Storytelling - Mit Daten Geschichten erzählen (20. April 2018)</h3>

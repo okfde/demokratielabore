@@ -20,6 +20,8 @@ Kleine Spiele selbst gemacht – In kurzer Zeit und ohne Vorkenntnisse verwandel
 
 ## Workshop 3 - Invasion der Cybertrolle
 Ihr verwandelt euch in diesem Workshop in digitale Abenteuer-Gruppen, die bewaffnet mit Smartphone und Tablet sowie der helfenden Stimme der Spielleiterin, Licht in die dunklen Gewölbe sozialer Plattformen bringen müsst.
+
+*--> Die Uhrzeiten der Workshops kommunizieren wir in Kürze!*
  
 Teilnehmen kann jede/r zwischen 12 und 21 Jahren, natürlich kostenlos! Interesse? **[Dann meldet euch gleich an](https://docs.google.com/forms/d/e/1FAIpQLSc_UgoiqOgtWvsV0zWX0WYUVOEwFNHaHZf9v2mZqMpCwc3SSg/viewform)** und vergesst nicht, euren Freund/innen und Freundesfreund/innen Bescheid zu sagen! ;)
 

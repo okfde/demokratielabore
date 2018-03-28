@@ -7,11 +7,6 @@
   date: 2017-03-10
   city: Ober-Mörlen-Langenheim
   featured: false
-- name: Ungehörsam, Game of Thoughts & Invasion der Cybertrolle - Verschwörhaus
-  url: 'https://docs.google.com/forms/d/e/1FAIpQLSc_UgoiqOgtWvsV0zWX0WYUVOEwFNHaHZf9v2mZqMpCwc3SSg/viewform'
-  date: 2017-04-03
-  city: Ulm
-  featured: true
 - name: Workshop - Offene Daten in der Jugendarbeit (Fachkräfte)
   url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
   date: 2017-04-06
@@ -34,6 +29,11 @@
   url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
   date: 2017-05-11
   city: Berlin
+  featured: true
+- name: Ungehörsam, Game of Thoughts & Invasion der Cybertrolle - Verschwörhaus
+  url: 'https://docs.google.com/forms/d/e/1FAIpQLSc_UgoiqOgtWvsV0zWX0WYUVOEwFNHaHZf9v2mZqMpCwc3SSg/viewform'
+  date: 2017-05-29
+  city: Ulm
   featured: true
 - name: Workshop - Twitterdebatten analysieren (Fachkräfte)
   url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'

@@ -27,7 +27,7 @@ Kleine Spiele selbst gemacht – In kurzer Zeit und ohne Vorkenntnisse verwandel
 ## Workshop 3 - Invasion der Cybertrolle
 Ihr verwandelt euch in diesem Workshop in digitale Abenteuer-Gruppen, die bewaffnet mit Smartphone und Tablet sowie der helfenden Stimme der Spielleiterin, Licht in die dunklen Gewölbe sozialer Plattformen bringen müsst.
 
-*--> Der Workshop findet am 29.5. von 14:00 - 17:00 Uhr & am 30.5. von 13:00 - 16:00 Uhr für Jugendliche statt und 30.5. von 10:00 - 13:00 Uhr für Multiplikator/innen!*
+*--> Der Workshop findet am 29.5. von 14:00 - 17:00 Uhr & am 30.5. von 13:00 - 16:00 Uhr für Jugendliche statt und am 30.5. von 10:00 - 13:00 Uhr für Multiplikator/innen!*
  
 Teilnehmen kann jede/r zwischen 12 und 21 Jahren sowie Fachkräfte und Multiplikator/innen aus der Jugendarbeit, natürlich kostenlos! Interesse? **[Dann meldet euch gleich an](https://docs.google.com/forms/d/e/1FAIpQLSc_UgoiqOgtWvsV0zWX0WYUVOEwFNHaHZf9v2mZqMpCwc3SSg/viewform)** und vergesst nicht, euren Freund/innen und Freundesfreund/innen Bescheid zu sagen! ;)
 

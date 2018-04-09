@@ -39,6 +39,8 @@ downloads:
 <p>
 	Im Anschluss dieser Entwicklungsphase werden erneut verschiedene Pfade durchgespielt. Zum Ende werden die von den Spielenden ausgewählten Möglichkeiten diskutiert und geschaut, inwieweit sie der Realität entsprechen.
 </p>
+<p></br></br>
+</p>
 <p>
 Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar und vom <a href="https://www.bmfsfj.de/">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a href="https://www.demokratie-leben.de/">“Demokratie leben!”</a> und von der <a href="https://www.bpb.de/">Bundeszentrale für politische Bildung</a> gefördert: <a href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 | OKF DE</a>
 </p>

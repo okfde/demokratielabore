@@ -24,8 +24,10 @@ Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreis
 <h3>Workshop II: Digitales Storytelling - Mit Daten Geschichten erzählen (20. April 2018)</h3>
 <p>
 Erst durch lebhafte Erzählungen werden Statistiken greifbar und anschaulich. Mit Daten und digitalen Tools können auch komplexe Zusammenhänge einfach vermittelt werden. In diesem Workshop dreht sich alles um digitales Storytelling: Wie entlocken wir Daten spannende Geschichten? Wie erstellen informative Visualisierungen und arbeiten mit interaktiven Formaten Inhalte ansprechend auf? Hier geht’s <a class="highlight-grey" href="https://goo.gl/forms/BIp8tBFxbTWUP2Ox2">zur Anmeldung</a>.
+	
+**Achtung: Leider sind alle Plätze in diesem Workshop schon belegt. Melde dich dennoch gerne an, wenn du auf die Warteliste möchtest! Wir informieren dich, wenn du nachrücken kannst. Danke für dein Verständnis!**
 </p><br>
- 
+
 <h3>Workshop III: Citizen Science: Mit Arduinos & Sensoren selbst aktiv werden (11. Mai 2018)</h3>
 <p>
 Was bedeutet Citizen Science und wie lässt sich mit kleinen Hardwarebausteinen die eigene Umwelt neu entdecken? Gemeinsam bauen wir einfache Anwendungen wie beispielsweise einen Feinstaubsensor, schauen wie Arduinos funktionieren und überlegen, wie diese Ansätze praktisch in die Jugendarbeit einfließen können. Hier geht’s <a class="highlight-grey" href="https://goo.gl/forms/BIp8tBFxbTWUP2Ox2">zur Anmeldung</a>.

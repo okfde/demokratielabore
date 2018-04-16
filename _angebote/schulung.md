@@ -6,6 +6,12 @@ link: '/angebot/schulung'
 featured: true
 hide_hero: true
 
+downloads:
+- name: 'Workshop I: Präsentation: Offene Daten für die Jugendarbeit'
+  file: '/workshops/downloads/Demokratielabore_Präsentation_Offene-Daten-in-der-Jugendarbeit.pdf'
+- name: 'Workshop I: Lernmaterial: Offene Daten & Daten-Portale'
+  file: '/workshops/downloads/Demokratielabore_Lernmaterial_OpenData-Portale.pdf'
+  
 ---
 <h2>Jugendarbeit im digitalen Wandel – Kompetenzen, Daten und digitale Tools</h2>
 <p>

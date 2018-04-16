@@ -21,7 +21,7 @@ hide_hero: true
 Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreisentwicklungen oder dem Sanierungsbedarf von Schulen. Mit diesen Informationen können Vereine und Jugendverbände ihre politischen Anliegen mit neuen Argumenten untermauern. In unserem Workshop diskutieren wir die Bedeutung von offenen Daten und Informationsfreiheit. Gemeinsam entwickeln wir Ideen für digitale Jugendprojekte, die Transparenz & Beteiligung fördern. <br>
 	
 <h4>Downloads aus dem Workshop</h4>
-		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Offene-Daten-in-der-Jugendarbeit.pdf"download="/workshops/downloads/Demokratielabore_Präsentation_Offene-Daten-in-der-Jugendarbeit.pdf">Präsentation: Offene Daten für die Jugendarbeit</a>
+		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Offene-Daten-in-der-Jugendarbeit.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Offene-Daten-in-der-Jugendarbeit.pdf">Präsentation: Offene Daten für die Jugendarbeit</a>
                     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Lernmaterial_OpenData-Portale.pdf" download="/workshops/downloads/Demokratielabore_Lernmaterial_OpenData-Portale.pdf">Lernmaterial: Offene Daten & Daten-Portale</a>
 </p><br>
 

@@ -22,6 +22,8 @@ downloads:
 
 
 ---
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/WhEfSG3yRcI?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <h3>Inhaltlicher Ablauf</h3>
 <p>
 	Zu Beginn des Workshops finden sich Teams von ca. zwei bis vier Jugendlichen zusammen, die eine fiktive Nachrichtenagentur gründen. Jede Agentur gibt sich einen Namen und definiert für sich Themengebiete, über die sie berichten will, z.B. Fußball, Actionfilme oder Donald Trump. Anschließend recherchieren die Gruppen Schlagzeilen und Stories zu diesen Themen im Internet und verfassen ausgehend davon eigene Meldungen, die teilweise korrekt, teilweise aber auch mit Fehldarstellungen und Unwahrheiten versehen sind (mindestens eine echte und eine falsche Nachricht pro Agentur). 

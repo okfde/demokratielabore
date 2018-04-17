@@ -23,6 +23,8 @@ downloads:
 
 
 ---
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/uDPvf0Rs3Jw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <h3>Kurzbeschreibung</h3>
 <p>
 	Die Teilnehmenden werden nach einem Warm-Up in Gruppen eingeteilt und suchen sich je eine von vier möglichen Spielfiguren mit unterschiedlichen Fähigkeiten aus. Anschließend startet das Abenteuer: Im Brettspiel „Invasion der Cybertrolle” gilt es, das digitale Königreich von den Trollen zu befreien. Spielort sind die sozialen Plattformen und Netzwerke. Dort gilt es Aufgaben zu lösen und Gegnern zu trotzen, die die Spielenden mit Anfeindungen konfrontieren. Statt klassischer Kämpfe sind diese jedoch nur durch bestimmte Verhaltensweisen zu besiegen: Dafür ist es zunächst wichtig herauszufinden, wie man „Trolle” im Netz erkennt und mit ihnen umgeht, Hate Speech verhindert und in Debatten argumentativ punkten kann. 

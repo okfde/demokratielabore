@@ -15,7 +15,7 @@
 - name: Ungehörsam - Weststadthalle
   date: 2017-04-17
   city: Essen
-  featured: true
+  featured: false
 - name: Workshop - Digitales Storytelling (Fachkräfte)
   url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
   date: 2017-04-20

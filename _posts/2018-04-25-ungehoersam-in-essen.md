@@ -4,7 +4,7 @@ author: Sebastian, Lea
 date: 2018-04-25
 excerpt: 
 images:
-  - imgname: Essen-Jugendliche.jpg
+  - imgname: Essen-Jugendliche1.jpg
 published: true
 title: "Die Welt mit  anderen Augen sehen - Unser Workshop “Ungehörsam” mit Jugendlichen & Fachkräften in Essen"
 ---

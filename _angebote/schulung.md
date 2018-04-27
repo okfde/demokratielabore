@@ -28,10 +28,12 @@ Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreis
 
 <h3>Workshop II: Digitales Storytelling - Mit Daten Geschichten erzählen (20. April 2018)</h3>
 <p>
-Erst durch lebhafte Erzählungen werden Statistiken greifbar und anschaulich. Mit Daten und digitalen Tools können auch komplexe Zusammenhänge einfach vermittelt werden. In diesem Workshop dreht sich alles um digitales Storytelling: Wie entlocken wir Daten spannende Geschichten? Wie erstellen informative Visualisierungen und arbeiten mit interaktiven Formaten Inhalte ansprechend auf? Hier geht’s <a class="highlight-grey" href="https://goo.gl/forms/BIp8tBFxbTWUP2Ox2">zur Anmeldung</a>.
-<br>	
-<br>	
-**Achtung: Leider sind alle Plätze in diesem Workshop schon belegt. Melde dich dennoch gerne an, wenn du auf die Warteliste möchtest! Wir informieren dich, wenn du nachrücken kannst. Danke für dein Verständnis!**
+Erst durch lebhafte Erzählungen werden Statistiken greifbar und anschaulich. Mit Daten und digitalen Tools können auch komplexe Zusammenhänge einfach vermittelt werden. In diesem Workshop dreht sich alles um digitales Storytelling: Wie entlocken wir Daten spannende Geschichten? Wie erstellen informative Visualisierungen und arbeiten mit interaktiven Formaten Inhalte ansprechend auf? <br>
+
+<h4>Materialien aus dem Workshop</h4>
+		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Digitales-Storytelling.pdf">Präsentation: Digitales Storytelling</a>
+                    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Lernmaterial_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Lernmaterial_Digitales-Storytelling.pdf">Lernmaterial: Digitales Storytelling</a>
+		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Digitales-Storytelling.pdf">Workshopdokumentation: Digitales Storytelling</a>
 </p><br>
 
 <h3>Workshop III: Citizen Science: Mit Arduinos & Sensoren selbst aktiv werden (11. Mai 2018)</h3>

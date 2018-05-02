@@ -21,6 +21,8 @@ downloads:
 
 
 ---
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/601tGRpoNB4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <h3>Inhaltlicher Ablauf</h3>
 <p> 
 	Nach einer kurzen Vorstellung des Formates und der Verhaltensregeln, werden die Teilnehmenden direkt in die Situation des Raumes gebracht: Besorgte Nachbarn bitten sie um Mithilfe, den/die vermisste/n Mika zu finden, bevor die Eltern zurückkehren. Dazu müssen sie verschiedensten Spuren folgen, Schlösser öffnen und letztlich Entscheidungen treffen, die sie zu einem der möglichen Enden führen.

@@ -22,6 +22,8 @@ downloads:
   file: '/workshops/downloads/steckbriefe/Steckbrief%20WS%20Game%20of%20Thoughts.pdf'
 
 ---
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/tN6a2Oz_gpM?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <h3>Inhaltlicher Ablauf</h3>
 <p>
 	Nach einem Input zu Grundlagen des Gamedesign und dem Thema Meinungsäußerung werden zunächst kleine bereits existierende Games ausprobiert und diskutiert. Die Teilnehmenden finden sich anschließend in kleinen Gruppen zusammen und setzen erste Ideen und Erkenntnisse in Form von analogen Brettspielen um – und erlernen so schnell und einfach die Grundlagen von Spielmechaniken.

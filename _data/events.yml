@@ -7,40 +7,74 @@
   date: 2017-03-10
   city: Ober-Mörlen-Langenheim
   featured: false
-- name: Ungehörsam, Game of Thoughts & Invasion der Cybertrolle - Verschwörhaus
-  url: 'https://docs.google.com/forms/d/e/1FAIpQLSc_UgoiqOgtWvsV0zWX0WYUVOEwFNHaHZf9v2mZqMpCwc3SSg/viewform'
-  date: 2017-04-03
-  city: Ulm
-  featured: true
 - name: Workshop - Offene Daten in der Jugendarbeit (Fachkräfte)
   url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
   date: 2017-04-06
   city: Berlin
-  featured: true
+  featured: false
 - name: Ungehörsam - Weststadthalle
   date: 2017-04-17
   city: Essen
-  featured: true
+  featured: false
 - name: Workshop - Digitales Storytelling (Fachkräfte)
   url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
   date: 2017-04-20
   city: Berlin
-  featured: true
+  featured: false
 - name: Game of Thoughts & Infostand - DPSG Leuchtfeuer 2018
   date: 2017-04-29
   city: Westernohe
+  featured: true
+- name: Infoveranstaltung beim AdB
+  date: 2017-05-08
+  city: Berlin
   featured: true
 - name: Workshop - Citizen Science (Fachkräfte)
   url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
   date: 2017-05-11
   city: Berlin
   featured: true
+- name: Alle Workshops (außer Newsbusters) - DPSG Pfingstlager
+  date: 2017-05-18
+  city: Westernohe
+  featured: true
+- name: Ungehörsam, Game of Thoughts & Invasion der Cybertrolle - Verschwörhaus
+  url: 'https://docs.google.com/forms/d/e/1FAIpQLSc_UgoiqOgtWvsV0zWX0WYUVOEwFNHaHZf9v2mZqMpCwc3SSg/viewform'
+  date: 2017-05-29
+  city: Ulm
+  featured: true
+- name: Invasion der Cybertrolle - Kurt-Löwenstein-Haus
+  date: 2017-05-30
+  city: Werneuchen
+  featured: true
 - name: Workshop - Twitterdebatten analysieren (Fachkräfte)
   url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
   date: 2017-06-01
   city: Berlin
   featured: true
-
+- name: Game of Thoughts - TINCON
+  date: 2017-06-08
+  city: Berlin
+  featured: true
+- name: Infostand - Deutscher Präventionstag
+  date: 2017-06-11
+  city: Dresden
+  featured: true
+- name: Game of Thoughts - Jugend hackt
+  url: 'https://demokratielabore.de/blog/Anmeldung-FFM'
+  date: 2017-06-15
+  city: Frankfurt am Main
+  featured: true
+- name: Data Expedition (Fachkräfte)
+  date: 2017-06-15
+  url:  'https://docs.google.com/forms/d/e/1FAIpQLSfOHh27JKObDc4HM5Na4nigwXIEeEIwTCsK-UvxEdtX2f_l4g/viewform'
+  city: Berlin
+  featured: true
+- name: Datenspaziergang (Fachkräfte)
+  url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
+  date: 2017-06-17
+  city: Berlin
+  featured: true
 
 
 

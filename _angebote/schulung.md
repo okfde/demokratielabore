@@ -18,14 +18,24 @@ hide_hero: true
 
 <h3>Workshop I: Offene Daten und digitale Beteiligung in der Jugendarbeit (06. April 2018)</h3>
 <p>
-Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreisentwicklungen oder dem Sanierungsbedarf von Schulen. Mit diesen Informationen können Vereine und Jugendverbände ihre politischen Anliegen mit neuen Argumenten untermauern. In unserem Workshop diskutieren wir die Bedeutung von offenen Daten und Informationsfreiheit. Gemeinsam entwickeln wir Ideen für digitale Jugendprojekte, die Transparenz & Beteiligung fördern. Hier geht’s <a class="highlight-grey" href="https://goo.gl/forms/BIp8tBFxbTWUP2Ox2">zur Anmeldung</a>.
+Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreisentwicklungen oder dem Sanierungsbedarf von Schulen. Mit diesen Informationen können Vereine und Jugendverbände ihre politischen Anliegen mit neuen Argumenten untermauern. In unserem Workshop diskutieren wir die Bedeutung von offenen Daten und Informationsfreiheit. Gemeinsam entwickeln wir Ideen für digitale Jugendprojekte, die Transparenz & Beteiligung fördern. <br>
+	
+<h4>Materialien aus dem Workshop</h4>
+		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Offene-Daten-in-der-Jugendarbeit.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Offene-Daten-in-der-Jugendarbeit.pdf">Präsentation: Offene Daten für die Jugendarbeit</a>
+                    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Lernmaterial_OpenData-Portale.pdf" download="/workshops/downloads/Demokratielabore_Lernmaterial_OpenData-Portale.pdf">Lernmaterial: Offene Daten & Daten-Portale</a>
+		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Offene-Daten-in-der-Jugendarbeit.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Offene-Daten-in-der-Jugendarbeit.pdf">Workshopdokumentation: Offene Daten in der Jugendarbeit</a>
 </p><br>
 
 <h3>Workshop II: Digitales Storytelling - Mit Daten Geschichten erzählen (20. April 2018)</h3>
 <p>
-Erst durch lebhafte Erzählungen werden Statistiken greifbar und anschaulich. Mit Daten und digitalen Tools können auch komplexe Zusammenhänge einfach vermittelt werden. In diesem Workshop dreht sich alles um digitales Storytelling: Wie entlocken wir Daten spannende Geschichten? Wie erstellen informative Visualisierungen und arbeiten mit interaktiven Formaten Inhalte ansprechend auf? Hier geht’s <a class="highlight-grey" href="https://goo.gl/forms/BIp8tBFxbTWUP2Ox2">zur Anmeldung</a>.
+Erst durch lebhafte Erzählungen werden Statistiken greifbar und anschaulich. Mit Daten und digitalen Tools können auch komplexe Zusammenhänge einfach vermittelt werden. In diesem Workshop dreht sich alles um digitales Storytelling: Wie entlocken wir Daten spannende Geschichten? Wie erstellen informative Visualisierungen und arbeiten mit interaktiven Formaten Inhalte ansprechend auf? <br>
+
+<h4>Materialien aus dem Workshop</h4>
+		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Digitales-Storytelling.pdf">Präsentation: Digitales Storytelling</a>
+                    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Lernmaterial_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Lernmaterial_Digitales-Storytelling.pdf">Lernmaterial: Digitales Storytelling</a>
+		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Digitales-Storytelling.pdf">Workshopdokumentation: Digitales Storytelling</a>
 </p><br>
- 
+
 <h3>Workshop III: Citizen Science: Mit Arduinos & Sensoren selbst aktiv werden (11. Mai 2018)</h3>
 <p>
 Was bedeutet Citizen Science und wie lässt sich mit kleinen Hardwarebausteinen die eigene Umwelt neu entdecken? Gemeinsam bauen wir einfache Anwendungen wie beispielsweise einen Feinstaubsensor, schauen wie Arduinos funktionieren und überlegen, wie diese Ansätze praktisch in die Jugendarbeit einfließen können. Hier geht’s <a class="highlight-grey" href="https://goo.gl/forms/BIp8tBFxbTWUP2Ox2">zur Anmeldung</a>.
@@ -41,7 +51,7 @@ Politische Diskussionen finden immer mehr im digitalen Raum statt. Auch für Jug
 	Wie kann das Erlernte noch stärker in Bezug gesetzt werden mit den Fragestellungen und Tätigkeitsbereichen der verschiedenen gemeinnützigen Träger der außerschulischen Jugendarbeit? Wie können sie selbst digitale Projekte und Ideen umsetzen?
 </p>
 <p>
-	Wir laden euch am 15. und 16. Juni 2018 zu einer zweitägigen Data Expedition ein, bei der wir gemeinnützige Einrichtungen mit technik-affinen Menschen wie Datenjournalist/innen und Entwickler/innen vernetzen. In Teams werden konkrete Probleme in Angriff genommen, eine Fragestellung beantwortet oder ein digitales Projekt als Prototyp umgesetzt. Ziel der Data Expedition ist es, gemeinsam eine Idee mit digitalen Mitteln umzusetzen und im Peer-to-Peer-Ansatz von den Teammitgliedern zu lernen. Die Anmeldung startet in Kürze. 
+	Wir laden euch am 15. und 16. Juni 2018 zu einer zweitägigen Data Expedition ein, bei der wir gemeinnützige Einrichtungen mit technik-affinen Menschen wie Datenjournalist/innen und Entwickler/innen vernetzen. In Teams werden konkrete Probleme in Angriff genommen, eine Fragestellung beantwortet oder ein digitales Projekt als Prototyp umgesetzt. Ziel der Data Expedition ist es, gemeinsam eine Idee mit digitalen Mitteln umzusetzen und im Peer-to-Peer-Ansatz von den Teammitgliedern zu lernen. Hier geht’s <a class="highlight-grey" href="https://docs.google.com/forms/d/e/1FAIpQLSfOHh27JKObDc4HM5Na4nigwXIEeEIwTCsK-UvxEdtX2f_l4g/viewform">zur Anmeldung</a>.
 </p><br>
 
 <h2>Datenspaziergang</h2>

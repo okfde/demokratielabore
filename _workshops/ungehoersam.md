@@ -29,6 +29,8 @@ downloads:
 
 
 ---
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/GTbIWyJiwk0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <h3>Inhaltlicher Ablauf</h3>
 <p>
 	Nach einer kurzen Einleitung in das Thema „interaktive Geschichten” wird mit Hilfe einer kleinen Übung in das Konzept einer QR-Rallye eingeführt, in dem eine bereits vorbereitete kurze Rallye gespielt wird: Die Teilnehmenden entwerfen als erstes gemeinsam eine Situation, die einen Startpunkt, ein konkretes Problem und zwei Möglichkeiten der Reaktion darauf enthält und schreiben dies auf einen Zettel. Dieser wird an einer Stelle im Raum platziert. Die Gruppe teilt sich auf diese zwei Möglichkeiten des Reaktion auf, verortet sie im Raum und beginnt erneut damit, zwei verschiedene Reaktionen darauf zu entwickeln. Das Prozedere geht solange so weiter, bis jeweils nur noch eine Person übrig ist, die ihre letzten beiden Zettel für zwei weitere mögliche Enden platziert. So entsteht in kurzer Zeit eine parallel erarbeitete, viel verzweigte Geschichte mit doppelt so vielen Enden wie Teilnehmenden.
@@ -39,8 +41,11 @@ downloads:
 <p>
 	Im Anschluss dieser Entwicklungsphase werden erneut verschiedene Pfade durchgespielt. Zum Ende werden die von den Spielenden ausgewählten Möglichkeiten diskutiert und geschaut, inwieweit sie der Realität entsprechen.
 </p>
+<p>	
+---	
+</p>
 <p>
-Workshopmaterialien werden bald nachgeliefert!
+Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar und vom <a class="highlight-grey" href="https://www.bmfsfj.de/">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="https://www.demokratie-leben.de/">“Demokratie leben!”</a> und von der <a class="highlight-grey" href="https://www.bpb.de/">Bundeszentrale für politische Bildung</a> gefördert: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 | OKF DE</a>
 </p>
 
 

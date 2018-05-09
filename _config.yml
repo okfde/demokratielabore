@@ -20,8 +20,8 @@ sass:
     style: :compressed
 permalink: /blog/:title
 excerpt_separator: "\n"
-paginate: 5
-paginate_path: "blog/:num"
+paginate: 10
+paginate_path: "blog/page/:num"
 gems:
   - jekyll-sitemap
   - jekyll-paginate

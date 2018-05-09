@@ -14,11 +14,15 @@ hide_hero: true
             <div class="container wide">
                 <div class="isotope-wrap">
                     <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
-                    {% for post in site.posts %}
+                    {% for post in paginator.posts %}
                     <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
                         {% include post-teaser-tile.html post=post %}
                     </div>
                     {% endfor %}
+                </div>
+                <!-- Pagination links -->
+                <div class="text-center">
+                    {% include pagination.html %}
                 </div>
             </div>
         </div>

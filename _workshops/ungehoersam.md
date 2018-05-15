@@ -20,6 +20,8 @@ voraussetzungen:
 downloads:
 - name: 'Steckbrief zum Workshop'
   file: '/workshops/downloads/steckbriefe/Steckbrief%20WS%20Ungeho%CC%88rsam.pdf'
+- name: 'Online-Ablaufplan'
+  file: 'https://handbuch.demokratielabore.de/#3-4-Ungeh%C3%B6rsam%20%E2%80%93%20Gut%20und%20verru%CC%88ckt%20demonstrieren'
 - name: 'Benötigtes Material (Ablauf, Präsentation, Print)'
   file: '/workshops/downloads/ungehoersam/Ungehörsam Material.zip'
 - name: 'Ungehörsam Editor'

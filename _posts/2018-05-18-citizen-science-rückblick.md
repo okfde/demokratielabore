@@ -1,17 +1,13 @@
 ---
-authors:
-- Moritz Neujeffski
-date: 2018-05-17 08:00:00
-picture:
-  src: /files/blog/2018/04/arduino.jpg
+layout: post
+authors: Moritz Neujeffski
+date: 2018-05-17
+images:
+  - imgname: arduino.jpg
   title: arduino
   license: "CC-BY-4.0, OKF DE, Foto: Leonard Wolf"
   license_url: "https://creativecommons.org/licenses/by/4.0/"
-tags:
-- jugendarbeit
-- workshop
-- citizen science
-- arduino
+published: true
 title: "Citizen Science - Rückblick zur Fachkräfteschulung #3"
 ---
 

@@ -1,12 +1,10 @@
 ---
 layout: post
-authors: Moritz Neujeffski
+author: Moritz Neujeffski
 date: 2018-05-17
+excerpt:
 images:
   - imgname: arduino.jpg
-  title: arduino
-  license: "CC-BY-4.0, OKF DE, Foto: Leonard Wolf"
-  license_url: "https://creativecommons.org/licenses/by/4.0/"
 published: true
 title: "Citizen Science - Rückblick zur Fachkräfteschulung #3"
 ---

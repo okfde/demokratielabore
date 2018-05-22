@@ -43,7 +43,7 @@ Was bedeutet Citizen Science und wie lässt sich mit kleinen Hardwarebausteinen 
 
 <h3>Workshop IV: Eliza meets Tay: Debatten auf Twitter analysieren (01. Juni 2018)</h3>
 <p>
-Politische Diskussionen finden immer mehr im digitalen Raum statt. Auch für Jugendverbände gehören Social Media-Kanäle zum Arbeitsalltag. Neben der Kommunikation für jugendpolitische Interessen können die Debatten auf Twitter aber auch für die eigene politische Bildung genutzt werden. In diesem Workshop zeichnen wir gemeinsam die Verläufe von Debatten wie #metoo oder #diesejungenleute nach und bauen eigene Bots, um deren Wirken besser zu verstehen. Hier geht’s <a class="highlight-grey" href="https://goo.gl/forms/BIp8tBFxbTWUP2Ox2">zur Anmeldung</a>.
+Politische Diskussionen finden immer mehr im digitalen Raum statt. Auch für Jugendverbände gehören Social Media-Kanäle zum Arbeitsalltag. Neben der Kommunikation für jugendpolitische Interessen können die Debatten auf Twitter aber auch für die eigene politische Bildung genutzt werden. In diesem Workshop zeichnen wir gemeinsam die Verläufe von Debatten wie #metoo oder #diesejungenleute nach und bauen eigene Bots, um deren Wirken besser zu verstehen. Hier geht’s <a class="highlight-grey" href="https://goo.gl/forms/BIp8tBFxbTWUP2Ox2">zur Anmeldung</a>. <br>
 <br>
 Achtung: Leider sind alle Plätze in diesem Workshop schon belegt. Melde dich dennoch gerne an, wenn du auf die Warteliste möchtest! Wir informieren dich, wenn du nachrücken kannst. Danke für dein Verständnis!
 </p><br>

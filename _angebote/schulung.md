@@ -64,12 +64,12 @@ Achtung: Leider sind alle Plätze in diesem Workshop schon belegt. Melde dich de
     <div class="container text-center">
         <div class="row">
             <h2>Ihr habt Fragen oder wollt noch mehr Infos?</h2> 
-            <h2> Dann meldet euch am besten bei Helene</h2>
+            <h2> Dann meldet euch am besten bei Anna</h2>
             <div class="members justify-content-md-center">
-                <a class="members-image-wrap" href="mailto:helene.hahn@okfn.de"><img class="img-circle member-avatar" alt="Helene Hahn" src="/img/avatars/helene.jpg"></a>
+                <a class="members-image-wrap" href="mailto:anna.alberts@okfn.de"><img class="img-circle member-avatar" alt="Anna Alberts" src="/img/avatars/anna.jpg"></a>
             </div>
 <p>
-    <span class="speaker-name"><a class="text__blue" href="mailto:helene.hahn@okfn.de">Helene Hahn</a> </span>Modulleiterin Fachkräfteschulung<br>helene.hahn@okfn.de
+    <span class="speaker-name"><a class="text__blue" href="mailto:anna.alberts@okfn.de">Anna Alberts</a> </span>Modulleiterin Fachkräfteschulung<br>anna.alberts@okfn.de
 </p>
 </div>
 </div>

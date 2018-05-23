@@ -42,7 +42,7 @@ Was bedeutet Citizen Science und wie lässt sich mit kleinen Hardwarebausteinen 
 
 <h4>Materialien aus dem Workshop</h4>
 		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Citizen-Science.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Citizen-Science.pdf">Präsentation: Citizen Science</a>
-                    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Citizen-Science.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Citizen-Science.pdf">Lernmaterial: Citizen Science</a>
+                    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Citizen-Science.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Citizen-Science.pdf">Dokumentation: Citizen Science</a>
 </p><br>
 
 <h3>Workshop IV: Eliza meets Tay: Debatten auf Twitter analysieren (01. Juni 2018)</h3>

@@ -38,7 +38,11 @@ Erst durch lebhafte Erzählungen werden Statistiken greifbar und anschaulich. Mi
 
 <h3>Workshop III: Citizen Science: Mit Arduinos & Sensoren selbst aktiv werden (11. Mai 2018)</h3>
 <p>
-Was bedeutet Citizen Science und wie lässt sich mit kleinen Hardwarebausteinen die eigene Umwelt neu entdecken? Gemeinsam bauen wir einfache Anwendungen wie beispielsweise einen Feinstaubsensor, schauen wie Arduinos funktionieren und überlegen, wie diese Ansätze praktisch in die Jugendarbeit einfließen können. Hier geht’s <a class="highlight-grey" href="https://goo.gl/forms/BIp8tBFxbTWUP2Ox2">zur Anmeldung</a>.
+Was bedeutet Citizen Science und wie lässt sich mit kleinen Hardwarebausteinen die eigene Umwelt neu entdecken? Gemeinsam bauen wir einfache Anwendungen wie beispielsweise einen Feinstaubsensor, schauen wie Arduinos funktionieren und überlegen, wie diese Ansätze praktisch in die Jugendarbeit einfließen können. <br>
+
+<h4>Materialien aus dem Workshop</h4>
+		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Citizen-Science.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Citizen-Science.pdf">Präsentation: Citizen Science</a>
+                    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Citizen-Science.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Citizen-Science.pdf">Lernmaterial: Citizen Science</a>
 </p><br>
 
 <h3>Workshop IV: Eliza meets Tay: Debatten auf Twitter analysieren (01. Juni 2018)</h3>

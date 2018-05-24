@@ -35,7 +35,7 @@ title: Hello
                     {% assign workshops = site.workshops | where:"featured",true %}
                     {% for workshop in workshops limit:3 %}
                     {% assign post = workshop %}
-                    <div class="col-xs-12 col-md-4 post-teaser">
+                    <div class="col-xs-12 col-md-4 col-sm-4 post-teaser">
                         {% include workshop-teaser-tile.html post=post %}
                     </div>
                     {% endfor %}

@@ -25,7 +25,7 @@ downloads:
 - name: 'Begleit-App (BETA!)'
   file: '/workshops/downloads/invasiondercybertrolle/app/index.html'
 - name: 'Benötigtes Material (BETA!)'
-  file: '/workshops/downloads/invasiondercybertrolle/Invasion der Cybertrolle Material.zip'
+  file: '/workshops/downloads/invasiondercybertrolle/Invasion der Cybertrolle Material - BETA.zip'
 
 
 ---

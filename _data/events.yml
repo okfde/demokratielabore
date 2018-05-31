@@ -42,11 +42,11 @@
   url: 'https://docs.google.com/forms/d/e/1FAIpQLSc_UgoiqOgtWvsV0zWX0WYUVOEwFNHaHZf9v2mZqMpCwc3SSg/viewform'
   date: 2017-05-29
   city: Ulm
-  featured: true
+  featured: false
 - name: Invasion der Cybertrolle - Kurt-Löwenstein-Haus
   date: 2017-05-30
   city: Werneuchen
-  featured: true
+  featured: false
 - name: Workshop - Twitterdebatten analysieren (Fachkräfte)
   url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
   date: 2017-06-01
@@ -75,6 +75,5 @@
   date: 2017-06-17
   city: Berlin
   featured: true
-
 
 

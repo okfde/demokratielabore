@@ -4,7 +4,7 @@ author: Lydia & Sebastian
 date: 2018-06-04
 excerpt: 
 images:
-  - imgname: pfingstlager.jpg
+  - imgname: pfingstlager-dpsg.jpg
 published: true
 title: "Zwischen Wölflingen und Rovern: Die Demokratielabore auf dem Pfingstlager der DPSG"
 ---

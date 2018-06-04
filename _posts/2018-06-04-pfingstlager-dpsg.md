@@ -4,8 +4,9 @@ author: Lydia & Sebastian
 date: 2018-06-04
 excerpt: 
 images:
-  - imgname: pfingstlager-dpsg.jpg
-  - sub: "CC-BY 4.0, OKF DE, Foto: Leonard Wolf <a href='https://creativecommons.org/licenses/by/4.0/deed.de'</a>"
+ - 
+  imgname: pfingstlager-dpsg.jpg
+  sub: "CC-BY 4.0, OKF DE, Foto: Leonard Wolf <a href='https://creativecommons.org/licenses/by/4.0/deed.de'</a>"
 published: true
 title: "Zwischen Wölflingen und Rovern: Die Demokratielabore auf dem Pfingstlager der DPSG"
 ---

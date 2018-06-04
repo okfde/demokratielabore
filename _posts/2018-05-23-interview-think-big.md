@@ -4,13 +4,12 @@ author: Jasmin
 date: 2018-05-23
 excerpt: 
 images:
-  - imgname: johanna.png
+  - 
+    imgname: johanna.png
+    sub: "Johanna Stiller, Think Big, Foto: <a href='http://www.kristofferschwetje.com'>Kristoffer Schwetje</a>"
 published: true
 title: "Mit digitalen Tools Gesellschaft gestalten #5 - Interview mit Think Big"
 ---
-
-Johanna Stiller, Think Big, Foto: [Kristoffer Schwetje](http://www.kristofferschwetje.com)
-
 Mit den Demokratielaboren wollen wir Jugendliche dazu ermutigen, sich mit Hilfe von digitalen Kompetenzen und Technologien selbstbestimmt und aktiv an gesellschaftlichen Prozessen zu beteiligen. In Zeiten von Hate Speech, Fake News und Populismus ist es aber oft gar nicht so leicht, das Internet als positiven Raum zur Gestaltung zu nutzen. Wie können Jugendliche mit Hilfe von Technologien selbstwirksam werden und sich beteiligen? Dazu sprechen wir jeden Monat mit Expert/innen aus digitalen Projekten für und mit jungen Menschen. In Interview #5: Johanna Stiller von [Think Big](https://www.think-big.org/), einem Programm, das bundesweit digitale Jugendprojekte fördert. 
 
 **Demokratielabore: Was ist die Idee von Think Big und an wen richtet sich das Programm?**

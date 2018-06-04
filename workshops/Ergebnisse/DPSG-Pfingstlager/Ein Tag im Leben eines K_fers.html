@@ -1,0 +1,78 @@
+<tw-storydata name="Ein Tag im Leben eines Käfers" startnode="10" creator="Twine" creator-version="2.1.3" ifid="5BAA0373-9222-4385-81E4-0955820FFD91" format="Harlowe" format-version="2.0.1" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">
+
+
+</style><script role="script" id="twine-user-script" type="text/twine-javascript">
+
+
+</script><tw-passagedata pid="1" name="beginn" tags="Beginn" position="412,187">Du liegst mitten auf deinem nun gigantisch großen Bett und kommst dir etwas ausgeliefert vor. Was tust du
+[[In die Küche gehen|kgehen]]
+[[In die Küche fliegen|kfliegen]]
+[[Ein Kackerlackenlied singen|lied]]
+[[unterm Bett verstecken|verstecken]]
+
+
+</tw-passagedata><tw-passagedata pid="2" name="lied" tags="" position="400,525">&quot;&lt;i&gt;Nananana Nininanana nana nana na Nananana Ninana nana na na na na&lt;/i&gt;&quot;
+Ein echter klassiker der Kackerlackenvolksmusik. Man könnte glatt von einem Gassenhauer sprechen.
+
+Angelockt von dem betörenden Gesang betritt Martha Fleischhauer das Zimmer. Sie ist deine Frau. Sie ist kein Käfer. Sie zieht langsam ihren linken Schuh aus. Sie holt aus und schlägt zu. Dein kleines Käferleben endet als ein 10qcm großer grünroter Fleck am Absatz des Schuhs deiner Frau. Es dauert noch einige Minuten, bis dein linkes Hinterbeinchen langsam zu Boden gleitet. Es war von der Wucht des Aufpralls abgerissen und durch die Luft geschleudert worden.
+
+Aber das war es Wert! Das Kackerlackenlied ist großartig!</tw-passagedata><tw-passagedata pid="3" name="verstecken" tags="" position="628,327">Du krabbelst behänd zwischen Bettrahmen und Matratze. Hier findest du einen lapprigen alten Cornflake. Welch Köstliche Mahlzeit.
+Was ist dein nächster Schritt?
+[[Ein Kackerlackenlied singen|lied]]
+[[Weiter in Richtung Lattenrost krabbeln|lattenrost]]
+[[Zurück auf die Matratze krabbeln|beginn]]</tw-passagedata><tw-passagedata pid="4" name="kgehen" tags="" position="100,100">Boar näh, die Küche ist voll weit weg.
+[[zurück aufs Bett|beginn]]
+[[Ein Kackerlackenlied singen|lied]]</tw-passagedata><tw-passagedata pid="5" name="kfliegen" tags="" position="225,575">Majestätisch spannst du deine Flügel aus und springst von der Bettkante. Es gibt kaum ein besseres Gefühl, als den kurzen Moment der Schwerelosigkeit, bevor du merkst, dass deine &quot;Flügel&quot; nur große Antennen sind und du schwungvoll auf das Pakett klatschst. Ein kleines Knacken signalisiert dir, dass du eines deiner zierlichen kleinen Käferbeinchen verloren hast.
+(set: $beine = $beine - 1)
+(if: $beine is 0)[Richtig miese Zeiten! Du hast keine Beine mehr. Die Tage kommen und gehen. Kleine Pilzsporen setzen sich an den Löchern in deinem Panzer fest. Mit der Zeit wachsen die Pilze und durchdringen deinen geschundenen Insektenleib. Es tut gar nicht weh, langsam zersetzt zu werden. Es ist fast ein wenig meditativ. Du denkst darüber nach, dass die Pilze, die dich zersetzen nach deinem Tod die Grundlage für neues Leben bilden werden. Ein wunderbarer endloser Kreislauf. Dieser warme Gedanke begleitet dich, bis schließlich die Pilze deinen den Hauptstrang deines primitiven Nervensystems zersetzen und deinem kleinem Käferleben beenden.]
+(else:)[
+Du hast jetzt noch genau $beine Beinchen.
+
+
+Was tust du?
+
+[[Ein Kackerlackenlied singen|lied]]
+[[In die Küche humpeln|kgehen]]
+]</tw-passagedata><tw-passagedata pid="6" name="lattenrost" tags="" position="550,475">Du windest dich weiter zwischen Matratze und Bettgestell entlang nach unten Richtung Lattenrost. Und dann siehst du &lt;b&gt;sie&lt;/b&gt;. Dein Blick wandert von der halbabgerissenen Klaue, über das elegante Unterbein zu einem Traum von einem Käfergelenk. Von dort weiter über diverse andere sexy Gelenke auf ihren opaliszierenden Panzer. Du bewunderst ihre wohlgeformten glänzenden Segmente und lässt deinen Insektenblick dann weiter Richtung Kopf wandern. Die schimmernden Sabberfäden um ihre herrlich schiefen Fangzähne ziehen dich tiefer und tiefer in ihren Bann.
+Was tust du?
+[[Ein Kackerlackenlied singen|lied]]
+[[&quot;Hey süßer Hüpfer. Teilen wir uns heute Nacht einen warmen dampfenden Misthaufen&quot;|misthaufen]]
+[[Ihre Vorderkralle schütteln und dich vorstellen|vorstellen]]</tw-passagedata><tw-passagedata pid="7" name="liedfürsie" tags="" position="475,775">Doppelklick auf diesen Absatz zum Bearbeiten.</tw-passagedata><tw-passagedata pid="8" name="misthaufen" tags="" position="300,725">&quot;Du manierenloser Schufft!&quot; Ein stechender Schmerz durchfährt dein primitives Nervensystem, als Sie dir ein Bein ausreist.
+(set: $beine = $beine - 1)
+(if: $beine is 0)[Richtig miese Zeiten! Du hast keine Beine mehr. Die Tage kommen und gehen. Kleine Pilzsporen setzen sich an den Löchern in deinem Panzer fest. Mit der Zeit wachsen die Pilze und durchdringen deinen geschundenen Insektenleib. Es tut gar nicht weh, langsam zersetzt zu werden. Es ist fast ein wenig meditativ. Du denkst darüber nach, dass die Pilze, die dich zersetzen nach deinem Tod die Grundlage für neues Leben bilden werden. Ein wunderbarer endloser Kreislauf. Dieser warme Gedanke begleitet dich, bis schließlich die Pilze deinen den Hauptstrang deines primitiven Nervensystems zersetzen und deinem kleinem Käferleben beenden.]
+(else:)[
+Du hast jetzt noch genau $beine Beinchen.
+
+
+Wie gehst du weiter vor?
+[[Wegrennen|beginn]]
+[[Ein Kackerlackenlied singen|misthaufen]]
+[[Dich erstmal vorstellen|vorstellen]]
+]</tw-passagedata><tw-passagedata pid="9" name="vorstellen" tags="" position="662,634">Du nährst dich ihr gelant, reichst ihr dein dreckigstes Beinchen, schaust ihr tief in die trüben Augen und sagst:
+[[&quot;Mein Name ist Bug! James Bug!&quot;|doofername]]
+[[&quot;Nenn mich Ismael&quot;|doofername]]
+[[&quot;Mein Name ist Officer Supercool und du ist verhaftet wegen sexy&quot;|doofername]]
+[[&quot;Hi. Ich muss zugeben, dass ich ein bischen nervös bin. Das ist das erste mal, dass ich das hier mache. Normalerweise treffe ich mich nicht mit Fremden im Lattenrost. Meinen Namen habe ich leider vergessen. Wer bist du denn?&quot;|vorstellen2]]
+[[&quot;Jau!! Ich bin Karl der Käfer&quot;|doofername]]</tw-passagedata><tw-passagedata pid="10" name="start" tags="" position="550,50">Du wachst auf und findest dich als Käfer vor. Was tust du?
+[[warten bis es vorbei ist|aufgeben]]
+[[Die Lage checken|beginn]]
+[[Deine Base chillen|beginn]]
+(set: $beine=6)</tw-passagedata><tw-passagedata pid="11" name="aufgeben" tags="" position="713,159">Ein sehr langweiliger Tag vergeht und du verlierst das Bewusstsein.
+[[weiter|start]]</tw-passagedata><tw-passagedata pid="12" name="doofername" tags="" position="575,925">Sie erwidert deinen Blick, würgt etwas von ihrem schimmernden Speichel hervor und beißt dir eines deiner kleinen Beinchen ab. Dein Name hat ihr wohl nicht gefallen.
+
+(set: $beine = $beine - 1)
+(if: $beine is 0)[Richtig miese Zeiten! Du hast keine Beine mehr. Die Tage kommen und gehen. Kleine Pilzsporen setzen sich an den Löchern in deinem Panzer fest. Mit der Zeit wachsen die Pilze und durchdringen deinen geschundenen Insektenleib. Es tut gar nicht weh, langsam zersetzt zu werden. Es ist fast ein wenig meditativ. Du denkst darüber nach, dass die Pilze, die dich zersetzen nach deinem Tod die Grundlage für neues Leben bilden werden. Ein wunderbarer endloser Kreislauf. Dieser warme Gedanke begleitet dich, bis schließlich die Pilze deinen den Hauptstrang deines primitiven Nervensystems zersetzen und deinem kleinem Käferleben beenden.]
+(else:)[
+Du hast jetzt noch genau $beine Beinchen.
+
+Was ist dein nächster Schritt?
+[[&quot;Einen zweiten Anlauf starten und dich nochmal unter anderem Namen vorstellen&quot;|vorstellen]]
+[[&quot;Zurück aufs Bett fliehen!&quot;|beginn]]
+
+]</tw-passagedata><tw-passagedata pid="13" name="vorstellen2" tags="" position="850,725">Sie schaut dir tief in deine verkrusteten Käferaugen und röchelt &quot;Hi, ich bin &lt;b&gt;Manfred&lt;/b&gt;&quot;
+Was tust du?
+[[Langsam rückwärts zurück aufs Bett krabbeln|beginn]]
+[[&quot;Tuh - ihn - da - rein&quot;|lotw]]
+[[Ein Kackerlackenlied singen||liedfürsie]]
+[[Mit deinem Hinterfühler vorsichtig dein Geschlechlt erforschen|erforschen]]
+</tw-passagedata><tw-passagedata pid="14" name="lotw" tags="" position="700,925">Sie versteht die Anspielung nicht [[...|misthaufen]]</tw-passagedata><tw-passagedata pid="15" name="erforschen" tags="" position="825,925">Interessant. Stoppelig. Und was ist das? Schorf? Viele kleinen Hügeln und Mulden und einsehr seltsamsn Gebilde. Fühlt sich an wie eine besonders abendteuerlich verzweige Ingwerknolle. Jetzt weisst du was du zu tun hast [[..|ende]]</tw-passagedata><tw-passagedata pid="16" name="ende" tags="" position="825,1075">Was für eine Nacht!</tw-passagedata></tw-storydata>

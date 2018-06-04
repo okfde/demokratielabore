@@ -51,7 +51,7 @@
   url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
   date: 2017-06-01
   city: Berlin
-  featured: true
+  featured: false
 - name: Game of Thoughts - TINCON
   date: 2017-06-08
   city: Berlin

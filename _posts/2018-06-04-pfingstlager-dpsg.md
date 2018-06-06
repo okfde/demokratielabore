@@ -21,7 +21,7 @@ Der von uns jeweils vormittags und nachmittags durchgeführte Game Jam ‘Game o
 
 Zwei der vielen von den Jugendlichen geschaffenen Spiele könnt hier hier ausprobieren.
 
-- [Lasse und Linus](https://cdn.rawgit.com/okfde/demokratielabore/d059e849/workshops/Ergebnisse/DPSG-Pfingstlager/VON%20LINUS%20UND%20LASSE%20STAMM%20SUGAMBRER%2019.05.2018.html) 
-- [Ein Tag im Leben eines Käfers - die kafkaeske Geschichte eines Rovers](https://cdn.rawgit.com/okfde/demokratielabore/d059e849/workshops/Ergebnisse/DPSG-Pfingstlager/Ein%20Tag%20im%20Leben%20eines%20K%C3%A4fers.html)
+- [Lasse und Linus](https://demokratielabore.de/workshops/Ergebnisse/DPSG-Pfingstlager/VON%20LINUS%20UND%20LASSE%20STAMM%20SUGAMBRER%2019.05.2018.html) 
+- [Ein Tag im Leben eines Käfers - die kafkaeske Geschichte eines Rovers](https://demokratielabore.de/workshops/Ergebnisse/DPSG-Pfingstlager/Ein%20Tag%20im%20Leben%20eines%20K%C3%A4fers.html)
 
 Wir werden außerdem in den kommenden Wochen noch eine Anleitung zur Durchführung unseres Workshops „Game of Thoughts“ in einem Zeltlager veröffentlichen. Mit allen Problemen und Hindernissen - und den Lösung dazu :)

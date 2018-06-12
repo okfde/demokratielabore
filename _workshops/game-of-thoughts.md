@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Game Of Thoughts"
 thema: "Meinungsbildung"
 prinzip: "Game Jam"

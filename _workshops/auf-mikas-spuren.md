@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Auf Mikas Spuren"
 thema: "Populismus"
 dauer: "2 - 4 Stunden"

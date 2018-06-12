@@ -19,7 +19,7 @@ hide_hero: true
 <h3>Workshop I: Offene Daten und digitale Beteiligung in der Jugendarbeit (06. April 2018)</h3>
 <p>
 Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreisentwicklungen oder dem Sanierungsbedarf von Schulen. Mit diesen Informationen können Vereine und Jugendverbände ihre politischen Anliegen mit neuen Argumenten untermauern. In unserem Workshop diskutieren wir die Bedeutung von offenen Daten und Informationsfreiheit. Gemeinsam entwickeln wir Ideen für digitale Jugendprojekte, die Transparenz & Beteiligung fördern. <br>
-	
+
 <h4>Materialien aus dem Workshop</h4>
 		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Offene-Daten-in-der-Jugendarbeit.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Offene-Daten-in-der-Jugendarbeit.pdf">Präsentation: Offene Daten für die Jugendarbeit</a>
                     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Lernmaterial_OpenData-Portale.pdf" download="/workshops/downloads/Demokratielabore_Lernmaterial_OpenData-Portale.pdf">Lernmaterial: Offene Daten & Daten-Portale</a>
@@ -48,8 +48,12 @@ Was bedeutet Citizen Science und wie lässt sich mit kleinen Hardwarebausteinen 
 <h3>Workshop IV: Eliza meets Tay: Debatten auf Twitter analysieren (01. Juni 2018)</h3>
 <p>
 Politische Diskussionen finden immer mehr im digitalen Raum statt. Auch für Jugendverbände gehören Social Media-Kanäle zum Arbeitsalltag. Neben der Kommunikation für jugendpolitische Interessen können die Debatten auf Twitter aber auch für die eigene politische Bildung genutzt werden. In diesem Workshop zeichnen wir gemeinsam die Verläufe von Debatten wie #metoo oder #diesejungenleute nach und bauen eigene Bots, um deren Wirken besser zu verstehen. <br>
-<br>
-Achtung: Leider sind alle Plätze in diesem Workshop schon belegt. Melde dich dennoch gerne an, wenn du auf die Warteliste möchtest! Wir informieren dich, wenn du nachrücken kannst. Danke für dein Verständnis!
+</p>
+
+<h4>Materialien aus dem Workshop</h4>
+<p>
+    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Eliza_meets_Tay.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Eliza_meets_Tay.pdf">Präsentation: Eliza meets Tay</a>
+    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Eliza_meets_Tay.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Eliza_meets_Tay.pdf">Dokumentation: Eliza meets Tay</a>
 </p><br>
 
 <h2>Data Expedition</h2>
@@ -67,7 +71,7 @@ Achtung: Leider sind alle Plätze in diesem Workshop schon belegt. Melde dich de
 <div class="fond__grey-bright join__statement">
     <div class="container text-center">
         <div class="row">
-            <h2>Ihr habt Fragen oder wollt noch mehr Infos?</h2> 
+            <h2>Ihr habt Fragen oder wollt noch mehr Infos?</h2>
             <h2> Dann meldet euch am besten bei Anna</h2>
             <div class="members justify-content-md-center">
                 <a class="members-image-wrap" href="mailto:anna.alberts@okfn.de"><img class="img-circle member-avatar" alt="Anna Alberts" src="/img/avatars/anna.jpg"></a>
@@ -78,7 +82,3 @@ Achtung: Leider sind alle Plätze in diesem Workshop schon belegt. Melde dich de
 </div>
 </div>
 </div>
-
-
-
-

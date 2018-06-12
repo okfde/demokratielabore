@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Invasion der Cybertrolle"
 thema: "Diskussionskultur im Netz"
 prinzip: "Digitales Pen&Paper-Rollenspiel"

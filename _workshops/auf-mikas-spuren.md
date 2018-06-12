@@ -1,4 +1,4 @@
----
+﻿---
 title: "Auf Mikas Spuren"
 thema: "Populismus"
 dauer: "2 - 4 Stunden"
@@ -36,7 +36,7 @@ downloads:
 	Im Verlauf des Spieles kommen verschiedene mehrdeutige Informationen hinzu, mit denen sich verschiedene Interpretationen zur Person von Mika ergeben. Ist er/sie Faschist*in oder Islamist*in geworden oder keins von beidem? Die Entscheidungen der Gruppe und die unterschiedlichen Lösungsmöglichkeiten werden im Anschluss zur Diskussion gestellt und gemeinsam analysiert.
 </p>
 <p>
-Workshopmaterialien werden bald nachgeliefert!
+Die folgenden Downloads zum Workshop wurden gemeinsam mit <a class="highlight-grey" href="http://polyspektiv.eu/">polyspektiv</a> entwickelt, sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar und vom <a class="highlight-grey" href="https://www.bmfsfj.de/">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="https://www.demokratie-leben.de/">“Demokratie leben!”</a> und von der <a class="highlight-grey" href="https://www.bpb.de/">Bundeszentrale für politische Bildung</a> gefördert: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 | OKF DE</a>
 </p>
 
 

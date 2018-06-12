@@ -1,4 +1,4 @@
----
+﻿---
 title: "Newsbusters"
 thema: "Medienanalyse und Fake News"
 prinzip: "Simulationsspiel/Gruppenspiel"
@@ -37,5 +37,5 @@ downloads:
 	<a class="highlight-grey" href="https://paulnewsman.com">Paul Newsman</a> werden die Meldungen inklusive Titel und Foto im Stil herkömmlicher Nachrichtenseiten veröffentlicht und zwischen den Gruppen ausgetauscht. Die Gruppen müssen dann die Fehler und Falschinformationen ihrer Konkurrenten finden und versuchen diese durch eine faktenbasierte Gegendarstellungen aufzudecken. Es gewinnt das Team, das die glaubwürdigsten Fake News erstellt und selbst die meisten Falschnachrichten aufdecken konnte.
 </p>
 <p>
-Workshopmaterialien werden bald nachgeliefert!
+Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar und vom <a class="highlight-grey" href="https://www.bmfsfj.de/">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="https://www.demokratie-leben.de/">“Demokratie leben!”</a> und von der <a class="highlight-grey" href="https://www.bpb.de/">Bundeszentrale für politische Bildung</a> gefördert: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 | OKF DE</a>
 </p>

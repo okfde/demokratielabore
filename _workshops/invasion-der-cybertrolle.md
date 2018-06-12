@@ -1,4 +1,4 @@
----
+﻿---
 title: "Invasion der Cybertrolle"
 thema: "Diskussionskultur im Netz"
 prinzip: "Digitales Pen&Paper-Rollenspiel"
@@ -39,7 +39,7 @@ downloads:
 	Das System des Brettspiels ist simpel genug, um sehr schnell erlernt und verstanden zu werden, aber dennoch Anreize und einen Rahmen für die Handlungsmöglichkeiten der Spielenden schafft. Alle Teilnehmenden können sich daher ganz auf die gemeinsame Geschichte konzentrieren. Eine App führt durch das Spiel und die Begegnungen, in der mehrere Lösungsstrategien möglich sind, welche zum Abschluss gegenseitig vorgestellt und auf reale Wirksamkeit untersucht werden sollen.
 </p>
 <p>
-Workshopmaterialien werden bald nachgeliefert!
+Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar und vom <a class="highlight-grey" href="https://www.bmfsfj.de/">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="https://www.demokratie-leben.de/">“Demokratie leben!”</a> und von der <a class="highlight-grey" href="https://www.bpb.de/">Bundeszentrale für politische Bildung</a> gefördert: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 | OKF DE</a>
 </p>
 
 

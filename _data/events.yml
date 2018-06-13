@@ -55,11 +55,11 @@
 - name: Game of Thoughts - TINCON
   date: 2017-06-08
   city: Berlin
-  featured: true
+  featured: false
 - name: Infostand - Deutscher Präventionstag
   date: 2017-06-11
   city: Dresden
-  featured: true
+  featured: false
 - name: Game of Thoughts - Jugend hackt
   url: 'https://demokratielabore.de/blog/Anmeldung-FFM'
   date: 2017-06-15

@@ -64,17 +64,17 @@
   url: 'https://demokratielabore.de/blog/Anmeldung-FFM'
   date: 2017-06-15
   city: Frankfurt am Main
-  featured: true
+  featured: false
 - name: Data Expedition (Fachkräfte)
   date: 2017-06-15
   url:  'https://docs.google.com/forms/d/e/1FAIpQLSfOHh27JKObDc4HM5Na4nigwXIEeEIwTCsK-UvxEdtX2f_l4g/viewform'
   city: Berlin
-  featured: true
+  featured: false
 - name: Datenspaziergang (Fachkräfte)
   url: 'https://goo.gl/forms/BIp8tBFxbTWUP2Ox2'
   date: 2017-06-17
   city: Berlin
-  featured: true
+  featured: false
 - name: Invasion der Cybertrolle meets Turing Bus, BAXX
   date: 2017-06-22
   city: Uelzen

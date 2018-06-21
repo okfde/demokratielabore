@@ -6,7 +6,7 @@ excerpt:
 images:
  - 
   imgname: katja.jpg
-  sub: "CC-BY-NC, betterplace lab<a href='https://creativecommons.org/licenses/by/'</a>"
+  sub: "CC-BY-NC, betterplace lab <a href='https://creativecommons.org/licenses/by/'</a>"
 published: true
 title: "Mit digitalen Tools die gesellschaft von morgen gestalten - Interview mit demokratie.io"
 ---

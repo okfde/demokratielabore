@@ -78,11 +78,11 @@
 - name: Invasion der Cybertrolle meets Turing Bus, BAXX
   date: 2017-06-22
   city: Uelzen
-  featured: true
+  featured: false
 - name: Infostand auf der YOU
   date: 2017-06-22
   city: Berlin
-  featured: true
+  featured: false
 - name: Newsbusters - Medienscouts im Jugendcentrum
   date: 2017-07-11
   city: Kaarst

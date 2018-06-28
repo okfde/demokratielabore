@@ -14,7 +14,7 @@ link: '/workshops/game-of-thoughts'
 featured: true
 
 voraussetzungen:
-- text: 'Teilnehmer*innen: Gleiche Sprache, herkömmliche Internetsuchmaschinen sind bekannt'
+- text: 'Teilnehmer/innen: Gleiche Sprache, herkömmliche Internetsuchmaschinen sind bekannt'
 - text: 'Pädagogische Fachkräfte: Herkömmliche Internetsuchmaschinen sind bekannt, Interesse an Methoden zu Fake News'
 
 downloads:
@@ -24,6 +24,8 @@ downloads:
   file: 'https://handbuch.demokratielabore.de/#3-3-Game%20of%20Thoughts%20%E2%80%93%20Kleine%20Spiele%20selbst%20gemacht'
 - name: 'Benötigtes Material (Ablauf, Präsentation, Print)'
   file: '/workshops/downloads/gameofthoughts/GoT Material.zip'
+
+Außerdem gibt es in diesem <a class="highlight-grey" href="https://demokratielabore.de/zeltlager/">Tutorial</a> eine detaillierte Anleitung mit Tipps und Tricks zur Durchführung des Workshops in einem Zeltlager!
 
 ---
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/tN6a2Oz_gpM?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

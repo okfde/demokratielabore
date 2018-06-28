@@ -68,7 +68,7 @@ Die Materialien stellen wir bald hier zur Verfügung.
 
 <h2>Datenspaziergang</h2>
 <p>
-	Der Datenspaziergang ist ein gemeinsamer analoger Lauf durch ein Viertel, bei dem ihr euer Umfeld neu entdeckt: Wir zeigen, wie die digitale Welt mit unserem Alltag verwoben ist, wie Daten politische Entscheidungen prägen und wo sie erhoben werden. Digitaler Begleiter für diese Tour ist eine Web-App, die den Spaziergang am 17. Juni 2018 durch Berlin dokumentiert. Wenn ihr den Spaziergang selbst machen wollt, geht es <a class="text_blue" href="https://spaziergang.demokratielabore.de">hier</a> zur Web-App (Achtung: Die Webseite ist nicht für den Internet Explorer optimiert. Zur optimalen Nutzung der Anwendung werden Firefox oder Chrome benötigt!). <br><br>
+	Der Datenspaziergang ist ein gemeinsamer analoger Lauf durch ein Viertel, bei dem ihr euer Umfeld neu entdeckt: Wir zeigen, wie die digitale Welt mit unserem Alltag verwoben ist, wie Daten politische Entscheidungen prägen und wo sie erhoben werden. Digitaler Begleiter für diese Tour ist eine Web-App, die den Spaziergang am 17. Juni 2018 durch Berlin dokumentiert. Wenn ihr den Spaziergang selbst machen wollt, geht es <a class= "highlight-grey" href="https://spaziergang.demokratielabore.de">hier</a> zur Web-App (Achtung: Die Webseite ist nicht für den Internet Explorer optimiert. Zur optimalen Nutzung der Anwendung werden Firefox oder Chrome benötigt!). <br><br>
 
 <div class="fond__grey-bright join__statement">
     <div class="container text-center">

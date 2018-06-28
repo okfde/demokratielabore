@@ -24,6 +24,8 @@ downloads:
   file: 'https://handbuch.demokratielabore.de/#3-3-Game%20of%20Thoughts%20%E2%80%93%20Kleine%20Spiele%20selbst%20gemacht'
 - name: 'Benötigtes Material (Ablauf, Präsentation, Print)'
   file: '/workshops/downloads/gameofthoughts/GoT Material.zip'
+- name: 'Tutorial Workshopdurchführung im Zeltlager'
+  file: 'https://demokratielabore.de/zeltlager/'
 ---
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/tN6a2Oz_gpM?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -41,9 +43,6 @@ downloads:
 Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar und vom <a class="highlight-grey" href="https://www.bmfsfj.de/">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="https://www.demokratie-leben.de/">“Demokratie leben!”</a> und von der <a class="highlight-grey" href="https://www.bpb.de/">Bundeszentrale für politische Bildung</a> gefördert: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 | OKF DE</a>
 </p>
 
-<p>
-	Außerdem gibt es in diesem <a class="highlight-grey" href="https://demokratielabore.de/zeltlager/">Tutorial</a> eine detaillierte Anleitung mit Tipps und Tricks zur Durchführung des Workshops in einem Zeltlager!
-</p>
 
 
 

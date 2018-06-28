@@ -62,8 +62,12 @@ Politische Diskussionen finden immer mehr im digitalen Raum statt. Auch für Jug
 </p>
 <p>
 	Wir laden euch am 15. und 16. Juni 2018 zu einer zweitägigen <a class= "highlight-grey" href="https://dataexpedition.demokratielabore.de">Data Expedition</a> ein, bei der wir gemeinnützige Einrichtungen mit technik-affinen Menschen wie Datenjournalist/innen und Entwickler/innen vernetzen. In Teams werden konkrete Probleme in Angriff genommen, eine Fragestellung beantwortet oder ein digitales Projekt als Prototyp umgesetzt. Ziel der Data Expedition ist es, gemeinsam eine Idee mit digitalen Mitteln umzusetzen und im Peer-to-Peer-Ansatz von den Teammitgliedern zu lernen.
+<br> 
+</p>
 	
-Die Materialien stellen wir bald hier zur Verfügung. 
+<h4>Materialien aus dem Workshop</h4>
+<p>
+	Die Materialien stellen wir bald hier zur Verfügung. 
 </p><br>
 
 <h2>Datenspaziergang</h2>

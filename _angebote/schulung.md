@@ -61,12 +61,14 @@ Politische Diskussionen finden immer mehr im digitalen Raum statt. Auch für Jug
 	Wie kann das Erlernte noch stärker in Bezug gesetzt werden mit den Fragestellungen und Tätigkeitsbereichen der verschiedenen gemeinnützigen Träger der außerschulischen Jugendarbeit? Wie können sie selbst digitale Projekte und Ideen umsetzen?
 </p>
 <p>
-	Wir laden euch am 15. und 16. Juni 2018 zu einer zweitägigen <a class= "highlight-grey" href="https://dataexpedition.demokratielabore.de">Data Expedition</a> ein, bei der wir gemeinnützige Einrichtungen mit technik-affinen Menschen wie Datenjournalist/innen und Entwickler/innen vernetzen. In Teams werden konkrete Probleme in Angriff genommen, eine Fragestellung beantwortet oder ein digitales Projekt als Prototyp umgesetzt. Ziel der Data Expedition ist es, gemeinsam eine Idee mit digitalen Mitteln umzusetzen und im Peer-to-Peer-Ansatz von den Teammitgliedern zu lernen. Hier geht’s <a class="highlight-grey" href="https://docs.google.com/forms/d/e/1FAIpQLSfOHh27JKObDc4HM5Na4nigwXIEeEIwTCsK-UvxEdtX2f_l4g/viewform">zur Anmeldung</a>.
+	Wir laden euch am 15. und 16. Juni 2018 zu einer zweitägigen <a class= "highlight-grey" href="https://dataexpedition.demokratielabore.de">Data Expedition</a> ein, bei der wir gemeinnützige Einrichtungen mit technik-affinen Menschen wie Datenjournalist/innen und Entwickler/innen vernetzen. In Teams werden konkrete Probleme in Angriff genommen, eine Fragestellung beantwortet oder ein digitales Projekt als Prototyp umgesetzt. Ziel der Data Expedition ist es, gemeinsam eine Idee mit digitalen Mitteln umzusetzen und im Peer-to-Peer-Ansatz von den Teammitgliedern zu lernen.
+	
+Die Materialien stellen wir bald hier zur Verfügung. 
 </p><br>
 
 <h2>Datenspaziergang</h2>
 <p>
-	Der Datenspaziergang ist ein gemeinsamer analoger Lauf durch ein Viertel, bei dem ihr euer Umfeld neu entdeckt: Wir zeigen, wie die digitale Welt mit unserem Alltag verwoben ist, wie Daten politische Entscheidungen prägen und wo sie erhoben werden. Digitaler Begleiter für diese Tour ist eine Web-App, die den Spaziergang am 17. Juni 2018 durch Berlin dokumentiert und es Interessierten erlaubt, eigene Touren zu planen und durchzuführen. Die Open Source-Anwendung stellen wir ebenfalls ab Juni zur Verfügung. Hier geht’s <a class="highlight-grey" href="https://goo.gl/forms/BIp8tBFxbTWUP2Ox2">zur Anmeldung</a>. <br><br>
+	Der Datenspaziergang ist ein gemeinsamer analoger Lauf durch ein Viertel, bei dem ihr euer Umfeld neu entdeckt: Wir zeigen, wie die digitale Welt mit unserem Alltag verwoben ist, wie Daten politische Entscheidungen prägen und wo sie erhoben werden. Digitaler Begleiter für diese Tour ist eine Web-App, die den Spaziergang am 17. Juni 2018 durch Berlin dokumentiert. Wenn ihr den Spaziergang selbst machen wollt, geht es <a class="text_blue" href="https://spaziergang.demokratielabore.de">hier</a> zur Web-App (Achtung: Die Webseite ist nicht für den Internet Explorer optimiert. Zur optimalen Nutzung der Anwendung werden Firefox oder Chrome benötigt!). <br><br>
 
 <div class="fond__grey-bright join__statement">
     <div class="container text-center">

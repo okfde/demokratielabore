@@ -8,7 +8,7 @@ images:
   imgname: katja.jpg
   sub: "CC-BY-NC, betterplace lab"
 published: true
-title: "Mit digitalen Tools die Gesellschaft von morgen gestalten - Interview mit demokratie.io"
+title: "Mit digitalen Tools Gesellschaft gestalten #6 - Interview mit demokratie.io"
 ---
 
 Mit den Demokratielaboren wollen wir Jugendliche dazu ermutigen, sich mit Hilfe von digitalen Kompetenzen und Technologien selbstbestimmt und aktiv an gesellschaftlichen Prozessen zu beteiligen. In Zeiten von Hate Speech, Fake News und Populismus ist es aber oft gar nicht so leicht, das Internet als positiven Raum zur Gestaltung zu nutzen. Wie können Jugendliche mit Hilfe von Technologien selbstwirksam werden und sich beteiligen? Dazu sprechen wir jeden Monat mit Expert/innen aus digitalen Projekten für und mit jungen Menschen. In Interview #6: Katja Jäger, Projektleiterin von [demokratie.io](http://demokratie.io), ein Projekt, das Digitalisierung und Demokratieförderung näher zusammenbringen will.

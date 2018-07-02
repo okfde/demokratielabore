@@ -11,7 +11,7 @@ published: true
 title: "Jugendarbeit, Demokratie & Daten - Das waren unsere Data Expedition & der Datenspaziergang"
 ---
 
-Welche Themen im Bereich Jugendarbeit sollten einmal digital angegangen werden? Vor welchen Fragen rund um Digitalisierung, Jugendbeteiligung und Demokratie stehen Jugendverbände? Und wo können Daten dabei unterstützen? Mit diesen Fragen haben wir uns bei unserer [Data Expedition](https://dataexpedition.demokratielabore.de) im Rahmen der [Demokratielabore](https://demokratielabore.de) am 15. und 16. Juni gemeinsam mit Entwickler/innen, Designer/innen und Pädagog/innen aus ganz Deutschland beschäftigt und erste kleine Prototypen für digitale Projekte entwickelt.
+Welche Themen im Bereich Jugendarbeit sollten einmal digital angegangen werden? Vor welchen Fragen rund um Digitalisierung, Jugendbeteiligung und Demokratie stehen Jugendverbände? Und wo können Daten dabei unterstützen? Mit diesen Fragen haben wir uns bei unserer [Data Expedition](https://dataexpedition.demokratielabore.de) am 15. und 16. Juni gemeinsam mit Entwickler/innen, Designer/innen und Pädagog/innen aus ganz Deutschland beschäftigt und erste kleine Prototypen für digitale Projekte entwickelt.
 
 **Tag 1: Themen & Daten finden**
 

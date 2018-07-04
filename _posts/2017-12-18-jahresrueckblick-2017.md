@@ -5,7 +5,9 @@ author: Jasmin
 date: 2017-12-18
 excerpt: 
 images:
-  - imgname: klee.jpg
+  - 
+  imgname: klee.jpg
+  sub: "<a href='https://creativecommons.org/licenses/by'>CC0, Public Domain</a>"
 published: true
 title: "Tschüss 2017 - Unser Jahresrückblick"
 ---

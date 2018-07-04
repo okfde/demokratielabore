@@ -5,7 +5,9 @@ author: Jasmin
 date: 2017-10-19
 excerpt: 
 images:
-  - imgname: fokusgruppe1.JPG
+  - 
+  imgname: fokusgruppe1.JPG
+  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Sebastian Seitz"
 published: true
 title: "Rückblick zu unserer Fokusgruppe im Klubhaus Spandau"
 ---

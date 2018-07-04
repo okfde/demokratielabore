@@ -4,7 +4,9 @@ author: Lydia & Leo
 date: 2018-04-19
 excerpt: 
 images:
-  - imgname: netzwerktreffen.jpg
+  - 
+  imgname: netzwerktreffen.jpg
+  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Leonard Wolf"
 published: true
 title: "Rückblick: Netzwerktreffen von den Demokratielaboren, Jugend hackt & Hello World"
 ---

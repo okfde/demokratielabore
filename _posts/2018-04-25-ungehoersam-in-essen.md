@@ -4,7 +4,9 @@ author: Sebastian, Lea
 date: 2018-04-25
 excerpt: 
 images:
-  - imgname: Essen-Jugendliche1.jpg
+  - 
+  imgname: Essen-Jugendliche1.jpg
+  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Lea Pfau"
 published: true
 title: "Die Welt mit  anderen Augen sehen - Unser Workshop “Ungehörsam” mit Jugendlichen & Fachkräften in Essen"
 ---

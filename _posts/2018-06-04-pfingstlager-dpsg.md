@@ -6,7 +6,7 @@ excerpt:
 images:
  - 
   imgname: pfingstlager-dpsg.jpg
-  sub: "CC-BY 4.0, OKF DE, Foto: Leonard Wolf <a href='https://creativecommons.org/licenses/by/4.0/deed.de'</a>"
+  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Leonard Wolf"
 published: true
 title: "Zwischen Wölflingen und Rovern: Die Demokratielabore auf dem Pfingstlager der DPSG"
 ---

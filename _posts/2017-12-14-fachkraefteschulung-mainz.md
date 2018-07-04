@@ -5,7 +5,9 @@ author: Mat
 date: 2017-12-14
 excerpt: 
 images:
-  - imgname: mainz.jpg
+  - 
+  imgname: mainz.jpg
+  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Matthias Löwe"
 published: true
 title: "Fachkräfteschulung zu Game of Thoughts in Mainz"
 ---

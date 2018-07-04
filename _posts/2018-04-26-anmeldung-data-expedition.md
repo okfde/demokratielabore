@@ -4,7 +4,9 @@ author: Helene
 date: 2018-04-26
 excerpt: 
 images:
-  - imgname: storyhunt.jpg
+  - 
+  imgname: storyhunt.jpg
+  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Jasmin Helm"
 published: true
 title: "Anmeldung gestartet: Komm zur Data Expedition der Demokratielabore!"
 ---

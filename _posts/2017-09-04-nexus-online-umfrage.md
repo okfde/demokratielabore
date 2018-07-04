@@ -5,7 +5,6 @@ author: Jasmin
 date: 2017-09-04
 excerpt: 
 images:
-  - imgname: umfrage.png
 published: true
 title: "Kooperation mit Nexus Institut: Online-Umfrage zu digitalen Themen"
 ---	

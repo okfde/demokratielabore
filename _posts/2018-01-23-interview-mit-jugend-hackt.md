@@ -4,7 +4,9 @@ author: Jasmin
 date: 2018-01-23
 excerpt: 
 images:
-  - imgname: jugendhackt.jpg
+  - 
+  imgname: jugendhackt.jpg
+  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Leonard Wolf"
 published: true
 title: "Mit digitalen Tools Gesellschaft gestalten #1 - Interview mit jugend hackt"
 ---

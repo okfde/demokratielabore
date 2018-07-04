@@ -4,7 +4,9 @@ author: Jasmin
 date: 2018-02-28
 excerpt: 
 images:
-  - imgname: workshop-dl2.jpg
+  - 
+  imgname: workshop-dl2.jpg
+  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Thomas Nitz, tnt-fotoart.de"
 published: true
 title: "Einladung: Workshops, Data Expedition & Datenspaziergang für Fachkräfte in der Jugendarbeit"
 ---

@@ -6,7 +6,7 @@ excerpt:
 images:
  - 
   imgname: ws4-dl.jpg
-  sub: "CC-BY-4.0, OKF DE, Foto: Thomas Nitz, tnt-fotoart.de<a href='https://creativecommons.org/licenses/by/4.0/deed.de'</a>"
+ sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Thomas Nitz, tnt-fotoart.de"
 published: true
 title: "Debatten auf Twitter analysieren - Rückblick zur Fachkräfteschulung #4"
 ---

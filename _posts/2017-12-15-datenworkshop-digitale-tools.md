@@ -5,7 +5,9 @@ author: Jasmin
 date: 2017-12-15
 excerpt: 
 images:
-  - imgname: datenworkshop.jpg
+  - 
+  imgname: datenworkshop.jpg
+  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Thomas Nitz, tnt-fotoart.de"
 published: true
 title: "Rückblick zu unserem Workshop: Daten & digitale Tools in der Jugendarbeit"
 ---

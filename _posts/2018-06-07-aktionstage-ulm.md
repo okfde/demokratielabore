@@ -6,7 +6,7 @@ excerpt:
 images:
  - 
   imgname: ulm3.jpg
-  sub: "CC-BY 4.0, OKF DE, Foto: Jasmin Helm <a href='https://creativecommons.org/licenses/by/4.0/deed.de'</a>"
+  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Jasmin Helm"
 published: true
 title: "Demokratielabore meets Verschwörhaus Ulm - Das waren unsere Aktionstage"
 ---

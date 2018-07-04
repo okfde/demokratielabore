@@ -6,7 +6,7 @@ excerpt:
 images:
  - 
   imgname: ffm.jpg
-  sub: "CC-BY 4.0, OKF DE, Foto: Lydia Böttcher <a href='https://creativecommons.org/licenses/by/4.0/deed.de'</a>"
+  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Lydia Böttcher"
 published: true
 title: "Game of Thoughts trifft nachts im Museum auf Jugend hackt"
 ---

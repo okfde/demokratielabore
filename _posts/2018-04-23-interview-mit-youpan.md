@@ -4,12 +4,12 @@ author: Jasmin
 date: 2018-04-23
 excerpt: 
 images:
-  - imgname: youcon.jpg
+  - 
+  imgname: youcon.jpg
+  sub: "Foto: <a href= 'https://youpan.de/youinfo/presse/'>youcoN - Gruppenaufnahme aus der Luft</a>"
 published: true
 title: "Mit digitalen Tools Gesellschaft gestalten #4 - Interview mit youpaN"
 ---
-
-Foto: [youcoN - Gruppenaufnahme aus der Luft](https://youpan.de/youinfo/presse/)
 
 Mit den Demokratielaboren wollen wir Jugendliche dazu ermutigen, sich mit Hilfe von digitalen Kompetenzen und Technologien selbstbestimmt und aktiv an gesellschaftlichen Prozessen zu beteiligen. In Zeiten von Hate Speech, Fake News und Populismus ist es aber oft gar nicht so leicht, das Internet als positiven Raum zur Gestaltung zu nutzen. Wie können Jugendliche mit Hilfe von Technologien selbstwirksam werden und sich beteiligen? Dazu sprechen wir jeden Monat mit Expert/innen aus digitalen Projekten für und mit jungen Menschen. In Interview #4: Christoph Pennig von [youpaN](https://youpan.de/), einem Projekt, das die Beteiligung junger Menschen im Bereich Bildung für nachhaltige Entwicklung (BNE) unterstützt.
 

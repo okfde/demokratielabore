@@ -5,7 +5,6 @@ author: Mat, Jasmin
 date: 2017-11-20
 excerpt: 
 images:
-  - imgname: play.jpg
 published: true
 title: "Auf Mikas Spuren @ PLAY17"
 ---

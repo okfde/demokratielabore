@@ -4,7 +4,9 @@ author: Jasmin
 date: 2018-04-27
 excerpt: 
 images:
-  - imgname: workshop2-ds.jpg
+  - 
+  imgname: workshop2-ds.jpg
+  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Lea Pfau"
 published: true
 title: "Digitales Storytelling - Rückblick zu unserer Fachkräfteschulung #2"
 ---

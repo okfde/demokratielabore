@@ -11,8 +11,6 @@ published: true
 title: "Einladung: Workshops, Data Expedition & Datenspaziergang für Fachkräfte in der Jugendarbeit"
 ---
 
-Foto: Thomas Nitz, tnt-fotoart.de, CC BY 4.0, Open Knowledge Foundation Deutschland e.V.
-
 Ende letzten Jahres haben wir uns intensiv mit Daten und digitalen Tools in der Jugendarbeit beschäftigt. In zwei Workshops diskutierten wir die Erfahrungen der Fachkräfte aus der alltäglichen, digitalen Arbeit. Zusätzlich führten wir eine Umfrage zu digitalen Kompetenzen, Daten und Tools mit verschieden Vertreter/innen aus der Jugendarbeit durch. Die Ergebnisse unserer Analyse und Tipps aus den Workshops gibt es [hier](https://bedarfsanalyse.demokratielabore.de) zum Nachlesen. 
 
 Aufbauend auf den Ergebnissen aus dem Vorjahr, möchten wir nun noch praktischer mit digitalen Informationen arbeiten. Dazu laden wir alle Interessierten aus der Jugendarbeit herzlich ein, an unseren Workshops und Formaten  in Berlin teilzunehmen:

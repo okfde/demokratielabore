@@ -4,11 +4,7 @@ author: Moritz
 date: 2018-05-17
 excerpt:
 images:
-<<<<<<< HEAD
- - 
-=======
   -
->>>>>>> origin/master
     imgname: arduino.jpg
     sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Leonard Wolf"
 published: true

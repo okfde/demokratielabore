@@ -2,11 +2,11 @@
 layout: post
 author: Jasmin
 date: 2017-10-10
-excerpt: 
+excerpt:
 images:
- - 
-	imgname: poster_anklam.jpg 
-	sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Design: Nadine Stammen"
+ -
+   imgname: poster_anklam.jpg
+   sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Design: Nadine Stammen"
 published: true
 title: "Einladung zur bunten Workshop-Woche im Demokratiebahnhof Anklam!"
 ---
@@ -14,7 +14,7 @@ Endlich ist es soweit: Die ersten Workshop-Termine sind fest eingeplant und die 
 
 # 5 Tage, 5 Workshops: Das Programm
 
-Klar ist schon jetzt: Es wird bunt! Ihr könnt z.B. in die Rolle einer Fake News-Agentur schlüpfen, Cybertrolle mit uns bekämpfen oder lernen, wie man laut & verrückt demonstriert. Jeden Tag bieten wir euch außerdem Streetgames, Lagerfeueratmosphäre, Film- und Grillabende, jede Menge lauter Musik und vieles, vieles mehr! 
+Klar ist schon jetzt: Es wird bunt! Ihr könnt z.B. in die Rolle einer Fake News-Agentur schlüpfen, Cybertrolle mit uns bekämpfen oder lernen, wie man laut & verrückt demonstriert. Jeden Tag bieten wir euch außerdem Streetgames, Lagerfeueratmosphäre, Film- und Grillabende, jede Menge lauter Musik und vieles, vieles mehr!
 
 Teilnehmen kann jede/r zwischen 12 und 21 Jahren, natürlich kostenlos! **Interesse? [Dann meldet euch gleich an](http://tiny.cc/DLabsAnklam)** und vergesst nicht, euren Freund/innen und Freundesfreund/innen Bescheid zu sagen! ;)
 
@@ -23,7 +23,7 @@ Alle Infos zum Programm in Anklam könnt ihr hier nachlesen:
 
 [1]:{{ site.url }}/assets/blog/Demokratielabore_Flyer_Anklam_04.pdf
   <br>
-Allgemeine Infos zu den Workshops gibt’s [hier](https://demokratielabore.de/angebote). 
+Allgemeine Infos zu den Workshops gibt’s [hier](https://demokratielabore.de/angebote).
 
 ## Kurz gefasst
 
@@ -31,6 +31,6 @@ Allgemeine Infos zu den Workshops gibt’s [hier](https://demokratielabore.de/an
 **Wann**: 23.- 27.10.2017, Start ab 11 Uhr <br>
 **Wo**: Demokratiebahnhof Anklam, Bahnhofstraße 1, 17389 Anklam <br>
 
-Noch Fragen? Dann melde dich bei uns: [info@demokratielabore.de](mailto:info@demokratielabore.de). Wir freuen uns auf dich!  
+Noch Fragen? Dann melde dich bei uns: [info@demokratielabore.de](mailto:info@demokratielabore.de). Wir freuen uns auf dich!
 
 PS: Unsere Veranstaltung gibt’s auch bei [Facebook](https://www.facebook.com/events/160164637901150/?active_tab=about). ;)

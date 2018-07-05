@@ -2,11 +2,11 @@
 layout: post
 author: Jasmin & Lydia
 date: 2018-03-15
-excerpt: 
+excerpt:
 images:
-  - 
-	imgname: einladung1.jpg
-	sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Leonard Wolf"
+  -
+    imgname: einladung1.jpg
+    sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Leonard Wolf"
 published: true
 title: "Einladung zu bunten Aktionstagen im Verschwörhaus Ulm"
 ---
@@ -30,7 +30,7 @@ Kleine Spiele selbst gemacht – In kurzer Zeit und ohne Vorkenntnisse verwandel
 Ihr verwandelt euch in diesem Workshop in digitale Abenteuer-Gruppen, die bewaffnet mit Smartphone und Tablet sowie der helfenden Stimme der Spielleiterin, Licht in die dunklen Gewölbe sozialer Plattformen bringen müsst.
 
 *--> Der Workshop findet am 29.5. von 14:00 - 17:00 Uhr & am 30.5. von 13:00 - 16:00 Uhr für Jugendliche statt und am 30.5. von 10:00 - 13:00 Uhr für Multiplikator/innen!*
- 
+
 Teilnehmen können Jugendliche zwischen 12 und 21 Jahren, Multiplikator/innen und Fachkräfte aus der Jugendarbeit, natürlich kostenlos! Interesse? **[Dann meldet euch gleich an](https://docs.google.com/forms/d/e/1FAIpQLSc_UgoiqOgtWvsV0zWX0WYUVOEwFNHaHZf9v2mZqMpCwc3SSg/viewform)**!
 
 ### Kurz gefasst
@@ -38,6 +38,6 @@ Teilnehmen können Jugendliche zwischen 12 und 21 Jahren, Multiplikator/innen un
 **Wann:** 29.-30. Mai, Start ab 11:30 Uhr <br>
 **Wo:** Verschwörhaus, Weinhof 9, 89073 Ulm
 
-Noch Fragen? Dann melde dich bei uns: [info@demokratielabore.de](mailto:info@demokratielabore.de). Wir freuen uns auf dich! 
+Noch Fragen? Dann melde dich bei uns: [info@demokratielabore.de](mailto:info@demokratielabore.de). Wir freuen uns auf dich!
 
 PS: Unsere Veranstaltung gibt’s auch bei [Facebook](https://www.facebook.com/events/153056098707065/). ;)

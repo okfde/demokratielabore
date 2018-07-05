@@ -2,16 +2,16 @@
 layout: post
 author: Linus
 date: 2018-03-08
-excerpt: 
+excerpt:
 images:
-  - 
-	imgname: blog-linus.jpg
-	sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Leonard Wolf"
+  -
+    imgname: blog-linus.jpg
+    sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Leonard Wolf"
 published: true
 title: "Mein Praktikum bei den Demokratielaboren"
 ---
 
-Ich bin Linus. Ich bin 14 Jahre alt und gehe in die 9. Klasse. Ich besuche eine Gemeinschaftsschule in Berlin und mache zurzeit mein dreiwöchiges Praktikum bei den Demokratielaboren der Open Knowledge Foundation. Während des Praktikums schreibe ich diesen Blogpost über die Demokratielabore und meine Aufgaben dort. 
+Ich bin Linus. Ich bin 14 Jahre alt und gehe in die 9. Klasse. Ich besuche eine Gemeinschaftsschule in Berlin und mache zurzeit mein dreiwöchiges Praktikum bei den Demokratielaboren der Open Knowledge Foundation. Während des Praktikums schreibe ich diesen Blogpost über die Demokratielabore und meine Aufgaben dort.
 
 ## Was sind die Demokratielabore?
 
@@ -19,7 +19,7 @@ Die Demokratielabore sind ein Projekt der [Open Knowledge Foundation](https://ok
 
 ## Und das sind meine Aufgaben:
 
-In diesen drei Wochen bei den Demokratielaboren habe ich viele verschiedene Aufgaben erledigt. Dies sind einige davon: 
+In diesen drei Wochen bei den Demokratielaboren habe ich viele verschiedene Aufgaben erledigt. Dies sind einige davon:
 
 ## Eine Ungehörsam-Story erstellen:
 
@@ -49,7 +49,7 @@ Das gesamte Comic gibt es hier: [Minecraft-Comic von Linus][1]
 
 Game of Thoughts ist einer der Workshops, die von den Demokratielaboren angeboten werden. Es geht darum, ein eigenes digitales Spiel zu erstellen. Dazu gibt es verschiedene Plattformen auf denen man das machen kann, zum Beispiel [Bitsy](https://ledoux.itch.io/bitsy). Ich habe selbst ein Spiel erstellt, in dem man erst sein Raumschiff reparieren muss und damit dann nach Hause finden soll. Das Spiel zu erstellen hat nicht sehr lange gedauert. Trotzdem habe ich ganze vier Räume erstellt.
 
-<iframe id="iframe" src="https://okfde.github.io/raumschiff-reparatur/" height="435px" frameBorder="0" style="max-width:100%;"></iframe> 
+<iframe id="iframe" src="https://okfde.github.io/raumschiff-reparatur/" height="435px" frameBorder="0" style="max-width:100%;"></iframe>
 <script>
 
     document.getElementById('iframe').focus();

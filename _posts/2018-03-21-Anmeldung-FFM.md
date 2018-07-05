@@ -2,11 +2,11 @@
 layout: post
 author: Leo und Paula
 date: 2018-03-21
-excerpt: 
+excerpt:
 images:
-  - 
-	imgname: GoT_Blog_Bild.jpg
-	sub: "<a href='https://creativecommons.org/licenses/by/'>CC BY-SA 4.0</a>, OKF DE, Illustration: Christoph Hoppenbrock"
+  -
+    imgname: GoT_Blog_Bild.jpg
+    sub: "<a href='https://creativecommons.org/licenses/by/'>CC BY-SA 4.0</a>, OKF DE, Illustration: Christoph Hoppenbrock"
 published: true
 title: "Anmeldung zum Game of Thoughts Workshop in Frankfurt/Main"
 ---
@@ -21,5 +21,4 @@ Wir haben Platz für 20 Teilnehmer*innen. Diese Anmeldung ist also verbindlich! 
 
 Nach einem Einstieg zu Grundlagen des Gamedesign und dem Thema Meinungsäußerung werden zunächst kleine bereits existierende Games ausprobiert und diskutiert. Anschließend geht es in Teams los in ersten praktischen Versuchen zu verstehen, wie Spiele funktionieren und aufgebaut sind.
 
-Im nächsten Schritt wird es digital: Nach einer Einführung in den Game-Editor beginnt die Projektphase. Dabei könnt ihr ein "Erklär"-Spiel für eure Freund*innen, Eltern, Lehrende oder andere entwickeln. Dabei könnt ihr jedes Thema, das euch beschäftigt, behandeln: Egal ob es sich um Schule, Geld, Gefühle, Toleranz oder Identität dreht. 
-
+Im nächsten Schritt wird es digital: Nach einer Einführung in den Game-Editor beginnt die Projektphase. Dabei könnt ihr ein "Erklär"-Spiel für eure Freund*innen, Eltern, Lehrende oder andere entwickeln. Dabei könnt ihr jedes Thema, das euch beschäftigt, behandeln: Egal ob es sich um Schule, Geld, Gefühle, Toleranz oder Identität dreht.

@@ -2,20 +2,20 @@
 layout: post
 author: Lydia & Leo
 date: 2018-04-19
-excerpt: 
+excerpt:
 images:
-  - 
-	imgname: netzwerktreffen.jpg
-	sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Leonard Wolf"
+  -
+    imgname: netzwerktreffen.jpg
+    sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Leonard Wolf"
 published: true
 title: "Rückblick: Netzwerktreffen von den Demokratielaboren, Jugend hackt & Hello World"
 ---
 
-Vergangene Woche sind wir zusammen mit dem Team von [Jugend hackt Berlin](https://jugendhackt.org) und [Hello World](https://jugendhackt.org/helloworld) im bezaubernden Verschwörhaus Ulm gewesen, um unsere gemeinsame Strategie- und Workshopplanung voranzubringen. 
+Vergangene Woche sind wir zusammen mit dem Team von [Jugend hackt Berlin](https://jugendhackt.org) und [Hello World](https://jugendhackt.org/helloworld) im bezaubernden Verschwörhaus Ulm gewesen, um unsere gemeinsame Strategie- und Workshopplanung voranzubringen.
 
-Das [Verschwörhaus](https://verschwoerhaus.de) ist ein von der Stadt gefördertes Hackspace im Herzen Ulms, das auch bereits einmal Jugend hackt beheimatete. Somit bot es genau die richtige Location für verschiedene gemeinsame Workshop-Phasen in konzentrierter und entspannter Atmosphäre. 
+Das [Verschwörhaus](https://verschwoerhaus.de) ist ein von der Stadt gefördertes Hackspace im Herzen Ulms, das auch bereits einmal Jugend hackt beheimatete. Somit bot es genau die richtige Location für verschiedene gemeinsame Workshop-Phasen in konzentrierter und entspannter Atmosphäre.
 
-Neben der Entwicklung eines gemeinsamen Workshopformates zur App-Entwicklng, das sowohl von Jugend hackt Hello World, als auch den Demokratielaboren durchgeführt werden kann, wurde außerdem die Strategie der verschiedenen Projekte für 2018 geschärft. Dabei wurde geschaut, wo gemeinsames Agieren und gegenseitiges Unterstützen sinnvoll passieren kann.  
+Neben der Entwicklung eines gemeinsamen Workshopformates zur App-Entwicklng, das sowohl von Jugend hackt Hello World, als auch den Demokratielaboren durchgeführt werden kann, wurde außerdem die Strategie der verschiedenen Projekte für 2018 geschärft. Dabei wurde geschaut, wo gemeinsames Agieren und gegenseitiges Unterstützen sinnvoll passieren kann.
 
 Nach der Arbeit klangen die zwei Tage entspannt im Verschwörhaus aus, wo allerlei gebastelt und probiert werden konnte. So entstanden unter anderem aus unseren Illustrationen, die mit dem Lasercutter aus Holz ausgeschnitten wurden, [hübscher Schmuck](https://twitter.com/demokratielabs/status/984549919624179712/photo/1). Außerdem versuchte sich unser Mitarbeiter Leo an einer ganz [neuen Inszenierung des Muscial-Klassikers Starlight Express auf einem Hoverbord](https://twitter.com/woLeonard/status/984546792481132544). ;-)
 

@@ -2,16 +2,16 @@
 layout: post
 author: Jasmin
 date: 2018-01-12
-excerpt: 
+excerpt:
 images:
-  - 
-	imgname: webvideo.jpg
-	sub: "<a href='https://creativecommons.org/licenses/by/4.0'>CC-BY-4.0</a>, about:blank"
+  -
+    imgname: webvideo.jpg
+    sub: "<a href='https://creativecommons.org/licenses/by/4.0'>CC-BY-4.0</a>, about:blank"
 published: true
 title: "About:blank - Unser Webvideo-Channel für Jugendliche"
 ---
 
-Wie kann ich sicher vor Überwachung kommunizieren?  Und wozu brauchen wir eigentlich ein neutrales Netz? Gemeinsam mit [medialepfade.org](http://www.medialepfade.de/) und [Netzpolitik.org](https://netzpolitik.org/) haben wir den Webvideo-Channel **about:blank** ins Leben gerufen, der sich wöchentlich genau mit diesen Fragen auseinandersetzt und sie jugendgerecht aufarbeitet. Mit Daniel Seitz, Geschäftsführer von medialepfade.org, sprachen wir über das Format und warum Netzpolitik auch Jugendliche etwas angeht. 
+Wie kann ich sicher vor Überwachung kommunizieren?  Und wozu brauchen wir eigentlich ein neutrales Netz? Gemeinsam mit [medialepfade.org](http://www.medialepfade.de/) und [Netzpolitik.org](https://netzpolitik.org/) haben wir den Webvideo-Channel **about:blank** ins Leben gerufen, der sich wöchentlich genau mit diesen Fragen auseinandersetzt und sie jugendgerecht aufarbeitet. Mit Daniel Seitz, Geschäftsführer von medialepfade.org, sprachen wir über das Format und warum Netzpolitik auch Jugendliche etwas angeht.
 
 ## *Demokratielabore*: Was ist die Idee von about:blank und warum habt ihr diesen Namen gewählt?
 
@@ -27,7 +27,7 @@ Wir haben insgesamt 16 Folgen und versuchen damit, die unserer Meinung nach wich
 
 Netzpolitik ist wie viele andere politische Felder gesellschaftlicher Gestaltungsraum, den man selbst mit gestalten kann oder anderen überlassen. Netzpolitik betrifft allerdings Jugendliche in besonderem Maße, da sie die erste postdigitale Generation sind, ein Leben vor digitalen, vernetzten Medien also gar nicht mehr kennen. Dementsprechend haben sie digitale Medien umfassend in ihr Leben integriert – und tun gut daran, diese umfassend zu verstehen. Leider sind unsere Angebote als Gesellschaft an Jugendliche, viele Grundlagen rund um Netzpolitik und digitale Medien zu verstehen, nach wie vor sehr überschaubar. Hier versuchen wir zusammen als netzpolitik.org und medialepfade.org eine Lücke zu schließen.
 
-## Können sich Jugendliche an about:blank beteiligen und wenn ja, wie? 
+## Können sich Jugendliche an about:blank beteiligen und wenn ja, wie?
 
 About:blank versteht sich als partizipatives Angebot, das heißt Jugendliche können sowohl auf die inhaltliche Entwicklung Einfluss nehmen, sind aber auch selbst Teil des Angebots durch Interviews und andere Formate, die wir noch erproben möchten. Perspektivisch würden wir gerne Jugendliche noch zentraler in die Angebotsentwicklung integrieren.
 

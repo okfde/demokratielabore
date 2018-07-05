@@ -2,11 +2,11 @@
 layout: post
 author: Sebastian, Lea
 date: 2018-04-25
-excerpt: 
+excerpt:
 images:
-  - 
-	imgname: Essen-Jugendliche1.jpg
-	sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Lea Pfau"
+  -
+    imgname: Essen-Jugendliche1.jpg
+    sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Lea Pfau"
 published: true
 title: "Die Welt mit  anderen Augen sehen - Unser Workshop “Ungehörsam” mit Jugendlichen & Fachkräften in Essen"
 ---
@@ -17,7 +17,7 @@ Einen Sonderfall bilden interaktive Geschichten, bei denen wir selbst entscheide
 
 ## Tag 1: Train-the-Trainer mit pädagogischen Fachkräften
 
-Am ersten Tag stand die Schulung von pädagogischen Fachkräften aus Essen zu unserem Workshop “Ungehörsam” auf dem Programm: Dazu hatten wir das Café der Weststadthalle komplett für uns. Nach einer schnellen Vorstellungsrunde ging es direkt in die Praxis. Zunächst spielten alle Teilnehmenden eine interaktive Geschichte, die wir zur Einführung in das Format bereits vorbereitet hatten. Das macht nicht nur eine Menge Spaß, sondern hilft auch das Konzept hinter der Methode schneller zu erschließen. Wir nutzen dazu den [Editor und die Leseapp für QR-Codes](https://demokratielabore.de/workshops/ungehoersam/), die wir extra für diesen Workshop entwickelt haben. 
+Am ersten Tag stand die Schulung von pädagogischen Fachkräften aus Essen zu unserem Workshop “Ungehörsam” auf dem Programm: Dazu hatten wir das Café der Weststadthalle komplett für uns. Nach einer schnellen Vorstellungsrunde ging es direkt in die Praxis. Zunächst spielten alle Teilnehmenden eine interaktive Geschichte, die wir zur Einführung in das Format bereits vorbereitet hatten. Das macht nicht nur eine Menge Spaß, sondern hilft auch das Konzept hinter der Methode schneller zu erschließen. Wir nutzen dazu den [Editor und die Leseapp für QR-Codes](https://demokratielabore.de/workshops/ungehoersam/), die wir extra für diesen Workshop entwickelt haben.
 
 Vor der Mittagspause gab es noch genügend Zeit in der Gruppe ein Thema und eine Story für die eigene Geschichte zu entwerfen. Ganz besondere Mühe hat sich eine Gruppe gegeben, die es den Teilnehmenden ermöglichte, städtische Orte aus der Sicht von Obdachlosen neu zu betrachten: Ein ganz besonderer Blickwinkel, den die wenigsten kennen und vor besonders schwierige Entscheidungen stellt. Aber auch alltägliche Themen wurden umgesetzt. So entwickelte eine Gruppe eine Entscheidungshilfe für die Wahl des Mittagstisches, was sehr positiv aufgenommen wurde.
 
@@ -27,4 +27,4 @@ Am darauffolgenden Tag führten wir den Workshop noch einmal [mit Jugendlichen](
 
 Besonders hat uns die Story „Fitnessstudio“ gefallen, bei der man in die Rolle eine/s Sportler/in schlüpft, auf der Suche nach einer guten Trainingsmöglichkeit. Die erste Entscheidung muss hinsichtlich des zu trainierenden Körperteils getroffen werden. Entscheidet man sich beispielsweise für die Beine, befindet sich die nächste Station zu der man sich bewegen muss, ca. 5-10 Minuten zu Fuß entfernt - Beintraining eben. An einer anderen Station standen Klimmzüge auf dem Plan, welche auch in der Realität an der Bushaltestelle durchgeführt werden konnten. Auf diese Art wurde die Umgebung mit in die Geschichte einbezogen. Auch für Erwachsene (und nicht nur Jugendliche), lässt sich so ein spannender Einblick in die Wahrnehmung der Umwelt gewinnen, der neue Betrachtungsweisen ermöglicht und zugleich noch Spaß macht.
 
-Mehr Infos zum Workshop findet ihr [hier](https://demokratielabore.de/workshops/ungehoersam/).  
+Mehr Infos zum Workshop findet ihr [hier](https://demokratielabore.de/workshops/ungehoersam/).

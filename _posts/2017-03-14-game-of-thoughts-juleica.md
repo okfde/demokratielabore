@@ -2,11 +2,11 @@
 layout: post
 author: Paula
 date: 2018-03-14
-excerpt: 
+excerpt:
 images:
- - 
-	imgname: Ober-Mörlen.jpg
-	sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Lea Pfau"
+ -
+   imgname: Ober-Mörlen.jpg
+   sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Lea Pfau"
 published: true
 title: "'Danke für die tollen Ideen' - unser erster GameJam in Hessen"
 ---
@@ -27,7 +27,7 @@ Wie fühlt es sich an, wenn ich als neue Person in eine Gruppe komme? Warum gibt
 - [Your way](https://rawgit.com/okfde/demokratielabore/master/workshops/Ergebnisse/OMLZ/Your%20way.html)
 - [Ein Tag mit BTS](https://rawgit.com/okfde/demokratielabore/master/workshops/Ergebnisse/OMLZ/Ein%20Tag%20mit%20BTS/Ein%20Tag%20mit%20BTS.html)
 - [Freundschaft auf Probe](https://github.com/okfde/demokratielabore/blob/master/workshops/Ergebnisse/OMLZ/Freundschaft%20auf%20Probe/Freundschaft%20auf%20Probe.html)
-- [Vendarin](https://rawgit.com/okfde/demokratielabore/master/workshops/Ergebnisse/OMLZ/Vendarin/Vendarin.html) 
+- [Vendarin](https://rawgit.com/okfde/demokratielabore/master/workshops/Ergebnisse/OMLZ/Vendarin/Vendarin.html)
 
 Durchaus kritisch wurden Gruppendynamiken analysiert, Vorurteile in Fantasyspielen oder die eigene Eignung für die Jugendarbeit behandelt. Besonders politisch wurde es bei "Soziale Arbeit", einem Spiel, das sich explizit an Entscheidungsträger/innen wendet und mehr Zeit und Anerkennung für jugendliches Ehrenamt fordert. Dem können wir uns natürlich nur anschließen!
 

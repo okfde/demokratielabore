@@ -5,8 +5,8 @@ date: 2018-04-23
 excerpt: 
 images:
   - 
-  imgname: youcon.jpg
-  sub: "Foto: <a href= 'https://youpan.de/youinfo/presse/'>youcoN - Gruppenaufnahme aus der Luft</a>"
+	imgname: youcon.jpg
+	sub: "Foto: <a href= 'https://youpan.de/youinfo/presse/'>youcoN - Gruppenaufnahme aus der Luft</a>"
 published: true
 title: "Mit digitalen Tools Gesellschaft gestalten #4 - Interview mit youpaN"
 ---

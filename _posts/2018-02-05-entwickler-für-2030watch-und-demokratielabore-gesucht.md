@@ -5,8 +5,8 @@ date: 2018-02-05
 excerpt: 
 images:
   - 
-  imgname: okfdebuero.jpg
-  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE"
+	imgname: okfdebuero.jpg
+	sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE"
 published: true
 title: "Entwickler*in bei der Open Knowledge Foundation Deutschland (50% E13/3, ab sofort) für 2030 Watch und Demokratielabore"
 ---

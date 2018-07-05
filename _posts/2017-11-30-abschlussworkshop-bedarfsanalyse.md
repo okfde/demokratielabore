@@ -1,12 +1,12 @@
 ---
 layout: post
-hide_hero: true
 author: Jasmin
 date: 2017-11-30
 excerpt: 
 images:
-  - imgname: abschlussworkshop.jpg
-  sub: "<a href='https://creativecommons.org/licenses/by'>CC0, Public Domain</a>"
+  - 
+	imgname: abschlussworkshop.jpg
+	sub: "<a href='https://creativecommons.org/licenses/by'>CC0, Public Domain</a>"
 published: true
 title: "Einladung zu Workshop & Umfrage: Daten & digitale Tools in der Jugendarbeit"
 ---

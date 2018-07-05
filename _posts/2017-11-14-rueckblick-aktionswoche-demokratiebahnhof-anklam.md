@@ -1,13 +1,12 @@
 ---
 layout: post
-hide_hero: true
 author: Mat, Jasmin
 date: 2017-11-14
 excerpt: 
 images:
   - 
-  imgname: anklam.jpg
-  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Matthias Löwe"
+	imgname: anklam.jpg
+	sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Matthias Löwe"
 published: true
 title: "So war’s in Anklam: Unsere Aktionswoche im Demokratiebahnhof"
 ---

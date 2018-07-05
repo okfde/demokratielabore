@@ -1,13 +1,12 @@
 ---
 layout: post
-hide_hero: true
 author: Sebastian
 date: 2017-12-12
 excerpt: 
 images:
   - 
-  imgname: rostock.jpg
-  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Lea Pfau"
+	imgname: rostock.jpg
+	sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Lea Pfau"
 published: true
 title: "Fachkräfteschulung auf dem Fachtag der evangelischen Akademie der Nordkirche"
 ---

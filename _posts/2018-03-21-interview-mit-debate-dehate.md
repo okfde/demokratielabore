@@ -5,8 +5,8 @@ date: 2018-03-21
 excerpt: 
 images:
   - 
-  imgname: debate.jpg
-  sub: "Christina Dinar, Projektleiterin von debate//de:hate, Foto: Anna Gold"
+	imgname: debate.jpg
+	sub: "Christina Dinar, Projektleiterin von debate//de:hate, Foto: Anna Gold"
 published: true
 title: "Mit digitalen Tools Gesellschaft gestalten #3 - Interview mit debate//de:hate"
 ---

@@ -1,13 +1,12 @@
 ---
 layout: post
-hide_hero: true
 author: Jasmin
 date: 2017-10-10
 excerpt: 
 images:
-  - 
-  imgname: poster_anklam.jpg
-  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Design: Nadine Stammen"
+ - 
+	imgname: poster_anklam.jpg 
+	sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Design: Nadine Stammen"
 published: true
 title: "Einladung zur bunten Workshop-Woche im Demokratiebahnhof Anklam!"
 ---

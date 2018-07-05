@@ -5,8 +5,8 @@ date: 2018-03-21
 excerpt: 
 images:
   - 
-  imgname: GoT_Blog_Bild.jpg
-  sub: "<a href='https://creativecommons.org/licenses/by/'>CC BY-SA 4.0</a>, OKF DE, Illustration: Christoph Hoppenbrock"
+	imgname: GoT_Blog_Bild.jpg
+	sub: "<a href='https://creativecommons.org/licenses/by/'>CC BY-SA 4.0</a>, OKF DE, Illustration: Christoph Hoppenbrock"
 published: true
 title: "Anmeldung zum Game of Thoughts Workshop in Frankfurt/Main"
 ---

@@ -5,8 +5,8 @@ date: 2018-02-21
 excerpt: 
 images:
   - 
-  imgname: jugendbeteiligen.jpg
-  sub: "<a href='https://creativecommons.org/licenses/by/3.0/'>CC-BY-3.0</a>, DE (RGB), Foto: Christoph Piecha"
+	imgname: jugendbeteiligen.jpg
+	sub: "<a href='https://creativecommons.org/licenses/by/3.0/'>CC-BY-3.0</a>, DE (RGB), Foto: Christoph Piecha"
 published: true
 title: "Mit digitalen Tools Gesellschaft gestalten #2 - Interview mit jugend.beteiligen.jetzt"
 ---

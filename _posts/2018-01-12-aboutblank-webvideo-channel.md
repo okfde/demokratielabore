@@ -1,13 +1,12 @@
 ---
 layout: post
-hide_hero: true
 author: Jasmin
 date: 2018-01-12
 excerpt: 
 images:
   - 
-  imgname: webvideo.jpg
-  sub: "<a href='https://creativecommons.org/licenses/by/4.0'>CC-BY-4.0</a>, about:blank"
+	imgname: webvideo.jpg
+	sub: "<a href='https://creativecommons.org/licenses/by/4.0'>CC-BY-4.0</a>, about:blank"
 published: true
 title: "About:blank - Unser Webvideo-Channel für Jugendliche"
 ---

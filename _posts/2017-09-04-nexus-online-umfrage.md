@@ -1,6 +1,5 @@
 ---
 layout: post
-hide_hero: true
 author: Jasmin
 date: 2017-09-04
 excerpt: 

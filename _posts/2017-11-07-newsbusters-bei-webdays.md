@@ -1,13 +1,12 @@
 ---
 layout: post
-hide_hero: true
 author: Jasmin
 date: 2017-11-07
 excerpt: 
 images:
   - 
-  imgname: webdays.JPG
-  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Nadine Stammen"
+	imgname: webdays.JPG
+	sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Nadine Stammen"
 published: true
 title: "Newsbusters @ WebDays 2017"
 ---

@@ -5,8 +5,8 @@ date: 2018-05-02
 excerpt: 
 images:
   - 
-  imgname: newsbusters-schule.jpg
-  sub: "Foto: H. Schmid"
+	imgname: newsbusters-schule.jpg
+	sub: "Foto: H. Schmid"
 published: true
 title: "Unser Workshop Newsbusters funktioniert auch an Schulen: Erfahrungsbericht einer Lehrerin"
 ---

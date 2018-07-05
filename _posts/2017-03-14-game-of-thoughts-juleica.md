@@ -4,9 +4,9 @@ author: Paula
 date: 2018-03-14
 excerpt: 
 images:
-  - 
-  imgname: Ober-Mörlen.jpg
-  sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Lea Pfau"
+ - 
+	imgname: Ober-Mörlen.jpg
+	sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Lea Pfau"
 published: true
 title: "'Danke für die tollen Ideen' - unser erster GameJam in Hessen"
 ---

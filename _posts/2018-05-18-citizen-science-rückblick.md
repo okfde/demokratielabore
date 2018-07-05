@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Moritz Neujeffski
+author: Moritz
 date: 2018-05-17
 excerpt:
 images:

@@ -86,7 +86,7 @@
 - name: Newsbusters - Medienscouts im Jugendcentrum
   date: 2017-07-11
   city: Kaarst
-  featured: true
+  featured: false
 - name: Ungehörsam - Freiwilligendienstleistende des IB
   date: 2017-07-18
   city: Berlin

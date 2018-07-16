@@ -32,7 +32,6 @@ Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreis
 Erst durch lebhafte Erzählungen werden Statistiken greifbar und anschaulich. Mit Daten und digitalen Tools können auch komplexe Zusammenhänge einfach vermittelt werden. In diesem Workshop dreht sich alles um digitales Storytelling: Wie entlocken wir Daten spannende Geschichten? Wie erstellen informative Visualisierungen und arbeiten mit interaktiven Formaten Inhalte ansprechend auf? <br>
 
 <h4>Materialien aus dem Workshop</h4>
-		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Digitales-Storytelling.pdf">Präsentation: Digitales Storytelling</a>
                     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Lernmaterial_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Lernmaterial_Digitales-Storytelling.pdf">Lernmaterial: Digitales Storytelling</a>
 		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Digitales-Storytelling.pdf">Workshopdokumentation: Digitales Storytelling</a>
 		    <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Digitales_Storytelling.pdf" download="/workshops/downloads/Ablaufplan_Workshop_Digitales_Storytelling.pdf">Ablaufplan Workshop: Digitales Storytelling</a>

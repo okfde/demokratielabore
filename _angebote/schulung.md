@@ -68,7 +68,7 @@ Politische Diskussionen finden immer mehr im digitalen Raum statt. Auch für Jug
 <br> 
 </p>
 	
-<h4>Materialien aus dem Workshop</h4>
+<h4>Materialien von der Data Expedition</h4>
 <p>
 	Die Materialien stellen wir bald hier zur Verfügung. 
 </p><br>

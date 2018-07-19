@@ -25,6 +25,8 @@ Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreis
                     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Lernmaterial_OpenData-Portale.pdf" download="/workshops/downloads/Demokratielabore_Lernmaterial_OpenData-Portale.pdf">Lernmaterial: Offene Daten & Daten-Portale</a>
 		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Offene-Daten-in-der-Jugendarbeit.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Offene-Daten-in-der-Jugendarbeit.pdf">Workshopdokumentation: Offene Daten in der Jugendarbeit</a>
 		     <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Offene_Daten_Jugendarbeit.pdf" download="/workshops/downloads/Ablaufplan_Workshop_Offene_Daten_Jugendarbeit.pdf">Ablaufplan Workshop: Offene Daten</a>
+<br>
+Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgender Creative Commons Lizenz verwendbar: CC-BY 4.0, OKF DE
 </p><br>
 
 <h3>Workshop II: Digitales Storytelling - Mit Daten Geschichten erzählen (20. April 2018)</h3>
@@ -35,6 +37,8 @@ Erst durch lebhafte Erzählungen werden Statistiken greifbar und anschaulich. Mi
                     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Lernmaterial_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Lernmaterial_Digitales-Storytelling.pdf">Lernmaterial: Digitales Storytelling</a>
 		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Digitales-Storytelling.pdf">Workshopdokumentation: Digitales Storytelling</a>
 		    <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Digitales_Storytelling.pdf" download="/workshops/downloads/Ablaufplan_Workshop_Digitales_Storytelling.pdf">Ablaufplan Workshop: Digitales Storytelling</a>
+<br>
+Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgender Creative Commons Lizenz verwendbar: CC-BY 4.0, OKF DE
 </p><br>
 
 <h3>Workshop III: Citizen Science: Mit Arduinos & Sensoren selbst aktiv werden (11. Mai 2018)</h3>
@@ -45,6 +49,8 @@ Was bedeutet Citizen Science und wie lässt sich mit kleinen Hardwarebausteinen 
 		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Citizen-Science.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Citizen-Science.pdf">Präsentation: Citizen Science</a>
                     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Citizen-Science.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Citizen-Science.pdf">Dokumentation: Citizen Science</a>
 		    <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Citizen_Science.pdf" download="/workshops/downloads/Ablaufplan_Workshop_Citizen_Science.pdf">Ablaufplan Workshop: Citizen Science</a>
+<br>
+Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgender Creative Commons Lizenz verwendbar: CC-BY 4.0, OKF DE
 </p><br>
 
 <h3>Workshop IV: Eliza meets Tay: Debatten auf Twitter analysieren (01. Juni 2018)</h3>
@@ -57,6 +63,8 @@ Politische Diskussionen finden immer mehr im digitalen Raum statt. Auch für Jug
     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Eliza_meets_Tay.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Eliza_meets_Tay.pdf">Präsentation: Eliza meets Tay</a>
     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Eliza_meets_Tay.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Eliza_meets_Tay.pdf">Dokumentation: Eliza meets Tay</a>
     <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Twitterdebatten.pdf" download="/workshops/downloads/Ablaufplan_Workshop_Twitterdebatten.pdf">Ablaufplan Workshop: Eliza meets Tay</a>
+<br>
+Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgender Creative Commons Lizenz verwendbar: CC-BY 4.0, OKF DE
 </p><br>
 
 <h2>Data Expedition (15.-16. Juni 2018)</h2>
@@ -71,6 +79,8 @@ Politische Diskussionen finden immer mehr im digitalen Raum statt. Auch für Jug
 <h4>Materialien von der Data Expedition</h4>
 <p>
 	 <a class="btn-download" href="/workshops/downloads/Dokumentation_Data-Expedition_Demokratielabore.pdf" download="/workshops/downloads/Dokumentation_Data-Expedition_Demokratielabore.pdf">Dokumentation: Data Expedition</a>
+<br>
+Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgender Creative Commons Lizenz verwendbar: CC-BY 4.0, OKF DE
 </p><br>
 
 <h2>Datenspaziergang (17. Juni 2018)</h2>

@@ -90,7 +90,7 @@
 - name: Ungehörsam - Freiwilligendienstleistende des IB
   date: 2017-07-18
   city: Berlin
-  featured: true
+  featured: false
 - name: Game of Thoughts & Auf Mikas Spuren - Jugendcentrum
   date: 2017-07-24
   city: Kaarst
@@ -102,4 +102,14 @@
 - name: Invasion der Cybertrolle - Jugendseelsorgekonferenz
   date: 2017-08-29
   city: Bad Dürkheim
+  featured: true
+- name: Infostand & Workshops - Ars Electronica Festival
+  url: 'https://www.aec.at/error/de/'
+  date: 2017-09-06
+  city: Linz, Österreich
+  featured: true
+- name: Game of Thoughts - Tagung: It´s Democracy, stupid!
+  url: 'https://www.gesichtzeigen.de/its-democracy-stupid-2018/'
+  date: 2017-09-18
+  city: Linz, Österreich
   featured: true

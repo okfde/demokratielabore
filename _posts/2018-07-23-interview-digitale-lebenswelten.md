@@ -6,7 +6,7 @@ excerpt:
 images:
  - 
   imgname: anna-felix.jpg
-  sub: "Anna Grebe, Foto:<a href='http://www.bckrsjrgn.de'>André Beckersjürgen</a> & Felix Neumann, Foto: Nina Angele, vom BDKJ"
+  sub: "Anna Grebe (Foto: <a href='http://www.bckrsjrgn.de'>André Beckersjürgen</a>) & Felix Neumann (Foto: Nina Angele) vom BDKJ"
 published: true
 title: "Mit digitalen Tools Gesellschaft gestalten #7 - Interview mit der AG 'digitale Lebenswelten'"
 ---

@@ -5,8 +5,8 @@ date: 2018-07-25
 excerpt:
 images:
  -
-   imgname: ungehoersam.JPG
-   sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Matthias Löwe"
+   imgname: DAG_Greifswald_2.JPG
+   sub: "Illustration: <a href='https://creativecommons.org/licenses/by-sa/4.0/legalcode.de'>CC-BY-SA 4.0</a>, Christoph Hoppenbrock (bildbauer.de)"
 published: true
 title: "Digitale Stadteroberung: Anmeldungen für Digital-AG in Greifswald gestartet!"
 ---

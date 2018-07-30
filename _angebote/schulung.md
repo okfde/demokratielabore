@@ -25,7 +25,7 @@ Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreis
                     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Lernmaterial_OpenData-Portale.pdf" download="/workshops/downloads/Demokratielabore_Lernmaterial_OpenData-Portale.pdf">Lernmaterial: Offene Daten & Daten-Portale</a>
 		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Offene-Daten-in-der-Jugendarbeit.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Offene-Daten-in-der-Jugendarbeit.pdf">Workshopdokumentation: Offene Daten in der Jugendarbeit</a>
 		     <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Offene_Daten_Jugendarbeit.pdf" download="/workshops/downloads/Ablaufplan_Workshop_Offene_Daten_Jugendarbeit.pdf">Ablaufplan Workshop: Offene Daten</a>
-		     <a class="btn-download" href="/workshops/downloads/Handout_Open-Data-Bingo.pdf" download="/workshops/downloads/Handout_Open-Data-Bingo.pdf">Handout: Open-Data-Bingo</a>
+		     <a class="btn-download" href="/workshops/downloads/Handout_Open-Data-Bingo.docx" download="/workshops/downloads/Handout_Open-Data-Bingo.docx">Handout: Open-Data-Bingo</a>
 		     <a class="btn-download" href="/workshops/downloads/Handreichung_Offene_Daten.pdf" download="/workshops/downloads/Handreichung_Offene_Daten.pdf">Handreichung: Offene Daten</a>
 <br>
 Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgender Creative Commons Lizenz verwendbar: CC-BY 4.0, OKF DE

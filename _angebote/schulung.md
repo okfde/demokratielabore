@@ -85,7 +85,7 @@ Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgen
 <p>
 	 <a class="btn-download" href="/workshops/downloads/Dokumentation_Data-Expedition_Demokratielabore.pdf" download="/workshops/downloads/Dokumentation_Data-Expedition_Demokratielabore.pdf">Dokumentation: Data Expedition</a>
 <br>
-<iframe src="https://www.youtube-nocookie.com/embed/HMLI5aJ4qSg?rel=0&amp;ecver=2" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe>
+<iframe class="embed-video" src="https://www.youtube-nocookie.com/embed/HMLI5aJ4qSg?rel=0&amp;ecver=2" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgender Creative Commons Lizenz verwendbar: CC-BY 4.0, OKF DE
 </p><br>

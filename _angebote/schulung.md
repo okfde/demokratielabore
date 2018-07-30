@@ -18,7 +18,7 @@ hide_hero: true
 
 <h3>Workshop I: Offene Daten und digitale Beteiligung in der Jugendarbeit (06. April 2018)</h3>
 <p>
-Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreisentwicklungen oder dem Sanierungsbedarf von Schulen. Mit diesen Informationen können Vereine und Jugendverbände ihre politischen Anliegen mit neuen Argumenten untermauern. In unserem Workshop diskutieren wir die Bedeutung von offenen Daten und Informationsfreiheit. Gemeinsam entwickeln wir Ideen für digitale Jugendprojekte, die Transparenz & Beteiligung fördern. <br>
+Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreisentwicklungen oder dem Sanierungsbedarf von Schulen. Mit diesen Informationen können Vereine und Jugendverbände ihre politischen Anliegen mit neuen Argumenten untermauern. In unserem Workshop diskutierten wir die Bedeutung von offenen Daten und Informationsfreiheit. Gemeinsam entwickelten wir Ideen für digitale Jugendprojekte, die Transparenz & Beteiligung fördern. <br>
 
 <h4>Materialien aus dem Workshop</h4>
 		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Offene-Daten-in-der-Jugendarbeit.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Offene-Daten-in-der-Jugendarbeit.pdf">Präsentation: Offene Daten für die Jugendarbeit</a>
@@ -33,7 +33,7 @@ Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgen
 
 <h3>Workshop II: Digitales Storytelling - Mit Daten Geschichten erzählen (20. April 2018)</h3>
 <p>
-Erst durch lebhafte Erzählungen werden Statistiken greifbar und anschaulich. Mit Daten und digitalen Tools können auch komplexe Zusammenhänge einfach vermittelt werden. In diesem Workshop dreht sich alles um digitales Storytelling: Wie entlocken wir Daten spannende Geschichten? Wie erstellen informative Visualisierungen und arbeiten mit interaktiven Formaten Inhalte ansprechend auf? <br>
+Erst durch lebhafte Erzählungen werden Statistiken greifbar und anschaulich. Mit Daten und digitalen Tools können auch komplexe Zusammenhänge einfach vermittelt werden. In diesem Workshop drehte sich alles um digitales Storytelling: Wie entlocken wir Daten spannende Geschichten? Wie erstellen informative Visualisierungen und arbeiten mit interaktiven Formaten Inhalte ansprechend auf? <br>
 
 <h4>Materialien aus dem Workshop</h4>
                     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Lernmaterial_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Lernmaterial_Digitales-Storytelling.pdf">Lernmaterial: Digitales Storytelling</a>
@@ -46,7 +46,7 @@ Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgen
 
 <h3>Workshop III: Citizen Science: Mit Arduinos & Sensoren selbst aktiv werden (11. Mai 2018)</h3>
 <p>
-Was bedeutet Citizen Science und wie lässt sich mit kleinen Hardwarebausteinen die eigene Umwelt neu entdecken? Gemeinsam bauen wir einfache Anwendungen wie beispielsweise einen Feinstaubsensor, schauen wie Arduinos funktionieren und überlegen, wie diese Ansätze praktisch in die Jugendarbeit einfließen können. <br>
+Was bedeutet Citizen Science und wie lässt sich mit kleinen Hardwarebausteinen die eigene Umwelt neu entdecken? Gemeinsam bauten wir einfache Anwendungen wie beispielsweise einen Feinstaubsensor, schauten wie Arduinos funktionieren und überlegten, wie diese Ansätze praktisch in die Jugendarbeit einfließen können. <br>
 
 <h4>Materialien aus dem Workshop</h4>
 		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Citizen-Science.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Citizen-Science.pdf">Präsentation: Citizen Science</a>
@@ -59,7 +59,7 @@ Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgen
 
 <h3>Workshop IV: Eliza meets Tay: Debatten auf Twitter analysieren (01. Juni 2018)</h3>
 <p>
-Politische Diskussionen finden immer mehr im digitalen Raum statt. Auch für Jugendverbände gehören Social Media-Kanäle zum Arbeitsalltag. Neben der Kommunikation für jugendpolitische Interessen können die Debatten auf Twitter aber auch für die eigene politische Bildung genutzt werden. In diesem Workshop zeichnen wir gemeinsam die Verläufe von Debatten wie #metoo oder #diesejungenleute nach und bauen eigene Bots, um deren Wirken besser zu verstehen. <br>
+Politische Diskussionen finden immer mehr im digitalen Raum statt. Auch für Jugendverbände gehören Social Media-Kanäle zum Arbeitsalltag. Neben der Kommunikation für jugendpolitische Interessen können die Debatten auf Twitter aber auch für die eigene politische Bildung genutzt werden. In diesem Workshop zeichnten wir gemeinsam die Verläufe von Debatten wie #metoo oder #diesejungenleute nach und bauten eigene Bots, um deren Wirken besser zu verstehen. <br>
 </p>
 
 <h4>Materialien aus dem Workshop</h4>

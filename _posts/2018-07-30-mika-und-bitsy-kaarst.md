@@ -44,6 +44,6 @@ Sowie:
 
 - [Hilf der Katze 2](www.demokratielabore.de/workshops/Ergebnisse/2018_07_24_Kaarst/Bitsy/Hilf_der_Katze_von_Jannik_und_Bnnet.html) 
 
-[Mario New Game](www.demokratielabore.de/workshops/Ergebnisse/2018_07_24_Kaarst/Bitsy/Mario_New_Game_Melvin_und_Luke.html) 
+- [Mario New Game](www.demokratielabore.de/workshops/Ergebnisse/2018_07_24_Kaarst/Bitsy/Mario_New_Game_Melvin_und_Luke.html) 
 
 Wir bedanken uns herzlichst bei allen teilnehmenden Jugendlichen und dem Jugendcentrum für die tolle Zusammenarbeit. Voller Vorfreude steigen wir nun in die Planung einer gemeinsamen **Digital-AG** im Jugendcentrum ein. Ab September können sich Jugendliche voraussichtlich wöchentlich treffen und zu demokratischen und digitalen Themen austauschen, ausprobieren, vernetzen und spielerisch lernen: Eintauchen in die Spieleentwicklung, Diskutieren über Datenjournalismus oder der Einstieg ins Making & Coding - alles ist möglich! Vielleicht werden ja so ein paar der Medienscouts und Teilnehmer/innen demnächst zu Digital AGent/innen, wir sind gespannt! :) Weitere Infos folgen bald!

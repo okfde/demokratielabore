@@ -11,9 +11,9 @@ hide_hero: true
 <p>
 	Von Oktober bis Dezember 2017 haben wir zwei Workshops mit Fachkräften aus der Jugendarbeit durchgeführt. Ziel war es, die Erfahrungen aus der alltäglichen, digitalen Arbeit aufzuarbeiten und zu diskutieren. Zusätzlich haben wir eine Umfrage zu digitalen Kompetenzen, Daten und Tools mit verschieden Vertreter*innen aus der Jugendarbeit durchgeführt. Die Ergebnisse unserer Analyse und Tipps aus den Workshops findet ihr zusammengefasst <a class="highlight-grey" href="https://bedarfsanalyse.demokratielabore.de">hier</a>.
 </p><br>
-<h2>Workshops</h2>
+<h2>Workshops 2018</h2>
 <p>
-	In unseren Workshops experimentieren wir zum Beispiel mit Sensoren und Hardware, verarbeiten Daten zu interessanten Stories oder schauen uns spannende Debatten auf Twitter an. Dazu laden wir alle Interessierten aus der Jugendarbeit herzlich nach Berlin ein:
+	In unseren Workshops experimentieren wir zum Beispiel mit Sensoren und Hardware, verarbeiten Daten zu interessanten Stories oder schauen uns spannende Debatten auf Twitter an. 
 </p><br>
 
 <h3>Workshop I: Offene Daten und digitale Beteiligung in der Jugendarbeit (06. April 2018)</h3>
@@ -77,7 +77,7 @@ Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgen
 	Wie kann das Erlernte noch stärker in Bezug gesetzt werden mit den Fragestellungen und Tätigkeitsbereichen der verschiedenen gemeinnützigen Träger der außerschulischen Jugendarbeit? Wie können sie selbst digitale Projekte und Ideen umsetzen?
 </p>
 <p>
-	Wir laden euch am 15. und 16. Juni 2018 zu einer zweitägigen <a class= "highlight-grey" href="https://dataexpedition.demokratielabore.de">Data Expedition</a> ein, bei der wir gemeinnützige Einrichtungen mit technik-affinen Menschen wie Datenjournalist/innen und Entwickler/innen vernetzen. In Teams werden konkrete Probleme in Angriff genommen, eine Fragestellung beantwortet oder ein digitales Projekt als Prototyp umgesetzt. Ziel der Data Expedition ist es, gemeinsam eine Idee mit digitalen Mitteln umzusetzen und im Peer-to-Peer-Ansatz von den Teammitgliedern zu lernen.
+	Vom 15. bis 16. Juni 2018 fand unsere <a class= "highlight-grey" href="https://dataexpedition.demokratielabore.de">Data Expedition</a> statt, bei der wir gemeinnützige Einrichtungen mit technik-affinen Menschen wie Datenjournalist/innen und Entwickler/innen vernetzten. In Teams wurden konkrete Probleme in Angriff genommen, eine Fragestellung beantwortet oder ein digitales Projekt als Prototyp umgesetzt. Ziel der Data Expedition war es, gemeinsam eine Idee mit digitalen Mitteln umzusetzen und im Peer-to-Peer-Ansatz von den Teammitgliedern zu lernen.
 <br> 
 </p>
 	
@@ -90,7 +90,7 @@ Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgen
 
 <h2>Datenspaziergang (17. Juni 2018)</h2>
 <p>
-	Der Datenspaziergang ist ein gemeinsamer analoger Lauf durch ein Viertel, bei dem ihr euer Umfeld neu entdeckt: Wir zeigen, wie die digitale Welt mit unserem Alltag verwoben ist, wie Daten politische Entscheidungen prägen und wo sie erhoben werden. Digitaler Begleiter für diese Tour ist eine Web-App, die den Spaziergang am 17. Juni 2018 durch Berlin dokumentiert. <br> <br>
+	Der Datenspaziergang ist ein gemeinsamer analoger Lauf durch ein Viertel, bei dem ihr euer Umfeld neu entdeckt: Wir zeigen, wie die digitale Welt mit unserem Alltag verwoben ist, wie Daten politische Entscheidungen prägen und wo sie erhoben werden. Digitaler Begleiter für diese Tour ist eine Web-App, die den Spaziergang am 17. Juni 2018 durch Berlin dokumentierte. <br> <br>
 	Wenn ihr den Spaziergang selbst machen wollt, geht es <a class= "highlight-grey" href="https://spaziergang.demokratielabore.de">hier</a> zur Web-App (Achtung: Die Webseite ist nicht für den Internet Explorer optimiert. Zur optimalen Nutzung der Anwendung werden Firefox oder Chrome benötigt!). <br><br>
 
 <!--<div class="fond__grey-bright join__statement">

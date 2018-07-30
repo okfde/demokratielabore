@@ -13,7 +13,7 @@ hide_hero: true
 </p><br>
 <h2>Workshops 2018</h2>
 <p>
-	In unseren Workshops experimentieren wir zum Beispiel mit Sensoren und Hardware, verarbeiten Daten zu interessanten Stories oder schauen uns spannende Debatten auf Twitter an. 
+	In unseren Workshops experimentieren wir zum Beispiel mit Sensoren und Hardware, verarbeiten Daten zu interessanten Stories oder schauen uns spannende Debatten auf Twitter an.
 </p><br>
 
 <h3>Workshop I: Offene Daten und digitale Beteiligung in der Jugendarbeit (06. April 2018)</h3>
@@ -78,12 +78,14 @@ Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgen
 </p>
 <p>
 	Vom 15. bis 16. Juni 2018 fand unsere <a class= "highlight-grey" href="https://dataexpedition.demokratielabore.de">Data Expedition</a> statt, bei der wir gemeinnützige Einrichtungen mit technik-affinen Menschen wie Datenjournalist/innen und Entwickler/innen vernetzten. In Teams wurden konkrete Probleme in Angriff genommen, eine Fragestellung beantwortet oder ein digitales Projekt als Prototyp umgesetzt. Ziel der Data Expedition war es, gemeinsam eine Idee mit digitalen Mitteln umzusetzen und im Peer-to-Peer-Ansatz von den Teammitgliedern zu lernen.
-<br> 
+<br>
 </p>
-	
+
 <h4>Materialien von der Data Expedition</h4>
 <p>
 	 <a class="btn-download" href="/workshops/downloads/Dokumentation_Data-Expedition_Demokratielabore.pdf" download="/workshops/downloads/Dokumentation_Data-Expedition_Demokratielabore.pdf">Dokumentation: Data Expedition</a>
+<br>
+<iframe class="embed-video" width="560" height="315" src="https://www.youtube-nocookie.com/embed/S8eC768ZGxw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgender Creative Commons Lizenz verwendbar: CC-BY 4.0, OKF DE
 </p><br>

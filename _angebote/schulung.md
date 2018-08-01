@@ -24,7 +24,7 @@ Behörden veröffentlichen heutzutage viele Daten online zu Themen wie Mietpreis
 		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Offene-Daten-in-der-Jugendarbeit.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Offene-Daten-in-der-Jugendarbeit.pdf">Präsentation: Offene Daten für die Jugendarbeit</a>
                     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Lernmaterial_OpenData-Portale.pdf" download="/workshops/downloads/Demokratielabore_Lernmaterial_OpenData-Portale.pdf">Lernmaterial: Offene Daten & Daten-Portale</a>
 		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Offene-Daten-in-der-Jugendarbeit.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Offene-Daten-in-der-Jugendarbeit.pdf">Workshopdokumentation: Offene Daten in der Jugendarbeit</a>
-		     <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Offene_Daten_Jugendarbeit.xlsx" download="/workshops/downloads/Ablaufplan_Workshop_Offene_Daten_Jugendarbeit.pdf">Ablaufplan Workshop: Offene Daten</a>
+		     <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Offene_Daten_Jugendarbeit.xlsx" download="/workshops/downloads/Ablaufplan_Workshop_Offene_Daten_Jugendarbeit.xlsx">Ablaufplan Workshop: Offene Daten</a>
 		     <a class="btn-download" href="/workshops/downloads/Handout_Open-Data-Bingo.docx" download="/workshops/downloads/Handout_Open-Data-Bingo.docx">Handout: Open-Data-Bingo</a>
 		     <a class="btn-download" href="/workshops/downloads/Handreichung_Offene_Daten.pdf" download="/workshops/downloads/Handreichung_Offene_Daten.pdf">Handreichung zum Workshop: Offene Daten</a>
 <br>
@@ -38,7 +38,7 @@ Erst durch lebhafte Erzählungen werden Statistiken greifbar und anschaulich. Mi
 <h4>Materialien aus dem Workshop</h4>
                     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Lernmaterial_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Lernmaterial_Digitales-Storytelling.pdf">Lernmaterial: Digitales Storytelling</a>
 		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Digitales-Storytelling.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Digitales-Storytelling.pdf">Workshopdokumentation: Digitales Storytelling</a>
-		    <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Digitales_Storytelling.xlsx" download="/workshops/downloads/Ablaufplan_Workshop_Digitales_Storytelling.pdf">Ablaufplan Workshop: Digitales Storytelling</a>
+		    <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Digitales_Storytelling.xlsx" download="/workshops/downloads/Ablaufplan_Workshop_Digitales_Storytelling.xlsx">Ablaufplan Workshop: Digitales Storytelling</a>
 		    <a class="btn-download" href="/workshops/downloads/Handreichung_digitales_Storytelling.pdf" download="/workshops/downloads/Handreichung_digitales_Storytelling.pdf">Handreichung zum Workshop: Digitales Storytelling</a>
 <br>
 Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgender Creative Commons Lizenz verwendbar: CC-BY 4.0, OKF DE
@@ -51,7 +51,7 @@ Was bedeutet Citizen Science und wie lässt sich mit kleinen Hardwarebausteinen 
 <h4>Materialien aus dem Workshop</h4>
 		    <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Citizen-Science.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Citizen-Science.pdf">Präsentation: Citizen Science</a>
                     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Citizen-Science.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Citizen-Science.pdf">Dokumentation: Citizen Science</a>
-		    <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Citizen_Science.xlsx" download="/workshops/downloads/Ablaufplan_Workshop_Citizen_Science.pdf">Ablaufplan Workshop: Citizen Science</a>
+		    <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Citizen_Science.xlsx" download="/workshops/downloads/Ablaufplan_Workshop_Citizen_Science.xlsx">Ablaufplan Workshop: Citizen Science</a>
 		    <a class="btn-download" href="/workshops/downloads/Handreichung_Citizen_Science.pdf" download="/workshops/downloads/Handreichung_Citizen_Science.pdf">Handreichung zum Workshop: Citizen Science</a>
 <br>
 Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgender Creative Commons Lizenz verwendbar: CC-BY 4.0, OKF DE
@@ -66,7 +66,7 @@ Politische Diskussionen finden immer mehr im digitalen Raum statt. Auch für Jug
 <p>
     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Präsentation_Eliza_meets_Tay.pdf" download="/workshops/downloads/Demokratielabore_Präsentation_Eliza_meets_Tay.pdf">Präsentation: Eliza meets Tay</a>
     <a class="btn-download" href="/workshops/downloads/Demokratielabore_Dokumentation_Eliza_meets_Tay.pdf" download="/workshops/downloads/Demokratielabore_Dokumentation_Eliza_meets_Tay.pdf">Dokumentation: Eliza meets Tay</a>
-    <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Twitterdebatten.xlsx" download="/workshops/downloads/Ablaufplan_Workshop_Twitterdebatten.pdf">Ablaufplan Workshop: Eliza meets Tay</a>
+    <a class="btn-download" href="/workshops/downloads/Ablaufplan_Workshop_Twitterdebatten.xlsx" download="/workshops/downloads/Ablaufplan_Workshop_Twitterdebatten.xlsx">Ablaufplan Workshop: Eliza meets Tay</a>
 	<a class="btn-download" href="/workshops/downloads/Handreichung_Twitterdebatten.pdf" download="/workshops/downloads/Handreichung_Twitterdebatten.pdf">Handreichung zum Workshop: Twitterdebatten</a>
 <br>
 Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgender Creative Commons Lizenz verwendbar: CC-BY 4.0, OKF DE

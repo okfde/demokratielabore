@@ -98,7 +98,7 @@
 - name: Kick-off Digital-AG - Jugendzentrum klex
   date: 2017-08-14
   city: Greifswald
-  featured: true
+  featured: false
 - name: Invasion der Cybertrolle - Jugendseelsorgekonferenz
   date: 2017-08-29
   city: Bad Dürkheim
@@ -112,4 +112,9 @@
   url: 'https://www.gesichtzeigen.de/its-democracy-stupid-2018/'
   date: 2017-09-19
   city: Düsseldorf
+  featured: true
+- name: Open Space - Konferenz zur bundespolitischen Jugendstrategie
+  url: 'https://www.jugendgerecht.de/aktuelles/veranstaltungen/politik-fuer-mit-und-von-jugend-konferenz-zur-bundespolitischen-jugendstrategie/'
+  date: 2017-09-24
+  city: Berlin
   featured: true

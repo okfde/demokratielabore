@@ -95,6 +95,9 @@ Die Inhalte dieser Materialien sind, sofern nicht anders angegeben, unter folgen
 	Der Datenspaziergang ist ein gemeinsamer analoger Lauf durch ein Viertel, bei dem ihr euer Umfeld neu entdeckt: Wir zeigen, wie die digitale Welt mit unserem Alltag verwoben ist, wie Daten politische Entscheidungen prägen und wo sie erhoben werden. Digitaler Begleiter für diese Tour ist eine Web-App, die den Spaziergang am 17. Juni 2018 durch Berlin dokumentierte. <br> <br>
 	Wenn ihr den Spaziergang selbst machen wollt, geht es <a class= "highlight-grey" href="https://spaziergang.demokratielabore.de">hier</a> zur Web-App (Achtung: Die Webseite ist nicht für den Internet Explorer optimiert. Zur optimalen Nutzung der Anwendung werden Firefox oder Chrome benötigt!). <br><br>
 
+<p>
+	Mehr Infos dazu, wie gemeinnützige Organisationen ihre digitalen Kenntnisse vertiefen können, gibt es bei der Datenschule, einem gemeinnützigen Bildungsangebot der Open Knowledge Foundation Deutschland: <a href='https://datenschule.de'>https://datenschule.de</a>.
+
 <!--<div class="fond__grey-bright join__statement">
     <div class="container text-center">
         <div class="row">

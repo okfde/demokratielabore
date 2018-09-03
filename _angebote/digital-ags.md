@@ -1,7 +1,7 @@
 ---
-title: "Digital-AGs"
+title: "Digital-AG für Jugendliche"
 layout: angebot-detail
-an_teaser: "Um unsere Themen langfristig in den Jugendeinrichtungen zu verankern, unterstützen wir euch inhaltlich und organisatorisch bei der Gründung von regelmäßig stattfindenden AGs."
+an_teaser: "Du brennst für digitale Themen und Netzpolitik? Oder hast einfach mal Lust mit Technik zu basteln, in Magazinen zu stöbern und dich mit anderen auszutauschen? Dann bist du in der Digital-AG genau richtig!"
 link: '/angebot/digital-ags'
 featured: true
 hide_hero: true
@@ -10,7 +10,7 @@ hide_hero: true
 <img  class="img-responsive" src="/static/img/digital-ag.png" alt="Hoppenbrock CC BY-SA 4.0">
 
 <p>
-	Gemeinsam mit Jugendlichen wollen wir mit Hilfe digitaler Tools die Gesellschaft von morgen gestalten. Da dies etwas mehr Zeit braucht als einen Workshoptag, unterstützen wir euch vor Ort beim Aufbau einer Digital-AG.  
+	Gemeinsam mit Jugendlichen wollen wir mit Hilfe digitaler Tools die Gesellschaft von morgen gestalten. Da dies etwas mehr Zeit braucht als einen Workshoptag, unterstützen wir euch vor Ort beim Aufbau einer Digital AG.   
 </p>
 <p>
 	Die Idee: Ein regelmäßiger Treff für Jugendliche und interessierte Fachkräfte in eurer Jugendeinrichtung, wo ihr gemeinsam zu digitalen und gesellschaftlichen Themen eurer Wahl arbeiten und euch austauschen könnt. Sucht euch einen Schwerpunkt, der euch als Gruppe wirklich interessiert: Von Datenjournalismus und Nachhaltigkeit über Game-Design oder Making und Coding ist alles möglich! Wir unterstützen euch dabei jederzeit gerne mit Erfahrung, Kontakten und Tipps. Stellt euch vor, wir bauen zusammen mit Expert*innen ein Freifunknetz für eure Einrichtung oder ihr designt euer eigenes Game (das ist gar nicht so kompliziert!) und macht es für andere zugänglich, sodass es von jedem gespielt werden kann. Oder macht eure Ideen für eine jugendgerechte Umgebung mit Hilfe von VR oder Minecraft sichtbar und tragt sie so in die Welt! Eurer Kreativität sind keine Grenzen gesetzt!

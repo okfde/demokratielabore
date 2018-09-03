@@ -9,7 +9,7 @@ img: "/workshops/teasers/ungehoersam.png"
 img_full: "/workshops/heros/ungehoersam.png"
 ws_date: "16. februar"
 ws_year: "2018"
-ws_teaser: "Innerhalb einer interaktiven Rallye wird die Stadt zurückerobert –  von Freifunk bis zu Urban Gardening."
+ws_teaser: "Du magst deine Stadt, aber nicht jede Ecke ist schön? In dieser digitalen Schnitzeljagd kannst du deine Umgebung neu gestalten - mit Hilfe von QR-Codes und Tablets erzählst du anderen, wie sie dir am besten gefällt!"
 link: '/workshops/ungehoersam'
 featured: true
 
@@ -37,21 +37,17 @@ downloads:
 
 <h3>Inhaltlicher Ablauf</h3>
 <p>
-	Nach einer kurzen Einleitung in das Thema „interaktive Geschichten” wird mit Hilfe einer kleinen Übung in das Konzept einer QR-Rallye eingeführt, in dem eine bereits vorbereitete kurze Rallye gespielt wird: Die Teilnehmenden entwerfen als erstes gemeinsam eine Situation, die einen Startpunkt, ein konkretes Problem und zwei Möglichkeiten der Reaktion darauf enthält und schreiben dies auf einen Zettel. Dieser wird an einer Stelle im Raum platziert. Die Gruppe teilt sich auf diese zwei Möglichkeiten des Reaktion auf, verortet sie im Raum und beginnt erneut damit, zwei verschiedene Reaktionen darauf zu entwickeln. Das Prozedere geht solange so weiter, bis jeweils nur noch eine Person übrig ist, die ihre letzten beiden Zettel für zwei weitere mögliche Enden platziert. So entsteht in kurzer Zeit eine parallel erarbeitete, viel verzweigte Geschichte mit doppelt so vielen Enden wie Teilnehmenden.
+	In einer kurzen Einleitung in das Thema „interaktive Geschichten” erfährst du, was eine QR-Code-Rallye ist und wie sie funktioniert. Dann kannst du gemeinsam mit anderen Teilnehmenden einmal praktisch eine Rallye durchspielen, die schon vorbereitet ist: Alles beginnt an einem Startpunkt, an dem du einen QR-Code findest und ihn mit Hilfe eines Tablets lesen kannst. Der Code enthält ein konkretes Problem und gibt dir  zwei Möglichkeiten darauf zu reagieren. Entscheide dich für eine der beiden Möglichkeiten und folge der Anweisung zum nächsten Ort. Dort erwartet dich ein neuer Code mit neuen Informationen - wieder ist eine Entscheidung nötig! Da deine Mitspieler*innen vielleicht andere Entscheidungen treffen als du, nimmt die Geschichte der Rallye ganz verschiedene Wendungen und endet auf unterschiedliche Weise. Es gibt also mehrere Lösungswege. 
 </p>
 <p>
-	Weiter geht es mit einem Input zur kreativen Stadtgestaltung, wie Graffiti, Urban Gardening / Knitting, Stickern, Dead Drops etc. und der Markierung von guten bzw. problematischen Orten in der Umgebung. Das Ziel: Wie können alle problematischen Orten zu guten Orten werden? Nun wird das gleiche Spielprinzip mit einer fiktiven Geschichte zum Thema “perfektes Stadtviertel” an realen Objekten in der Nähe und mit Hilfe einer App umgesetzt. Diese produziert QR-Codes statt großer Zettel.
+	Nachdem du die vorbereitet Rallye einmal durchgespielt hast, kannst du gemeinsam mit anderen in einer Gruppe an einer eigenen Rallye basteln: Deine Rallye sollte dabei die Orte in deiner Umgebung miteinbeziehen. Welche Orte findest du gut und welche Ecken in deiner Stadt sind vielleicht nicht so schön?  Überlege dabei: Wie können alle problematischen Orten zu guten Orten werden? Nun wird das gleiche Spielprinzip mit deiner fiktiven Geschichte zum Thema “perfektes Stadtviertel” mit Hilfe der App umgesetzt und die QR-Codes an realen Objekten in deiner Nähe verteilt.
 </p>
 <p>
-	Im Anschluss dieser Entwicklungsphase werden erneut verschiedene Pfade durchgespielt. Zum Ende werden die von den Spielenden ausgewählten Möglichkeiten diskutiert und geschaut, inwieweit sie der Realität entsprechen.
-</p>
-<p>	
----	
+	Sobald du deine Rallye mit deinem Team fertig hast, kannst du die Rallyes der anderen Gruppen spielen und testen. Anschließend diskutieren wir gemeinsam, welche Ideen zur Verbesserung deiner Umgebung leicht umgesetzt werden können.	 
 </p>
 <p>
-Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar und vom <a class="highlight-grey" href="https://www.bmfsfj.de/">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="https://www.demokratie-leben.de/">“Demokratie leben!”</a> und von der <a class="highlight-grey" href="https://www.bpb.de/">Bundeszentrale für politische Bildung</a> gefördert: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 | OKF DE</a>
+	Die folgenden Downloads zum Workshop wurden gemeinsam mit <a class="highlight-grey" href="http://polyspektiv.eu/">polyspektiv</a> entwickelt und sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
 </p>
-
 
 
 

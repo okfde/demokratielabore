@@ -3,16 +3,18 @@ layout: default
 sponsor: yes
 title: Hello
 ---
-<div class="beneath-sections jumbotron fond__white">
-    <div class="row">
-        <div class="container text__black">
-            <div class="col-lg-10 col-lg-offset-1 section-intro">
-                <h2 class="section-headline">Mit digitalen Tools die Gesellschaft von morgen gestalten</h2>
-                <p>
-                   Wie können Jugendliche das Internet in Zeiten von Hate Speech und Populismus als positiven Gestaltungsspielraum zurückerobern? Die Demokratielabore entwickeln Workshops rund um Digitalisierung, Technologien und gesellschaftliches Miteinander.
-                </p>
-                <div class="btn-wrap">
-                    <a href="/info"><button  class="btn btn-start color-1">Über das Projekt</button> </a>
+<div class="row">
+    <div class="beneath-sections jumbotron fond__white">
+        <div class="container">
+            <div class="text__black">
+                <div class="col-lg-10 col-lg-offset-1 section-intro">
+                    <h2 class="section-headline">Mit digitalen Tools die Gesellschaft von morgen gestalten</h2>
+                    <p>
+                       Wie können Jugendliche das Internet in Zeiten von Hate Speech und Populismus als positiven gestalten? Die Demokratielabore bieten verschiedene Formate rund um Digitalisierung, Technologien und gesellschaftliches Miteinander, in denen sich Jugendliche ausprobieren können.
+                    </p>
+                    <div class="btn-wrap">
+                        <a href="/info"><button  class="btn btn-start color-1">Über das Projekt</button> </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -60,7 +62,7 @@ title: Hello
                 <div class="row">
                     {% for post in site.posts limit:2 %}
                     {% assign url=post.url |replace_first:'/','' %}
-                    <div class="col-xs-12 col-md-6 post-teaser">
+                    <div class="col-xs-12 col-md-6 col-lg-6 post-teaser">
                         {% include post-teaser-tile.html post=post %}
                     </div>
                     {% endfor %}
@@ -84,7 +86,7 @@ title: Hello
                 <div class="post-teaser-wrap">
                     <div class="row">
                        <p class="text-center">
-                            Wir sind immer auf der Suche nach außerschulischen Einrichtungen, in denen unsere Workshops stattfinden können. Vielmehr sind wir aber an langfristigen Kooperationen interessiert, um unsere Inhalte auch nachhaltig an die Jugendlichen zu bringen. 
+                            Wir sind immer auf der Suche nach außerschulischen Einrichtungen und pädagogischen Fachkräften, die Lust haben, unsere Formate auszuprobieren oder längerfristig in einer Digital-AG anzubieten.
                        </p>
                     </div>
                      <div class="btn-wrap">
@@ -96,4 +98,3 @@ title: Hello
         </div>
     </div>
 </div>
-{% include newsletter-form.html %}

@@ -8,7 +8,7 @@ img: "/workshops/teasers/mika.png"
 img_full: "/workshops/heros/mika.png"
 ws_date: "16. februar"
 ws_year: "2018"
-ws_teaser: "Mika ist verschwunden. Um herauszufinden, wo Mika steckt, haben die Jugendlichen eine Stunde Zeit, um in seinem Zimmer auf Spurensuche zu gehen und das Rätsel zu lösen!"
+ws_teaser: "Mika ist verschwunden. Um herauszufinden, wo Mika steckt, hast du eine Stunde Zeit, um in seinem Zimmer auf Spurensuche zu gehen und das Rätsel zu lösen!"
 link: '/workshops/auf-mikas-spuren'
 
 voraussetzungen:
@@ -26,17 +26,23 @@ downloads:
 
 
 ---
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/601tGRpoNB4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div class="embed-container">
+	<iframe src="https://www.youtube-nocookie.com/embed/601tGRpoNB4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 
 <h3>Inhaltlicher Ablauf</h3>
 <p> 
-	Nach einer kurzen Vorstellung des Formates und der Verhaltensregeln, werden die Teilnehmenden direkt in die Situation des Raumes gebracht: Besorgte Nachbarn bitten sie um Mithilfe, den/die vermisste/n Mika zu finden, bevor die Eltern zurückkehren. Dazu müssen sie verschiedensten Spuren folgen, Schlösser öffnen und letztlich Entscheidungen treffen, die sie zu einem der möglichen Enden führen.
+	Nach einer kurzen Vorstellung des Formates und der Verhaltensregeln, wirst du  direkt mit deinem Team in Mikas  Raum gebracht: Besorgte Nachbarn bitten euch  um Mithilfe, den/die vermisste/n Mika zu finden, bevor die Eltern zurück nach Hause kommen. Dazu müsst ihr  verschiedensten Spuren folgen, Schlösser öffnen, Rätsel lösen und Entscheidungen treffen.
 </p>
+
 <p>
-	Im Verlauf des Spieles kommen verschiedene mehrdeutige Informationen hinzu, mit denen sich verschiedene Interpretationen zur Person von Mika ergeben. Ist er/sie Faschist*in oder Islamist*in geworden oder keins von beidem? Die Entscheidungen der Gruppe und die unterschiedlichen Lösungsmöglichkeiten werden im Anschluss zur Diskussion gestellt und gemeinsam analysiert.
+	Im Verlauf des Spieles kommen verschiedene Informationen hinzu, die Mika in ein unterschiedliches Licht rücken: Ist er/sie Rechtsextremist*in  oder Islamist*in geworden oder keins von beidem? Die Entscheidungen, die du mit deiner Gruppe triffst, und die unterschiedlichen Lösungsmöglichkeiten werden im Anschluss diskutiert und gemeinsam analysiert.
 </p>
+
 <p>
-Die folgenden Downloads zum Workshop wurden gemeinsam mit <a class="highlight-grey" href="http://polyspektiv.eu/">polyspektiv</a> entwickelt, sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar und vom <a class="highlight-grey" href="https://www.bmfsfj.de/">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="https://www.demokratie-leben.de/">“Demokratie leben!”</a> und von der <a class="highlight-grey" href="https://www.bpb.de/">Bundeszentrale für politische Bildung</a> gefördert: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 | OKF DE</a>
+	Die folgenden Downloads zum Workshop wurden gemeinsam mit <a class="highlight-grey" href="http://polyspektiv.eu/">polyspektiv</a> entwickelt und sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
 </p>
 
 

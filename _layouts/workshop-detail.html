@@ -49,52 +49,31 @@
                 {% endif %}
             {% endif %}
         </div>
-        <div class="beneath-sections jumbotron fond__white">
+        <div class="jumbotron fond__white">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1 section-intro">
                         <h2 class="section-headline">{{ page.title }}</h2>
                         <p>{{ page.ws_teaser }}</p>
+                        <p>
+                            Thema: {{ page.thema }} –   
+                            Prinzip: {{ page.prinzip }} – 
+                            Dauer: {{ page.dauer }}
+                        </p>
                     </div>
                 </div>
             </div>
                 <div class="row">
                     <div class="container text__black">
                         <div class="col-lg-8 col-lg-offset-2">
-                            <div class="join__statement fond_purple_gradient ">
-                                <div class="container text__white text-center">
-                                    <div class="row">
-                                        <p>
-                                            Thema: {{ page.thema }}<br>
-                                            Prinzip: {{ page.prinzip }}<br>
-                                            Dauer: {{ page.dauer }}
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--{% if page.voraussetzungen.size > 0 %}
-                            <div class="join__statement fond_purple_gradient ">
-                                <div class="container text__white text-center">
-                                    <div class="row">
-                                        <p class="align-left"><span>Voraussetzungen & Vorkenntnisse:</span><br>
-                                            {% for vs in page.voraussetzungen %}
-                                            {{ vs.text }}<br>
-                                            {% endfor %}
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            {% endif %}-->
-                            <div class="row">
-                                <div class="container">{{ content }}</div>
-                            </div>
+                            <div class="container">{{ content }}</div>
                         </div>
                     </div>
                 </div>
             {% if page.downloads.size > 0 %}
                 <div class="row">
                     <div class="container text__black">
-                        <div class="col-lg-8 col-lg-offset-2">
+                        <div class="col-lg-7 col-lg-offset-2">
                             <h3>Downloads</h3>
                             {% for dwl in page.downloads %}
                             <a href="{{ dwl.file }}" class="btn-download" target="_blank"><span>{{ dwl.name }}</span></a>
@@ -107,7 +86,7 @@
         <div class="row">
             <div class="jumbotron related-workshop-background">
                 <div class="container">
-                    <h2 class="section-headline text-center text__white">Weitere Workshops</h2>
+                    <h2 class="section-headline text-center text__black">Weitere Workshops</h2>
                     <div class="isotope-wrap">
                         <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                         {% assign maxRelated = 3 %}

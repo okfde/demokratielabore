@@ -9,7 +9,7 @@ img: "/workshops/teasers/invasiondercybertrolle.png"
 img_full: "/workshops/heros/invasiondercybertrolle.png"
 ws_date: "16. februar"
 ws_year: "2018"
-ws_teaser: "Digitale Abenteuer-Gruppen bringen Licht in die dunklen Gewölbe sozialer Plattformen. Gegen die dort lauernden Trolle helfen aber weder Schwerter noch Zauber, sondern nur gute Argumente und Redegeschick! "
+ws_teaser: Fiese Trolle lauern nicht nur auf Facebook, Instagram und Co. - sondern auch in diesem digitalen Brettspiel! Finde gemeinsam mit anderen im Team heraus, wie ihr sie am besten besiegen könnt und welche Argumente euch weiterbringen!"
 link: '/workshops/invasion-der-cybertrolle'
 featured: true
 
@@ -33,13 +33,13 @@ downloads:
 
 <h3>Kurzbeschreibung</h3>
 <p>
-	Die Teilnehmenden werden nach einem Warm-Up in Gruppen eingeteilt und suchen sich je eine von vier möglichen Spielfiguren mit unterschiedlichen Fähigkeiten aus. Anschließend startet das Abenteuer: Im Brettspiel „Invasion der Cybertrolle” gilt es, das digitale Königreich von den Trollen zu befreien. Spielort sind die sozialen Plattformen und Netzwerke. Dort gilt es Aufgaben zu lösen und Gegnern zu trotzen, die die Spielenden mit Anfeindungen konfrontieren. Statt klassischer Kämpfe sind diese jedoch nur durch bestimmte Verhaltensweisen zu besiegen: Dafür ist es zunächst wichtig herauszufinden, wie man „Trolle” im Netz erkennt und mit ihnen umgeht, Hate Speech verhindert und in Debatten argumentativ punkten kann. 
+	Nachdem du dich mit anderen Teilnehmenden zu einer Gruppe zusammengefunden hast, kannst du dir eine von vier Spielfiguren aussuchen, die unterschiedliche Fähigkeiten haben. Dann startet das Abenteuer: Im Brettspiel „Invasion der Cybertrolle” musst du mit deinem Team  die sozialen Netzwerke von Trollen  befreien.  Gemeinsam löst ihr Aufgaben und stellt euch euren Gegnern in den Weg, die euch mit fiesen Sprüchen ärgern. Bekämpfen könnt ihr die Trolle aber nur mit Worten: Dafür ist es wichtig herauszufinden, wie man Trolle im Netz erkennt und mit ihnen umgeht, Hate Speech verhindert und in Debatten gut argumentieren kann.
 </p>
 <p>
-	Das System des Brettspiels ist simpel genug, um sehr schnell erlernt und verstanden zu werden, aber dennoch Anreize und einen Rahmen für die Handlungsmöglichkeiten der Spielenden schafft. Alle Teilnehmenden können sich daher ganz auf die gemeinsame Geschichte konzentrieren. Eine App führt durch das Spiel und die Begegnungen, in der mehrere Lösungsstrategien möglich sind, welche zum Abschluss gegenseitig vorgestellt und auf reale Wirksamkeit untersucht werden sollen.
+	Euer digitaler Begleiter in dem Spiel ist eine App, die mit einem Tablet bedient wird. Nachdem ihr das Spiel einmal durchgespielt habt, stellt ihr euch gegenseitig in den Gruppen vor, welchen Lösungsweg ihr gefunden habt und welche Strategien dabei hilfreich waren.  
 </p>
 <p>
-Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar und vom <a class="highlight-grey" href="https://www.bmfsfj.de/">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="https://www.demokratie-leben.de/">“Demokratie leben!”</a> und von der <a class="highlight-grey" href="https://www.bpb.de/">Bundeszentrale für politische Bildung</a> gefördert: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 | OKF DE</a>
+	Die folgenden Downloads zum Workshop wurden gemeinsam mit <a class="highlight-grey" href="http://polyspektiv.eu/">polyspektiv</a> entwickelt und sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
 </p>
 
 

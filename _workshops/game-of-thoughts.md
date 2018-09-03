@@ -9,7 +9,7 @@ img: "/workshops/teasers/gameofthoughts.png"
 img_full: "/workshops/heros/gameofthoughts.png"
 ws_date: "16. februar"
 ws_year: "2018"
-ws_teaser: "In kurzer Zeit und ohne Vorkenntnisse verwandelt ihr das, was euch gerade umtreibt und die Frage „Was müsste man daran mal ändern?“ in digitale Spiele!"
+ws_teaser: "Was nervt dich so richtig und wie kann man das ändern? In kurzer Zeit und ohne Vorkenntnisse verwandelst du deine Ideen für eine bessere Welt in kleine digitale Spiele"
 link: '/workshops/game-of-thoughts'
 featured: true
 
@@ -31,16 +31,16 @@ downloads:
 
 <h3>Inhaltlicher Ablauf</h3>
 <p>
-	Nach einem Input zu Grundlagen des Gamedesign und dem Thema Meinungsäußerung werden zunächst kleine bereits existierende Games ausprobiert und diskutiert. Die Teilnehmenden finden sich anschließend in kleinen Gruppen zusammen und setzen erste Ideen und Erkenntnisse in Form von analogen Brettspielen um – und erlernen so schnell und einfach die Grundlagen von Spielmechaniken.
+	Zuerst lernst du die  Grundlagen des Gamedesign kennen und kannstkleine fertige  Games ausprobieren. Anschließend gründest du mit anderen  Teilnehmenden eine  Gruppe, in der ihr gemeinsam  erste Ideen für ein Spiel in Form von analogen Brettspielen umsetzt – so lernst du schnell und einfach, wie Spiele funktionieren.
 </p>
 <p>
-	Im nächsten Schritt wird es digital: In einem Tutorial lernen die Teilnehmenden den Spiel-Editor kennen und starten in die eigentliche Projektphase. Dabei wird ein „Erklär-Spiel” für ein bestimmtes Zielpublikum, wie befreundete Kinder, Eltern, Lehrende etc., entwickelt. Nachdem zur Lebenswelt passende Themen wie z.B. Schule, Geld, Gefühle, Toleranz, Wahl oder Identität durch die SpielleiterInnen vorgeschlagen wurden, geht es mit Hilfestellungen – z.B. Einschränkungen wie „alle Sounds müssen selbstgemacht sein“, „das Spiel muss nur mit einem Knopf spielbar sein“ etc. – in die Ideenfindung.
+	Im nächsten Schritt wird es digital: Du lernst den Spiel-Editor kennen und startest mit deinem Team in die eigentliche Projektphase. Dabei entwickelt ihr  ein „Erklär-Spiel” für andere, z. B. eure Freund*innen, Eltern oder Lehrer*innen. Wählt euch ein Thema aus, das euch beschäftigt z. B. Schule, Geld, Gefühle, Toleranz, Wahl oder Identität. Die Spielleiter*innen geben euch dabei Tipps, damit euer Spiel nicht zu kompliziert und schwierig umzusetzen wird.  	
 </p>
 <p>
-	Zunächst entwirft jedes Team ein Konzept für ein Spiel und stellt es den anderen vor. Dann wird das Spiel praktisch mit Hilfe von digitalen Tools und MentorInnen entwickelt. Ein erster Testlauf der Gruppen untereinander nach knapp zwei Dritteln der Entwicklungszeit stellt sicher, dass das Konzept noch realistisch ist und das Spiel inhaltlich wie technisch funktioniert. Die MentorInnen stehen hierzu die gesamte Zeit über mit Rat und Tat zur Seite. Zum Finale präsentieren alle Gruppen ihre Werke und probieren sie gegenseitig aus. Nach dem Workshop werden die Spiele zudem auf einer Internetplattform veröffentlicht.
+	Stellt euer Spielkonzept den anderen Teams vor und hört ihre Meinung dazu, bevor ihr anfangt euer Game mit Hilfe von digitalen Tools zu entwickeln.. Nachdem ihr Weile gebastelt, getüftelt und experimentiert habt, ist es Zeit für den ersten Test: Alle Teams spielen untereinander die Games, die bisher entstanden sind und überprüfen, ob alles inhaltlich und technisch funktioniert.  Zum Finale präsentiert ihr euch noch einmal gegenseitig eure digitalen Spiele, die im Anschluss auch auf dieser Seite veröffentlicht und gespielt werden können (siehe unten). 
 </p>
 <p>
-Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar und vom <a class="highlight-grey" href="https://www.bmfsfj.de/">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a class="highlight-grey" href="https://www.demokratie-leben.de/">“Demokratie leben!”</a> und von der <a class="highlight-grey" href="https://www.bpb.de/">Bundeszentrale für politische Bildung</a> gefördert: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 | OKF DE</a>
+	Die folgenden Downloads zum Workshop wurden gemeinsam mit <a class="highlight-grey" href="http://polyspektiv.eu/">polyspektiv</a> entwickelt und sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
 </p>
 
 

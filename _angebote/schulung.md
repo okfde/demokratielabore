@@ -1,19 +1,26 @@
 ---
 title: "Schulung für Fachkräfte in der Jugendarbeit"
 layout: angebot-detail
-an_teaser: "Wie können Tools meine Arbeit erleichtern? Und wie kann man mit Daten gute Geschichten erzählen? Wir wollen Jugendverbände und gemeinnützige Organisationen in der Jugendarbeit auf dem Weg in die Digitalisierung begleiten: Dazu bieten wir verschiedene Workshops und Formate an, in denen wir mit digitalen Tools experimentieren und gemeinsam tiefer in die Welt der Daten eintauchen."
+an_teaser: "Wie können Tools meine Arbeit erleichtern? Und wie kann man mit Daten gute Geschichten erzählen? Wir wollen Jugendverbände und gemeinnützige Organisationen in der Jugendarbeit auf dem Weg in die Digitalisierung begleiten: Dazu haben wir verschiedene Workshops konzipiert."
 link: '/angebot/schulung'
 featured: true
 hide_hero: true
 
 ---
+<h2>Schulung für Fachkräfte in der Jugendarbeit</h2>
+
+<p>
+	Wie können Tools meine Arbeit erleichtern? Und wie kann man mit Daten gute Geschichten erzählen? Wir wollen Jugendverbände und gemeinnützige Organisationen in der Jugendarbeit auf dem Weg in die Digitalisierung begleiten: Dazu haben wir verschiedene Formate rund um offene Daten und digitale Tools konzipiert, die wir von Oktober 2017 bis Juni 2018 mit Fachkräften in Berlin durchgeführt haben. 
+</p>
+
 <h2>Jugendarbeit im digitalen Wandel – Kompetenzen, Daten und digitale Tools</h2>
+
 <p>
 	Von Oktober bis Dezember 2017 haben wir zwei Workshops mit Fachkräften aus der Jugendarbeit durchgeführt. Ziel war es, die Erfahrungen aus der alltäglichen, digitalen Arbeit aufzuarbeiten und zu diskutieren. Zusätzlich haben wir eine Umfrage zu digitalen Kompetenzen, Daten und Tools mit verschieden Vertreter*innen aus der Jugendarbeit durchgeführt. Die Ergebnisse unserer Analyse und Tipps aus den Workshops findet ihr zusammengefasst <a class="highlight-grey" href="https://bedarfsanalyse.demokratielabore.de">hier</a>.
 </p><br>
 <h2>Workshops 2018</h2>
 <p>
-	In unseren Workshops experimentieren wir zum Beispiel mit Sensoren und Hardware, verarbeiten Daten zu interessanten Stories oder schauen uns spannende Debatten auf Twitter an.
+	Aufbauend auf den Ergebnissen aus dem Vorjahr, haben wir von Januar bis Juni 2018 vier Workshops durchgeführt, in denen  wir zum Beispiel mit Sensoren und Hardware experimentierten und Daten zu interessanten Stories verarbeiteten 
 </p><br>
 
 <h3>Workshop I: Offene Daten und digitale Beteiligung in der Jugendarbeit (06. April 2018)</h3>

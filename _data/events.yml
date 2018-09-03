@@ -102,7 +102,7 @@
 - name: Invasion der Cybertrolle - Jugendseelsorgekonferenz
   date: 2017-08-29
   city: Bad Dürkheim
-  featured: true
+  featured: false
 - name: Infostand & Workshops - Ars Electronica Festival
   url: 'https://www.aec.at/error/de/'
   date: 2017-09-06

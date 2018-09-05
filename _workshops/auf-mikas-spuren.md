@@ -12,7 +12,7 @@ ws_teaser: "Mika ist verschwunden. Um herauszufinden, wo Mika steckt, hast du ei
 link: '/workshops/auf-mikas-spuren'
 
 voraussetzungen:
-- text: 'Teilnehmer*innen: Gleiche Sprache, herkömmliche Internetsuchmaschinen sind bekannt'
+- text: 'Teilnehmer/innen: Gleiche Sprache, herkömmliche Internetsuchmaschinen sind bekannt'
 - text: 'Pädagogische Fachkräfte: Herkömmliche Internetsuchmaschinen sind bekannt, Interesse an Methoden zu Fake News'
 
 downloads:
@@ -34,7 +34,7 @@ downloads:
 
 <h3>Inhaltlicher Ablauf</h3>
 <p> 
-	Nach einer kurzen Vorstellung des Formates und der Verhaltensregeln, wirst du  direkt mit deinem Team in Mikas  Raum gebracht: Besorgte Nachbarn bitten euch  um Mithilfe, den/die vermisste/n Mika zu finden, bevor die Eltern zurück nach Hause kommen. Dazu müsst ihr  verschiedensten Spuren folgen, Schlösser öffnen, Rätsel lösen und Entscheidungen treffen.
+	Nach einer kurzen Vorstellung des Formates und der Verhaltensregeln, wirst du  direkt mit deinem Team in Mikas  Raum gebracht: Besorgte Nachbarn bitten euch  um Mithilfe, den/die vermisste/n Mika zu finden, bevor die Eltern zurück nach Hause kommen. Dazu müsst ihr innerhalb von einer Stunde verschiedensten Spuren folgen, Schlösser öffnen, Rätsel lösen und Entscheidungen treffen.
 </p>
 
 <p>

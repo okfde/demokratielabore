@@ -31,13 +31,13 @@ downloads:
 
 <h3>Inhaltlicher Ablauf</h3>
 <p>
-	Zuerst lernst du die  Grundlagen des Gamedesign kennen und kannstkleine fertige  Games ausprobieren. Anschließend gründest du mit anderen  Teilnehmenden eine  Gruppe, in der ihr gemeinsam  erste Ideen für ein Spiel in Form von analogen Brettspielen umsetzt – so lernst du schnell und einfach, wie Spiele funktionieren.
+	Zuerst lernst du die  Grundlagen des Gamedesign kennen und kannst kleine fertige Games ausprobieren. Anschließend gründest du mit anderen Teilnehmenden eine Gruppe, in der ihr gemeinsam  erste Ideen für ein Spiel in Form von analogen Brettspielen umsetzt – so lernst du schnell und einfach, wie Spiele funktionieren.
 </p>
 <p>
-	Im nächsten Schritt wird es digital: Du lernst den Spiel-Editor kennen und startest mit deinem Team in die eigentliche Projektphase. Dabei entwickelt ihr  ein „Erklär-Spiel” für andere, z. B. eure Freund*innen, Eltern oder Lehrer*innen. Wählt euch ein Thema aus, das euch beschäftigt z. B. Schule, Geld, Gefühle, Toleranz, Wahl oder Identität. Die Spielleiter*innen geben euch dabei Tipps, damit euer Spiel nicht zu kompliziert und schwierig umzusetzen wird.  	
+	Im nächsten Schritt wird es digital: Du lernst den Spiel-Editor kennen und startest mit deinem Team in die eigentliche Projektphase. Dabei entwickelt ihr  ein „Erklär-Spiel” für andere, z. B. eure Freund*innen, Eltern oder Lehrer*innen. Wählt euch ein Thema aus, das euch beschäftigt z. B. Schule, Geld, Gefühle, Toleranz, Wahl oder Identität. Die Spielleiter*innen geben euch dabei Tipps, damit es nicht zu kompliziert und schwierig wird, euer Spiel umzusetzen.  	
 </p>
 <p>
-	Stellt euer Spielkonzept den anderen Teams vor und hört ihre Meinung dazu, bevor ihr anfangt euer Game mit Hilfe von digitalen Tools zu entwickeln.. Nachdem ihr Weile gebastelt, getüftelt und experimentiert habt, ist es Zeit für den ersten Test: Alle Teams spielen untereinander die Games, die bisher entstanden sind und überprüfen, ob alles inhaltlich und technisch funktioniert.  Zum Finale präsentiert ihr euch noch einmal gegenseitig eure digitalen Spiele, die im Anschluss auch auf dieser Seite veröffentlicht und gespielt werden können (siehe unten). 
+	Stellt euer Spielkonzept den anderen Teams vor und hört ihre Meinung dazu, bevor ihr anfangt euer Game mit Hilfe von digitalen Tools zu entwickeln. Nachdem ihr Weile gebastelt, getüftelt und experimentiert habt, ist es Zeit für den ersten Test: Alle Teams spielen untereinander die Games, die bisher entstanden sind und überprüfen, ob alles inhaltlich und technisch funktioniert.  Zum Finale präsentiert ihr euch noch einmal gegenseitig eure digitalen Spiele, die im Anschluss auch auf dieser Seite veröffentlicht und gespielt werden können (siehe unten). 
 </p>
 <p>
 	Die folgenden Downloads zum Workshop wurden gemeinsam mit <a class="highlight-grey" href="http://polyspektiv.eu/">polyspektiv</a> entwickelt und sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>

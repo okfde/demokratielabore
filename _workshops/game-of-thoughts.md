@@ -40,7 +40,7 @@ downloads:
 	Stellt euer Spielkonzept den anderen Teams vor und hört ihre Meinung dazu, bevor ihr anfangt euer Game mit Hilfe von digitalen Tools zu entwickeln. Nachdem ihr Weile gebastelt, getüftelt und experimentiert habt, ist es Zeit für den ersten Test: Alle Teams spielen untereinander die Games, die bisher entstanden sind und überprüfen, ob alles inhaltlich und technisch funktioniert.  Zum Finale präsentiert ihr euch noch einmal gegenseitig eure digitalen Spiele, die im Anschluss auch auf dieser Seite veröffentlicht und gespielt werden können (siehe unten). 
 </p>
 <p>
-	Die folgenden Downloads zum Workshop wurden gemeinsam mit <a class="highlight-grey" href="http://polyspektiv.eu/">polyspektiv</a> entwickelt und sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
+	Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
 </p>
 
 

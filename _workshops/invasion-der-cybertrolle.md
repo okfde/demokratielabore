@@ -9,7 +9,7 @@ img: "/workshops/teasers/invasiondercybertrolle.png"
 img_full: "/workshops/heros/invasiondercybertrolle.png"
 ws_date: "16. februar"
 ws_year: "2018"
-ws_teaser: Fiese Trolle lauern nicht nur auf Facebook, Instagram und Co. - sondern auch in diesem digitalen Brettspiel! Finde gemeinsam mit anderen im Team heraus, wie ihr sie am besten besiegen könnt und welche Argumente euch weiterbringen!"
+ws_teaser: Fiese Trolle lauern nicht nur auf Facebook, Instagram und Co. - sondern auch in diesem digitalen Brettspiel! Finde gemeinsam mit anderen im Team heraus, wie ihr sie am besten besiegen könnt und welche Argumente euch weiterbringen!
 link: '/workshops/invasion-der-cybertrolle'
 featured: true
 

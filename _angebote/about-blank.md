@@ -22,6 +22,6 @@ hide_hero: true
 <h2>Schaut doch mal rein</h2>
 <p>
 	<a  class="highlight-grey" href="https://www.youtube.com/channel/UCLGZBlrotKM_nuPPcvuR9SQ">Youtube</a><br>
-	<a  class="highlight-grey" href="http://www.instagram.com/aboutblankvideo/">Instgram</a><br>
+	<a  class="highlight-grey" href="http://www.instagram.com/aboutblankvideo/">Instagram</a><br>
 	<a  class="highlight-grey" href="http://www.facebook.com/aboutblankvideo/">Facebook</a>
 </p>

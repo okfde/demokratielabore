@@ -9,7 +9,7 @@ img: "/workshops/teasers/gameofthoughts.png"
 img_full: "/workshops/heros/gameofthoughts.png"
 ws_date: "16. februar"
 ws_year: "2018"
-ws_teaser: "Was nervt dich so richtig und wie kann man das ändern? In kurzer Zeit und ohne Vorkenntnisse verwandelst du deine Ideen für eine bessere Welt in kleine digitale Spiele"
+ws_teaser: "Was nervt dich so richtig und wie kann man das ändern? In kurzer Zeit und ohne Vorkenntnisse verwandelst du deine Ideen für eine bessere Welt in kleine digitale Spiele."
 link: '/workshops/game-of-thoughts'
 featured: true
 

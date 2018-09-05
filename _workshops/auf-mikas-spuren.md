@@ -20,7 +20,7 @@ downloads:
   file: '/workshops/downloads/steckbriefe/Steckbrief%20WS%20Auf%20Mikas%20Spuren.pdf'
 - name: 'Leitfaden'
   file: '/workshops/downloads/aufmikasspuren/Auf Mikas Spuren Material.zip'
-- name: 'Online Material'
+- name: 'Online-Material'
   file: 'https://drive.google.com/drive/folders/1dRjA_I6jMbTaePaG6nPIqDSrhNLa56dO?usp=sharing'
   
 

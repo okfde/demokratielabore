@@ -38,7 +38,7 @@ downloads:
 </p>
 
 <p>
-	Im Verlauf des Spieles kommen verschiedene Informationen hinzu, die Mika in ein unterschiedliches Licht rücken: Ist er/sie Rechtsextremist*in  oder Islamist*in geworden oder keins von beidem? Die Entscheidungen, die du mit deiner Gruppe triffst, und die unterschiedlichen Lösungsmöglichkeiten werden im Anschluss diskutiert und gemeinsam analysiert.
+	Im Verlauf des Spieles kommen verschiedene Informationen hinzu, die Mika in ein unterschiedliches Licht rücken: Ist er/sie Rechtsextremist/in  oder Islamist/in geworden oder keins von beidem? Die Entscheidungen, die du mit deiner Gruppe triffst, und die unterschiedlichen Lösungsmöglichkeiten werden im Anschluss diskutiert und gemeinsam analysiert.
 </p>
 
 <p>

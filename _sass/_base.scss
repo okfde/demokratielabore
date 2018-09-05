@@ -489,6 +489,7 @@ label {
 .form-control, .btn {
   font-size: $body-font-size;
   line-height: 1.6em;
+  background-color: $grey-bright;
 }
 
 .faq .row div {
@@ -643,8 +644,8 @@ label {
 .post-teaser-read-more {
 
   a{
-    color: $dl-mint;
-    font-size: 16px;
+    color: $mint;
+    font-size: 14px;
 
       &:hover{
         &:after{
@@ -657,7 +658,6 @@ label {
 
     @include transition(margin .25s ease);
 
-    content: '\2192';
     color: $dl-mint;
     display: inline-block;
     margin-left: 10px;
@@ -797,7 +797,7 @@ $keep: 44 + 2 * 15px;
 /* Newsletter Signup */
 
 .newsletter-title {
-  color: white;
+  color: black;
   font-weight: normal;
   p{
     font-size: 20px;
@@ -817,6 +817,7 @@ $keep: 44 + 2 * 15px;
   color: $black;
   border: none;
   border-radius: 0;
+  background-color: eee;
 
 }
 
@@ -1627,6 +1628,11 @@ footer img {
   }
 }
 
+.datenschutzhinweis{
+    font-size: 14px;
+    color: $grey-dark;
+
+}
 
 .table-list {
   margin-top: 4em;

@@ -1,5 +1,5 @@
 ---
-title: "Digital-AG für Jugendliche"
+title: "Digital-AGs für Jugendliche"
 layout: angebot-detail
 an_teaser: "Du brennst für digitale Themen und Netzpolitik? Oder hast einfach mal Lust mit Technik zu basteln, in Magazinen zu stöbern und dich mit anderen auszutauschen? Dann bist du in der Digital-AG genau richtig!"
 link: '/angebot/digital-ags'

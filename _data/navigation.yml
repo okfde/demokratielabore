@@ -5,16 +5,19 @@ de:
   - title: Team
     url: /team
 
+  - title: Info
+    url: /info
+
   - title: Mitmachen
     url: /mitmachen
+
+  - title: Publikationen
+    url: /publikationen
 
   - title: Digital-AGs
     url: /angebot/digital-ags
 
   - title: Workshops
     url: /workshops
-
-  - title: Info
-    url: /info
 
 

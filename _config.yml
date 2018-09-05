@@ -34,3 +34,6 @@ collections:
     angebote:
         output: true
         permalink: /angebot/:path/
+    publikationen:
+        output: true
+        permalink: /publikationen/:path/

@@ -54,23 +54,21 @@ title: Hello
     <div class="jumbotron background-white">
         <div class="row">
             <div class="container">
-                <div class="col-lg-10 col-lg-offset-1 section-workshop">
+                <div class="col-xs-10 col-lg-offset-1 section-workshop">
                     <h2 class="section-headline">Neues, News und Neuigkeiten</h2>
                 </div>
             </div>
             <div class="post-teaser-wrap">
-                <div class="row">
-                    {% for post in site.posts limit:2 %}
-                    {% assign url=post.url |replace_first:'/','' %}
-                    <div class="col-xs-12 col-md-6 col-lg-6 post-teaser">
-                        {% include post-teaser-tile.html post=post %}
-                    </div>
-                    {% endfor %}
+                {% for post in site.posts limit:3 %}
+                {% assign url=post.url |replace_first:'/','' %}
+                <div class="col-xs-10 col-md-6 col-lg-4 post-teaser">
+                    {% include post-teaser-tile.html post=post %}
                 </div>
+                {% endfor %}
             </div>
         </div>
         <div class="btn-wrap">
-            <a href="/blog"><button  class="btn btn-start color-2">Alle Blogbeiträge ansehen</button> </a>
+            <a href="/blog"><button  class="btn btn-start color-2">Alle anzeigen</button> </a>
         </div>
     </div>
 </div>

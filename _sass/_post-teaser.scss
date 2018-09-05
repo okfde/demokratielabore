@@ -22,8 +22,14 @@
     }
     .post-teaser-image-caption{
     }
+
+    .post-date{
+      color: $grey-dark;
+      font-size: 14px;
+      margin-top: -30px;
+    }
     .post-teaser-content{
-      padding: 20px;
+      padding: 5px 20px;
       text-align: left;
 
       .post-teaser-title{
@@ -55,7 +61,8 @@
 
 
         a{
-          color: $dl-mint;
+          color: #0A00FF;
+          font-size: 15px;
         }
 
       }
@@ -67,7 +74,6 @@
   .post-teaser {
     .post-teaser-inner {
       .post-teaser-content {
-        padding: 40px;
         &.workshop{
           padding: 20px;
         }

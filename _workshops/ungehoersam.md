@@ -24,11 +24,11 @@ downloads:
   file: 'https://handbuch.demokratielabore.de/#3-4-Ungeh%C3%B6rsam%20%E2%80%93%20Gut%20und%20verru%CC%88ckt%20demonstrieren'
 - name: 'Benötigtes Material (Ablauf, Präsentation, Print)'
   file: '/workshops/downloads/ungehoersam/Ungehörsam Material.zip'
-- name: 'Ungehörsam Editor'
+- name: 'Ungehörsam-Editor'
   file: '/workshops/downloads/ungehoersam/editor/index.html'
-- name: 'Ungehörsam Reader (Android)'
+- name: 'Ungehörsam-Reader (Android)'
   file: '/workshops/downloads/ungehoersam/Ungeh%C3%B6rsam-Reader.apk'
-- name: 'GIT zum Ungehörsam Editor und Reader (Android)'
+- name: 'GIT zum Ungehörsam-Editor und -Reader (Android)'
   file: 'https://github.com/okfde/demolabs-ungehoersam'
 
 

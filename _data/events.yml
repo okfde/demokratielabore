@@ -161,6 +161,7 @@
   city: Düsseldorf
   featured: true
 - name: Infostand - Bits & Bäume-Konferenz
+  url:  'https://bits-und-baeume.org/de'
   date: 2017-11-17
   city: Berlin
   featured: true

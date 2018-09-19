@@ -123,11 +123,16 @@
   city: Berlin
   featured: true
 - name: Newsbusters - Maus-Türöffner-Tag in der Heinrich-Böll-Stiftung
+  url:  'https://www.wdrmaus.de/tuer_oeffner_tag/2018/index.php5?detail=696548'
   date: 2017-10-03
   city: Berlin
   featured: true
 - name: Ungehörsam - youcoN
   date: 2017-10-05
+  city: Wolfsburg
+  featured: true
+- name: Citizen Science - youcoN
+  date: 2017-10-06
   city: Wolfsburg
   featured: true
 - name: Invasion der Cybertrolle - Bund der Deutschen Landjugend
@@ -138,8 +143,28 @@
   date: 2017-10-16
   city: Berlin
   featured: true
+- name: Jugendkonferenz
+  date: 2017-10-16
+  city: Greifswald
+  featured: true
 - name: Game of Thoughts @ Jugend hackt
   url: 'https://goo.gl/forms/pkEMlreahiRHrOXe2'
   date: 2017-10-19
+  city: Berlin
+  featured: true
+- name: Start Digital-AG 
+  date: 2017-11-01
+  city: Ulm
+  featured: true
+- name: Infostand - Tag der Medienkompetenz
+  date: 2017-11-05
+  city: Düsseldorf
+  featured: true
+- name: Infostand - Bits & Bäume-Konferenz
+  date: 2017-11-17
+  city: Berlin
+  featured: true
+- name: Netzwerktreffen Demokratielabore
+  date: 2017-11-30
   city: Berlin
   featured: true

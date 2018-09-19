@@ -668,6 +668,7 @@ ux-dialog-body {
     margin-left: 9mm;
     margin-right: 9mm;
     /*border: 1px solid black;*/
+    page-break-inside: avoid;
 }
 
 .print-content > * {

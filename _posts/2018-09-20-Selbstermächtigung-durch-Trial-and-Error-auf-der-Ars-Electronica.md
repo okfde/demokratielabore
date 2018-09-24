@@ -6,7 +6,7 @@ excerpt:
 images:
  -
    imgname: hebocon2.JPG
-   sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Maximilian Voigt"
+   sub: "<a href='https://creativecommons.org/licenses/by-nc-nd/2.0/'>CC BY-NC-ND 2.0</a>, Foto: Ars Electronica"
 published: true
 title: "Selbstermächtigung durch Trial & Error"
 ---
@@ -17,7 +17,7 @@ Auf der diesjährigen [Ars Electronica](https://ars.electronica.art/error/de/) -
 <center><img src="/assets/blog/hebocon1.JPG" alt="Hebocon Teilnehmer" width="60%"></center>
 
 An dem gemeinsamen Stand von Jugend hackt und Demokratielabore gab es aber auch anderes zu entdecken: Mit Hilfe des Tools “[Twine](http://twinery.org/)” - ein online Editor für textbasierte Spiele - entstanden während unseres “[Game of Thoughts](https://demokratielabore.de/workshops/game-of-thoughts/)”-Workshops viele spannende Spiele zu Themen, die die Jugendlichen für andere erlebbar gestalten wollten. So wurde aus dem alltäglichen Aufräumen des Zimmers ein spannendes Abenteuer und das Basketball-Hobby eine mitreißende Tragödie.
-Durch dieses ausgewogene Programm - das insbesondere durch die Kooperation von Jugend hackt und Demokratielabore angeboten werden konnte - war für jeden und jede etwas dabei.
+Durch dieses ausgewogene Programm - das insbesondere durch die Kooperation von Jugend hackt und Demokratielabore angeboten werden konnte - war für jeden und jede etwas dabei. Wir freuen uns auch im nächsten Jahr wieder auf tolle Jugendliche und ganz viel Phantasie.
 
 Wer bis dahin nicht warten möchte, hat die Möglichkeit schon vorher die spannenden Talks der diesjährigen Veranstaltung zu entdecken:
 

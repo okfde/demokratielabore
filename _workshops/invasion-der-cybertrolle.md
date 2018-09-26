@@ -24,6 +24,8 @@ downloads:
   file: 'https://handbuch.demokratielabore.de/#3-2-Invasion%20der%20Cybertrolle%20%E2%80%93%20Argumente%20gegen%20Trolle'
 - name: 'Begleit-App (BETA!)'
   file: '/workshops/downloads/invasiondercybertrolle/app/index.html'
+- name: 'Begleit-App (Source)'
+  file: '/workshops/downloads/invasiondercybertrolle/Invasion%20der%20Cybertrolle.capx'
 - name: 'Benötigtes Material (BETA!)'
   file: '/workshops/downloads/invasiondercybertrolle/Invasion der Cybertrolle Material - BETA.zip'
 

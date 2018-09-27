@@ -117,7 +117,7 @@
   url: 'https://www.jugendgerecht.de/aktuelles/veranstaltungen/politik-fuer-mit-und-von-jugend-konferenz-zur-bundespolitischen-jugendstrategie/'
   date: 2017-09-24
   city: Berlin
-  featured: true
+  featured: false
 - name: Input zur Bedarfsanalyse - AG Soziale Medien der Amadeu-Antonio-Stiftung
   date: 2017-09-28
   city: Berlin
@@ -134,6 +134,10 @@
 - name: Citizen Science - youcoN
   date: 2017-10-06
   city: Wolfsburg
+  featured: true
+- name: Minetest Hero Theater - Ev. Jugend Baden-Baden
+  date: 2017-10-09
+  city: Neckarzimmern
   featured: true
 - name: Invasion der Cybertrolle - Bund der Deutschen Landjugend
   date: 2017-10-13
@@ -164,7 +168,7 @@
   date: 2017-11-05
   city: Düsseldorf
   featured: true
-- name: Infostand - Bits & Bäume-Konferenz
+- name: Jugend-Area - Bits & Bäume-Konferenz
   url:  'https://bits-und-baeume.org/de'
   date: 2017-11-17
   city: Berlin

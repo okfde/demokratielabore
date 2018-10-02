@@ -1,0 +1,105 @@
+/*********************
+filter items
+*********************/
+
+@mixin teaser-shadow(){
+  @include transition(box-shadow .5s ease);
+  box-shadow: 10px 10px 15px 1px rgba(0,0,0,0.1);
+}
+@mixin teaser-shadow-hover(){
+  &:hover{
+    transform: scale(1.025);
+    .teaser-inner{
+      box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.1);
+    }
+  }
+}
+
+.filter-items{
+
+  margin: 30px auto !important;
+  display: table;
+
+  .filter-items-headline{
+    color: $black;
+    font-size: 0.8em;
+  }
+
+  .filter-item{
+    @include box();
+    @include teaser-shadow();
+    display: inline-block;
+    font-size: 1em;
+    cursor: pointer;
+    padding: 5px 15px;
+    margin: 6px 4px;
+
+    &.shrinked{
+      font-size: 1.25em;
+    }
+
+    &.disabled{
+      pointer-events: none;
+    }
+
+  }
+
+  &.green{
+
+    .filter-item{
+      background-color: $blue;
+      color: $white;
+
+      &.hover, &.active{
+        background-color: $black;
+        color: $white;
+      }
+    }
+
+  }
+
+  &.blue{
+
+    .filter-item{
+      background-color: $green;
+      color: $white;
+
+      &.hover, &.active{
+        background-color: $black;
+        color: $white;
+      }
+    }
+
+  }
+
+  &.black{
+
+    .filter-item{
+      background-color: $black;
+      color: $white;
+
+      &.hover, &.active{
+        background-color: $white;
+        color: $black;
+      }
+    }
+
+  }
+
+  &.white{
+
+    .filter-item{
+      background-color: $white;
+      color: $black;
+
+      &.hover, &.active{
+        background-color: $black;
+        color: $white;
+      }
+    }
+
+
+  }
+
+}
+

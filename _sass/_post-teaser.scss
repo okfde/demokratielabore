@@ -9,6 +9,11 @@
 }
 
 .post-teaser{
+  &.tool {
+    .post-teaser-inner{
+      background-color: #ededed;
+    }
+  }
   .post-teaser-inner{
     margin: 20px;
     @include dropshadow_tile();

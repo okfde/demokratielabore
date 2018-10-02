@@ -29,8 +29,19 @@ gems:
 # Collections
 collections:
     workshops:
-        output: true
-        permalink: /workshops/:path/
+      output: true
+      permalink: /workshops/:path/
     angebote:
-        output: true
-        permalink: /angebot/:path/
+      output: true
+      permalink: /angebot/:path/
+    ideas:
+      output: true
+      permalink: /idea/:path/
+
+# page_gen:
+#   - data: 'materialsammlung.themen'
+#     index_files: true
+#     template: 'themen'
+#     name: 'title'
+#     dir: 'materialsammlung'
+

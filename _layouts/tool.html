@@ -1,0 +1,58 @@
+---
+layout: base
+title: "Themen"
+hide_hero: true
+
+---
+
+<div class="row">
+    <div class="col-xs-12 fond__white jumbotron">
+        <div class="row">
+            <div class="container">
+                <div class="col-lg-10 col-lg-offset-1 section-workshop">
+                  <a href="/materialsammlung"><h3>Selbstlernmaterial</h3></a>
+                  <h2 class="section-headline">{{ page.title }}</h2>
+                    <p>
+                      {{ page.content }}
+                    </p>
+                </div>
+            </div>
+            <div class="container">
+                <div class="isotope-wrap">
+                    <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+                    {% for p in site.pages %}
+                    {% if p.tool contains page.tool and p.type contains 'subtool' %}
+                        <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+                            {% include tool-teaser-tile.html post=p %}
+                        </div>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 fond_darkblue_gradient jumbotron">
+        <div class="row">
+            <div class="container">
+                <div class="col-lg-10 col-lg-offset-1 section-workshop text__white">
+                    <h2 class="section-headline">Weitere Angebote</h2>
+                    <p>
+                        Damit unsere Workshopangebote keine einmalige Sache bleiben, wollen wir unser Wissen auf allen Ebenen weitergeben. Dazu haben wir umfrangreiche weitere Angebote. Schaut her!
+                    </p>
+                </div>
+            </div>
+            <div class="container">
+                <div class="isotope-wrap">
+                    <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+                    {% assign sortedAngebote = site.angebote | sort: 'title' %}
+                    {% for angebot in sortedAngebote %}
+                        {% assign post = angebot %}
+                        <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+                            {% include angebote-teaser-tile.html post=post %}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

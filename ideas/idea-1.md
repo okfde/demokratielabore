@@ -1,6 +1,6 @@
 ---
 subtool: subtool1
-unterthema: unter1
+unterthema: unter3.1
 type: idea
 title: Idea 1
 layout: idea

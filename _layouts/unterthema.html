@@ -6,7 +6,7 @@ hide_hero: true
 ---
 
 {% for p in site.pages %}
-  {% if p.thema == page.thema' and p.type == "theme" %}
+  {% if p.thema == page.thema and p.type == "theme" %}
     {% assign thema = p %}
   {% endif %}
 {% endfor %}

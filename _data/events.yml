@@ -150,7 +150,7 @@
 - name: Jugendkonferenz
   date: 2018-10-16
   city: Greifswald
-  featured: true
+  featured: false
 - name: Game of Thoughts @ Jugend hackt
   url: 'https://goo.gl/forms/pkEMlreahiRHrOXe2'
   date: 2018-10-19

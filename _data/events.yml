@@ -167,7 +167,7 @@
 - name: Infostand - Tag der Medienkompetenz
   date: 2018-11-05
   city: Düsseldorf
-  featured: true
+  featured: false
 - name: Jugend-Area - Bits & Bäume-Konferenz
   url:  'https://bits-und-baeume.org/de'
   date: 2018-11-17

@@ -8,7 +8,7 @@ images:
    imgname: b&b.JPG
    sub: "<a href='https://bits-und-baeume.org'>Bits & Bäume Konferenz</a>"
 published: true
-title: "Nachhaltigkeit, Tech & Digitalisierung - Jugend-Forum auf der Bits & Bäume-Konferenz"
+title: "Nachhaltigkeit, Tech & Digitalisierung - Jugend-Forum auf der Bits & Bäume-Konferenz" 
 ---
 
 Welche Rolle spielt Nachhaltigkeit für Tech-Communities? Wie kann Digitalisierung zur nachhaltigen Gestaltung der Gesellschaft beitragen? Und was hat das alles mit Jugendlichen zu tun?

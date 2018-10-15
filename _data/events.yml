@@ -138,11 +138,11 @@
 - name: Minetest Hero Theater - Ev. Jugend Baden-Baden
   date: 2018-10-09
   city: Neckarzimmern
-  featured: true
+  featured: false
 - name: Invasion der Cybertrolle - Bund der Deutschen Landjugend
   date: 2018-10-13
   city: Berlin
-  featured: true
+  featured: false
 - name: Datenspaziergang mit jugend.beteiligen.jetzt
   date: 2018-10-16
   city: Berlin

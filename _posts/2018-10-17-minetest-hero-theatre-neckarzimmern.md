@@ -20,7 +20,7 @@ Das nächste Mal sind wir mit diesem neuen Konzept auf dem [PLAY18 - Creative Ga
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/3LtbV-zEO7E?ecver=2" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div> <br>
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/6mO4w0oUmXg?ecver=2" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div> 
-
+<br>
 Alle Infos zum Workshop, Ablaufpläne, Handouts und weiterer Hilfsmittel veröffentlichen wir demnächst unter Creative Commons-Lizenz in unserem Workshop-Bereich. 
 
 Kleiner Spoiler: Zwei weitere neue Workshops sind in der Planung, seid gespannt!

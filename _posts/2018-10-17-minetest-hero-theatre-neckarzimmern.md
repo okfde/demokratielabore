@@ -6,7 +6,7 @@ excerpt:
 images:
  -
    imgname: minetest.JPG
-   sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY-4.0</a>, OKF DE, Foto: Lea Pfau"
+   sub: ""
 published: true
 title: "Vorhang auf für das “Minetest Hero Theatre”!" 
 ---

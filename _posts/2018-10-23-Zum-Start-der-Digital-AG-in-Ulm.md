@@ -26,7 +26,7 @@ Außerdem entscheiden wir uns gemeinsam für Themen und Gegenstände, die wir f�
 **Wie kannst du teilnehmen?**<br>
 Das Angebot ist natürlich kostenfrei und offen für alle! Du brauchst keine Vorkenntnisse - Neugier und Spaß am Ausprobieren reichen. Komm’ einfach vorbei und lass’ dir alle Fragen beantworten.
 
-<center><button href="https://tickets.verschwoerhaus.de/ulm/digital-ag" type="button" class="btn btn-default">Jetzt anmelden</button></center>
+<center><button href="https://tickets.verschwoerhaus.de/ulm/digital-ag" type="button" class="btn btn-default" style="color: #f21c5e">Jetzt anmelden</button></center>
 
 **Eine eigene Digital-AG starten**<br>
 Du wohnst nicht in Ulm und möchtest auch in deiner Region eine Digital-AG? Super! Wende dich an eine Jugendeinrichtung in deiner Umgebung und melde dich einfach bei uns: <a href="mailto:info@demokratielabore.de">Kontakt</a>

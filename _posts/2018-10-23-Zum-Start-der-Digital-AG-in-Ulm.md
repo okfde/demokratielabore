@@ -8,7 +8,7 @@ images:
    imgname: coding_jh.jpg
    sub: ""
 published: true
-title: "Vorhang auf für das “Minetest Hero Theatre”!" 
+title: "Seid dabei, beim Start der Digital-AG in Ulm!"
 ---
 
 Das [Verschwörhaus Ulm](https://verschwoerhaus.de/) öffnet die Türen und lädt gemeinsam mit den Demokratielaboren zum Start der Digital-AG ein. Los geht es am Donnerstag, den 1. November 2018, um 14 Uhr.

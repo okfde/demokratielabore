@@ -11,7 +11,7 @@ published: true
 title: "Seid dabei, beim Start der Digital-AG in Ulm!"
 ---
 
-Das [Verschwörhaus Ulm](https://verschwoerhaus.de/) öffnet die Türen und lädt gemeinsam mit den Demokratielaboren zum Start der Digital-AG ein. Los geht es am Donnerstag, den 1. November 2018, um 14 Uhr.
+*Das [Verschwörhaus Ulm](https://verschwoerhaus.de/) öffnet die Türen und lädt gemeinsam mit den Demokratielaboren zum Start der Digital-AG ein. Los geht es am Donnerstag, den 1. November 2018, um 14 Uhr.*
 
 **Wir starten die erste Digital-AG in Ulm!**<br>
 Wir möchten Jugendlichen einen Ort schaffen, an dem sie sich frei mit technischen und gesellschaftlichen Themen beschäftigen dürfen. Als Digital-AGent*in kannst du Ideen und Projekte umsetzen.
@@ -26,6 +26,8 @@ Außerdem entscheiden wir uns gemeinsam für Themen und Gegenstände, die wir f�
 **Wie kannst du teilnehmen?**<br>
 Das Angebot ist natürlich kostenfrei und offen für alle! Du brauchst keine Vorkenntnisse - Neugier und Spaß am Ausprobieren reichen. Komm’ einfach vorbei und lass’ dir alle Fragen beantworten.
 
+<center><button href="https://tickets.verschwoerhaus.de/ulm/digital-ag" type="button" class="btn btn-default">Jetzt anmelden</button></center>
+
 **Eine eigene Digital-AG starten**<br>
-Du wohnst nicht in Ulm und möchtest auch in deiner Region eine Digital-AG? Super! Wende dich an eine Jugendeinrichtung in deiner Umgebung und melde dich einfach bei uns: info@demokratielabore.de
+Du wohnst nicht in Ulm und möchtest auch in deiner Region eine Digital-AG? Super! Wende dich an eine Jugendeinrichtung in deiner Umgebung und melde dich einfach bei uns: <a href="mailto:info@demokratielabore.de">Kontakt</a>
 

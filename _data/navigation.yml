@@ -1,6 +1,6 @@
-de:  
-  - title: Blog
-    url: /blog
+de:
+  - title: Mitmachen
+    url: /mitmachen
 
   - title: Team
     url: /team
@@ -8,8 +8,8 @@ de:
   - title: Info
     url: /info
 
-  - title: Mitmachen
-    url: /mitmachen
+  - title: Blog
+    url: /blog
 
   - title: Publikationen
     url: /publikationen

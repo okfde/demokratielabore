@@ -5,7 +5,7 @@ date: 2018-10-24
 excerpt:
 images:
  -
-   imgname: jhberlin.JPG
+   imgname: jhberlin.jpg
    sub: ""
 published: true
 title: "Weltraumausflüge, Hausaufgabenflut und viel Glitzer gegen Rechts im “Game of Thoughts”-Game Jam bei Jugend hackt Berlin!" 

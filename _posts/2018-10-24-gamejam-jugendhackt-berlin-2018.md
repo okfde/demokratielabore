@@ -8,10 +8,10 @@ images:
    imgname: jhberlin.jpg
    sub: ""
 published: true
-title: "Weltraumausflüge, Hausaufgabenflut und viel Glitzer gegen Rechts im “Game of Thoughts”-Game Jam bei Jugend hackt Berlin!" 
+title: "Weltraumausflüge, Hausaufgabenflut und viel Glitzer gegen Rechts - GameJam @ Jugend hackt Berlin!" 
 ---
 
-Vom 19.-21. Oktober fand im Theater an der Parkaue das diesjährige [Berliner Jugend hackt-Event](https://jugendhackt.org/events/berlin/) statt - Und wir waren mit unserem “Game of Thoughts” Game Jam dabei! Bis lang in die Nacht bastelten unsere 14 Teilnehmenden an ihren Spielen - für einige waren es die ersten überhaupt! - und versuchten dabei, über ihr Spiel auch eines ihrer Herzensthemen zu vermitteln.
+Vom 19.-21. Oktober fand im Theater an der Parkaue das diesjährige [Berliner Jugend hackt-Event](https://jugendhackt.org/events/berlin/) statt - Und wir waren mit unserem [“Game of Thoughts” GameJam](https://demokratielabore.de/workshops/game-of-thoughts) dabei! Bis lang in die Nacht bastelten unsere 14 Teilnehmenden an ihren Spielen - für einige waren es die ersten überhaupt! - und versuchten dabei, über ihr Spiel auch eines ihrer Herzensthemen zu vermitteln.
 
 Herausgekommen sind dabei fünf spannende Spiele, die ihr gleich hier entweder testen oder zum Weiterentwickeln herunterladen könnt. Wer selbst einmal digitale Spiele entwerfen möchte, kann mit den kostenlosen Programmen Construct2 und Twine loslegen - Anleitungen dazu gibt es in unserem [Workshopbereich](https://demokratielabore.de/workshops/downloads/gameofthoughts/GoT%20Material.zip).
 

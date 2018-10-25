@@ -6,7 +6,7 @@ excerpt:
 images:
  -
    imgname: jungetueftler.jpg
-   sub: "<a href="https://junge-tueftler.de/pressematerial/">Fotocredits: Kilian Kottmeier</a>"
+   sub: "<a href='https://junge-tueftler.de/pressematerial/'>Fotocredits: Kilian Kottmeier</a>"
 published: true
 title: "Mit digitalen Tools Gesellschaft gestalten #10 – Interview mit JUNGE TÜFTLER" 
 ---

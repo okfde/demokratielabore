@@ -1,13 +1,8 @@
-<div class="post-teaser-inner {{include.post.unterthema}}">
+<div class="post-teaser-inner {{ site.data.unterthema-color[include.post.unterthema] }}">
     <a href="{{post.link}}">
         <img src="{{post.img}}" class="img-responsive" />
     </a>
-    <div class="post-teaser-content workshop" style="position: realative;">
-        <div class="theme-picture" style=" min-width: 50%; float: left; position: absolute; top: 0; left: 0; bottom:0; margin: 20px; background-color: blue">
-        &nbsp;
-        </div>
-
-        <div style="float: right; max-width: 50%; padding-left: 40px;">
+    <div class="post-teaser-content thema">
         <h3 class="post-teaser-title" >{{ include.post.title }}</h3>
         <div class="post-teaser-description workshop">
             <p>
@@ -17,8 +12,6 @@
             {% assign path = include.post.url %}
             <a class="post-teaser-read-more" href="{{ path }}">zum Thema</a>
         </div>
-        </div>
-        <div style="clear: both;">&nbsp;</div>
     </div>
 </div>
 

@@ -1,0 +1,88 @@
+/*********************
+contentpage elements
+*********************/
+.content-element{
+  display: block;
+  width: 100%;
+
+  img{
+    width: 100%;
+    height: auto;
+    display: block;
+
+  }
+
+  &.left{
+    float: left;
+    margin-top: 35px;
+    margin-right: 40px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+  }
+  &.right{
+    float:right;
+    margin-top: 35px;
+    margin-right: 0px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+  }
+
+  &.infobox{
+    @include teaser-shadow();
+
+    background-color: $primary-color;
+    color: $black;
+    text-align: left;
+    width: 100%;
+    padding: 20px;
+
+    .infobox-headline{
+      font-weight: 700;
+      margin-bottom: 15px;
+    }
+
+    .infobox-copy{
+    a{
+      text-decoration: underline;
+    }
+    }
+    .infobox-headline, .infobox-copy{
+      font-size: 1.25rem;
+      display: block;
+      line-height: 1.2;
+    }
+
+  }
+
+}
+
+.infobox-quote {
+
+    background-color: transparent !important;
+    box-shadow: none !important;
+    text-align: left;
+    width: 100%;
+    padding: 20px;
+
+    &.left{
+    float: left;
+    margin-top: 35px;
+    margin-right: 40px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    }
+    &.right{
+    float:right;
+    margin-top: 35px;
+    margin-right: 0px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    }
+
+    .content{
+        font-size: 2.0rem;
+        font-style: Italic;
+        display: block;
+        line-height: 1.5;
+     }
+}

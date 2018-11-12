@@ -9,9 +9,10 @@
 }
 
 .post-teaser{
+
   &.tool {
     .post-teaser-inner{
-      background-color: #ededed;
+      border-top: 5px solid red;
     }
   }
   .post-teaser-inner{
@@ -19,6 +20,19 @@
     @include dropshadow_tile();
     background-color: white;
     display: block;
+
+    &.black {
+      .post-teaser-content.thema {
+        border-top: 5px solid black;
+      }
+    }
+
+    &.red {
+      .post-teaser-content.thema {
+        border-top: 5px solid red;
+      }
+    }
+
 
     .post-teaser-image{
       height: 250px;

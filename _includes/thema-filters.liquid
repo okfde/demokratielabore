@@ -1,0 +1,17 @@
+<div class="filter-items green">
+  <div class="filter-items-inner col-xs-24">
+    {% assign subthema = [] %}
+    {% for p in site.pages %}
+      {% if p.type == 'themacontent' && p.thema == include.thema %}
+        {% if subthema %}
+        {% assign subthema = subthema | append:'|' %}
+        {% endif %}
+        {% assign subthema = subthema |  append: p.unterthema %}
+      {% endif %}
+    {% endfor %}
+    {% assign subthema = subthema | split:'|' %}
+    {% for st in subthema %}
+      <a href="/" data-filter=".{{ st }}" class="filter-item {{site.data.unterthema-color[st]}}">{{site.data.unterthema[st]}}</a>
+    {% endfor %}
+  </div>
+</div>

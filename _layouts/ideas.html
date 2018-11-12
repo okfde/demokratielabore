@@ -1,41 +1,31 @@
 ---
 layout: base
-title: "Themen"
+title: "Ideas"
 hide_hero: true
+
 ---
+
 <div class="row">
     <div class="col-xs-12 fond__white jumbotron">
         <div class="row">
             <div class="container">
                 <div class="col-lg-10 col-lg-offset-1 section-workshop">
-                  <h2 class="section-headline">Selbstlernmaterial</h2>
+                  <a href="/materialsammlung"><h3>Selbstlernmaterial</h3></a>
+                  <h2 class="section-headline">{{ page.title }}</h2>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                      {{ page.content }}
                     </p>
                 </div>
             </div>
             <div class="container">
-                <div class="col-lg-10 col-lg-offset-1 filters">
-                  {% include blog-filters.liquid %}
-                </div>
-            </div>
-            <div class="container">
                 <div class="isotope-wrap">
-                    <div class="grid-sizer col-xs-12 col-md-6 col-lg-3"></div>
+                    <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% for p in site.pages %}
-                      {% if p.type contains 'theme' or p.type == 'tool' %}
-                        {% if p.type contains 'theme' %}
-                        <div class="col-xs-12 col-md-6 col-lg-6 isotope-item post-teaser {{ p.type }}">
-                        {% else %}
-                        <div class="col-xs-12 col-md-6 col-lg-3 isotope-item post-teaser {{ p.type }}">
-                        {% endif |%}
-                          {% if p.type contains 'theme' %}
-                            {% include thema-teaser-tile.html post=p %}
-                          {% else %}
-                            {% include tool-teaser-tile.html post=p %}
-                          {% endif %}
+                    {% if p.type contains 'idea' %}
+                        <div class="{{p.unterthema}} col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+                            {% include unter-thema-teaser-tile.html post=p %}
                         </div>
-                      {% endif %}
+                    {% endif %}
                     {% endfor %}
                 </div>
             </div>
@@ -53,7 +43,7 @@ hide_hero: true
             </div>
             <div class="container">
                 <div class="isotope-wrap">
-                    <div class="grid-sizer col-xs-12 col-md-4 col-lg-4"></div>
+                    <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% assign sortedAngebote = site.angebote | sort: 'title' %}
                     {% for angebot in sortedAngebote %}
                         {% assign post = angebot %}

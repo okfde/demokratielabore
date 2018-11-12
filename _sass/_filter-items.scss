@@ -50,6 +50,16 @@ filter items
       background-color: $blue;
       color: $white;
 
+      &.red {
+      background-color: red;
+      color: $white;
+      }
+
+      &.black {
+        background-color: black;
+        color: white;
+      }
+
       &.hover, &.active{
         background-color: $black;
         color: $white;

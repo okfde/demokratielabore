@@ -1,9 +1,10 @@
 ---
-title: Unter Thema 1
+title: Thema Content 1
 layout: unterthema
-type: unterthema
+type: themacontent
 thema: thema1
-unterthema: unter1
+unterthema: unter1-1
+themacontent: tcontent1
 hide_hero: true
 
 ---

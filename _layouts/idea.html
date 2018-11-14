@@ -41,10 +41,28 @@
                 {% assign unterthema = p %}
                 {% endif %}
                 {% endfor %}
-                <a href="{{ unterthema.url }}" class="btn btn-start">Zurück zum {{ unterthema.title }} </a>
 			        </div>
 			        </div>
 				</div>
+        <div class="container">
+            <div class="isotope-wrap">
+                <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+                {% for p in site.pages %}
+                {% if p.type contains 'themacontent' or p.type contains 'subtool' %}
+                    {% if p.type == 'themacontent' and page.themacontent contains p.themacontent %}
+                    <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+                        {% include unter-thema-teaser-tile.html post=p %}
+                    </div>
+                    {% endif %}
+                    {% if p.type == 'subtool' and page.subtool contains p.subtool  %}
+                    <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+                        {% include tool-teaser-tile.html post=p %}
+                    </div>
+                    {% endif %}
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
 			</div>
         </div>
 	</div>

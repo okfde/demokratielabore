@@ -6,8 +6,7 @@
         <h3 class="post-teaser-title" >{{ include.post.title }}</h3>
         <div class="post-teaser-description workshop">
             <p>
-                {{ post.ws_teaser | remove: '<p>' | remove: '</p>'}}
-                {{ include.post.content }}
+                {{ include.post.teaser | remove: '<p>' | remove: '</p>'}}
             </p>
             {% assign path = include.post.url %}
             <a class="post-teaser-read-more" href="{{ path }}">zum Idea</a>

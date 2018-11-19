@@ -12,7 +12,7 @@
         <div class="post-teaser-description workshop">
             <p>
                 {{ post.ws_teaser | remove: '<p>' | remove: '</p>'}}
-                {{ include.post.content }}
+                {{ include.post.teaser }}
             </p>
             {% assign path = include.post.url %}
             <a class="post-teaser-read-more" href="{{ path }}">zum Thema</a>

@@ -6,7 +6,9 @@
         {% if subthema %}
         {% assign subthema = subthema | append:'|' %}
         {% endif %}
+        {% unless subthema contains p.unterthema %}
         {% assign subthema = subthema |  append: p.unterthema %}
+        {% endunless %}
       {% endif %}
     {% endfor %}
     {% assign subthema = subthema | split:'|' %}

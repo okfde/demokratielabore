@@ -25,9 +25,9 @@ hide_hero: true
                     {% for p in site.pages %}
                       {% if p.layout == 'thema' or p.layout == 'tool' %}
                         {% if p.layout == 'thema' %}
-                        <div class="col-xs-12 col-md-6 col-lg-6 isotope-item post-teaser {{ p.type }}">
+                        <div class="col-xs-12 col-md-6 col-lg-6 isotope-item post-teaser thema">
                         {% else %}
-                        <div class="col-xs-12 col-md-6 col-lg-3 isotope-item post-teaser {{ p.type }}">
+                        <div class="col-xs-12 col-md-6 col-lg-3 isotope-item post-teaser tool">
                         {% endif |%}
                           {% if p.layout == 'thema' %}
                             {% include thema-teaser-tile.html post=p %}

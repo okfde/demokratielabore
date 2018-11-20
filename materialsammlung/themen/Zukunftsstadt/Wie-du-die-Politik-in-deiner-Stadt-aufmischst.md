@@ -6,6 +6,7 @@ thema: thema2
 unterthema: unter2-2
 themacontent: tcontent4
 hide_hero: true
+teaser: |
 
 ---
 

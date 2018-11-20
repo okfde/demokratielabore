@@ -1,15 +1,11 @@
 ---
-title: Tool 1
+title: Werkzeuge und Maschinen
 layout: tool
 type: tool
 tool: tool1
 hide_hero: true
+teaser: |
+  Ein Computer ist auch ein Werkzeug. Hier findest du tolle Anleitungen und inspirierende Tipps zum 3D-Drucken, Löten und Programmieren mit kleinen Computern.
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.

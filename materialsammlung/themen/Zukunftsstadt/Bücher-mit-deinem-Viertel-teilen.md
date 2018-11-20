@@ -1,9 +1,9 @@
 ---
-title: Deine Stadt neu planen
+title: Bücher teilen, Wissen erhalten
 layout: unterthema
 thema: thema2
 unterthema: unter2-2
-themacontent: tcontent6
+themacontent: tcontent8
 hide_hero: true
 teaser: |
     Es gibt so viele Bücher, die schon lange ungenutzt in unseren Regalen stehen. Wenn wir sie teilen, werden sie weiter genutzt.

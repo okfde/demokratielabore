@@ -6,7 +6,7 @@ unterthema: unter2-2
 themacontent: tcontent9
 hide_hero: true
 teaser: |
-    Eine Idee basiert immer auf anderen Ideen. Teilen wir unser Wissen, so profitieren auch wieder andere davon. 
+    Eine Idee basiert immer auf anderen Ideen. Teilen wir unser Wissen, so profitieren auch wieder andere davon.
 
 ---
 

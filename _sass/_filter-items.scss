@@ -24,7 +24,8 @@ filter items
     color: $black;
     font-size: 0.8em;
   }
-
+  .filter-items-inner{
+  }
   .filter-item{
     @include box();
     @include teaser-shadow();

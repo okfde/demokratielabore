@@ -1,5 +1,5 @@
 ---
-title: Wie du länger etwas von deinen Dingen hast
+title: Wie du deinen eigenen Stadtplan zeichnest
 layout: unterthema
 thema: thema2
 unterthema: unter2-3

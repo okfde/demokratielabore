@@ -1,10 +1,10 @@
 ---
-title: Medienproduktion
+title: Medien gestalten
 layout: tool
 tool: tool2
 hide_hero: true
 teaser: |
-  Wie werden Videos geschnitten? Welche Programme gibt es um eigene Podcast zu entwickeln? Das und noch vieles mehr findest du hier
+  Wie werden Videos für den eigenen Channel geschnitten? Welche Programme gibt es um Podcasts zu entwickeln? Das und noch vieles mehr findest du hier
 
 ---
 

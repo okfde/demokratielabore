@@ -12,7 +12,7 @@
 
   &.tool {
     .post-teaser-inner{
-      border-top: 5px solid red;
+      border-top: 5px solid #fe003e;
     }
   }
   .post-teaser-inner{
@@ -29,11 +29,19 @@
 
     &.red {
       .post-teaser-content.thema {
-        border-top: 5px solid red;
+        border-top: 5px solid #fe003e;
       }
     }
-
-
+    &.orange {
+      .post-teaser-content.thema {
+        border-top: 5px solid #ec6f19;
+      }
+    }
+    &.yellow {
+      .post-teaser-content.thema {
+        border-top: 5px solid #ffbe00;
+      }
+    }
     .post-teaser-image{
       height: 250px;
       background-size: cover;

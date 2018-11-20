@@ -6,7 +6,7 @@ unterthema: unter2-3
 themacontent: tcontent6
 hide_hero: true
 teaser: |
-    Die Institutionen einer Stadt erheben zahlreichen Daten. So kannst du an sie gelangen und für dich nutzbar machen. 
+    Die Institutionen einer Stadt erheben zahlreichen Daten. So kannst du an sie gelangen und für dich nutzbar machen.
 
 ---
 

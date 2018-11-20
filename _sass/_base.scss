@@ -1657,3 +1657,50 @@ footer img {
     margin-bottom: 1em;
   }
 }
+
+.link-list{
+  color: $blue;
+  .link-list-headline{
+    display: block;
+    margin-bottom: 20px;
+  }
+
+  a, a:hover, a:focus, a:visited{
+    background-color: transparent !important;
+  }
+
+}
+.external-link{
+
+  color: $blue !important;
+  display: block;
+
+  &.fixed{
+    &:hover{
+      &::before{
+        margin-left: 0px;
+      }
+    }
+  }
+
+  &::before{
+    margin-right: 5px;
+    content:"\2197";
+    display: inline-block;
+    // font-family: $font-worksans;
+    line-height: 1;
+    @include transition(all .25s ease);
+    transform: rotate(0deg);
+    margin-left: 0;
+  }
+
+  &:hover{
+    &::before{
+      transform: rotate(45deg);
+      margin-left: 23px;
+    }
+  }
+
+}
+
+

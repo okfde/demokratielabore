@@ -25,3 +25,10 @@ Wir finden: Mehr von diesen Spielen und engagierten Jugendlichen könnten auf je
 {% include content-infobox.liquid float="right" headline="Making und OER" copy=page.info_text %}
 
 Wir bedanken uns ganz herzlich bei den Menschen des [Node Forum](https://nodeforum.org/) für die Organisation des Events und beim Museum für Kommunikation für die sehr herzliche Zusammenarbeit und die Räumlichkeiten. Der größte Dank gilt allerdings den Jugendlichen, die uns an ihren “Aha”-Momenten teilhaben ließen und auch weiterhin mit ihren Freund/innen spannende Spiele entwickeln wollen! 
+
+
+<p class="link-list">
+    <span class="link-list-headline">Links</span>
+        <a class="external-link" href="https://metawahl.de/daten/" target="_blank">Zur API und dem Datensatz von Metawahl</a>
+</p>
+

@@ -1,5 +1,4 @@
 ---
-type: idea
 subtool: subtool1
 themacontent: tcontent1
 title: "Das Messgerät in deiner Tasche: dein Smartphone"

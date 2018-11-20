@@ -1,6 +1,6 @@
 ---
 title: Ideas
-layout: ideas
+ayout: ideas
 hide_hero: true
 
 ---

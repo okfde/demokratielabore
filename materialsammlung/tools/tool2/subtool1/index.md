@@ -1,6 +1,5 @@
 ---
 tool: tool2
-type: subtool
 title: Sub tool 1
 subtool: subtool2
 layout: subtool

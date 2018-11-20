@@ -1,7 +1,6 @@
 ---
 title: Gemeinsam für alle
 layout: thema
-type: theme
 thema: thema1
 hide_hero: true
 teaser: |

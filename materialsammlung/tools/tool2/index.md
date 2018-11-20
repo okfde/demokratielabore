@@ -1,7 +1,6 @@
 ---
 title: Medienproduktion
 layout: tool
-type: tool
 tool: tool2
 hide_hero: true
 teaser: |

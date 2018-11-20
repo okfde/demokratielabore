@@ -1,7 +1,6 @@
 ---
 title: Wie du die Politik in deiner Stadt aufmischst
 layout: unterthema
-type: themacontent
 thema: thema2
 unterthema: unter2-2
 themacontent: tcontent4

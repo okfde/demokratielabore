@@ -21,7 +21,7 @@ hide_hero: true
                 <div class="isotope-wrap">
                     <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% for p in site.pages %}
-                    {% if p.type contains 'idea' %}
+                    {% if p.layout contains 'idea' %}
                         <div class="{{p.unterthema}} col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
                             {% include unter-thema-teaser-tile.html post=p %}
                         </div>

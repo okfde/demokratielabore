@@ -1,7 +1,6 @@
 ---
 title: Zukunftsstadt
 layout: thema
-type: theme
 thema: thema2
 hide_hero: true
 teaser: |

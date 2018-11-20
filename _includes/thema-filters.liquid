@@ -2,7 +2,7 @@
   <div class="filter-items-inner col-xs-24">
     {% assign subthema = [] %}
     {% for p in site.pages %}
-      {% if p.type == 'themacontent' and p.thema == include.thema %}
+      {% if p.layout contains 'unterthema' and p.thema == include.thema %}
         {% if subthema %}
         {% assign subthema = subthema | append:'|' %}
         {% endif %}

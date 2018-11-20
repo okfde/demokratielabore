@@ -37,7 +37,7 @@
 							{% include tool.html %}
 			        <div class="btn-wrap">
                 {% for p in site.pages %}
-                {% if p.type == 'tool' and p.tool == page.tool %}
+                {% if p.layout contains 'tool' and p.tool == page.tool %}
                 {% assign tool = p %}
                 {% endif %}
                 {% endfor %}
@@ -50,7 +50,7 @@
                 <div class="isotope-wrap">
                     <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% for p in site.pages %}
-                    {% if p.subtool contains page.subtool and p.type contains 'idea' %}
+                    {% if p.subtool contains page.subtool and p.layout contains 'idea' %}
                         <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
                             {% include idea-teaser-tile.html post=p %}
                         </div>

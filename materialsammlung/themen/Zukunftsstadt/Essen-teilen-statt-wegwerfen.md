@@ -1,7 +1,6 @@
 ---
 title: Wie wir weniger essen wegwerfen, indem wir es teilen
 layout: unterthema
-type: themacontent
 thema: thema2
 unterthema: unter2-1
 themacontent: tcontent4

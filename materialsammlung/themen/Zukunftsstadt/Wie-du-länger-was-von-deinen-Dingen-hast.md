@@ -1,7 +1,6 @@
 ---
 title: Wie du länger etwas von deinen Dingen hast
 layout: unterthema
-type: themacontent
 thema: thema2
 unterthema: unter2-1
 themacontent: tcontent3

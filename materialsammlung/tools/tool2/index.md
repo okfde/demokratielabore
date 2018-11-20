@@ -1,15 +1,11 @@
 ---
-title: Tool 2
+title: Medienproduktion
 layout: tool
 type: tool
 tool: tool2
 hide_hero: true
+teaser: |
+  Wie werden Videos geschnitten? Welche Programme gibt es um eigene Podcast zu entwickeln? Das und noch vieles mehr findest du hier
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.

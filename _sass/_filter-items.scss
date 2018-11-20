@@ -47,14 +47,21 @@ filter items
   &.green{
 
     .filter-item{
-      background-color: $blue;
+      background-color: #000dfe;
       color: $white;
 
       &.red {
-      background-color: red;
+      background-color: #fe003e;
       color: $white;
       }
-
+      &.orange {
+      background-color: #ec6f19;
+      color: $white;
+      }
+      &.yellow {
+      background-color: #ffbe00;
+      color: $white;
+      }
       &.black {
         background-color: black;
         color: white;

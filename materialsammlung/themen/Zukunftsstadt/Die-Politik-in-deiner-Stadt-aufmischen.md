@@ -1,5 +1,5 @@
 ---
-title: Wie du die Politik in deiner Stadt aufmischst
+title: Die Politik in deiner Stadt aufmischen
 layout: unterthema
 thema: thema2
 unterthema: unter2-2

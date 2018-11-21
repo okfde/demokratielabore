@@ -4,11 +4,11 @@ title: "Themen"
 hide_hero: true
 ---
 <div class="row">
-    <div class="col-xs-12 fond__white jumbotron">
+    <div class="col-xs-12 fond__grey-bright jumbotron">
         <div class="row">
             <div class="container">
                 <div class="col-lg-10 col-lg-offset-1 section-workshop">
-                  <h2 class="section-headline">Mit digitalen Tools die Welt von Morgen gestalten</h2>
+                  <h2 class="section-headline">Werde selbst aktiv</h2>
                     <p>
                         Wie schaffen wir es eine Gesellschaft zu entwickeln, die im Sinne der Gemeinschaft ist? Wir müssen aktiv werden. Hier findest du Themen, die ein gutes Miteinander beschreiben und Tools, mit denen wir sie erreichen können. Wenn du direkt starten möchtest, dann findest du <a href="/materialsammlung/ideas/">hier tolle Projektideen</a>.
                     </p>
@@ -36,30 +36,6 @@ hide_hero: true
                           {% endif %}
                         </div>
                       {% endif %}
-                    {% endfor %}
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-xs-12 fond_darkblue_gradient jumbotron">
-        <div class="row">
-            <div class="container">
-                <div class="col-lg-10 col-lg-offset-1 section-workshop text__white">
-                    <h2 class="section-headline">Weitere Angebote</h2>
-                    <p>
-                        Damit unsere Workshopangebote keine einmalige Sache bleiben, wollen wir unser Wissen auf allen Ebenen weitergeben. Dazu haben wir umfrangreiche weitere Angebote. Schaut her!
-                    </p>
-                </div>
-            </div>
-            <div class="container">
-                <div class="isotope-wrap">
-                    <div class="grid-sizer col-xs-12 col-md-4 col-lg-4"></div>
-                    {% assign sortedAngebote = site.angebote | sort: 'title' %}
-                    {% for angebot in sortedAngebote %}
-                        {% assign post = angebot %}
-                        <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
-                            {% include angebote-teaser-tile.html post=post %}
-                        </div>
                     {% endfor %}
                 </div>
             </div>

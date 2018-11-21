@@ -2,20 +2,14 @@ de:
   - title: Blog
     url: /blog
 
-  - title: Team
-    url: /team
-
-  - title: Mitmachen
-    url: /mitmachen
+  - title: Selbstlernmaterial
+    url: /materialsammlung
 
   - title: Digital-AGs
     url: /angebot/digital-ags
 
   - title: Workshops
     url: /workshops
-
-  - title: Selbstlernmaterial
-    url: /materialsammlung
 
   - title: Info
     url: /info

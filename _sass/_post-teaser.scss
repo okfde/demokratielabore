@@ -9,10 +9,15 @@
 }
 
 .post-teaser{
+  &.thema {
+    .post-teaser-inner{
+      border-top: 3px solid #FF003F;
+    }
+  }
 
   &.tool {
     .post-teaser-inner{
-      border-top: 5px solid #fe003e;
+      border-top: 3px solid #000EFF;
     }
   }
   .post-teaser-inner{
@@ -23,28 +28,28 @@
 
     &.black {
       .post-teaser-content.thema {
-        border-top: 5px solid black;
+        border-top: 3px solid black;
       }
     }
 
     &.red {
       .post-teaser-content.thema {
-        border-top: 5px solid #fe003e;
+        border-top: 3px solid #fe003e;
       }
     }
     &.darkred {
       .post-teaser-content.thema {
-        border-top: 5px solid #d90034;
+        border-top: 3px solid #d90034;
       }
     }
     &.orange {
       .post-teaser-content.thema {
-        border-top: 5px solid #ec6f19;
+        border-top: 3px solid #ec6f19;
       }
     }
     &.yellow {
       .post-teaser-content.thema {
-        border-top: 5px solid #ffbe00;
+        border-top: 3px solid #ffbe00;
       }
     }
     .post-teaser-image{
@@ -62,7 +67,9 @@
         text-transform: none;
         margin: 10px 0;
         font-size: 24px;
+        font-weight: 600;
       }
+
       .post-teaser-meta{
 
       }
@@ -84,15 +91,25 @@
             margin: 20px 0;
           }
         }
-
-
         a{
-          color: $dl-mint;
+          color: black;
+          font-size: 0.8em;
+          font-weight: 600;
+           &:hover{
+            cursor: pointer;
+            color: #000EFF;
+          }
         }
-
       }
     }
   }
+}
+
+
+.post-teaser-category{
+  margin: 0;
+  font-size: 0.8em;
+  font-weight: 600;
 }
 
 @media screen and (min-width: 768px) {
@@ -112,4 +129,28 @@
   .post-teaser {
     padding: 0;
   }
+}
+
+.theme-picture{
+  background-image: url("/static/img/thema_stadt.png");
+  background-size: cover;
+  min-width: 50%; 
+  float: left; 
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  bottom:0; 
+  margin: 20px;
+}
+
+.tool-picture{
+  background-image: url("/static/img/tool_gamedesign.png");
+  background-repeat: no-repeat;
+  width: 50px; 
+  float: right; 
+  position: absolute; 
+  top: 0; 
+  right: 0; 
+  bottom:0; 
+  margin: 20px;
 }

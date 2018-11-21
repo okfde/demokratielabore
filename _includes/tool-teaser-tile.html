@@ -2,7 +2,9 @@
     <a href="{{post.link}}">
         <img src="{{post.img}}" class="img-responsive" />
     </a>
-    <div class="post-teaser-content workshop">
+    <div class="post-teaser-content">
+        <div class="tool-picture">
+        </div>
         <h3 class="post-teaser-title" >{{ include.post.title }}</h3>
         <div class="post-teaser-description workshop">
             <p>
@@ -10,7 +12,7 @@
                 {{ include.post.teaser }}
             </p>
             {% assign path = include.post.url %}
-            <a class="post-teaser-read-more" href="{{ path }}">zum Tool</a>
+            <a href="{{ path }}">zum Tool...</a>
         </div>
     </div>
 </div>

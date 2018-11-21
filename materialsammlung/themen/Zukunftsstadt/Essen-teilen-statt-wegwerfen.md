@@ -1,5 +1,5 @@
 ---
-title: Wie wir weniger essen wegwerfen
+title: Weniger essen wegwerfen
 layout: unterthema
 thema: thema2
 unterthema: unter2-1

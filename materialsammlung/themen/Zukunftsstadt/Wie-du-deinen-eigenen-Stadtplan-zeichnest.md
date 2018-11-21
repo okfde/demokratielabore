@@ -1,5 +1,5 @@
 ---
-title: Wie du deinen eigenen Stadtplan zeichnest
+title: Deinen eigenen Stadtplan zeichnen
 layout: unterthema
 thema: thema2
 unterthema: unter2-3

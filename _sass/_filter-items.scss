@@ -23,6 +23,7 @@ filter items
   .filter-items-headline{
     color: $black;
     font-size: 0.8em;
+    font-weight: 700;
   }
   .filter-items-inner{
   }
@@ -30,7 +31,7 @@ filter items
     @include box();
     @include teaser-shadow();
     display: inline-block;
-    font-size: 1em;
+    font-size: 0.8em;
     cursor: pointer;
     padding: 5px 15px;
     margin: 6px 4px;
@@ -52,19 +53,19 @@ filter items
       color: $white;
 
       &.red {
-      background-color: #fe003e;
+      background-color: #FF003F;
       color: $white;
       }
       &.darkred {
-      background-color: #d90034;
+      background-color: #D90036;
       color: $white;
       }
       &.orange {
-      background-color: #ec6f19;
+      background-color: #FF6B00;
       color: $white;
       }
       &.yellow {
-      background-color: #ffbe00;
+      background-color: #FFBE00;
       color: $white;
       }
       &.black {

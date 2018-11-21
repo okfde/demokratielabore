@@ -2,8 +2,9 @@
     <a href="{{post.link}}">
         <img src="{{post.img}}" class="img-responsive" />
     </a>
-    <div class="post-teaser-content workshop" style="position: realative;">
-        <div class="theme-picture" style=" min-width: 50%; float: left; position: absolute; top: 0; left: 0; bottom:0; margin: 20px; background-color: blue">
+    <div class="post-teaser-content" style="position: realative;">
+        <div class="theme-picture">
+            {{ with .Params.img }}<img src="{{.}}" alt="">{{ end }}
         &nbsp;
         </div>
 
@@ -15,7 +16,7 @@
                 {{ include.post.teaser }}
             </p>
             {% assign path = include.post.url %}
-            <a class="post-teaser-read-more" href="{{ path }}">zum Thema</a>
+            <a href="{{ path }}">zum Thema...</a>
         </div>
         </div>
         <div style="clear: both;">&nbsp;</div>

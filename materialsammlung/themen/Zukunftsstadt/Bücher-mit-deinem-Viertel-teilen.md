@@ -2,7 +2,7 @@
 title: Bücher teilen, Wissen erhalten
 layout: unterthema
 thema: thema2
-unterthema: unter2-2
+unterthema: unter2-1
 themacontent: tcontent8
 hide_hero: true
 teaser: |
@@ -21,10 +21,3 @@ Inzwischen existieren in vielen Städten auch öffentliche Bücherregale oder -s
 Wir erwähnen hier nur Bücher, aber gibt es nicht viel mehr Dinge, deren „Wandern“ in einer Zukunftsstadt wünschenswert wäre? Wie könnte man z.B. die Idee der öffentlichen Bücherregale auf andere Dinge übertragen? Lass deiner Kreativität freien Lauf!
 
 * Wo sich das nächste öffentliche Bücherregal befindet: https://openbookcase.org/
-
-## Wie du durch Teilen deine eigene Idee vorantreibst
-Du findest auf dieser Seite viele Beispiele, wie gute Ideen anderer Leute es zu einiger Beliebtheit gebracht haben. Vielleicht hast ja du selbst weitere, eventuell sogar noch bessere Ideen! Bei der Umsetzung könnten dir bestehende Projekte helfen. Wenn du etwa mit speziellen, teilweise futuristischen und sehr teuren Maschinen arbeiten möchtest, muss das kein Traum bleiben: Mittlerweile gibt es in vielen Städten komplexe Geräte wie 3-D-Drucker, Laser-Cutter und CNC-Fräsen in Gemeinschaftswerkstätten, in denen vorwiegend junge Leute betreut werden und entweder kostenlos oder gegen eine kleine Gebühr basteln dürfen.
-
-## Wo du in deiner Nähe mit Basteln loslegen kannst:
-https://maker-faire.de/makerspaces/
-

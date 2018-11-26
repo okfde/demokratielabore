@@ -11,10 +11,10 @@ teaser: |
 ---
 
 ## Die Herausforderung
-Keine Zukunftsstadt kommt ohne Stadtplaner*innen aus. Damit alles in geordneten Bahnen verläuft und sich niemand benachteiligt fühlt, sitzen sie in der Stadtverwaltung, schmieden Pläne und diskutieren diese in vorgegebenen Verfahren mit einer oft recht kleinen Zahl von Bürger*innen. Jugendliche können scheinbar nicht direkt mitreden.
+Keine Zukunftsstadt kommt ohne Stadtplaner\*innen aus. Damit alles in geordneten Bahnen verläuft und sich niemand benachteiligt fühlt, sitzen sie in der Stadtverwaltung, schmieden Pläne und diskutieren diese in vorgegebenen Verfahren mit einer oft recht kleinen Zahl von Bürger\*innen. Jugendliche können scheinbar nicht direkt mitreden.
 
 ## Das gibt es bereits
-Falsch! Das derzeit beliebteste Videospiel bei Jugendlichen ist Minecraft. Bei diesem Spiel stampfen die Spieler*innen in kurzer Zeit maßstabsgetreu ganze Städte aus dem Boden, die selbst studierte Stadtplaner*innen staunen lassen. Und genau das machen sich kleine und große Städte mittlerweile zunutze: In Minecraft haben Schüler*innen z.B. gemeinsam ihren künftigen Pausenhof entworfen. In München haben Jugendliche eine ganze Stadt erschaffen, die attraktiv genug ist, dass sie sich viel draußen aufhalten möchten. Und in Berlin haben Jugendliche das ganze Stadtzentrum um den Alexanderplatz herum nachgebaut und anschließend nach ihren Bedürfnissen umgestalten dürfen, damit Stadtplaner*innen ihre Wünsche berücksichtigen können.
+Falsch! Das derzeit beliebteste Videospiel bei Jugendlichen ist Minecraft. Bei diesem Spiel stampfen die Spieler\*innen in kurzer Zeit maßstabsgetreu ganze Städte aus dem Boden, die selbst studierte Stadtplaner\*innen staunen lassen. Und genau das machen sich kleine und große Städte mittlerweile zunutze: In Minecraft haben Schüler\*innen z.B. gemeinsam ihren künftigen Pausenhof entworfen. In München haben Jugendliche eine ganze Stadt erschaffen, die attraktiv genug ist, dass sie sich viel draußen aufhalten möchten. Und in Berlin haben Jugendliche das ganze Stadtzentrum um den Alexanderplatz herum nachgebaut und anschließend nach ihren Bedürfnissen umgestalten dürfen, damit Stadtplaner\*innen ihre Wünsche berücksichtigen können.
 
 ## So kannst du selbst aktiv werden
 Soll dein Pausenhof oder dein Viertel mehr für dich zu bieten haben? Dann bau doch einfach in Minecraft Modelle, vielleicht sogar gemeinsam mit anderen!

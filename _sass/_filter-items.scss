@@ -71,7 +71,10 @@ filter items
         background-color: black;
         color: white;
       }
-
+      &.purple {
+        background-color: #9C1139;
+        color: white;
+      }
       &.hover, &.active{
         background-color: $black;
         color: $white;

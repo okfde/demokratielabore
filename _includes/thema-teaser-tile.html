@@ -1,25 +1,28 @@
 <div class="post-teaser-inner thema">
+    {% assign path = include.post.url %}
     <a href="{{post.link}}">
         <img src="{{post.img}}" class="img-responsive" />
     </a>
     <div class="post-teaser-content" style="position: realative;">
-        <div class="theme-picture">
-            {{ with .Params.img }}<img src="{{.}}" alt="">{{ end }}
-        &nbsp;
-        </div>
-
+        <a href="{{ path }}">
+            <div class="theme-picture">
+                {{ with .Params.img }}<img src="{{.}}" alt="">{{ end }}
+            &nbsp;
+            </div>
+        </a>
         <div style="float: right; max-width: 50%; padding-left: 40px;">
-        <h3 class="post-teaser-title" >{{ include.post.title }}</h3>
-        <div class="post-teaser-description workshop">
-            <p>
+            <h3 class="post-teaser-title" >{{ include.post.title }}</h3>
+            <div class="post-teaser-description workshop">
+                <p>
                 {{ post.ws_teaser | remove: '<p>' | remove: '</p>'}}
                 {{ include.post.teaser }}
-            </p>
-            {% assign path = include.post.url %}
-            <a href="{{ path }}">zum Thema...</a>
-        </div>
+                </p>
+
+                <a href="{{ path }}">zum Thema...</a>
+            </div>
         </div>
         <div style="clear: both;">&nbsp;</div>
+
     </div>
 </div>
 

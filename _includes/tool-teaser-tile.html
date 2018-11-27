@@ -1,17 +1,17 @@
 <div class="post-teaser-inner tool">
+    {% assign path = include.post.url %}
     <a href="{{post.link}}">
         <img src="{{post.img}}" class="img-responsive" />
     </a>
     <div class="post-teaser-content">
         <div class="tool-picture">
         </div>
-        <h3 class="post-teaser-title" >{{ include.post.title }}</h3>
+        <a href="{{ path }}"><h3 class="post-teaser-title" >{{ include.post.title }}</h3></a>
         <div class="post-teaser-description workshop">
             <p>
                 {{ post.ws_teaser | remove: '<p>' | remove: '</p>'}}
                 {{ include.post.teaser }}
             </p>
-            {% assign path = include.post.url %}
             <a href="{{ path }}">zum Tool...</a>
         </div>
     </div>

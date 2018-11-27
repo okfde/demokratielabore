@@ -2,7 +2,7 @@
 title: Deine Stadt neu planen
 layout: unterthema
 thema: thema2
-unterthema: unter2-2
+unterthema: unter2-4
 themacontent: tcontent6
 hide_hero: true
 teaser: |
@@ -19,11 +19,17 @@ Falsch! Das derzeit beliebteste Videospiel bei Jugendlichen ist Minecraft. Bei d
 ## So kannst du selbst aktiv werden
 Soll dein Pausenhof oder dein Viertel mehr für dich zu bieten haben? Dann bau doch einfach in Minecraft Modelle, vielleicht sogar gemeinsam mit anderen!
 
-* Hier siehst du ein Video eines Beispielprojekts: https://www.youtube.com/watch?v=u9Qt4HtgfA4
-* Die speziell für solche Zwecke angepasste Minecraft-Version findest du hier (in englischer Sprache): https://education.minecraft.net/
-* Links zu bereits durchgeführten Aktionen findest du hier:
-    * https://junge-akademie-wittenberg.de/bericht/mineschool-unser-schulhof-minecraft
-    * https://www.technologiestiftung-berlin.de/de/blog/tueroeffner-berlin-minecraft/
-    * https://junge-akademie-wittenberg.de/sites/default/files/publikationen/thiel_mc_epartizipation_et.pdf
-* Die Karte von Berlins Stadtzentrum zum Download und Umgestalten findest du hier:
-    * https://www.technologiestiftung-berlin.de/de/projekte/projekt/minecraft/
+Ein Video eines Beispielprojektes:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u9Qt4HtgfA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p class="link-list">
+    <span class="link-list-headline">Weiterführende Links</span>
+        <a class="external-link" href="https://education.minecraft.net/" target="_blank">Eine spezielle Version von Minecraft, die du für solche Projekte einsetzen kannst</a>
+        <a class="external-link" href="https://www.technologiestiftung-berlin.de/de/projekte/projekt/minecraft/" target="_blank">Die Karte des Berliner Stadtzentrums zum Download und zur Umgestaltung</a>
+</p>
+<p class="link-list">
+    <span class="link-list-headline">Beispielprojekte</span>
+        <a class="external-link" href="https://junge-akademie-wittenberg.de/bericht/mineschool-unser-schulhof-minecraft" target="_blank">Der Akademie Wittenberg 1</a>
+        <a class="external-link" href="https://junge-akademie-wittenberg.de/sites/default/files/publikationen/thiel_mc_epartizipation_et.pdf" target="_blank">Der Akademie Wittenberg 2</a>
+        <a class="external-link" href="https://www.technologiestiftung-berlin.de/de/blog/tueroeffner-berlin-minecraft/" target="_blank">Der Technologiestiftung Berlin</a>
+</p>

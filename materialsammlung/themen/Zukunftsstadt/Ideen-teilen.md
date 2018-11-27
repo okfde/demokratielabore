@@ -2,7 +2,7 @@
 title: Ideen nehmen, Ideen teilen
 layout: unterthema
 thema: thema2
-unterthema: unter2-2
+unterthema: unter2-1
 themacontent: tcontent9
 hide_hero: true
 teaser: |

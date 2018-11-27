@@ -6,7 +6,7 @@ unterthema: unter2-3
 themacontent: tcontent5
 hide_hero: true
 teaser: |
-  Du möchtest anderen zeigen, wo etwas in deiner Umgebung verortet ist? Dann zeichne eine Karte! So geht's.
+  Du möchtest anderen zeigen, wo etwas in deiner Umgebung verortet ist? Dann zeichne eine Karte! Hier erfährst du, wie dabei Daten nutzen kannst.
 
 ---
 
@@ -16,8 +16,10 @@ Eine der wohl wichtigsten Erfindungen der Menschheit ist die Karte. Entdecker\*i
 ## Das gibt es bereits
 Es gibt viele Projekte, die kostenloses Kartenmaterial sammeln. Das bekannteste, allerdings nicht ganz unkomplizierte ist OpenStreetMaps. Außerdem stehen diverse Tools zur Verfügung, mit denen du im Handumdrehen z.B. wichtige Orte in deinem Viertel sammeln kannst. Die kannst du auch spektakulärer dokumentieren, indem du mit einem ganz normalen Smartphone 360°-Fotos von Orten knipst, die sich andere genauso einfach anschauen können. Oder du hinterlässt per Augmented Reality Spuren in einem Paralleluniversum: Durch deine Smartphone-Kamera kannst du an Wänden Symbole sehen, die andere für dich hinterlassen haben – und umgekehrt: Schnitzeljagd 2.0 sozusagen.
 
-## So kannst du selbst aktiv werden
-* Wo du unkompliziert tolle Kartenausschnitte als Vorlagen erstellen kannst: http://mapstack.stamen.com/
-* Wie du mit anderen gemeinsam Karten erstellst: http://orangotango.info/projekte/kollektives-kartieren/
-* Wie du mit deinem Smartphone 360°-Fotos machen kannst: https://www.youtube.com/watch?v=HFaLp8uxNHc
-* Wie du mit Augmented Reality geheime Botschaften hinterlässt: http://walla.me/
+<p class="link-list">
+    <span class="link-list-headline">So kannst du selbst aktiv werden</span>
+        <a class="external-link" href="http://mapstack.stamen.com/" target="_blank">Kartenausschnitte als Vorlagen erstellen</a>
+        <a class="external-link" href="http://orangotango.info/projekte/kollektives-kartieren/" target="_blank">Gemeinsam Karten erstellen</a>
+        <a class="external-link" href="https://www.youtube.com/watch?v=HFaLp8uxNHc" target="_blank">Mit dem Smartphone 360°-Fotos schießen</a>
+        <a class="external-link" href="http://walla.me/" target="_blank">Mit Augmented Reality geheime Botschaften hinterlassen</a>
+</p>

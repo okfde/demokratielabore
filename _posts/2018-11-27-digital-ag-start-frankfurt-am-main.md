@@ -5,7 +5,7 @@ date: 2018-11-27
 excerpt:
 images:
  -
-   imgname: minetest-jh.JPG
+   imgname: minetest-jh.jpg
    sub: "<a href=''>CC BY 4.0, OKF DE, Foto: Leonard Wolf</a>"
 published: true
 title: "Werde Digital-AGent*in im Museum für Kommunikation in Frankfurt!" 

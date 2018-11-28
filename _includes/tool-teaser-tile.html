@@ -4,10 +4,13 @@
         <img src="{{post.img}}" class="img-responsive" />
     </a>
     <div class="post-teaser-content">
-        <div class="tool-picture">
+        <div>
+            <img class="tool-picture" src="{{ include.post.img }}" alt="">
         </div>
-        <a href="{{ path }}"><h3 class="post-teaser-title" >{{ include.post.title }}</h3></a>
+
         <div class="post-teaser-description workshop">
+            <p>Tool</p>
+            <a href="{{ path }}"><h3 class="post-teaser-title" >{{ include.post.title }}</h3></a>
             <p>
                 {{ post.ws_teaser | remove: '<p>' | remove: '</p>'}}
                 {{ include.post.teaser }}

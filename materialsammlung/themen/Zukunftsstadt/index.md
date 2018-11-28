@@ -3,7 +3,7 @@ title: Die Stadt der Zukunft
 layout: thema
 thema: thema2
 hide_hero: true
-img: /img/thema_identitaet.png
+img: /static/img/thema_stadt.png
 teaser: |
   Wie sieht die Stadt der Zukunft aus und was brauchen wir, um sie zu verwirklichen?
 

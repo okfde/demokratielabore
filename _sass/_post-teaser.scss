@@ -75,6 +75,22 @@
         font-weight: 600;
       }
 
+        .post-teaser-img{
+          background-size: cover;
+          min-width: 50%;
+          float: left;
+          position: absolute;
+          top: 3px;
+          left: 0;
+          bottom:0;
+          margin: 20px;
+        }
+
+      .post-teaser-txt-inner{
+        float: right;
+        width: 50%;
+        padding-left: 40px;
+      }
       .post-teaser-meta{
 
       }
@@ -137,7 +153,6 @@
 }
 
 .theme-picture{
-  background-image: url("/static/img/thema_stadt.png");
   background-size: cover;
   min-width: 50%; 
   float: left; 
@@ -149,13 +164,13 @@
 }
 
 .tool-picture{
-  background-image: url("/static/img/tool_gamedesign.png");
   background-repeat: no-repeat;
-  width: 50px; 
+  width: 70px;
+  height: auto;
   float: right; 
   position: absolute; 
-  top: 0; 
-  right: 0; 
+  top: 10px;
+  right: 10px;
   bottom:0; 
   margin: 20px;
 }

@@ -414,10 +414,21 @@ label {
     margin: 28px 0;
     line-height: 1.6em;
   }
+
   a{
     font-size: $body-font-size;
   }
+  #teaser-oer-page {
+    a{
+
+      text-decoration: underline;
+    }
+    a:hover{
+      text-decoration: none;
+    }
+  }
 }
+
 
 .highlight {
   font-size: $body-font-size;

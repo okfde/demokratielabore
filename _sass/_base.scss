@@ -1225,7 +1225,9 @@ $keep: 44 + 2 * 15px;
 }
 .page-sub-material{
   text-align: left;
-
+    .sub-material-arrow-back{
+        color: $grey-dark;
+    }
 }
 .page-sub-material-img{
     width: 80px;

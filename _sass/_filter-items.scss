@@ -25,7 +25,9 @@ filter items
     font-size: 0.8em;
     font-weight: 700;
   }
+  .filter-items-inner{
 
+  }
   .filter-item{
     @include box();
     @include teaser-shadow();

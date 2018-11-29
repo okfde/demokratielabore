@@ -9,21 +9,22 @@ hide_hero: true
     <div class="col-xs-12 fond__white jumbotron">
         <div class="row">
             <div class="container">
-                <div class="col-lg-10 col-lg-offset-1 section-workshop">
-                  <a href="/materialsammlung"><h3>Selbstlernmaterial</h3></a>
+                <div class="col-lg-5 section-sub-material-img">
+                    <img src="{{ page.img-subpage }}" id="sub-page-img">
+                </div>
+                <div class="col-lg-7 section-sub-material">
+                  <a href="/materialsammlung"><p class="sub-material-arrow-back"><img src="/static/img/arrow.svg"> Selbstlernmaterial</p></a>
+
                   <h2 class="section-headline">{{ page.title }}</h2>
                     <p>
                       {{ content }}
                     </p>
+                    {% include thema-filters.liquid thema=page.thema %}
                 </div>
             </div>
+
             <div class="container">
-                <div class="col-lg-10 col-lg-offset-1 filters">
-                  {% include thema-filters.liquid thema=page.thema %}
-                </div>
-            </div>
-            <div class="container">
-                <div class="isotope-wrap">
+                <div class="isotope-wrap sub-material-back">
                     <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% for p in site.pages %}
                     {% if p.thema contains page.thema and p.layout contains 'unterthema' %}

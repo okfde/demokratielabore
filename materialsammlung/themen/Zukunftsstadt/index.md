@@ -4,6 +4,7 @@ layout: thema
 thema: thema2
 hide_hero: true
 img: /static/img/thema_stadt.png
+img-subpage: /static/img/thema_stadt_white.png
 teaser: |
   Wie sieht die Stadt der Zukunft aus und was brauchen wir, um sie zu verwirklichen?
 

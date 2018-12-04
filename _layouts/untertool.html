@@ -1,10 +1,9 @@
 ---
 layout: base
-title: "Themen"
+title: "Tools"
 hide_hero: true
 
 ---
-
 
 <div class="row">
     <div class="col-xs-12 fond__white jumbotron">
@@ -21,9 +20,9 @@ hide_hero: true
             <div class="container">
                 <h2>Ideen</h2>
                 <div class="isotope-wrap">
-                    <div class="grid-sizer col-xs-8 col-md-6 col-lg-4"></div>
+                    <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% for p in site.pages %}
-                    {% if p.themacontent contains page.themacontent and p.layout contains 'idea' %}
+                    {% if p.subtool contains page.subtool and p.layout contains 'idea' %}
                         <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
                             {% include idea-teaser-tile.html post=p %}
                         </div>

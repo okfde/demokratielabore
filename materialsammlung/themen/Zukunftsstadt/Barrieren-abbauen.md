@@ -3,7 +3,7 @@ title: Barrieren abbauen
 layout: unterthema
 thema: thema2
 unterthema: unter2-4
-themacontent: tcontent14
+themacontent: zukunft1
 hide_hero: true
 teaser: |
     Wie gestalten wir eine Stadt, damit sich dort alle Menschen frei bewegen können?
@@ -19,10 +19,9 @@ Ob selbst betroffen oder nicht, jede\*r kann helfen! Du könntest dir z.B. die T
 
 Wer blind ist oder schlecht sehen kann, dem können spezielle Tools und Angebote nützlich sein. AiPoly Vision ist eine App, die anhand der Kamera errät, was man gerade vor sich hat. Bei vielen Gegenständen funktioniert das schon erstaunlich gut, aber du kannst bei der Verbesserung helfen, indem du falsch Erkanntes korrigierst. Eine weitere App, Seeing Ai, erkennt auf ähnliche Weise Texte und Personen. Aber bisher sind Menschen im Erkennen immer noch zuverlässiger als Computer: Mit BeMyEyes kannst du Blinden per Videotelefonie dabei helfen, sich zu orientieren oder farblich zueinander passende Kleidung herauszusuchen.
 
-## So kannst du selbst aktiv werden
-* Wie du dich für das Projekt Wheelmap engagieren kannst, erfährst du hier: https://news.wheelmap.org/wheelmap-botschafter/
-* Wie du Orte bewertest, erfährst du hier: https://news.wheelmap.org/FAQ/
-* Wie du per Smartphone-Kamera Sachen identifizieren und die Erkennung verbessern kannst:
-    * https://www.aipoly.com/
-    * https://www.microsoft.com/en-us/seeing-ai/
-* Wie du Blinden beim „Sehen“ hilfst: https://www.bemyeyes.com/
+<p class="link-list">
+    <span class="link-list-headline">So kannst du selbst aktiv werden</span>
+        <a class="external-link" href="https://news.wheelmap.org/wheelmap-botschafter/" target="_blank">Für das Projekt Wheelmap aktiv werden</a>
+        <a class="external-link" href="https://news.wheelmap.org/FAQ/" target="_blank">Orte auf der Wheelmap bewerten</a>
+        <a class="external-link" href="https://www.bemyeyes.com/" target="_blank">Wie du Blinden beim „Sehen“ hilfst</a>
+</p>

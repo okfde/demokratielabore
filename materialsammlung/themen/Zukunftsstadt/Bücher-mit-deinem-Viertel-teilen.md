@@ -3,7 +3,7 @@ title: Bücher teilen, Wissen erhalten
 layout: unterthema
 thema: thema2
 unterthema: unter2-1
-themacontent: tcontent8
+themacontent: zukunft2
 hide_hero: true
 teaser: |
     Es gibt so viele Bücher, die schon lange ungenutzt in unseren Regalen stehen. Wenn wir sie teilen, werden sie weiter genutzt.
@@ -17,7 +17,9 @@ Manchmal willst du dich vielleicht von Dingen trennen, weil sie dir nicht mehr g
 In einigen Mehrfamilienhäusern steht, z.B. im Treppenhaus, eine „Tauschbox“ oder ein „Tauschtisch“. Da kann man Bücher zum Mitnehmen hinlegen und sich im Gegenzug andere nehmen. In den meisten Stadtteilen gibt es auch ehrenamtlich betriebene Bibliotheken, die sich über Bücherspenden freuen. Auch die ein oder andere öffentliche Bibliothek nimmt Bücherspenden an (dort solltest du jedoch nicht unangemeldet auftauchen, sondern erst einmal fragen). So können noch unzählige andere Menschen von deinen Büchern profitieren – Geld verdienen Bibliotheken damit ja nicht.
 Inzwischen existieren in vielen Städten auch öffentliche Bücherregale oder -schränke, etwa in umgebauten Telefonzellen. Auf Vertrauensbasis kann man dort Bücher ausleihen und wieder hineinstellen oder sogar Bücher tauschen.
 
-## So kannst du selbst aktiv werden
 Wir erwähnen hier nur Bücher, aber gibt es nicht viel mehr Dinge, deren „Wandern“ in einer Zukunftsstadt wünschenswert wäre? Wie könnte man z.B. die Idee der öffentlichen Bücherregale auf andere Dinge übertragen? Lass deiner Kreativität freien Lauf!
 
-* Wo sich das nächste öffentliche Bücherregal befindet: https://openbookcase.org/
+<p class="link-list">
+    <span class="link-list-headline">So kannst du selbst aktiv werden</span>
+        <a class="external-link" href="https://openbookcase.org/" target="_blank">Hier findest du das nächste öffentliche Bücherregal</a>
+</p>

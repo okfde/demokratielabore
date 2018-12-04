@@ -3,7 +3,7 @@ title: Wie du länger etwas von deinen Dingen hast
 layout: unterthema
 thema: thema2
 unterthema: unter2-1
-themacontent: tcontent3
+themacontent: zukunft13
 hide_hero: true
 teaser: |
   Dein Smartphone ist schon wieder kaputt, dabei war es neu? So arbeitest du daran, dass das seltener wird.
@@ -16,5 +16,7 @@ Viele Alltagsgegenstände halten nicht mehr so lange, wie sie halten könnten. U
 ## Das gibt es bereits
 Die Umweltbilanz spricht klar fürs Reparieren. Und damit selbst unerfahrenen Bastler\*innen weitergeholfen werden kann, gibt es in vielen großen Städten auf der ganzen Welt schon seit einer ganzen Weile die sogenannten Repair Cafés. Hier kann man gemeinsam mit Fachleuten an seinen eigenen Gegenständen herumschrauben, und die Chancen stehen gut, den Heimweg mit einem wieder funktionstüchtigen Gerät anzutreten.
 
-## So kannst du selbst aktiv werden
-* Wo du das nächste Repair Café findest: https://repaircafe.org/de/
+<p class="link-list">
+    <span class="link-list-headline">So kannst du selbst aktiv werden</span>
+        <a class="external-link" href="https://repaircafe.org/de/" target="_blank">Eine Übersicht aller Repair Cafés</a>
+</p>

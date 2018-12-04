@@ -5,19 +5,22 @@ hide_hero: true
 
 ---
 
-{% for p in site.pages %}
-  {% if p.thema == page.thema and p.type == "theme" %}
-    {% assign thema = p %}
-  {% endif %}
-{% endfor %}
 
 <div class="row">
     <div class="col-xs-12 fond__white jumbotron">
         <div class="row">
             <div class="container">
                 <div class="col-lg-10 col-lg-offset-1">
-                  <a href="{{ thema.url }}"><h3>{{ thema.title }}</h3></a>
-                  <h2 class="section-headline">{{ page.title }}</h2>
+                    <div class="page-sub-material">
+                        {% for p in site.pages %}
+                        {% if p.layout contains 'thema' and p.thema == page.thema %}
+                        {% assign tool = p %}
+                        {% endif %}
+                        {% endfor %}
+                        <a href="{{ tool.url }}"><p class="sub-material-arrow-back"><img src="/static/img/arrow.svg"> Zurück zu: „{{ tool.title }}“</p></a>
+                    </div>
+                    <a href="{{ thema.url }}"><h3>{{ thema.title }}</h3></a>
+                    <h2 class="section-headline">{{ page.title }}</h2>
                     <p>
                       {{ content }}
                     </p>

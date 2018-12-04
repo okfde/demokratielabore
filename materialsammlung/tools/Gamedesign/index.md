@@ -1,7 +1,7 @@
 ---
 title: Spiele entwickeln
 layout: tool
-tool: tool4
+tool: tool1
 hide_hero: true
 img: /static/img/tool_gamedesign.png
 teaser: |

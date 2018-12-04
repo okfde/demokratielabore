@@ -3,7 +3,7 @@ title: Deine Stadt neu planen
 layout: unterthema
 thema: thema2
 unterthema: unter2-4
-themacontent: tcontent6
+themacontent: zukunft3
 hide_hero: true
 teaser: |
     Dir fehlt Freiraum? Du findest, dass es zu wenige Plätze für Jugendliche gibt? Dann plan deine Stadt einfach um und werde aktiv!
@@ -20,7 +20,7 @@ Falsch! Das derzeit beliebteste Videospiel bei Jugendlichen ist Minecraft. Bei d
 Soll dein Pausenhof oder dein Viertel mehr für dich zu bieten haben? Dann bau doch einfach in Minecraft Modelle, vielleicht sogar gemeinsam mit anderen!
 
 Ein Video eines Beispielprojektes:
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u9Qt4HtgfA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u9Qt4HtgfA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <p class="link-list">
     <span class="link-list-headline">Weiterführende Links</span>

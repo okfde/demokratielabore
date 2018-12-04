@@ -1,7 +1,7 @@
 ---
 title: Mit Daten arbeiten
 layout: tool
-tool: tool3
+tool: tool4
 img: /static/img/tool_data.png
 hide_hero: true
 teaser: |

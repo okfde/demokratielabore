@@ -3,7 +3,7 @@ title: Mehr Wohnraum für alle
 layout: unterthema
 thema: thema2
 unterthema: unter2-4
-themacontent: tcontent12
+themacontent: zukunft12
 hide_hero: true
 teaser: |
     Wie schaffen wir mehr Wohnraum für die Menschen in der Stadt? Es gibt viele spannende Ideen!
@@ -19,7 +19,9 @@ In vielen Städten gibt es sogenannte Wohnungsbaugenossenschaften. Du zahlst bei
 Einen Schritt weiter gehen Mietshäusersyndikate: Dafür finden sich Gleichgesinnte zusammen und kaufen ein Haus, wofür sie sich meist verschulden müssen. Also zahlen sie weiterhin Miete, mit der sie nach und nach den Kredit abzahlen. Wenn der abbezahlt und ihr finanzieller Spielraum dadurch wieder größer ist, unterstützen sie neue Projekte.
 Du findest mit Ach und Krach ein zugiges, kleines Zimmer in einer Wohngemeinschaft, und in der Umgebung leben alte Menschen allein in viel zu großen Wohnungen oder ganzen Häusern? Das kommt oft vor! In einigen Städten mit Universitäten gibt es deshalb mittlerweile das „Wohnen-für-Hilfe“-Modell. Senior\*innen mit viel Platz bieten jungen Menschen günstigen Wohnraum an, und die gehen ihnen dafür im Alltag zur Hand, übernehmen etwa die Einkäufe.
 
-## So kannst du selbst aktiv werden
-* Wie du eine Wohnungsbaugenossenschaft findest: https://www.wohnungsbaugenossenschaften.de/
-* Wie du mit Freund\*innen ein Syndikat gründest: https://www.syndikat.org/de/unternehmensverbund/
-* Wo du erfährst, wie du eine WG mit einem älteren Menschen gründest: https://www.studentenwerke.de/de/content/wohnen-für-hilfe
+<p class="link-list">
+    <span class="link-list-headline">So kannst du selbst aktiv werden</span>
+        <a class="external-link" href="https://www.wohnungsbaugenossenschaften.de/" target="_blank">Hier findest du Wohnungsbaugenossenschaften</a>
+        <a class="external-link" href="https://www.syndikat.org/de/unternehmensverbund/" target="_blank">Das eigene Mietshaus Syndikat gründen</a>
+        <a class="external-link" href="https://www.studentenwerke.de/de/content/wohnen-für-hilfe" target="_blank">Eine Mehrgenerationen-WG starten</a>
+</p>

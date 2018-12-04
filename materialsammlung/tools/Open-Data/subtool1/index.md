@@ -1,5 +1,5 @@
 ---
-tool: tool2
+tool: tool4
 title: Sub tool 1
 subtool: subtool2
 layout: subtool

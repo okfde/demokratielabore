@@ -1,7 +1,7 @@
 ---
 title: Computer programmieren, Neues bauen
 layout: tool
-tool: tool1
+tool: tool2
 img: /static/img/tool_softwareentwicklung.png
 hide_hero: true
 teaser: |

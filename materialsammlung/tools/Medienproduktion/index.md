@@ -1,7 +1,7 @@
 ---
 title: Medien gestalten
 layout: tool
-tool: tool2
+tool: tool3
 img: /static/img/tool_medien.png
 hide_hero: true
 teaser: |

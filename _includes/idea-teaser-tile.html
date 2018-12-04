@@ -3,13 +3,15 @@
         <img src="{{post.img}}" class="img-responsive" />
     </a>
     <div class="post-teaser-content workshop">
-        <h3 class="post-teaser-title" >{{ include.post.title }}</h3>
+        <a class="post-teaser-read-more" href="{{ path }}">
+            <h3 class="post-teaser-title" >{{ include.post.title }}</h3>
+        </a>
         <div class="post-teaser-description workshop">
             <p>
                 {{ include.post.teaser | remove: '<p>' | remove: '</p>'}}
             </p>
             {% assign path = include.post.url %}
-            <a class="post-teaser-read-more" href="{{ path }}">zum Idea</a>
+            <a class="post-teaser-read-more" href="{{ path }}">zur Idee</a>
         </div>
     </div>
 </div>

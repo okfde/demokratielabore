@@ -5,7 +5,6 @@ hide_hero: true
 
 ---
 
-
 <div class="row">
     <div class="col-xs-12 fond__white jumbotron">
         <div class="row">
@@ -16,12 +15,20 @@ hide_hero: true
                     <p>
                       {{ content }}
                     </p>
+                    {% assign flag = false %}
+                    {% for p in site.pages %}
+                    {% if p.subtool contains page.subtool and p.layout contains 'idea' %}
+                        {% assign flag = true %}
+                    {% endif %}
+                    {% endfor %}
+                    {% if flag == true %}
+                        <h2>Ideen</h2>
+                    {% endif %}
                 </div>
             </div>
             <div class="container">
-                <h2>Ideen</h2>
                 <div class="isotope-wrap">
-                    <div class="grid-sizer col-xs-8 col-md-6 col-lg-4"></div>
+                    <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% for p in site.pages %}
                     {% if p.themacontent contains page.themacontent and p.layout contains 'idea' %}
                         <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">

@@ -10,10 +10,9 @@ copy-infobox: |
     <ul><li>Darf ich die Medien, die ich mir herausgesucht habe, wirklich benutzen?</li><li>Welche Bedingungen muss ich einhalten (z.B. Nennung der Quelle)?</li></ul>
 
 ---
+{% include content-infobox.liquid float="right" headline="Diese Fragen werden hier beantwortet" copy=page.copy-infobox %}
 
 *Oft benötigen wir für eine Webseite, eine Präsentation oder ein Video geeignetes Bild- und Tonmaterial. Einfach irgendein Bild oder irgendeinen Song aus dem Netz zu nehmen ist rechtlich problematisch. Es gibt jedoch viele Quellen, bei denen wir uns bedienen dürfen.*
-
-{% include content-infobox.liquid float="right" headline="Diese Fragen werden hier beantwortet" copy=page.copy-infobox %}
 
 Du baust eine Internetseite, eine Präsentation oder ein Video, aber dir fehlt das richtige Bild? Zum Glück ist das Internet voll von Fotos und grafischen Elementen, die andere Menschen bereits erstellt und hochgeladen haben. Hier einfach zu „klauen“ kann dir im schlimmsten Fall allerdings kostspielige rechtliche Probleme bereiten. Aber du brauchst gar nicht zu „klauen“, denn viele Bilder und grafische Elemente sind von ihren Ersteller*innen zur Nutzung freigegeben worden – du musst nur wissen, wo du sie findest.
 

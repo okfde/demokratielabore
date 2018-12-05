@@ -1,5 +1,5 @@
 ---
-subtool: subtool1, subtool2
+subtool:
 themacontent: tcontent1
 title: Idea 1
 layout: idee

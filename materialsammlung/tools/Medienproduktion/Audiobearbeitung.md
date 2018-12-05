@@ -4,17 +4,26 @@ title: Audiobearbeitung mit Audacity
 subtool: subtool5
 layout: untertool
 hide_hero: true
+teaser: |
+    Deinem Thema im Internet Gehör verschaffen – das gelingt dir mit einem Podcast. Hier erfährst du wie das geht.
+copy-infobox: |
+    <ul><li>Wie erstelle ich einen Podcast?</li></ul>
+
 ---
+{% include content-infobox.liquid float="right" headline="Diese Fragen werden hier beantwortet" copy=page.copy-infobox %}
 
-*Oft benötigen wir für eine Webseite, eine Präsentation oder ein Video geeignetes Bild- und Tonmaterial. Einfach irgendein Bild oder irgendeinen Song aus dem Netz zu nehmen ist rechtlich problematisch. Es gibt jedoch viele Quellen, bei denen wir uns bedienen dürfen.*
+*Deinem Thema im Internet Gehör verschaffen – das gelingt dir relativ einfach mit einem Podcast. Ein Podcast ist eine Audioaufzeichnung, die sich jede\*r mithilfe einer Podcasting-App oder im Internet anhören kann. Podcasts, die dir gefallen, kannst du abonnieren. So bekommst du immer sofort mit, wenn eine neue Folge veröffentlicht wird. Podcasts gibt es zu allen erdenklichen Themen; auf ihnen sprechen und diskutieren Prominente und Expertinnen, aber auch ganz normale Menschen.*
 
-Du baust eine Internetseite, eine Präsentation oder ein Video, aber dir fehlt das richtige Bild? Zum Glück ist das Internet voll von Fotos und grafischen Elementen, die andere Menschen bereits erstellt und hochgeladen haben. Hier einfach zu „klauen“ kann dir im schlimmsten Fall allerdings kostspielige rechtliche Probleme bereiten. Aber du brauchst gar nicht zu „klauen“, denn viele Bilder und grafische Elemente sind von ihren Ersteller*innen zur Nutzung freigegeben worden – du musst nur wissen, wo du sie findest.
+## Einen Podcast aufzeichnen
+Audioprogramme wie Audacity ermöglichen es dir, deinen eigenen Podcast aufzuzeichnen und zu schneiden. Audacity hat den Vorteil, kostenlos für alle Betriebssysteme erhältlich zu sein.
+Wenn du an deinen Computer ein Mikrofon anschließt, kannst du direkt in Audacity aufzeichnen. Du kannst das Programm aber auch benutzen, um eine Aufnahme mit einem Smartphone oder Audiorecorder nachträglich zu bearbeiten, also alle Teile wegzuschneiden, die du nicht veröffentlichen willst, oder auch z.B. am Anfang einen Jingle einzufügen. Falls du einen Mac hast, kannst du anstelle von Audacity auch das mitgelieferte Programm Garageband benutzen.
 
-Dabei hilft das Lizenzmodell Creative Commons: Auf Community-Sammlungen wie Flickr, Pixabay oder den Wikimedia Commons kennzeichnen Urheber*innen ihre Bilder usw. als Creative-Commons-Werke, sodass jede*r sie legal für eigene Projekte nutzen kann – vorausgesetzt, du nennst mindestens den Namen der Urheberin bzw. des Urhebers. Da es unterschiedliche Lizenzbedingungen gibt (z.B. das Verbot der Nutzung für kommerzielle Projekte oder der Bearbeitung), solltest du dir genau durchlesen, was du mit dem betreffenden Bild machen darfst.
-
-Ähnlich sieht es bei Musik aus, die du zur Untermalung im eigenen Podcast oder Youtube-Video brauchst. Statt einen Song aus der eigenen Musiksammlung zu nehmen und so eine Abmahnung zu riskieren, solltest du dich bei speziellen freien Musikangeboten umschauen. Dazu gehören u.a. die Seiten Jamendo und Soundcloud, die du beide über die Creative-Commons-Suche durchforsten kannst, sowie die sogenannten Netlabels, die du z.B. im Verzeichnis des Internet Archive findest. Geräusche und Sounds aller Art hält das Freesound-Archiv bereit.
+## Den Podcast veröffentlichen
+Zum Ausprobieren kannst du deinen Podcast z.B. auf Soundcloud hochladen und dann den Link im Internet verteilen. Wenn du eine eigene Webseite hast, kannst du deinen Podcast einfach mit dem Plugin Podlove einbinden und dadurch auch in Podcast-Netzwerke wie iTunes oder Spotify bringen.
 
 <p class="link-list">
     <span class="link-list-headline">Links zu Beispielen und Hintergrundinformationen</span>
-    <a class="external-link" href="" target="_blank"></a>
+    <a class="external-link" href="http://www.schule-bw.de/faecher-und-schularten/mathematisch-naturwissenschaftliche-faecher/physik/computer-im-physikunterricht/soundkarte/programme/audacity" target="_blank">Grundfunktionen von Audacity</a>
+    <a class="external-link" href="https://podcast-helden.de/podcast-starten-einfach/" target="_blank">Einen eigenen Podcast starten – so geht’s</a>
+    <a class="external-link" href="https://der-lautsprecher.de/" target="_blank">Ein Podcast über Podcasting</a>
 </p>

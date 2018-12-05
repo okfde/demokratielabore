@@ -1,8 +1,8 @@
 ---
-title: Ideen
+title: Projektideen
 layout: ideas
 hide_hero: true
-
+img-subpage: /static/img/intro_materialsammlung.png
 ---
 
-Hier steht eine Beschreibung
+Auf dieser Seite findest du eine Vielzahl von tollen Ideen, wie du gesellschaftliche Themen mit Tools voranbringen kannst.

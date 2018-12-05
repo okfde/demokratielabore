@@ -20,6 +20,11 @@
       border-top: 3px solid #000EFF;
     }
   }
+  &.idea {
+    .post-teaser-inner{
+      border-top: 3px solid #00f9ac;
+    }
+  }
   .post-teaser-inner{
     margin: 20px;
     @include dropshadow_tile();

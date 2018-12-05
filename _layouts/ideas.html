@@ -26,8 +26,8 @@ hide_hero: true
                     <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% for p in site.pages %}
                     {% if p.layout contains 'idee' %}
-                        <div class="{{p.unterthema}} col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
-                            {% include unter-thema-teaser-tile.html post=p %}
+                        <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser idea">
+                            {% include idea-teaser-tile.html post=p %}
                         </div>
                     {% endif %}
                     {% endfor %}

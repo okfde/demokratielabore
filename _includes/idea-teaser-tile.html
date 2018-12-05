@@ -1,8 +1,7 @@
-<div class="post-teaser-inner tool">
-    <a href="{{post.link}}">
-        <img src="{{post.img}}" class="img-responsive" />
-    </a>
-    <div class="post-teaser-content workshop">
+<div class="post-teaser-inner idea">
+    {% assign path = include.post.url %}
+    <div class="post-teaser-content">
+        <p>Projektidee</p>
         <a class="post-teaser-read-more" href="{{ path }}">
             <h3 class="post-teaser-title" >{{ include.post.title }}</h3>
         </a>
@@ -10,7 +9,6 @@
             <p>
                 {{ include.post.teaser | remove: '<p>' | remove: '</p>'}}
             </p>
-            {% assign path = include.post.url %}
             <a class="post-teaser-read-more" href="{{ path }}">zur Idee</a>
         </div>
     </div>

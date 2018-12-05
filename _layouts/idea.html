@@ -35,13 +35,6 @@
 			    <div class="row">
 			        <div class="col-lg-6 col-lg-offset-3 blog-main" >
 							{% include tool.html %}
-			        <div class="btn-wrap">
-                {% for p in site.pages %}
-                {% if p.layout contains 'unterthema' and p.unterthema == page.unterthema %}
-                {% assign unterthema = p %}
-                {% endif %}
-                {% endfor %}
-			        </div>
 			        </div>
 				</div>
         <div class="container">

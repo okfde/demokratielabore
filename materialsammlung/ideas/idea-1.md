@@ -2,7 +2,8 @@
 subtool: subtool1, subtool2
 themacontent: tcontent1
 title: Idea 1
-layout: idea
+layout: idee
+hide_hero: true
 
 ---
 

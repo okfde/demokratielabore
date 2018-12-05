@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Tools"
+title: "Ideen"
 hide_hero: true
 
 ---
@@ -15,25 +15,23 @@ hide_hero: true
                     <p>
                       {{ content }}
                     </p>
-                    {% assign flag = false %}
-                    {% for p in site.pages %}
-                    {% if p.subtool contains page.subtool and p.layout contains 'idea' %}
-                        {% assign flag = true %}
-                    {% endif %}
-                    {% endfor %}
-                    {% if flag == true %}
-                        <h2>Ideen</h2>
-                    {% endif %}
                 </div>
             </div>
             <div class="container">
                 <div class="isotope-wrap">
                     <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% for p in site.pages %}
-                    {% if p.subtool contains page.subtool and p.layout contains 'idee' %}
-                        <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
-                            {% include idea-teaser-tile.html post=p %}
-                        </div>
+                    {% if p.layout contains 'unterthema' or p.layout == 'untertool' %}
+                    {% if p.layout contains 'unterthema' and page.themacontent contains p.themacontent %}
+                    <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+                        {% include unter-thema-teaser-tile.html post=p %}
+                    </div>
+                    {% endif %}
+                    {% if p.layout contains 'untertool' and page.subtool contains p.subtool  %}
+                    <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser tool">
+                        {% include tool-teaser-tile.html post=p %}
+                    </div>
+                    {% endif %}
                     {% endif %}
                     {% endfor %}
                 </div>

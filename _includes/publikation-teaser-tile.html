@@ -1,0 +1,16 @@
+<div class="post-teaser-inner">
+    <a href="{{post.link}}">
+        <img src="{{post.img}}" class="img-responsive" />
+    </a>
+    <div class="post-teaser-content workshop">
+        <h3 class="post-teaser-title" >{{ post.title }}</h3>
+        <div class="post-teaser-description workshop">
+            <p>
+                {{ post.ws_teaser | remove: '<p>' | remove: '</p>'}}
+            </p>
+            <a class="post-teaser-read-more" href="{{post.link}}">zur Publikation ⟶ </a>
+        </div>
+    </div>
+</div>
+
+

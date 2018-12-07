@@ -17,7 +17,7 @@ Was meinst du: Sind Städte fahrradfreundlich, fühlst du dich auf deinem Rad ne
 Städte, in denen nicht alles nur auf Autos zugeschnitten ist, werden von ihren Bewohner\*innen als deutlich lebenswerter empfunden. Deswegen werben inzwischen viele Leute für ein Umdenken. So ist z.B. Critical Mass entstanden: An jedem letzten Freitag im Monat treffen sich überall auf der Welt hauptsächlich Fahrradfahrer\*innen (aber auch Leute, die Einräder, Skateboards, Inline-Skates usw. benutzen) und fahren zu Tausenden gemeinsam durch die Stadt. So wollen sie darauf aufmerksam machen, dass auch sie ein wichtiger Teil des Verkehrs sind. Das Ganze ist für jede\*n offen, du kannst einfach kommen und mitfahren!
 
 Wo die Ampeln für Radler\*innen fast immer auf Grün stehen: das Beispiel Kopenhagen, für eine fahrradfreundliche Stadt:
-<div class="video"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_gN0ododwm0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videoiframe"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_gN0ododwm0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <p class="link-list">
     <span class="link-list-headline">So kannst du selbst aktiv werden</span>

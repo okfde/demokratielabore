@@ -11,7 +11,7 @@ published: true
 title: "Mit digitalen Tools Gesellschaft gestalten #8 - Interview mit OPIN"
 ---
 
-Mit den Demokratielaboren wollen wir Jugendliche dazu ermutigen, sich mit Hilfe von digitalen Kompetenzen und Technologien selbstbestimmt und aktiv an gesellschaftlichen Prozessen zu beteiligen. In Zeiten von Hate Speech, Fake News und Populismus ist es aber oft gar nicht so leicht, das Internet als positiven Raum zur Gestaltung zu nutzen. Wie können Jugendliche mit Hilfe von digitalen Technologien selbstwirksam werden und sich beteiligen? Dazu sprechen wir jeden Monat mit Expert/innen aus digitalen Projekten für und mit jungen Menschen. In Interview #9: Eva Shepherd von [OPIN](https://opin.me/de/), einer Plattform für digitale Jugendbeteiligung in Europa. 
+Mit den Demokratielaboren wollen wir Jugendliche dazu ermutigen, sich mit Hilfe von digitalen Kompetenzen und Technologien selbstbestimmt und aktiv an gesellschaftlichen Prozessen zu beteiligen. In Zeiten von Hate Speech, Fake News und Populismus ist es aber oft gar nicht so leicht, das Internet als positiven Raum zur Gestaltung zu nutzen. Wie können Jugendliche mit Hilfe von digitalen Technologien selbstwirksam werden und sich beteiligen? Dazu sprechen wir jeden Monat mit Expert/innen aus digitalen Projekten für und mit jungen Menschen. In Interview #8: Eva Shepherd von [OPIN](https://opin.me/de/), einer Plattform für digitale Jugendbeteiligung in Europa. 
 
 **Demokratielabore: Was ist die Idee von OP!N und an wen richtet sich das Projekt?**
 

@@ -5,21 +5,26 @@
             <ul class="events-list">
                 {% assign events = site.data.events | where: "featured","true" | sort: "date" %}
                 {% for event in  events %}
-                {% if event.url %}
-                <a href="{{event.url}}" target="_blank">
-                    {% endif %}
-                    <li class="events-item">
-
-                        <div class="event-date">
-                            {{ event.date | date:"%d.%m" }}
-                        </div>
-                        <div class="event-info">
-                            {{ event.name }},<br/>{{ event.city }}
-                        </div>
-                    </li>
+                  {% capture e %}{{ event.date | date: "%s" | plus:0}}{% endcapture %}
+                  {% capture n %}{{ site.time | date: "%s" | plus:0}}{% endcapture %}
+                  {% assign comp = e | minus: n %}
+                  {% if comp >= 0 %}
                     {% if event.url %}
-                </a>
-                {% endif %}
+                    <a href="{{event.url}}" target="_blank">
+                    {% endif %}
+                        <li class="events-item">
+
+                            <div class="event-date">
+                                {{ event.date | date:"%d.%m" }}
+                            </div>
+                            <div class="event-info">
+                                {{ event.name }},<br/>{{ event.city }}
+                            </div>
+                        </li>
+                    {% if event.url %}
+                    </a>
+                    {% endif %}
+                  {% endif %}
                 {% endfor %}
             </ul>
         </div>

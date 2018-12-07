@@ -1,0 +1,31 @@
+---
+layout: base
+title: "Publikationen"
+hide_hero: true
+---
+<div class="row">
+    <div class="col-xs-12 fond__white jumbotron">
+        <div class="row">
+            <div class="container">
+                <div class="col-lg-10 col-lg-offset-1 section-workshop">
+                    <h2 class="section-headline">Publikationen</h2>
+                    <p>
+                       All unsere Publikationen im Überblick
+                    </p>
+                </div>
+            </div>
+            <div class="container">
+                <div class="isotope-wrap">
+                    <div class="grid-sizer col-xs-12 col-sm-6 col-md-4 col-lg-3"></div>
+                    {% assign sortedPublikationen = site.publikationen %}
+                    {% for publikation in sortedPublikationen %}
+                        {% assign post = publikation %}
+                        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 isotope-item post-teaser">
+                            {% include publikation-teaser-tile.html post=post %}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

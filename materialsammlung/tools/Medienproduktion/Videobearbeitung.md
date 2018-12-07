@@ -18,7 +18,7 @@ Wenn du ein iPhone oder iPad (oder einen Mac) hast, bekommst du die App iMovie k
 Damit kannst du nämlich so tun, als hättest du bereits einen abendfüllenden Spielfilm gedreht und würdest jetzt mit einem Trailer, also einer kurzen Vorschau, für diesen Film werben wollen. In iMovie suchst du dir einfach aus, welches Genre dein Film haben soll, und füllst dann die freien Felder mit passenden Texten und selbst gedrehten Videoschnipseln. Und schon ist der Trailer für den Liebes- oder Actionfilm mit dir und deinen Freund\*innen in den Hauptrollen fertig!
 
 "Einstellungen", das sind verschiedene Bildausschnitte, mit denen du besondere Aspekte deines Filmes hervorheben kannst. Im Video findest du Beispiele.
-<div class="video"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rOFIwI2zEoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videoiframe"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rOFIwI2zEoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Die Trailerfunktion in iMovie zeigt dir auch, wozu ein Storyboard gut ist: Wenn du vor dem Filmen planst, welche Szenen du drehen willst (also ein Storyboard anlegst), vermeidest du später beim Schnitt Frust – egal, mit welcher App du deinen Film schneidest.
 

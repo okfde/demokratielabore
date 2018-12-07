@@ -16,4 +16,4 @@ teaser: |
 ## So gehst du vor
 Dein Smartphone erhebt viele Daten, nutze sie für dich und vermesse deine Stadt! Mit der kostenlosen App PhyPhox kannst du dir die Messergebnisse auf bestimmte Weisen darstellen lassen, Tonmessungen zum Beispiel als Dezibel-Wert. Das verrät dir wie laut es ist. Wenn du für dein Projekt eine eigene Darstellung benötigst, dann entwickle sie dir einfach selbst, mit dem Phyphox-Editor. Im Video wird erklärt, wie das geht:
 
-<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/EPhhJGdXypg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videoiframe"><iframe width="560" height="315" src="https://www.youtube.com/embed/EPhhJGdXypg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

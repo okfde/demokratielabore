@@ -20,7 +20,7 @@ Falsch! Das derzeit beliebteste Videospiel bei Jugendlichen ist Minecraft. Bei d
 Soll dein Pausenhof oder dein Viertel mehr für dich zu bieten haben? Dann bau doch einfach in Minecraft Modelle, vielleicht sogar gemeinsam mit anderen!
 
 Ein Video eines Beispielprojektes:
-<div class="video"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u9Qt4HtgfA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videoiframe"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u9Qt4HtgfA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <p class="link-list">
     <span class="link-list-headline">Weiterführende Links</span>

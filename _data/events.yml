@@ -107,23 +107,73 @@
   url: 'https://www.aec.at/error/de/'
   date: 2017-09-06
   city: Linz, Österreich
-  featured: true
+  featured: false
 - name: Game of Thoughts - Tagung It´s Democracy, stupid!
   url: 'https://www.gesichtzeigen.de/its-democracy-stupid-2018/'
   date: 2017-09-19
   city: Düsseldorf
-  featured: true
+  featured: false
 - name: Open Space - Konferenz zur bundespolitischen Jugendstrategie
   url: 'https://www.jugendgerecht.de/aktuelles/veranstaltungen/politik-fuer-mit-und-von-jugend-konferenz-zur-bundespolitischen-jugendstrategie/'
   date: 2017-09-24
   city: Berlin
-  featured: true
+  featured: false
+- name: Input zur Bedarfsanalyse - AG Soziale Medien der Amadeu-Antonio-Stiftung
+  date: 2017-09-28
+  city: Berlin
+  featured: false
+- name: Newsbusters - Maus-Türöffner-Tag in der Heinrich-Böll-Stiftung
+  url:  'https://www.wdrmaus.de/tuer_oeffner_tag/2018/index.php5?detail=696548'
+  date: 2017-10-03
+  city: Berlin
+  featured: false
+- name: Ungehörsam - youcoN
+  date: 2017-10-05
+  city: Wolfsburg
+  featured: false
+- name: Citizen Science - youcoN
+  date: 2017-10-06
+  city: Wolfsburg
+  featured: false
+- name: Minetest Hero Theater - Ev. Jugend Baden-Baden
+  date: 2018-10-09
+  city: Neckarzimmern
+  featured: false
 - name: Invasion der Cybertrolle - Bund der Deutschen Landjugend
-  date: 2017-10-13
+  date: 2018-10-13
+  city: Berlin
+  featured: false
+- name: Datenspaziergang mit jugend.beteiligen.jetzt
+  date: 2018-10-16
   city: Berlin
   featured: true
+- name: Jugendkonferenz
+  date: 2018-10-16
+  city: Greifswald
+  featured: false
 - name: Game of Thoughts @ Jugend hackt
   url: 'https://goo.gl/forms/pkEMlreahiRHrOXe2'
-  date: 2017-10-19
+  date: 2018-10-19
+  city: Berlin
+  featured: true
+- name: Start Digital-AG 
+  date: 2018-11-01
+  city: Ulm
+  featured: true
+- name: Minetest Hero Theater - PLAY18
+  date: 2018-11-02
+  city: Hamburg
+  featured: true
+- name: Infostand - Tag der Medienkompetenz
+  date: 2018-11-05
+  city: Düsseldorf
+  featured: false
+- name: Jugend-Area - Bits & Bäume-Konferenz
+  url:  'https://bits-und-baeume.org/de'
+  date: 2018-11-17
+  city: Berlin
+  featured: true
+- name: Netzwerktreffen Demokratielabore
+  date: 2018-11-30
   city: Berlin
   featured: true

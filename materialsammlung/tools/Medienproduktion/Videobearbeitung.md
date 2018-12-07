@@ -27,5 +27,5 @@ Eine gute, kostenlose Videobearbeitungssoftware für iOS und Android ist [Filmor
 Willst du deine Videos lieber am Computer schneiden? Leistungsfähige Videobearbeitungssoftware für PCs ist traditionell relativ teuer. Von der Profi-Anwendung [Lightworks](https://www.lwks.com/) gibt es aber glücklicherweise kostenlose Versionen mit allen Features, die sogar für Windows, macOS und Linux verfügbar sind
 <p class="link-list">
     <span class="link-list-headline">Links zu Beispielen und Hintergrundinformationen</span>
-    <a class="external-link" href="https://edulabs.de/blog/videos-produzieren-als-p%C3%A4dagogische-methode" target="_blank">Eine Liste diverser Videobearbeitungstools sowie viele Ideen findet ihr hier</a>
+    <a class="external-link" href="https://edulabs.de/blog/videos-produzieren-als-p%C3%A4dagogische-methode" target="_blank">Eine Liste diverser Videobearbeitungstools sowie viele Ideen findest du hier</a>
 </p>

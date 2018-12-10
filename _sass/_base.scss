@@ -417,6 +417,15 @@ label {
   a{
     font-size: $body-font-size;
   }
+  ul{
+
+    li{
+        font-size: 18px;
+        margin: 28px 0;
+        line-height: 1.6em;
+    }
+  }
+
 }
 
 .highlight {

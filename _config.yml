@@ -34,6 +34,9 @@ collections:
     angebote:
       output: true
       permalink: /angebot/:path/
+    publikationen:
+      output: true
+      permalink: /publikationen/:path/
     ideas:
       output: true
       permalink: /idea/:path/
@@ -44,4 +47,6 @@ collections:
 #     template: 'themen'
 #     name: 'title'
 #     dir: 'materialsammlung'
+
+
 

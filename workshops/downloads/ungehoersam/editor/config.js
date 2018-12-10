@@ -130,7 +130,6 @@ System.config({
       "aurelia-logging": "npm:aurelia-logging@1.3.1",
       "aurelia-metadata": "npm:aurelia-metadata@1.0.3",
       "aurelia-pal": "npm:aurelia-pal@1.3.0",
-      "aurelia-pal-browser": "npm:aurelia-pal-browser@1.2.1",
       "aurelia-path": "npm:aurelia-path@1.1.1",
       "aurelia-task-queue": "npm:aurelia-task-queue@1.2.0",
       "aurelia-templating": "npm:aurelia-templating@1.4.2"
@@ -694,11 +693,6 @@ System.config({
       "aurelia-event-aggregator",
       "./messages",
       "aurelia-router"
-    ],
-    "location-no-selection.js": [
-      "aurelia-framework",
-      "aurelia-event-aggregator",
-      "./messages"
     ],
     "location-qr-code-display.js": [
       "aurelia-framework",

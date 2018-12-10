@@ -69,8 +69,14 @@
     }
     .post-teaser-image-caption{
     }
+
+    .post-date{
+      color: $grey-dark;
+      font-size: 14px;
+      margin-top: -30px;
+    }
     .post-teaser-content{
-      padding: 20px;
+      padding: 5px 20px;
       text-align: left;
 
       .post-teaser-title{
@@ -118,13 +124,14 @@
           }
         }
         a{
-          color: black;
-          font-size: 0.8em;
+          color: #0A00FF;
+          font-size: 15px;
           font-weight: 600;
            &:hover{
             cursor: pointer;
             color: #000EFF;
           }
+
         }
       }
     }
@@ -142,7 +149,10 @@
   .post-teaser {
     .post-teaser-inner {
       .post-teaser-content {
+<<<<<<< HEAD
         padding: 27px;
+=======
+>>>>>>> master
         &.workshop{
           padding: 20px;
         }

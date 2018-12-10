@@ -5,7 +5,7 @@ date: 2018-12-10
 excerpt:
 images:
  -
-   imgname: bub.jpg
+   imgname: nwt-2018-11.JPG
    sub: "<a href=''>CC BY 4.0, OKF DE, Foto: Leonard Wolf</a>"
 published: true
 title: "Rückblick zum Netzwerktreffen Jugendbeteiligung & Digitalisierung"

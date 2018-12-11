@@ -5,26 +5,15 @@ contentpage elements
   display: block;
   width: 100%;
 
-  img{
-    width: 100%;
-    height: auto;
-    display: block;
+  &.img{
+    width: 40%;
+    margin-bottom: 20px !important;
+      img{
+        width: 100%;
+        height: auto;
+        display: block;
 
-  }
-
-  &.left{
-    float: left;
-    margin-top: 35px;
-    margin-right: 40px;
-    margin-left: 0px;
-    margin-bottom: 20px;
-  }
-  &.right{
-    float:right;
-    margin-top: 35px;
-    margin-right: 0px;
-    margin-left: 40px;
-    margin-bottom: 20px;
+      }
   }
 
   &.infobox{
@@ -59,7 +48,55 @@ contentpage elements
         padding-left: 20px;
     }
   }
+    &.left{
+      float: left;
+      margin-top: 20px;
+      margin-right: 40px;
+      margin-left: 0px;
+      margin-bottom: 45px;
+    }
+    &.right{
+      float:right;
+      margin-top: 20px;
+      margin-right: 0px;
+      margin-left: 40px;
+      margin-bottom: 45px;
+    }
+    &.yes{
+      border-style: dotted;
+      border-color: $blue;
+      background-color: white;
+      .infobox-copy{
+          color: black
+      }
+    }
 
+}
+
+.content-image-wrap{
+  margin-bottom: 50px;
+  img{
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+
+
+.caption{
+  display: block;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 1rem;
+  margin-top: 10px;
+
+  a{
+    text-decoration: underline;
+    font-size: 1rem !important;
+    color: black !important;
+    background-color: $white !important;
+  }
 }
 
 .videoiframe {

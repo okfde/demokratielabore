@@ -1,12 +1,6 @@
 /******************************************************************
-Site Name: edulabs.de/oer
 Author: Maximilian Voigt
 
-Stylesheet: Retina Screens & Devices Stylesheet
-
-When handling retina screens you need to make adjustments, especially
-if you're not using font icons. Here you can add them in one neat
-place.
 
 ******************************************************************/
 
@@ -30,4 +24,18 @@ place.
 
 .page-sub-material-img{
     width: 50px;
+}
+
+.content-element{
+  display: block;
+  width: 100%;
+
+  &.img{
+    width: 100%;
+  }
+
+  &.infobox{
+
+    width: 100% !important;
+  }
 }

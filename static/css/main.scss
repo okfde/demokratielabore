@@ -34,7 +34,7 @@ query for retina AND a certain size if you want. Go Nuts.
   @import "../_sass/375";
 }
 
-@media screen and (min-width: 481px) {
+@media screen and (max-width: 767px) {
 	@import "../_sass/481";
 }
 

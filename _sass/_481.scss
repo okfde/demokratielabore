@@ -25,9 +25,6 @@
 }
 
 
-
-
-
 /* ENDE MENUE*/
 
 .partner {
@@ -263,4 +260,19 @@ p {
 .jumbotron {
   padding-left: 15px;
   padding-right: 15px;
+}
+
+
+.content-element{
+  display: block;
+  width: 100%;
+
+  &.img{
+    width: 100%;
+  }
+
+  &.infobox{
+
+    width: 100% !important;
+  }
 }

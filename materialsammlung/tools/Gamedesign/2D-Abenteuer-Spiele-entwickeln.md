@@ -12,8 +12,8 @@ copy-infobox: |
 {% include content-infobox.liquid width="50%" float="right" headline="Wenn du dieses Tool nutzen möchtest, frage dich zuerst Folgendes:" copy=page.copy-infobox %}
 
 **Was kann ich mit dem Tool machen?**<br>
-Adam Le Doux beschreibt das von ihm entwickelte Bitsy als einen Mini-Spiel-Editor für das Entwerfen von Welten, mit deren Figuren du reden und in denen du Dinge finden kannst. Bitsy ist perfekt dafür geeignet, komplexe Geschichten zu erzählen, die du grafisch mit einfachen Mitteln – nahezu ohne Programmierung – im Stil der alten Pokémon- und Zelda-Spiele umsetzen kannst.
-Da Bitsy webbasiert ist, kannst du die Spiele als Webseite herunterladen und mit Freunden teilen. Sie funktionieren dann sogar auf Smartphones. Außerdem gibt es eine Community, die dir in allen Fragen zur Seite steht, dir Spiele zur Verfügung stellt und sie mit dir diskutiert.
+*Adam Le Doux beschreibt das von ihm entwickelte Bitsy als einen Mini-Spiel-Editor für das Entwerfen von Welten, mit deren Figuren du reden und in denen du Dinge finden kannst. Bitsy ist perfekt dafür geeignet, komplexe Geschichten zu erzählen, die du grafisch mit einfachen Mitteln – nahezu ohne Programmierung – im Stil der alten Pokémon- und Zelda-Spiele umsetzen kannst.*
+*Da Bitsy webbasiert ist, kannst du die Spiele als Webseite herunterladen und mit Freunden teilen. Sie funktionieren dann sogar auf Smartphones. Außerdem gibt es eine Community, die dir in allen Fragen zur Seite steht, dir Spiele zur Verfügung stellt und sie mit dir diskutiert.*
 
 ## Tutorial
 ### SYSTEMVORAUSSETZUNGEN:

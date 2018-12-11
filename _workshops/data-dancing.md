@@ -5,11 +5,11 @@ prinzip: "App-Prototyping"
 dauer: "2-8 Stunden"
 
 layout: workshop-detail
-img: "/workshops/teasers/minetest.png"
-img_full: "/workshops/heros/minetest.png"
+img: "/workshops/teasers/datadancing.png"
+img_full: "/workshops/heros/datadancing.png"
 ws_date: "16. februar"
 ws_year: "2018"
-ws_teaser: Entwirf eine eigene App, die dich mit Freunden vernetzt! Wieviele Informationen möchtest du freigeben, um die Daten anderer zu sehen? Was wünschst du dir von einem digitalen Treffpunkt und kann dieser problemlos von allen genutzt werden? In diesem Workshop lernst du, wie man mit Papier, Stiften und Tablets interaktive Prototypen erstellt, welche Rolle Anonymität und Überwachung spielt und warum Schubladen-Denken nervt.
+ws_teaser: Entwirf eine App, die Freunden vernetzt! Wieviele Informationen möchtest du freigeben, um die Daten anderer zu sehen? In diesem Workshop lernst du, wie man mit Papier, Stiften und Tablets interaktive Prototypen erstellt, welche Rolle Anonymität und Überwachung spielt und warum Schubladen-Denken nervt.
 link: '/workshops/data-dancing'
 featured: true
 

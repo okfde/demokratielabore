@@ -1,5 +1,6 @@
 $red: #FF0036;
-$blue: #0168FC;
+$blue_old: #0168FC;
+$blue: #0A00FF;
 $green: #0F7676;
 $green2: #03A678;
 $mint: #00ffc2;
@@ -420,10 +421,6 @@ label {
     line-height: 1.6em;
   }
 
-  a{
-    font-size: $body-font-size;
-  }
-  #teaser-oer-page {
     a{
       color: #0A00FF;
       //text-decoration: underline;
@@ -432,12 +429,21 @@ label {
       text-decoration: none;
       text-decoration: underline;
     }
-  }
+    #teaser-oer-page {
+        a{
+          color: #0A00FF;
+          //text-decoration: underline;
+        }
+        a:hover{
+          text-decoration: none;
+          text-decoration: underline;
+        }
+    }
   ul{
 
     li{
         font-size: 18px;
-        margin: 28px 0;
+        margin: 10px ;
         line-height: 1.6em;
     }
   }

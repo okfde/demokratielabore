@@ -86,16 +86,12 @@ contentpage elements
 .caption{
   display: block;
   width: 100%;
-  text-align: center;
-  color: black;
-  font-size: 1rem;
+  text-align: left;
+  font-size: $body-font-size;
   margin-top: 10px;
 
   a{
     text-decoration: underline;
-    font-size: 1rem !important;
-    color: black !important;
-    background-color: $white !important;
   }
 }
 

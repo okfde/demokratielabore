@@ -1,6 +1,6 @@
 ---
 tool: tool1
-title: "Baue dein eigenes Jump-’n’-Run-Level"
+title: "Eigene Jump-’n’-Run-Level bauen"
 subtool: subtool1
 layout: untertool
 hide_hero: true
@@ -16,10 +16,10 @@ copy-infobox: |
 
 ## Tutorial
 ### VORAUSSETZUNGEN:
-Da der Level Editor webbasiert ist, brauchst du nur Internetzugang und eine aktuelle Version des Flash Player. Um dein Spiel speichern und mit anderen teilen zu können, benötigst du einen Account. Dafür musst du aber nicht deine echten Daten angeben. Die Webseite findest du Hier.
+Da der Level Editor webbasiert ist, brauchst du nur Internetzugang und eine aktuelle Version des Flash Player. Um dein Spiel speichern und mit anderen teilen zu können, benötigst du einen Account. Dafür musst du aber nicht deine echten Daten angeben. [Die Webseite findest du Hier.](http://www.sploder.com/)
 
-#### PHASE 1: Der Einstieg in die Bedienung
-Bevor du dir einen Account erstellst, kannst du den Retro Arcade Creator testen. Mache dich zuerst mit dem Programm und seinen Funktionen vertraut. Um ein neues Spiel zu erstellen, klickst du zuerst auf „Create“, dann auf „New“. Wenn du anschließend rechts unten auf das Plus drückst, erstellst du eine neue „Stage“.
+### PHASE 1: Der Einstieg in die Bedienung
+Bevor du dir einen Account erstellst, kannst du den [Retro Arcade Creator](http://www.sploder.com/free-arcade-game-maker.php) testen. Mache dich zuerst mit dem Programm und seinen Funktionen vertraut. Um ein neues Spiel zu erstellen, klickst du zuerst auf „Create“, dann auf „New“. Wenn du anschließend rechts unten auf das Plus drückst, erstellst du eine neue „Stage“.
 
 {% include content-infobox.liquid width="100%" border="yes" float="left" headline="" copy="Stages sind eine Art Ordner für deine unterschiedlichen Level. Du kannst in einer Stage mehrere Level anlegen. Wenn ein Spieler bzw. eine Spielerin alle Level einer Stage durchgespielt hat, bekommt er/sie die Möglichkeit, die gesammelten Münzen für Charakter-Upgrades auszugeben. Für 1000 gesammelte Münzen kann ein Upgrade freigeschaltet werden." %}
 
@@ -36,18 +36,18 @@ Nachdem du die Umgebung gestaltet, die nötigen Objekte (Münzen, Heiltränke od
 <div class="caption" style="text-align: right"></div>
 </div>
 
-💡 Beispiel: Soll eine Schatztruhe erst erscheinen, wenn du einen bestimmten Gegner besiegt hast, benutzt du den Verbinder, um beides miteinander in Beziehung zu setzen.
+💡 Beispiel: Soll eine Schatztruhe erst erscheinen, wenn du einen bestimmten Gegner besiegt hast, benutzt du den **Verbinder**, um beides miteinander in Beziehung zu setzen.
 {% include content-float-image.liquid float="right" src="/img/img_tools_gaming_1/bild_c1.jpg" caption="" %}
 
 Starte beim Gegner und ziehe den Verbinder zur Truhe hin. Dann ist die Truhe unsichtbar, bis du den Gegner besiegt hast. Wenn du den Verbinder von der Truhe zum Gegner ziehst, erscheint der Gegner erst, wenn du die Truhe geöffnet hast.
 
-**Zusatzmaterial für den Einstieg:**<br>
-Weitere Funktionen der Schalter und Sonderobjekte findest du als PDF HIER.
+#### Zusatzmaterial für den Einstieg:
+Weitere Funktionen der Schalter und Sonderobjekte findest du als [PDF HIER.](https://www.dropbox.com/s/5qg5vz3s0l40mlr/2018%20Sploder%20Tutorial.pdf?dl=0)
 
-#### PHASE 2: Ideenfindung und Planung
+### PHASE 2: Ideenfindung und Planung
 Nach dem grundlegenden Ausprobieren folgt in der zweiten Phase die Grobplanung deiner eigenen Spielidee. Sammle deine Ideen und halte sie in Stichpunkten fest. Danach kannst du das Gerüst deines Spiels programmieren und gestalten.
 
-#### PHASE 3: „Testing“
+### PHASE 3: „Testing“
 Baue das grundlegende „Skelett“ deines Spiels. Die Prototypen deines Spiels sollten von deinen Freunden oder Projektpartnern getestet werden, wie es auch bei professionellen Spieleproduktionen geschieht. Je mehr Feedback du von anderen erhältst, desto leichter kannst du Flüchtigkeitsfehler beheben. Anschließend kannst du dein Spiel anpassen und es erneut testen lassen. Dies kannst du so lange wiederholen, bis du voll und ganz damit zufrieden bist.
 
 <p class="link-list">
@@ -55,3 +55,4 @@ Baue das grundlegende „Skelett“ deines Spiels. Die Prototypen deines Spiels 
     <a class="external-link" href="" target="_blank">Hier findest du eine Übersicht weiterer Editoren sowie ein Forum</a>
     <a class="external-link" href="" target="_blank">Dieses Vorzeigespiel zeigt einen Großteil der Möglichkeiten und Funktionen des Editors: KyoMono</a>
 </p>
+

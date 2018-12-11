@@ -9,7 +9,7 @@ img: "/workshops/teasers/datadancing.png"
 img_full: "/workshops/heros/datadancing.png"
 ws_date: "16. februar"
 ws_year: "2018"
-ws_teaser: Entwirf eine App, die Freunden vernetzt! Wieviele Informationen möchtest du freigeben, um die Daten anderer zu sehen? In diesem Workshop lernst du, wie man mit Papier, Stiften und Tablets interaktive Prototypen erstellt, welche Rolle Anonymität und Überwachung spielt und warum Schubladen-Denken nervt.
+ws_teaser: Entwirf eine App, die Freunden vernetzt! Wieviele Informationen möchtest du freigeben, um die Daten anderer zu sehen? In diesem Workshop lernst du, wie man mit Papier und Tablets interaktive Prototypen erstellt, welche Rolle Anonymität und Überwachung spielt und warum Schubladen-Denken nervt.
 link: '/workshops/data-dancing'
 featured: true
 

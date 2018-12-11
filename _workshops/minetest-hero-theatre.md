@@ -9,7 +9,7 @@ img: "/workshops/teasers/minetest.png"
 img_full: "/workshops/heros/minetest.png"
 ws_date: "16. februar"
 ws_year: "2018"
-ws_teaser: Erfinde in der Open-Source Version von Minecraft eine ungerechte Welt und spiele auf der digitalen Bühne Heldenfiguren, welche die Ungerechtigkeit besiegen! In diesem Workshop lernst du, wie man aussagekräftige Geschichten erzählt und umsetzt, Figuren und Welten baut, Animationsfilme aus Spielen produziert und welche Superkräfte in dir selbst schlummern.
+ws_teaser: Erfinde in der Open-Source Version von Minecraft eine ungerechte Welt und spiele auf der digitalen Bühne Heldenfiguren, welche die Ungerechtigkeit besiegen! In diesem Workshop lernst du, wie man aussagekräftige Geschichten erzählt, Figuren und Welten baut, Animationsfilme aus Spielen produziert und welche Superkräfte in dir selbst schlummern.
 link: '/workshops/minetest-hero-theatre'
 featured: true
 

@@ -32,6 +32,18 @@ contentpage elements
       margin-bottom: 15px;
     }
 
+    img{
+       width: 100%;
+       height: auto;
+       display: block;
+
+    }
+    &.true {
+      background-color: white;
+      .infobox-copy{
+          color: inherit;
+      }
+    }
     .infobox-copy{
     a{
       text-decoration: underline;

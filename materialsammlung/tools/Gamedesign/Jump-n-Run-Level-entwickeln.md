@@ -15,7 +15,7 @@ copy-infobox: |
 *Der Retro Arcade Creator auf der Webseite Sploder ist ein kostenloses Tool, mit dem du sehr schnell Jump-’n’-Run-Level selbst erstellen kannst.*
 
 ## Tutorial
-### VORAUSSETZUNGEN:
+### SYSTEMVORAUSSETZUNGEN:
 Da der Level Editor webbasiert ist, brauchst du nur Internetzugang und eine aktuelle Version des Flash Player. Um dein Spiel speichern und mit anderen teilen zu können, benötigst du einen Account. Dafür musst du aber nicht deine echten Daten angeben. [Die Webseite findest du Hier.](http://www.sploder.com/)
 
 ### PHASE 1: Der Einstieg in die Bedienung

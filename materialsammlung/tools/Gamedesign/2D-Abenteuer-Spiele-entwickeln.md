@@ -23,11 +23,11 @@ Bitsy wurde in mehrere Sprachen übersetzt und ist auf der [offiziellen Webseite
 ### ERSTE SCHRITTE:
 Bevor du anfängst, dein komplettes Spiel zu bauen, solltest du ein paar kleine Zwischenschritte umsetzen.
 
-### PHASE 1: Der Einstieg in die Bedienung
+#### PHASE 1: Der Einstieg in die Bedienung
 Mache dich zuerst mit dem Programm und seinen Funktionen vertraut. Plane dazu und für die folgenden Funktionen maximal 30 Minuten ein:<br>
 **(1)** Fenster ein- und ausblenden, **(2)** Zeichnen in 8 x 8 Pixeln, **(3)** Dialoge und Bedingungen, **(4)** Wechsel von Räumen, **(5)** Farbpaletten
 
-### PHASE 2: Ideenfindung und Planung
+#### PHASE 2: Ideenfindung und Planung
 Nach dem grundlegenden Ausprobieren folgt in der zweiten Phase die Grobplanung deiner eigenen Spielidee. Sammle deine Ideen und halte sie in Stichpunkten fest. Danach kannst du ein erstes Gerüst deines Spiels aufschreiben oder skizzieren. Es bietet sich an, eine kleine Karte mit allen benötigten Räumen anzulegen, eventuell mit kleinen Hinweisen dazu, was darin jeweils passieren soll. Beantworte jedoch vorher für dich folgende Fragen:
 * Worum geht es in meiner Geschichte überhaupt? Möchte ich in meinem Spiel ein bestimmtes Thema bearbeiten? Was muss ich dafür im Vorfeld recherchieren?
 * Wo, wann und in welchem Setting (Fantasy, Science Fiction …) spielt meine Geschichte?
@@ -39,10 +39,10 @@ Nach dem grundlegenden Ausprobieren folgt in der zweiten Phase die Grobplanung d
 
 💡 Bei der Entwicklung deiner Geschichte könnte dir die „Heldenreise“ als Vorbild dienen.
 
-### PHASE 3: „Testing“
+#### PHASE 3: „Testing“
 Wenn du in deinem Spiel eine besondere Eigenschaft oder Spielmechanik benötigst, baue sie zu Beginn ein und prüfe, ob sie funktioniert. Anschließend kannst du dich um das grundlegende „Skelett“ deines Spiels kümmern. Die Prototypen deines Spiels sollten von deinen Freunden oder Projektpartnern getestet werden, wie es auch bei professionellen Spieleproduktionen geschieht. Je mehr Feedback du von anderen erhältst, desto leichter kannst du Flüchtigkeitsfehler beheben. Anschließend kannst du dein Spiel anpassen und es erneut testen lassen. Dies kannst du so lange wiederholen, bis du voll und ganz damit zufrieden bist.
 
-### PHASE 4: Details
+#### PHASE 4: Details
 Wenn das Grundgerüst steht und die wichtigsten Funktionen reibungslos klappen, kannst du dich den Details zuwenden (Deko, Nebenquests, Hindernisse …).
 
 ### PROGRAMMÜBERSICHT
@@ -72,7 +72,7 @@ Im „Farben“-Fenster von Bitsy kannst du drei Farben auswählen und als Palet
 Schließlich gibt es noch die „Enden“ und die „Ausgänge“. Beide werden im Raum platziert. Enden beenden das Spiel und zeigen noch eine letzte Nachricht an, Ausgänge führen dich zu einem anderen Raum. Dazu wählst du aus, wo es hinausgehen soll, und anschließend, bei welchem Feld und in welchem Raum du wieder erscheinst.
 Nun hindert dich nichts mehr daran, viele Räume zu einer spannenden, komplexen Welt zusammenzusetzen!
 
-#### Zusatzmaterial für den Einstieg:
+### Zusatzmaterial für den Einstieg:
 Eine Übersicht der wichtigsten Funktionen gibt es zum [Ausdrucken HIER](https://www.dropbox.com/s/b6q6zmjgyqmxs4b/Gamedesign%20mit%20Bitsy.pdf?).
 
 <div class="videoiframe"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLlXuD3kyVEr7s1qLkKSC2nKXiZFFZsfSz" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>

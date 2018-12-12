@@ -80,8 +80,13 @@ filter items
         color: white;
       }
       &.hover, &.active{
-        background-color: $black;
+        // background-color: $black;
         color: $white;
+      }
+
+      &.not-active {
+        background-color: #f2f2f2;
+        color: black;
       }
     }
 

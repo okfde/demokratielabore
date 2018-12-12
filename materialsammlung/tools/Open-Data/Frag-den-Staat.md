@@ -1,7 +1,7 @@
 ---
 tool: tool4
 title: Wie du dir Informationen vom Staat holst, die du brauchst
-subtool: subtool10
+subtool: subtool14
 layout: untertool
 hide_hero: true
 teaser: |

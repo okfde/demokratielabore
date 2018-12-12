@@ -1,7 +1,7 @@
 ---
 tool: tool1
 title: "Ganz leicht: textbasierte Spiele mit Twine"
-subtool: subtool3
+subtool: subtool5
 layout: untertool
 hide_hero: true
 teaser: |
@@ -9,7 +9,7 @@ teaser: |
 copy-infobox: |
     <ul><li>Wie wichtig sind dir die Grafik deines Spiels und die Auswahl an verfügbaren Objekten? Bei diesem Programm liegt der Fokus auf der Erzählung einer Geschichte in Textform und dem Einbauen von Auswahlmöglichkeiten für ihren Fortgang. Eigene Grafiken und Sounds können jedoch hinzugefügt werden.</li><li>Wenn du deine Geschichte oder dein Thema in einem storybasierten Spiel spannend und verständlich erzählen möchtest, brauchst du ein bisschen Geduld. Überlege, wie viel Zeit du in dein Projekt investieren möchtest. Wenn du nur zwei bis drei Stunden zur Verfügung hast, ist ein Tool wie Twine sehr gut geeignet.</li></ul>
 ---
-{% include content-infobox.liquid width="50%" float="right" headline="Wenn du dieses Tool nutzen möchtest, frage dich zuerst Folgendes:" copy=page.copy-infobox %}
+{% include content-infobox.liquid width="50%" float="right" headline="Bevor du startest, frage dich Folgendes:" copy=page.copy-infobox %}
 
 **Was kann ich mit dem Tool machen?**<br>
 *Twine ist ein kostenloses Tool zum Schreiben von interaktiven Geschichten, das sowohl webbasiert als auch als installierbare Software genutzt werden kann. Es funktioniert (ähnlich wie ein Spielbuch oder ein Text Adventure) überwiegend textbasiert. Wenn du gerne Geschichten schreibst, kannst du diese mithilfe der Auswahlmöglichkeiten spielerisch ausbauen. Twine bietet eine vertiefende Auseinandersetzung mit einem bestimmten Thema. Da sich damit webbasierte Bild-, Audio- und Videodateien einbinden lassen, kannst du nebenbei den grundlegenden Umgang mit im Internet geläufigen Computersprachen wie HTML und Cascading-Style-Sheets-Befehlen (CSS) erlernen. CSS ist eine vergleichsweise einfache Programmiersprache, mit der z.B. das Aussehen, die Schriftgröße und die Farbe von Webseiten gestaltet werden.*

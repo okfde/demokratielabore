@@ -1,7 +1,7 @@
 ---
 tool: tool1
 title: "Kreiere dein eigenes Rollenspiel"
-subtool: subtool3
+subtool: subtool4
 layout: untertool
 hide_hero: true
 teaser: |
@@ -9,7 +9,7 @@ teaser: |
 copy-infobox: |
     <ul><li>Hast du schon Erfahrungen mit anderen Gamedesign-Tools gesammelt? Wenn nicht, dann ist dieses Programm ein sehr guter Einstieg, weil du damit spielerisch die Grundlagen des Programmierens erlernst.</li><li>Wie wichtig sind dir die Grafik deines Spieles und die Auswahl an verfügbaren Objekten? Bei diesem Programm liegt der Fokus auf dem Erzählen einer Geschichte und dem Erstellen von Aufgaben. Eigene Grafiken und Sounds können jedoch hinzugefügt werden.</li><li>Wenn du deine Geschichte oder dein Thema in einem storybasierten Spiel spannend und verständlich erzählen möchtest, brauchst du ein bisschen Geduld. Überlege, wie viel Zeit du in dein Projekt investieren möchtest. Wenn du nur zwei bis drei Stunden zur Verfügung hast, solltest du eventuell ein weniger visuelles Tool (z.B. Twine) benutzen.</li></ul>
 ---
-{% include content-infobox.liquid width="50%" float="right" headline="Wenn du dieses Tool nutzen möchtest, frage dich zuerst Folgendes:" copy=page.copy-infobox %}
+{% include content-infobox.liquid width="50%" float="right" headline="Bevor du startest, frage dich Folgendes:" copy=page.copy-infobox %}
 
 **Was kann ich mit dem Tool machen?**<br>
 *Der Slogan auf der RPG-Maker-Webseite lautet: „Simpel genug für ein Kind, effizient genug für einen Entwickler.“*

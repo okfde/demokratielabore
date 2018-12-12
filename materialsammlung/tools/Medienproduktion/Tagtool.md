@@ -1,7 +1,7 @@
 ---
 tool: tool3
 title: "Dein Smartphone als Spraydose nutzen"
-subtool: subtool1
+subtool: subtool12
 layout: untertool
 hide_hero: true
 teaser: |

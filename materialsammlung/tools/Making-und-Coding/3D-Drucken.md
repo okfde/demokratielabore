@@ -1,7 +1,7 @@
 ---
 tool: tool2
 title: "3D-Drucken: mit Computern eigene Teile herstellen"
-subtool: subtool9
+subtool: subtool6
 layout: untertool
 hide_hero: true
 teaser: |

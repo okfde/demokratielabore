@@ -1,5 +1,5 @@
 ---
-subtool: subtool6
+subtool: subtool9
 themacontent: zukunft7
 title: "Das Messgerät in deiner Tasche: dein Smartphone"
 layout: idee

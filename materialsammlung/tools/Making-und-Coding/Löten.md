@@ -1,7 +1,7 @@
 ---
 tool: tool2
 title: "Löten: Metall schmelzen, Teile verbinden, Neues schaffen"
-subtool: subtool8
+subtool: subtool7
 layout: untertool
 hide_hero: true
 teaser: |

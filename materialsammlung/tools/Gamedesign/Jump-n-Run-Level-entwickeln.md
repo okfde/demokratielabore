@@ -1,7 +1,7 @@
 ---
 tool: tool1
 title: "Eigene Jump-’n’-Run-Level bauen"
-subtool: subtool1
+subtool: subtool3
 layout: untertool
 hide_hero: true
 teaser: |
@@ -9,7 +9,7 @@ teaser: |
 copy-infobox: |
     <ul><li>Hast du schon Erfahrungen mit anderen Gamedesign-Tools gesammelt? Wenn nicht, dann ist dieses Programm ein sehr guter Einstieg, weil du damit spielerisch die Grundlagen des Level-Designs erlernst.</li><li>Wie wichtig sind dir die Grafik deines Spiels und die Auswahl an verfügbaren Objekten? Bei diesem Programm liegt der Fokus auf dem Bauen der Umgebung. Im Editor kannst du zwar leider keine eigenen Grafiken, wohl aber kurze Texte einfügen.</li><li>Hast du schon Erfahrungen mit anderen Gamedesign-Tools gesammelt? Wenn nicht, dann ist dieses Programm ein sehr guter Einstieg, weil du damit spielerisch die Grundlagen des Level-Designs erlernst.</li></ul>
 ---
-{% include content-infobox.liquid width="50%" float="right" headline="Wenn du dieses Tool nutzen möchtest, frage dich zuerst Folgendes:" copy=page.copy-infobox %}
+{% include content-infobox.liquid width="50%" float="right" headline="Bevor du startest, frage dich Folgendes:" copy=page.copy-infobox %}
 
 **Was kann ich mit dem Tool machen?**<br>
 *Der Retro Arcade Creator auf der Webseite Sploder ist ein kostenloses Tool, mit dem du sehr schnell Jump-’n’-Run-Level selbst erstellen kannst.*

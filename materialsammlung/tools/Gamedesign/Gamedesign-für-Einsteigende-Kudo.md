@@ -1,7 +1,7 @@
 ---
 tool: tool1
 title: "Gamedesign für Einsteigende: Kodu"
-subtool: subtool5
+subtool: subtool1
 layout: untertool
 hide_hero: true
 teaser: |
@@ -9,7 +9,7 @@ teaser: |
 copy-infobox: |
     <ul><li>Hast du schon Erfahrungen mit anderen Gamedesign-Tools gesammelt? Wenn nicht, dann ist dieses Programm ein sehr guter Einstieg, weil du damit spielerisch die Grundlagen des Programmierens erlernst.</li><li>Wie wichtig sind dir die Grafik deines Spiels und die Auswahl an verfügbaren Objekten? Bei diesem Programm liegt der Fokus auf der Gestaltung der Spielwelt und -mechanik. Eigene Grafiken kannst du leider nicht hinzufügen.</li></ul>
 ---
-{% include content-infobox.liquid width="50%" float="right" headline="Wenn du dieses Tool nutzen möchtest, frage dich zuerst Folgendes:" copy=page.copy-infobox %}
+{% include content-infobox.liquid width="50%" float="right" headline="Bevor du startest, frage dich Folgendes:" copy=page.copy-infobox %}
 
 **Was kann ich mit dem Tool machen?**<br>
 *Kodu ist ein kostenloses Gamedesign-Programm mit comicähnlicher grafischer 3-D-Entwicklungsumgebung, mit dem du per Mausklick dein eigenes Spiel gestalten kannst. Es ist besonders für Anfänger\*innen einfach zu bedienen und liefert eine Auswahl an vordefinierten Objekten. Du kannst damit Spiele verschiedener Genres bauen: Arcade-Games, Strategiespiele, Action Adventure Games, aber auch Rollenspiele u.v.a.m. Deine selbst gebauten Spiele kannst du anschließend exportieren oder online mit anderen teilen. Zum Spielen brauchen allerdings alle Kodu.*

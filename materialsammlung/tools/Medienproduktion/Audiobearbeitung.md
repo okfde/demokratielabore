@@ -1,7 +1,7 @@
 ---
 tool: tool3
 title: Audiobearbeitung mit Audacity
-subtool: subtool5
+subtool: subtool10
 layout: untertool
 hide_hero: true
 teaser: |

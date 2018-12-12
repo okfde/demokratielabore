@@ -1,7 +1,7 @@
 ---
 tool: tool1
 title: "Mini-Abenteuer in Pixelgrafik"
-subtool: subtool2
+subtool: subtool1
 layout: untertool
 hide_hero: true
 teaser: |
@@ -9,7 +9,7 @@ teaser: |
 copy-infobox: |
     <ul><li>Hast du schon Erfahrungen mit anderen Gamedesign-Tools gesammelt? Wenn nicht, dann ist dieses Programm ein sehr guter Einstieg, weil du damit spielerisch die Grundlagen logischer Verknüpfungen erlernst und die Technik so sehr im Hintergrund steht, dass du dich ganz darauf konzentrieren kannst, deine Fantasie spielen zu lassen.</li><li>Wie wichtig ist dir die Grafik deines Spiels? Bei diesem Programm liegt der Fokus auf der Erzählung und der Erkundung. Du kannst damit besonders gut deine Meinung kommunizieren. Es ist möglich, im Programm selbst Grafiken und Farben zu editieren, du bist dabei aber an die maximal verfügbare Pixelanzahl gebunden.</li><li>Wenn du deine Geschichte oder dein Thema in einem storybasierten Spiel spannend und verständlich erzählen möchtest, brauchst du ein bisschen Geduld. Überlege, wie viel Zeit du in dein Projekt investieren möchtest. Wenn du nur ein bis zwei Stunden zur Verfügung hast, ist Bitsy ein guter Einstieg, allerdings nur für eine Kurzgeschichte. Mit ca. sechs Stunden dürften aber bereits größere Geschichten möglich sein.</li></ul>
 ---
-{% include content-infobox.liquid width="50%" float="right" headline="Wenn du dieses Tool nutzen möchtest, frage dich zuerst Folgendes:" copy=page.copy-infobox %}
+{% include content-infobox.liquid width="50%" float="right" headline="Bevor du startest, frage dich Folgendes:" copy=page.copy-infobox %}
 
 **Was kann ich mit dem Tool machen?**<br>
 *Adam Le Doux beschreibt das von ihm entwickelte Bitsy als einen Mini-Spiel-Editor für das Entwerfen von Welten, mit deren Figuren du reden und in denen du Dinge finden kannst. Bitsy ist perfekt dafür geeignet, komplexe Geschichten zu erzählen, die du grafisch mit einfachen Mitteln – nahezu ohne Programmierung – im Stil der alten Pokémon- und Zelda-Spiele umsetzen kannst.*

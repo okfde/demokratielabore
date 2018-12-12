@@ -1,7 +1,7 @@
 ---
 tool: tool2
 title: Kleine Computer selbst programmieren
-subtool: subtool6
+subtool: subtool9
 layout: untertool
 hide_hero: true
 teaser: |

@@ -37,7 +37,7 @@ Nachdem du die Umgebung gestaltet, die nötigen Objekte (Münzen, Heiltränke od
 </div>
 
 💡 Beispiel: Soll eine Schatztruhe erst erscheinen, wenn du einen bestimmten Gegner besiegt hast, benutzt du den **Verbinder**, um beides miteinander in Beziehung zu setzen.
-{% include content-float-image.liquid float="right" src="/img/img_tools_gaming_1/bild_c1.jpg" caption="" %}
+{% include content-float-image.liquid float="right" src="/img/img_tools_gaming_1/bild_c1.jpg" %}
 
 Starte beim Gegner und ziehe den Verbinder zur Truhe hin. Dann ist die Truhe unsichtbar, bis du den Gegner besiegt hast. Wenn du den Verbinder von der Truhe zum Gegner ziehst, erscheint der Gegner erst, wenn du die Truhe geöffnet hast.
 

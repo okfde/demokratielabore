@@ -52,7 +52,7 @@ Baue das grundlegende „Skelett“ deines Spiels. Die Prototypen deines Spiels 
 
 <p class="link-list">
     <span class="link-list-headline">Weiterführende Links</span>
-    <a class="external-link" href="" target="_blank">Hier findest du eine Übersicht weiterer Editoren sowie ein Forum</a>
-    <a class="external-link" href="" target="_blank">Dieses Vorzeigespiel zeigt einen Großteil der Möglichkeiten und Funktionen des Editors: KyoMono</a>
+    <a class="external-link" href="https://sploder.tk/index.php?action=forum" target="_blank">Hier findest du eine Übersicht weiterer Editoren sowie ein Forum</a>
+    <a class="external-link" href="http://www.sploder.com/publish.php?s=d004fcbq" target="_blank">Dieses Vorzeigespiel zeigt einen Großteil der Möglichkeiten und Funktionen des Editors: KyoMono</a>
 </p>
 

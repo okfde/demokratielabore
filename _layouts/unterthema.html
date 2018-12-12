@@ -13,12 +13,11 @@ hide_hero: true
                     <div class="page-sub-material"><a href="javascript:history.back()"><p class="sub-material-arrow-back"><img src="/static/img/arrow.svg"> Zurück</p></a></div>
                     {% assign flag = false %}
                     {% for p in site.pages %}
-                    {% if p.subtool contains page.subtool and p.layout contains 'idee' %}
+                    {% if p.themacontent contains page.themacontent and p.layout contains 'idee' %}
                     {% assign flag = true %}
                     {% endif %}
                     {% endfor %}
                     {% if flag == true %}
-
                     <p>💡 Werde aktiv und starte mit Hilfe eines Tools dein eigenes Projekt.<a href="#projektideen"> Hier findest du passende Projektideen</a></p>
                     <hr>
                     {% endif %}

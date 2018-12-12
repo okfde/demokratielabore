@@ -7,9 +7,9 @@ hide_hero: true
 teaser: |
     3D-Drucken ist ein Handwerk, das du lernen kannst - am besten, indem du es ausprobierst. Hier findest du viele Tipps dazu.
 copy-infobox: |
-    <ul><li></li></ul>
+    <ul><li>Es gibt bereits viele 3D-Modelle -  bevor du ein eigenes entwickelst, schau dir an, ob du sie für dein Vorhaben nutzen und weiterentwickeln kannst.</li><li>Habe ich eigene 3D-Modelle, die ich anderen Menschen im Netz zur Verfügung stellen möchte?</li></ul>
 ---
-{% include content-infobox.liquid float="right" headline="Diese Fragen werden hier beantwortet" copy=page.copy-infobox %}
+{% include content-infobox.liquid float="right" headline="Bevor du startest, frage dich Folgendes:" copy=page.copy-infobox %}
 
 *3D-Drucker machen digitale Modelle zu Objekten, die du in der Hand halten kannst. Die Drucker für zu Hause, die preislich zwischen 200 und 2000 Euro liegen, schmelzen ein buntes Kunststoffmaterial und bauen daraus Schicht für Schicht ein dreidimensionales Teil auf. Die heiße Düse, aus der der halbflüssige Kunststoff austritt, bewegt sich dazu motorgesteuert.*
 

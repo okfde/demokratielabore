@@ -9,7 +9,7 @@ teaser: |
 copy-infobox: |
     <ul><li>Was für Sensoren kann ich an meinen Mikrocontroller anschließen?</li><li>Wie kann ich die gemessenen Daten nutzen?</li><li>Was für ein eigenständiges Gerät kann ich damit bauen?</li></ul>
 ---
-{% include content-infobox.liquid float="right" headline="Diese Fragen werden hier beantwortet" copy=page.copy-infobox %}
+{% include content-infobox.liquid float="right" headline="Bevor du startest, frage dich Folgendes:" copy=page.copy-infobox %}
 
 *Mikrocontroller sind kleine elektronische Platinen, die du so programmieren kannst, dass sie den gewünschten Zweck erfüllen. Du kannst sie auch um einen Sensor erweitern, der wie ein Sinnesorgan für einen bestimmten Reiz empfindlich ist, und dazu im Programmcode vorgeben, was mit den Daten dieses Sensors passieren soll.*
 

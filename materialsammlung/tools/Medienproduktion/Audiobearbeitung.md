@@ -7,10 +7,10 @@ hide_hero: true
 teaser: |
     Deinem Thema im Internet Gehör verschaffen – das gelingt dir mit einem Podcast. Hier erfährst du wie das geht.
 copy-infobox: |
-    <ul><li>Wie erstelle ich einen Podcast?</li></ul>
+    <ul><li>Welche Themen bewegen mich und zu welchen möchte ich einen Podcast aufnehmen?</li><li>Wer ist die Zielgruppe meines Podcasts, wen will ich informieren?</li></ul>
 
 ---
-{% include content-infobox.liquid float="right" headline="Diese Fragen werden hier beantwortet" copy=page.copy-infobox %}
+{% include content-infobox.liquid float="right" headline="Bevor du startest, frage dich Folgendes:" copy=page.copy-infobox %}
 
 *Deinem Thema im Internet Gehör verschaffen – das gelingt dir relativ einfach mit einem Podcast. Ein Podcast ist eine Audioaufzeichnung, die sich jede\*r mithilfe einer Podcasting-App oder im Internet anhören kann. Podcasts, die dir gefallen, kannst du abonnieren. So bekommst du immer sofort mit, wenn eine neue Folge veröffentlicht wird. Podcasts gibt es zu allen erdenklichen Themen; auf ihnen sprechen und diskutieren Prominente und Expertinnen, aber auch ganz normale Menschen.*
 

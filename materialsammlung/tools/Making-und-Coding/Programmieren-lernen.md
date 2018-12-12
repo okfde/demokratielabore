@@ -7,9 +7,9 @@ hide_hero: true
 teaser: |
     Der Einstieg in das Programmiere ist ganz leicht, probier es doch mal aus! Hier findest du viele Tipps.
 copy-infobox: |
-    <ul><li></li></ul>
+    <ul><li>Welche Lösung für ein Problem in meiner Umgebung könnte ich automatisieren - also programmieren?</li><li>Kann ich das, was ich Programmieren möchte, mit einer visuellen Programmiersprache umsetzen?</li></ul>
 ---
-{% include content-infobox.liquid float="right" headline="Diese Fragen werden hier beantwortet" copy=page.copy-infobox %}
+{% include content-infobox.liquid float="right" headline="Bevor du startest, frage dich Folgendes:" copy=page.copy-infobox %}
 
 *Der Einstieg in die Programmierung gelingt heutzutage dank visueller Programmiersprachen ganz leicht. In Scratch und Snap! codest du einfach mit Funktionsblöcken, die du am Bildschirm zu eigenen Programmen zusammenklickst.*
 

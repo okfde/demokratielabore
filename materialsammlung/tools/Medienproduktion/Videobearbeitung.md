@@ -7,9 +7,9 @@ hide_hero: true
 teaser: |
     Schnell mal ein Video mit dem Handy aufnehmen? Kein Problem! Aber wie mache ich daraus einen Film? So geht's.
 copy-infobox: |
-    <ul><li>Wie erstelle ich einen Film?</li></ul>
+    <ul><li>Welches Thema ist mir wichtig und wie kann ich es in einem Video transportieren?</li><li>Wie kann ich das Thema in eine Geschichte verpacken und welche Kameraeinstellungen bringen den Zuschauer am besten an dieses heran?</li><li>Es gibt zahlreiche Tools für die Videobearbeitung - welche Anforderungen habe ich?</li></ul>
 ---
-{% include content-infobox.liquid float="right" headline="Diese Fragen werden hier beantwortet" copy=page.copy-infobox %}
+{% include content-infobox.liquid float="right" headline="Bevor du startest, frage dich Folgendes:" copy=page.copy-infobox %}
 
 *Schnell mal ein Video mit dem Handy aufnehmen? Kein Problem! Aber wie mache ich aus mehreren Clips einen interessanten Film? Die Trailer-Funktion von [iMovie](https://www.apple.com/de/imovie/) zeigt dir, wozu ein Storyboard gut ist.*
 

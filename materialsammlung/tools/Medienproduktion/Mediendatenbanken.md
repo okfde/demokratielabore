@@ -10,7 +10,7 @@ copy-infobox: |
     <ul><li>Darf ich die Medien, die ich mir herausgesucht habe, wirklich benutzen?</li><li>Welche Bedingungen muss ich einhalten (z.B. Nennung der Quelle)?</li></ul>
 
 ---
-{% include content-infobox.liquid float="right" headline="Diese Fragen werden hier beantwortet" copy=page.copy-infobox %}
+{% include content-infobox.liquid float="right" headline="Bevor du startest, frage dich Folgendes:" copy=page.copy-infobox %}
 
 *Oft benötigen wir für eine Webseite, eine Präsentation oder ein Video geeignetes Bild- und Tonmaterial. Einfach irgendein Bild oder irgendeinen Song aus dem Netz zu nehmen ist rechtlich problematisch. Es gibt jedoch viele Quellen, bei denen wir uns bedienen dürfen.*
 

@@ -7,9 +7,9 @@ hide_hero: true
 teaser: |
     Am Anfang jedes Smartphones oder Computers stand ein Lötwerkzeug. Lerne Löten und baue deine eigenen Geräte!
 copy-infobox: |
-    <ul><li></li></ul>
+    <ul><li>Habe ich zuhause technische Gegenstände, die ich durch Löten wieder reparieren kann und deshalb nicht wegschmeißen und neu kaufen muss?</li></ul>
 ---
-{% include content-infobox.liquid float="right" headline="Diese Fragen werden hier beantwortet" copy=page.copy-infobox %}
+{% include content-infobox.liquid float="right" headline="Bevor du startest, frage dich Folgendes:" copy=page.copy-infobox %}
 
 *Beim Löten verbindest du zwei Metallteile, indem du ein anderes Metall erhitzt, bis es schmilzt. Dieses andere Metall, das sogenannte Lötzinn, fließt dann in die Lücke zwischen den zwei Metallteilen und wird beim Abkühlen wieder fest. Da die Verbindung Strom leitet, kannst du damit zwei Kabel fest verbinden oder elektronische Bauteile auf eine Platine montieren.*
 

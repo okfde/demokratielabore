@@ -7,9 +7,9 @@ hide_hero: true
 teaser: |
     Ein Staat hat viele Informationen. Bürger*innen können diese anfragen. Probier es doch einfach mal aus oder nutze die Möglichkeit bei deiner Kampagne.
 copy-infobox: |
-    <ul><li></li></ul>
+    <ul><li>Gibt es auf FragDenStaat.de schon Anfragen zu einem Thema, das mich interessiert?</li><li>Welche Informationen könnten mir für meine Projekte weiterhelfen und bei wem frage ich sie am besten an?</li></ul>
 ---
-{% include content-infobox.liquid float="right" headline="Diese Fragen werden hier beantwortet" copy=page.copy-infobox %}
+{% include content-infobox.liquid float="right" headline="Bevor du startest, frage dich Folgendes:" copy=page.copy-infobox %}
 
 *In Deutschland und vielen anderen Ländern gibt es ein Informationsfreiheitsgesetz, das Bürger\*innen den Zugang zu amtlichen Informationen erlaubt. Die Internetplattform „Frag den Staat“ erleichtert es, eigene Anfragen an Behörden zu stellen. In den Antworten zu bisher über 30.000 Anfragen gibt es viele Daten, die du für eigene Projekte nutzen kannst.*
 

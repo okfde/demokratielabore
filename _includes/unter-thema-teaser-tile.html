@@ -1,4 +1,5 @@
 <div class="post-teaser-inner {{ site.data.unterthema-color[include.post.unterthema] }}">
+    {% assign path = include.post.url %}
     <a href="{{post.link}}">
         <img src="{{post.img}}" class="img-responsive" />
     </a>
@@ -9,7 +10,6 @@
                 {{ post.ws_teaser | remove: '<p>' | remove: '</p>'}}
                 {{ include.post.teaser }}
             </p>
-            {% assign path = include.post.url %}
             <a class="post-teaser-read-more" href="{{ path }}">zum Thema</a>
         </div>
     </div>

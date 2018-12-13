@@ -40,6 +40,15 @@ hide_hero: true
                     {% endfor %}
                 </div>
             </div>
+            {% if page.owner != '' %}
+            <div class="container">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <hr>
+                    <p>Dieses Material wurde von der Organisation <a href="{{ site.data.owner-link-list[page.owner] }}" target="_blank">{{ site.data.owner-name-list[page.owner] }}</a> entwickelt und steht unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 </a>| OKF DE/{{ site.data.owner-short-name-list[page.owner] }}</p>
+                    <hr>
+                </div>
+            </div>
+            {% endif %}
         </div>
     </div>
 </div>

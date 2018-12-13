@@ -15,7 +15,10 @@ copy-infobox: |
 *In Deutschland und vielen anderen Ländern gibt es ein Informationsfreiheitsgesetz, das Bürger\*innen den Zugang zu amtlichen Informationen erlaubt. Die Internetplattform „Frag den Staat“ erleichtert es, eigene Anfragen an Behörden zu stellen. In den Antworten zu bisher über 30.000 Anfragen gibt es viele Daten, die du für eigene Projekte nutzen kannst.*
 
 Anfragen nach dem Informationsfreiheitsgesetz (IFG) zu stellen steht jeder Bürgerin und jedem Bürger offen. fragdenstaat.de hilft dir dabei, die für deine Anfrage zuständige Behörde zu finden, macht aus deiner Frage ein rechtlich korrektes Anschreiben und informiert dich, sobald eine Antwort eintrifft. Damit alle etwas von den auf diese Weise offengelegten
- Informationen haben, veröffentlicht die Webseite sowohl die Anfrage als auch die Antwort. Über fragdenstaat.de werden in Deutschland mehr als die Hälfte solcher Anfragen gestellt.
+Informationen haben, veröffentlicht die Webseite sowohl die Anfrage als auch die Antwort. Über fragdenstaat.de werden in Deutschland mehr als die Hälfte solcher Anfragen gestellt.
+
+<div class="videoiframe"><iframe src="https://player.vimeo.com/video/102604678" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                         <p><a href="https://vimeo.com/102604678">Informationsfreiheit &amp; FragDenStaat.de</a> from <a href="https://vimeo.com/okfde">Open Knowledge Foundation De</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
 
 Für dein eigenes Projekt kannst du Frag den Staat auf zwei Arten nutzen: Entweder stellst du selbst eine Anfrage. Wie das geht, wird auf der Webseite ausführlich erklärt. Vorher solltest du aber im Internet recherchieren, ob das, was dich interessiert, nicht schon längst öffentlich bekannt ist. Manche Behörden veröffentlichen inzwischen interessante Daten von sich aus.
 

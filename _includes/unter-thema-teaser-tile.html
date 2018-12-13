@@ -3,7 +3,7 @@
         <img src="{{post.img}}" class="img-responsive" />
     </a>
     <div class="post-teaser-content thema">
-        <h3 class="post-teaser-title" >{{ include.post.title }}</h3>
+        <a href="{{ path }}"><h3 class="post-teaser-title" >{{ include.post.title }}</h3></a>
         <div class="post-teaser-description workshop">
             <p>
                 {{ post.ws_teaser | remove: '<p>' | remove: '</p>'}}

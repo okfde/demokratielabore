@@ -12,6 +12,10 @@ teaser: |
 ---
 
 ## Die Herausforderung
+<div class="img-wrap-center">
+<img src="/img/img_topics_city_2/food.jpg" style="width: 100%; display: inline-block">
+<div class="caption"></div>
+</div>
 Jede\*r Deutsche wirft pro Jahr im Schnitt mehr als 55 Kilogramm Lebensmittel weg; die Gründe dafür sind vielfältig. Wir müssten alle weniger Geld für Nahrung ausgeben, wenn wir stärker Acht geben und kluge Verwendungsmöglichkeiten für Überschüssiges finden würden. Wäre es nicht toll, wenn dank gemeinsamen Engagements Leute satt werden, die sich das entsprechende Essen sonst nicht leisten könnten? Hast du Lust, dich dafür zu engagieren?
 
 ## Das gibt es bereits

@@ -16,6 +16,11 @@ copy-infobox: |
 
 Das Werkzeug, das du fürs Löten benötigst, heißt Lötkolben. Beim Löten hältst du den Lötkolben wie einen Stift, berührst damit die Teile, die du verbinden willst, und berührst diese erhitzten Stellen nach kurzer Zeit mit einem Stück Lötzinn, das dann schmilzt und in die Lücke zwischen den Teilen fließt. Löten ist eine handwerkliche Tätigkeit, die du selbst ausprobieren musst, um sie zu erlernen. Als Übungsmaterial brauchst du nur einen einfachen Lötkolben, etwas Lötzinn und einige Drähte.
 
+<div class="img-wrap-center">
+<img src="/img/img_tools_making_1/soldering.jpg" style="width: 100%; display: inline-block">
+<div class="caption"></div>
+</div>
+
 Ein interessantes Produkt, das du nicht kaufen kannst, sondern selbst bauen musst, sind die [„reaktiven Voodoopuppen“](https://www.oercommons.org/authoring/6129-code-week-2014-reaktive-voodoopuppen/1/view). Dafür musst du allerdings nicht nur Elektronikteile miteinander verlöten, sondern auch Stoff vernähen und Drucksensoren anbringen. Die fertigen Puppen haben Augen, die leuchten, und können dank eines Aufnahmechips auch sprechen.
 
 Wenn du nicht nur löten, sondern auch programmieren lernen willst, kannst du dir den [BOB3](https://www.bob3.org/de/build) besorgen: Auf diese Platine in Form eines Roboters lötest du erst die 13 nötigen Bauteile. Danach kannst du Bob über den Computer programmieren. Das funktioniert so ähnlich wie bei micro:bit und Calliope.

@@ -12,6 +12,10 @@ teaser: |
 ---
 
 ## Die Herausforderung
+<div class="img-wrap-center">
+<img src="/img/img_topics_city_1/biking.jpg" style="width: 100%; display: inline-block">
+<div class="caption"></div>
+</div>
 Was meinst du: Sind Städte fahrradfreundlich, fühlst du dich auf deinem Rad neben den Autos immer sicher? In vielen Orten gibt es nur wenige, vielfach schlechte Radwege, sodass du als Radfahrer\*in ständig neben Autos herfahren musst, deren Fahrer\*innen an Fahrräder oftmals nicht gewöhnt sind. Auf diese Weise entstehen häufig Gefahrensituationen, weshalb viele Menschen in der Stadt aufs Fahrradfahren lieber verzichten. Dabei ist es gerade für junge Menschen oft das naheliegendste Transportmittel. Immerhin hat fast jede\*r ein Rad, man braucht keinen Führerschein und ist so allemal schneller als zu Fuß. Außerdem kann man sich das Fitnessstudio sparen!
 
 ## Das gibt es bereits

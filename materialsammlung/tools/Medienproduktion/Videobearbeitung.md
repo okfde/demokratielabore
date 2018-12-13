@@ -3,6 +3,7 @@ tool: tool3
 title: Eigene Filme aufnehmen & schneiden
 subtool: subtool13
 layout: untertool
+owner: "owner1"
 hide_hero: true
 teaser: |
     Schnell mal ein Video mit dem Handy aufnehmen? Kein Problem! Aber wie mache ich daraus einen Film? So geht's.

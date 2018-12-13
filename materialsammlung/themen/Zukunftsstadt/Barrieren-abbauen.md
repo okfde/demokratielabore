@@ -4,6 +4,7 @@ layout: unterthema
 thema: thema2
 unterthema: unter2-4
 themacontent: zukunft1
+owner: "owner3"
 hide_hero: true
 teaser: |
     Wie gestalten wir eine Stadt, damit sich dort alle Menschen frei bewegen können?

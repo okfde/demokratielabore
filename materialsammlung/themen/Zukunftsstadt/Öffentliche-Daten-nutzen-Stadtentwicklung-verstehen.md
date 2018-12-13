@@ -3,6 +3,7 @@ title: Öffentliche Daten nutzen, Stadtentwicklung verstehen
 layout: unterthema
 thema: thema2
 unterthema: unter2-3
+owner: "owner3"
 themacontent: zukunft14
 hide_hero: true
 teaser: |

@@ -3,6 +3,7 @@ tool: tool1
 title: "Mini-Abenteuer in Pixelgrafik"
 subtool: subtool1
 layout: untertool
+owner: "owner2"
 hide_hero: true
 teaser: |
     "Bitsy ist ein einfacher Editor, mit dem du deine eigenen Spiele im Gameboy-Style entwickeln kannst."

@@ -3,6 +3,7 @@ title: Weniger essen wegwerfen
 layout: unterthema
 thema: thema2
 unterthema: unter2-1
+owner: "owner3"
 themacontent: zukunft8
 hide_hero: true
 teaser: |

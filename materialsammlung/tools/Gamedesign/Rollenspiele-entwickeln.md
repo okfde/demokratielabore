@@ -3,6 +3,7 @@ tool: tool1
 title: "Kreiere dein eigenes Rollenspiel"
 subtool: subtool4
 layout: untertool
+owner: "owner2"
 hide_hero: true
 teaser: |
     "Mit dem RPG-Maker kannst du Rollenspiele bauen und andere neue Horizonte erleben lassen."

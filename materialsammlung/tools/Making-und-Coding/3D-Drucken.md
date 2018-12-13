@@ -3,6 +3,7 @@ tool: tool2
 title: "3D-Drucken: mit Computern eigene Teile herstellen"
 subtool: subtool6
 layout: untertool
+owner: "owner1"
 hide_hero: true
 teaser: |
     3D-Drucken ist ein Handwerk, das du lernen kannst - am besten, indem du es ausprobierst. Hier findest du viele Tipps dazu.

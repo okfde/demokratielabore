@@ -3,6 +3,7 @@ tool: tool1
 title: "Eigene Jump-’n’-Run-Level bauen"
 subtool: subtool3
 layout: untertool
+owner: "owner2"
 hide_hero: true
 teaser: |
     "Der Retro Arcade Creator ist ein kostenloses Tool, mit dem du sehr schnell Jump-’n’-Run-Level selbst erstellen kannst."

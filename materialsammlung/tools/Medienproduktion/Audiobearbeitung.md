@@ -4,6 +4,7 @@ title: Audiobearbeitung mit Audacity
 subtool: subtool10
 layout: untertool
 hide_hero: true
+owner: "owner1"
 teaser: |
     Deinem Thema im Internet Gehör verschaffen – das gelingt dir mit einem Podcast. Hier erfährst du wie das geht.
 copy-infobox: |

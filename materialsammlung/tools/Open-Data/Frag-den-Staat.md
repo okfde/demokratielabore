@@ -2,6 +2,7 @@
 tool: tool4
 title: Wie du dir Informationen vom Staat holst, die du brauchst
 subtool: subtool14
+owner: "owner1"
 layout: untertool
 hide_hero: true
 teaser: |

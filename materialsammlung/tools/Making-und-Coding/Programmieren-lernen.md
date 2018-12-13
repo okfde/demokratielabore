@@ -3,6 +3,7 @@ tool: tool2
 title: Programmieren lernen
 subtool: subtool8
 layout: untertool
+owner: "owner1"
 hide_hero: true
 teaser: |
     Der Einstieg in das Programmiere ist ganz leicht, probier es doch mal aus! Hier findest du viele Tipps.

@@ -3,6 +3,7 @@ title: Ideen nehmen, Ideen teilen
 layout: unterthema
 thema: thema2
 unterthema: unter2-1
+owner: "owner3"
 themacontent: zukunft10
 hide_hero: true
 teaser: |

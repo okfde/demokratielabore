@@ -2,6 +2,7 @@
 tool: tool4
 title: So erfährst du in was die Politik Geld steckt
 subtool: subtool15
+owner: "owner1"
 layout: untertool
 hide_hero: true
 teaser: |

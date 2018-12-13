@@ -2,6 +2,7 @@
 tool: tool1
 title: "Ganz leicht: textbasierte Spiele mit Twine"
 subtool: subtool5
+owner: "owner2"
 layout: untertool
 hide_hero: true
 teaser: |

@@ -3,6 +3,7 @@ tool: tool2
 title: "Löten: Metall schmelzen, Teile verbinden, Neues schaffen"
 subtool: subtool7
 layout: untertool
+owner: "owner1"
 hide_hero: true
 teaser: |
     Am Anfang jedes Smartphones oder Computers stand ein Lötwerkzeug. Lerne Löten und baue deine eigenen Geräte!

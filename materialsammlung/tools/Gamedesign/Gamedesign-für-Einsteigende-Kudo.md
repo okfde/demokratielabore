@@ -3,6 +3,7 @@ tool: tool1
 title: "Gamedesign für Einsteigende: Kodu"
 subtool: subtool1
 layout: untertool
+owner: "owner2"
 hide_hero: true
 teaser: |
     "Mit Kodu kannst du ganz leicht dein erstes Spiel produzieren und dich ganz auf die Geschichte konzentrieren"

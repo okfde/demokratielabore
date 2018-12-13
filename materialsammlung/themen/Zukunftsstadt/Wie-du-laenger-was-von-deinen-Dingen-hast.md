@@ -3,6 +3,7 @@ title: Wie du länger etwas von deinen Dingen hast
 layout: unterthema
 thema: thema2
 unterthema: unter2-1
+owner: "owner3"
 themacontent: zukunft13
 hide_hero: true
 teaser: |

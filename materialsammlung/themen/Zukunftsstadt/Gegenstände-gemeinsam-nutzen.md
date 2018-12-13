@@ -2,6 +2,7 @@
 title: Gegenstände gemeinsam nutzen
 layout: unterthema
 thema: thema2
+owner: "owner3"
 unterthema: unter2-1
 themacontent: zukunft9
 hide_hero: true

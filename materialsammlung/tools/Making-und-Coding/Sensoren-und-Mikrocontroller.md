@@ -3,6 +3,7 @@ tool: tool2
 title: Kleine Computer selbst programmieren
 subtool: subtool9
 layout: untertool
+owner: "owner1"
 hide_hero: true
 teaser: |
     Wir sind umgeben von kleinen Computern - lerne sie für dich einzusetzen.

@@ -3,6 +3,7 @@ tool: tool3
 title: "Dein Smartphone als Spraydose nutzen"
 subtool: subtool12
 layout: untertool
+owner: "owner1"
 hide_hero: true
 teaser: |
     Bemale deine Umgebung mit deinem Smartphone und teile das Ergebnis.

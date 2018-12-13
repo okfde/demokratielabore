@@ -4,6 +4,7 @@ title: "Kostenlose Bilder, Sounds & Videos: Mediendatenbanken"
 subtool: subtool11
 layout: untertool
 hide_hero: true
+owner: "owner1"
 teaser: |
     Im Internet gibt es eine Vielzahl von kostenfreien Videos, Sounds und Bildern. So kannst du sie nutzen.
 copy-infobox: |

@@ -12,6 +12,10 @@ teaser: |
 ---
 
 ## Die Herausforderung
+<div class="img-wrap-center">
+<img src="/img/img_topics_city_3/gardening.jpg" style="width: 100%; display: inline-block">
+<div class="caption"></div>
+</div>
 Weil immer mehr Menschen in der Stadt wohnen möchten, muss immer schneller immer mehr Wohnraum geschaffen werden, sodass der Lebensraum für Pflanzen und Tiere im Stadtgebiet immer mehr schrumpft. Auch versorgen immer weniger Menschen auf dem Land als Bäuerinnen und Bauern die Städter\*innen mit frischen Lebensmitteln.
 
 ## Das gibt es bereits

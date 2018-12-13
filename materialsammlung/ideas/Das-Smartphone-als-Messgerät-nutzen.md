@@ -3,6 +3,7 @@ subtool: subtool9
 themacontent: zukunft7
 title: "Das Messgerät in deiner Tasche: dein Smartphone"
 layout: idee
+owner: ""
 hide_hero: true
 teaser: |
   Was, die Musik ist zu laut? Mit deinem Smartphone und der App Phyphox findest

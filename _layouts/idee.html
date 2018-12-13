@@ -26,12 +26,12 @@ hide_hero: true
                     <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% for p in site.pages %}
                     {% if p.layout contains 'unterthema' or p.layout == 'untertool' %}
-                    {% if p.layout contains 'unterthema' and page.themacontent contains p.themacontent %}
+                    {% if p.layout contains 'unterthema' and page.themacontent == p.themacontent %}
                     <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
                         {% include unter-thema-ideen-teaser-tile.html post=p %}
                     </div>
                     {% endif %}
-                    {% if p.layout contains 'untertool' and page.subtool contains p.subtool  %}
+                    {% if p.layout contains 'untertool' and page.subtool == p.subtool  %}
                     <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser tool">
                         {% include tool-teaser-tile.html post=p %}
                     </div>

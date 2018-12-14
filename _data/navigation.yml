@@ -1,9 +1,5 @@
 de:
-  - title: Materialien & Ideen
-    url: /materialsammlung
-  - title: Team
-    url: /team
-  - title: Info
+  - title: Über das Projekt
     url: /info
   - title: Blog
     url: /blog
@@ -13,5 +9,7 @@ de:
     url: /angebot/digital-ags
   - title: Workshops
     url: /workshops
+  - title: Materialien & Ideen
+    url: /materialsammlung
 
 

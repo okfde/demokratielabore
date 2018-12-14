@@ -1,6 +1,6 @@
 ---
-subtool: subtool14
-themacontent: zukunft4
+subtool: "subtool14"
+themacontent: "zukunft4"
 title: "Bäumen Wasser spenden"
 layout: idee
 owner: "owner1"

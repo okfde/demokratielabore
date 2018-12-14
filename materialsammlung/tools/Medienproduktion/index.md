@@ -5,8 +5,9 @@ tool: tool3
 img: /static/img/tool_medien.png
 hide_hero: true
 teaser: |
-  Wie werden Videos für den eigenen Channel geschnitten? Welche Programme gibt es um Podcasts zu entwickeln? Das und noch vieles mehr findest du hier
+  Deine eigene Meinung anderen zugänglich machen, dafür sind Medien ein hervorragendes Mittel. Starte deinen eigenen Podcast oder Videochannel und lasse andere an deinen Wünschen, Ideen und Welten teilhaben.
 
 ---
 
-Wie werden Videos für den eigenen Channel geschnitten? Welche Programme gibt es um Podcasts zu entwickeln? Das und noch vieles mehr findest du hier
+Deine eigene Meinung anderen zugänglich machen, dafür sind Medien ein hervorragendes Mittel. Starte deinen eigenen Podcast oder Videochannel und lasse andere an deinen Wünschen, Ideen und Welten teilhaben.
+

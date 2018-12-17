@@ -8,7 +8,7 @@ images:
    imgname: screenshot_plattform.png
    sub: "<a href=''>CC BY 4.0, OKF DE</a>"
 published: true
-title: "Jetzt online: die Beta unserer Materialplattform"
+title: "Jetzt online: Die Beta-Version unserer Materialplattform"
 ---
 *Wie schaffen wir es eine Gesellschaft zu gestalten, die offen & im Sinne der Gemeinschaft ist? Zu dieser Frage findet ihr auf unserer wachsenden Plattform Materialien zu Themen, Tools und Projekten, die Antworten geben und zum Aktivwerden einladen sollen.*
 

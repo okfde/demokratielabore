@@ -181,9 +181,14 @@
   date: 2018-11-30
   city: Berlin
   featured: true
-- name: Start Digital-AG
+- name: Data Dancing - Start der Digital-AG
   url:  'https://demokratielabore.de/blog/digital-ag-start-frankfurt-am-main'
   date: 2019-01-12
+  city: Frankfurt am Main
+  featured: true
+- name: instAR.lab - Digital-AG
+  url:  'https://demokratielabore.de/blog/digital-ag-start-frankfurt-am-main'
+  date: 2019-02-09
   city: Frankfurt am Main
   featured: true
  

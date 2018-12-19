@@ -27,7 +27,7 @@ hide_hero: true
                     </p>
                     {% assign flag = false %}
                     {% for p in site.pages %}
-                    {% if p.themacontent contains page.themacontent and p.layout contains 'idee' %}
+                    {% if p.themacontent == page.themacontent and p.layout contains 'idee' %}
                     {% assign flag = true %}
                     {% endif %}
                     {% endfor %}

@@ -31,7 +31,7 @@ Du hast am 12. Januar keine Zeit? Kein Problem, **das nächste Treffen findet sc
 
 Das Angebot ist natürlich kostenfrei und offen für alle! Du brauchst keine Vorkenntnisse - Neugier und Spaß am Ausprobieren reichen. Komm’ einfach vorbei und lass’ dir alle Fragen vor Ort beantworten. Wir freuen uns auf dich!
 
-Fragen und Antworten gerne auch per Mail ans Museum für Kommunikation in Frankfurt am Main: [lebenundlernen@mspt.de](mailto:lebenundlernen@mspt.de) oder per Telefon: 069 60 60 32.
+Wenn du teilnehmen möchtest, melde dich am besten per E-Mail beim Museum für Kommunikation in Frankfurt am Main an: [lebenundlernen@mspt.de](mailto:lebenundlernen@mspt.de) oder per Telefon: 069 60 60 32.
 
 → Du wohnst nicht in Frankfurt am Main und möchtest auch in deiner Region eine Digital-AG starten? Super! Wende dich an eine Jugendeinrichtung in deiner Umgebung oder melde dich bei uns: [info@demokratielabore.de](mailto:info@demokratielabore.de)!
 

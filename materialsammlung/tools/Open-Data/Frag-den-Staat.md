@@ -20,7 +20,7 @@ Informationen haben, veröffentlicht die Webseite sowohl die Anfrage als auch di
 <div class="videoiframe"><iframe src="https://player.vimeo.com/video/102604678" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                          <p><a href="https://vimeo.com/102604678">Informationsfreiheit &amp; FragDenStaat.de</a> from <a href="https://vimeo.com/okfde">Open Knowledge Foundation De</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
 
-Für dein eigenes Projekt kannst du Frag den Staat auf zwei Arten nutzen: Entweder stellst du selbst eine Anfrage. Wie das geht, wird auf der [Webseite ausführlich erklärt](https://fragdenstaat.de/info/informationsfreiheit/einfuehrung/). Vorher solltest du aber im Internet recherchieren, ob das, was dich interessiert, nicht schon längst öffentlich bekannt ist. Manche Behörden veröffentlichen inzwischen interessante Daten von sich aus.
+Für dein eigenes Projekt kannst du Frag den Staat auf zwei Arten nutzen: Entweder stellst du selbst eine Anfrage. Wie das geht, wird auf der [Webseite ausführlich erklärt](https://fragdenstaat.de/hilfe/einsteiger-guide/). Vorher solltest du aber im Internet recherchieren, ob das, was dich interessiert, nicht schon längst öffentlich bekannt ist. Manche Behörden veröffentlichen inzwischen interessante Daten von sich aus.
 
 Oder du nutzt die vielen bereits vorhandenen Antworten. Du kannst z.B. auf der Webseite mithilfe der Suchfunktion herausfinden, welche Informationen und Daten über dein Bundesland oder einen Themenbereich, der dich interessiert, es bereits gibt.
 

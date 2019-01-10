@@ -2,7 +2,7 @@
 tool: tool4
 title: Daten finden und visualisieren
 subtool: subtool16
-owner: "owner1"
+owner: "owner4"
 layout: untertool
 hide_hero: true
 teaser: |
@@ -30,7 +30,7 @@ Durch die Analyse von Daten erhalten wir Antworten auf bestimmte Fragen, testen 
 <center><p>Wie sah Berlin in der Vergangenheit aus? Wähle eine Jahreszahl und schau' es dir an. Die Hintergründe findest du <a href="https://codefor.de/projekte/2018-04-09-fis-broker.html">hier</a>.</p></center>
 
 ## Daten visualisieren
-Konntest du deine Hypothese bestätigen oder hast ein Ergebnis, das für dich zufriedenstellend ist, dann geht es an die Visualisierung. Denn erst dadurch machst du es für andere zugänglich. Wie das geht, wird im Folgenden erklärt: [Zum Material](https://drive.google.com/file/d/1t8jcrki6KDB8Plz1EtFB2ZaFp3lmNdbx/view)
+Konntest du deine Hypothese bestätigen oder hast du ein Ergebnis, das für dich zufriedenstellend ist, dann geht es an die Visualisierung. Denn erst dadurch machst du es für andere zugänglich. Wie das geht, wird im Folgenden erklärt: [Zum Material](https://drive.google.com/file/d/1t8jcrki6KDB8Plz1EtFB2ZaFp3lmNdbx/view)
 
 ## Daten präsentieren
 Zum Schluss müssen deine Erkenntnisse veröffentlicht werden, wenn sie andere erreichen sollen. Dafür gibt es diverse Möglichkeiten. Einige findest du auf dieser Plattform unter “[Medien gestalten](https://demokratielabore.de/materialsammlung/tools/Medienproduktion/)”. Am besten eignet sich der eigene Blog, den du zum Beispiel mit [Wordpress](https://de.wordpress.org/) oder [Jekyll](https://jekyllrb.com/) erstellen kannst.

@@ -16,7 +16,7 @@ copy-infobox: |
 
 Ein moderner Mikrocontroller wie der micro:bit hat schon einige interessante Sensoren an Bord. Du brauchst daher (außer Strom) keine weiteren Teile oder Kabel, um die Himmelsrichtung, eine Bewegung des micro:bit oder die Umgebungstemperatur zu messen. Was könntest du mit diesen Informationen anfangen, und wie soll der micro:bit reagieren, wenn sich die Messwerte ändern?
 
-Da der micro:bit für den Einsatz in Schulen entwickelt wurde, lässt er sich auf verschiedene Arten programmieren, für den Einstieg z.B. mit MakeCode, einer grafischen Umgebung wie Scratch, bei der Programmcodes wie Puzzleteile zusammengefügt werden. Wenn du lieber mit Tastatur und Befehlen programmierst, kannst du die beliebte Programmiersprache Python benutzen. In beiden Fällen erzeugst du dein Programm am Computer und überspielst es dann mit dem USB-Kabel an den micro:bit. Ähnlich funktioniert es beim Calliope, der mit dem micro:bit verwandt ist.
+Da der micro:bit für den Einsatz in Schulen entwickelt wurde, lässt er sich auf verschiedene Arten programmieren, für den Einstieg z.B. mit [MakeCode](https://makecode.microbit.org/), einer grafischen Umgebung wie Scratch, bei der Programmcodes wie Puzzleteile zusammengefügt werden. Wenn du lieber mit Tastatur und Befehlen programmierst, kannst du die beliebte Programmiersprache Python benutzen. In beiden Fällen erzeugst du dein Programm am Computer und überspielst es dann mit dem USB-Kabel an den micro:bit. Ähnlich funktioniert es beim Calliope, der mit dem micro:bit verwandt ist.
 
 <div class="img-wrap-center">
 <img src="/img/img_tools_making_2/mikrocontroller.jpg" style="width: 100%; display: inline-block">
@@ -25,7 +25,7 @@ Da der micro:bit für den Einsatz in Schulen entwickelt wurde, lässt er sich au
 
 ## Das Smartphone als Sensor
 Ein Gerät mit Sensoren besitzt du sicher bereits: dein Smartphone. Moderne Geräte können z.B. das Magnetfeld, den Luftdruck und ihre eigene Position und Beschleunigung messen. Normalerweise nutzt das Handy diese Sensoren vor allem, um dir beim Navigieren zu helfen. Vielleicht hast du aber auch schon mal ein Handyspiel gespielt, bei dem du steuern kannst, indem du das ganze Gerät drehst und bewegst.
-Diese Sensoren kannst du auch für Experimente benutzen: Die kostenlose App phyphox für Android und iOS liest die Sensordaten aus und zeichnet sie auf oder schickt sie live an einen Computer. Damit kannst du viele Experimente aus dem Physikunterricht nachvollziehen, aber auch deine eigenen Messungen machen: Wie schnell beschleunigt ein E-Bike? Oder: Wie laut ist es in deiner Straße?
+Diese Sensoren kannst du auch für Experimente benutzen: Die kostenlose App [phyphox](https://phyphox.org/de/home-de/) für Android und iOS liest die Sensordaten aus und zeichnet sie auf oder schickt sie live an einen Computer. Damit kannst du viele Experimente aus dem Physikunterricht nachvollziehen, aber auch deine eigenen Messungen machen: Wie schnell beschleunigt ein E-Bike? Oder: Wie laut ist es in deiner Straße?
 
 <p class="link-list">
     <span class="link-list-headline">Links zu Beispielen und Hintergrundinformationen</span>

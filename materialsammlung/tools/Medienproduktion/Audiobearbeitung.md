@@ -16,8 +16,10 @@ copy-infobox: |
 *Deinem Thema im Internet Gehör verschaffen – das gelingt dir relativ einfach mit einem Podcast. Ein Podcast ist eine Audioaufzeichnung, die sich jede\*r mithilfe einer Podcasting-App oder im Internet anhören kann. Podcasts, die dir gefallen, kannst du abonnieren. So bekommst du immer sofort mit, wenn eine neue Folge veröffentlicht wird. Podcasts gibt es zu allen erdenklichen Themen; auf ihnen sprechen und diskutieren Prominente und Expertinnen, aber auch ganz normale Menschen.*
 
 ## Einen Podcast aufzeichnen
-Audioprogramme wie Audacity ermöglichen es dir, deinen eigenen Podcast aufzuzeichnen und zu schneiden. Audacity hat den Vorteil, kostenlos für alle Betriebssysteme erhältlich zu sein.
+Audioprogramme wie [Audacity](https://www.audacity.de/) ermöglichen es dir, deinen eigenen Podcast aufzuzeichnen und zu schneiden. Audacity hat den Vorteil, kostenlos für alle Betriebssysteme erhältlich zu sein.
 Wenn du an deinen Computer ein Mikrofon anschließt, kannst du direkt in Audacity aufzeichnen. Du kannst das Programm aber auch benutzen, um eine Aufnahme mit einem Smartphone oder Audiorecorder nachträglich zu bearbeiten, also alle Teile wegzuschneiden, die du nicht veröffentlichen willst, oder auch z.B. am Anfang einen Jingle einzufügen. Falls du einen Mac hast, kannst du anstelle von Audacity auch das mitgelieferte Programm Garageband benutzen.
+
+<div class="videoiframe"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z7696y0115Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Den Podcast veröffentlichen
 Zum Ausprobieren kannst du deinen Podcast z.B. auf Soundcloud hochladen und dann den Link im Internet verteilen. Wenn du eine eigene Webseite hast, kannst du deinen Podcast einfach mit dem Plugin Podlove einbinden und dadurch auch in Podcast-Netzwerke wie iTunes oder Spotify bringen.

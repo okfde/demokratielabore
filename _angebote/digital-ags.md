@@ -15,12 +15,12 @@ hide_hero: true
 <div class="fond__grey-bright join__statement">
     <div class="container text-center">
         <div class="row">
-        	<h2>Ihr habt Interesse und wollt noch mehr Infos?<br>Dann meldet euch am besten bei Lydia</h2>
+        	<h2>Ihr habt Interesse und wollt noch mehr Infos?<br>Dann meldet euch am besten bei Max</h2>
 			<div class="members justify-content-md-center">
-    			<a class="members-image-wrap" href="mailto:lydia.boettcher@okfn.de"><img class="img-circle member-avatar" alt="Lydia Böttcher" src="/img/avatars/lydia.jpg"></a>
+    			<a class="members-image-wrap" href="mailto:maximilian.voigt@okfn.de"><img class="img-circle member-avatar" alt="Maximilian Voigt" src="/img/avatars/max.jpg"></a>
     		</div>
 			<p>
-    			<span class="speaker-name"><a class="text__blue" href="mailto:lydia.boettcher@okfn.de">Lydia Böttcher</a> </span>Projektmanagerin Kooperationen<br> lydia.boettcher@okfn.de
+    			<span class="speaker-name"><a class="text__blue" href="mailto:maximilian.voigt@okfn.de">Maximilian Voigt</a> </span>Projektmanager Digital-AGs & Materialplattform<br> maximilian.voigt@okfn.de
 			</p>
 		</div>
 	</div>

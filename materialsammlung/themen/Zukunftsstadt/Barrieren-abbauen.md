@@ -18,6 +18,8 @@ Findest du auch, dass jeder Mensch die Möglichkeit haben sollte, sich in Städt
 Der Aktivist Raul Krauthausen sitzt wie rund 1,6 Millionen weitere Menschen in Deutschland im Rollstuhl und möchte handeln – auf Missstände aufmerksam machen und vor allem: Betroffenen unkompliziert helfen. Daher hat er 2010 gemeinsam mit anderen die Wheelmap entwickelt. Dort wird mittlerweile über mehr als 900.000 Orte informiert, ob sie barrierefrei sind. Außerdem gibt es kostenlose Smartphone-Apps in 25 Sprachen.
 Ob selbst betroffen oder nicht, jede\*r kann helfen! Du könntest dir z.B. die Treffpunkte (Cafés, Restaurants, Kinos usw.) in deinem Viertel auf ihre Barrierefreiheit hin ansehen und auf der Karte eintragen, welche barrierefrei oder barrierearm sind und welche nicht.
 
+<div class="videoiframe"><iframe src="https://wheelmap.org/"></iframe></div>
+
 Wer blind ist oder schlecht sehen kann, dem können spezielle Tools und Angebote nützlich sein. AiPoly Vision ist eine App, die anhand der Kamera errät, was man gerade vor sich hat. Bei vielen Gegenständen funktioniert das schon erstaunlich gut, aber du kannst bei der Verbesserung helfen, indem du falsch Erkanntes korrigierst. Eine weitere App, Seeing Ai, erkennt auf ähnliche Weise Texte und Personen. Aber bisher sind Menschen im Erkennen immer noch zuverlässiger als Computer: Mit BeMyEyes kannst du Blinden per Videotelefonie dabei helfen, sich zu orientieren oder farblich zueinander passende Kleidung herauszusuchen.
 
 <p class="link-list">

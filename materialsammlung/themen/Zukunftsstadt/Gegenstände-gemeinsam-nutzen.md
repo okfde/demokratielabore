@@ -15,6 +15,10 @@ teaser: |
 Es gibt immer mehr Ein-Personen-Haushalte, die sich trotz ihrer geringen Größe mit den grundlegenden Haushaltsgegenständen ausstatten. Das führt dazu, dass z.B. eine Bohrmaschine durchschnittlich nur traurige 13 Minuten lang benutzt wird und den Rest der Zeit herumliegt. Für die Hersteller mag das praktisch sein, aber findest du, dass der Preis eines solchen Geräts sinnvoll investiertes Geld ist? Und was bedeutet es eigentlich für die Umwelt, wenn jede\*r die Komplettausstattung besitzt? Fällt dir eine Möglichkeit ein, etwas dagegen zu unternehmen?
 
 ## Das gibt es bereits
+
+<div class="videoiframe"><iframe src="https://www.opengreenmap.org/de/greenmap#main"></iframe></div>
+<center><p>Erkunde welche nachhaltigen Netzwerke es in deiner Umgebung gibt und setze im rechten Bereich den Haken bei "nachhaltige Lebensweisen"</p></center>
+
 Der gemeinnützige Verein Pumpipumpe in der Schweiz befasst sich seit 2014 mit dem Teilen von Haushaltsgegenständen in der Nachbarschaft und hat eine geniale Idee realisiert: Gegen eine kleine Gebühr kannst du bei ihm (auch von Deutschland aus) ein Aufkleber-Set bestellen. Auf den Aufklebern stehen die Bezeichnungen für Haushaltsgegenstände. Du kannst dann die Sticker mit den Geräten, die in deinem Haushalt vorhanden sind und die du verleihen würdest, auf deinen Briefkasten kleben. So sehen deine Nachbar\*innen, dass du gerne etwas verleihst und was. Die übrig gebliebenen Aufkleber finden vielleicht sogar bei deinen Nachbar\*innen Verwendung – und du profitierst auch selbst, weil du z.B. mit dem Profiwerkzeug von Frau Schulze über dir ab sofort dein Fahrrad selbst reparieren kannst.
 
 <p class="link-list">

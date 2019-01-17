@@ -11,12 +11,11 @@ teaser: |
 
 ---
 
+## Die Herausforderung
 <div class="img-wrap-center">
 <img src="/img/img_topics_city_4/books-1204029_1920.jpg" style="width: 100%; display: inline-block">
 <div class="caption"></div>
 </div>
-
-## Die Herausforderung
 Manchmal willst du dich vielleicht von Dingen trennen, weil sie dir nicht mehr gefallen, du mehr Platz für andere Sachen brauchst, umziehen willst o.Ä. Manches davon kann prima anderswo weiterverwendet werden. Bücher z.B. werden, wenn es sich nicht gerade um dein Lieblingsbuch handelt, nur ein einziges Mal gelesen, nehmen anschließend aber für den Rest ihres Lebens recht viel Platz weg.
 
 ## Das gibt es bereits

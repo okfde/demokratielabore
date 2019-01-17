@@ -12,6 +12,10 @@ teaser: |
 ---
 
 ## Die Herausforderung
+<div class="img-wrap-center">
+<img src="/img/img_topics_city_5/jugendparlament.jpg" style="width: 100%; display: inline-block">
+<div class="caption">Bild: Jugendparlament der SPÖ. Lizenz: <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA 2.0</a>, <a href="https://www.flickr.com/photos/sozialdemokratie/11204283424/in/photolist-i55T7q-6FUqse-i56qX8-6FXRb7-mrYtf-mrXHE-mrYvw-mrYpC-23ssSKV-6FUgsg-6FYMu9-6FYDZ7-6FVSt7-6FRGeB-6FXNAh-6FTFtk-6FRsYX-6FYaBu-mrXTf-mrYmW-6FW9Tu-6FYAJu-6FRrEg-6G1G8N-6FYc7b-6FVU4m-6FWBv8-6FUbST-mrYiK-6FRHoK-6FTvPv-6FXrBb-mrXS9-6FRUep-6FRRzT-6FYQgm-23ssX2v-6FUnya-6FXk3A-6G1CUb-mrYz6-24KLVjo-6FRVdT-GFJELs-6FTd2Z-6FRXye-6FTWBx-6FWsNe-6FTTZ4-6FWdyj">SPÖ - Parlamentsdirektion / Bildagentur Zolles KG / Mike Ranz</a></div>
+</div>
 Weil sie in der Mehrheit sind, bestimmen meist die Älteren die Politik, obwohl sie von deren Konsequenzen oft gar nicht mehr so viel mitbekommen. Aber wissen Senior\*innen immer zuverlässig, was das Beste für Jugendliche ist? Wohl kaum! Schon deine Eltern werden manchmal ganz anderer Meinung sein als du, und die kennen dich vermutlich ziemlich gut. Diese Situation ist nicht besonders hilfreich dafür, die Politik zukunftsfähig zu machen. Außerdem gibt es immer mehr Alte. Junge Menschen brauchen daher dringend eine Lobby, um sich Gehör zu verschaffen. Nutz deine eigene Stimme, und diskutier mit Entscheider\*innen über die Themen, die dir wichtig sind!
 
 ## Das gibt es bereits

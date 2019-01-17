@@ -16,6 +16,8 @@ Da sehr viele Menschen zur selben Zeit in Städte ziehen wollen, gibt es derzeit
 Du willst dennoch in schöner Lage wohnen? Oder deine Traumwohnung mit Balkon für dich und deine Freund\*innen finden? Du willst mit deinem Haustier und ganz in der Nähe deiner Schule, deiner Uni oder deines Arbeitsplatzes wohnen? Wir haben Ideen für dich!
 
 ## Das gibt es bereits
+<div class="videoiframe"><iframe width="1024" height="576" src="https://media.ccc.de/v/34c3-9031-mietshausersyndikat_den_immobilienmarkt_hacken/oembed" frameborder="0" allowfullscreen></iframe></div>
+<center><p>Eine Alternative zum klassichen Wohnraumbesitz ist das Mietshäusersyndikat</p></center>
 In vielen Städten gibt es sogenannte Wohnungsbaugenossenschaften. Du zahlst bei ihnen wie gewohnt Miete, doch sie machen damit keinen Gewinn, sondern investieren in neuen Wohnraum und erhalten den bestehenden. Daher sind die Mieten auch meist deutlich niedriger als üblich.
 Einen Schritt weiter gehen Mietshäusersyndikate: Dafür finden sich Gleichgesinnte zusammen und kaufen ein Haus, wofür sie sich meist verschulden müssen. Also zahlen sie weiterhin Miete, mit der sie nach und nach den Kredit abzahlen. Wenn der abbezahlt und ihr finanzieller Spielraum dadurch wieder größer ist, unterstützen sie neue Projekte.
 Du findest mit Ach und Krach ein zugiges, kleines Zimmer in einer Wohngemeinschaft, und in der Umgebung leben alte Menschen allein in viel zu großen Wohnungen oder ganzen Häusern? Das kommt oft vor! In einigen Städten mit Universitäten gibt es deshalb mittlerweile das „Wohnen-für-Hilfe“-Modell. Senior\*innen mit viel Platz bieten jungen Menschen günstigen Wohnraum an, und die gehen ihnen dafür im Alltag zur Hand, übernehmen etwa die Einkäufe.

@@ -12,7 +12,7 @@ teaser: |
 ---
 
 ## Wie du durch Teilen deine eigene Idee vorantreibst
-Du findest auf dieser Seite viele Beispiele, wie gute Ideen anderer Leute es zu einiger Beliebtheit gebracht haben. Vielleicht hast ja du selbst weitere, eventuell sogar noch bessere Ideen! Bei der Umsetzung könnten dir bestehende Projekte helfen. Wenn du etwa mit speziellen, teilweise futuristischen und sehr teuren Maschinen arbeiten möchtest, muss das kein Traum bleiben: Mittlerweile gibt es in vielen Städten komplexe Geräte wie 3-D-Drucker, Laser-Cutter und CNC-Fräsen in Gemeinschaftswerkstätten, in denen vorwiegend junge Leute betreut werden und entweder kostenlos oder gegen eine kleine Gebühr basteln dürfen.
+Du findest im Internet viele gute Ideen. Vielleicht hast ja du selbst Weitere, eventuell sogar noch Bessere! Bei der Umsetzung könnten dir bestehende Projekte helfen. Wenn du etwa mit speziellen, teilweise futuristischen und sehr teuren Maschinen arbeiten möchtest, muss das kein Traum bleiben: Mittlerweile gibt es in vielen Städten komplexe Geräte wie 3-D-Drucker, Laser-Cutter und CNC-Fräsen in Gemeinschaftswerkstätten, in denen vorwiegend junge Leute betreut werden und entweder kostenlos oder gegen eine kleine Gebühr basteln dürfen.
 
 Was sind offene Gemeinschaftswerkstätten? In diesem Video bekommst du tolle Einblicke:
 <div class="videoiframe"><iframe width="560" height="315" src="https://www.youtube.com/embed/YAwxDIHD1bw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

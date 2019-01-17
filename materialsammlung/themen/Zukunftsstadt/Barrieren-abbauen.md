@@ -20,8 +20,6 @@ Ob selbst betroffen oder nicht, jede\*r kann helfen! Du könntest dir z.B. die T
 
 <div class="videoiframe"><iframe src="https://wheelmap.org/"></iframe></div>
 
-Wer blind ist oder schlecht sehen kann, dem können spezielle Tools und Angebote nützlich sein. AiPoly Vision ist eine App, die anhand der Kamera errät, was man gerade vor sich hat. Bei vielen Gegenständen funktioniert das schon erstaunlich gut, aber du kannst bei der Verbesserung helfen, indem du falsch Erkanntes korrigierst. Eine weitere App, Seeing Ai, erkennt auf ähnliche Weise Texte und Personen. Aber bisher sind Menschen im Erkennen immer noch zuverlässiger als Computer: Mit BeMyEyes kannst du Blinden per Videotelefonie dabei helfen, sich zu orientieren oder farblich zueinander passende Kleidung herauszusuchen.
-
 <p class="link-list">
     <span class="link-list-headline">So kannst du selbst aktiv werden</span>
         <a class="external-link" href="https://news.wheelmap.org/wheelmap-botschafter/" target="_blank">Für das Projekt Wheelmap aktiv werden</a>

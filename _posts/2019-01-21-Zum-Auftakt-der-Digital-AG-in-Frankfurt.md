@@ -28,4 +28,4 @@ Schnell fanden alle heraus was hinter der Entwicklung einer App steckt: Viel Kon
 
 Ein herzlicher Dank geht an das Museum, welches einen gemütlichen und mit den verschiedensten Materialien bestückten Raum sowie eine Menge Orga beisteuerte - **Wir freuen uns auf die kommenden Digital-AGs! Die nächste ist bereits am 9.2.**, wo wir unseren neuen Workshop “[instAR.lab](https://demokratielabore.de/workshops/instarlab/)” mitbringen werden, bei dem es um Influencer und Augmented Reality geht!
 
-Du kommst aus der Region und hast auch Lust mitzumachen und / oder eigene Ideen einzubringen? Du willst andere Leute für ein gesellschaftlich-digitales Thema oder Projekt begeistern? **Dann melde dich [hier](http://www.lebenx0.de/veranstaltungen/) an und komm' vorbei!**
+Du kommst aus der Region und hast auch Lust mitzumachen und / oder eigene Ideen einzubringen? Du willst andere Leute für ein gesellschaftlich-digitales Thema oder Projekt begeistern? **Wenn du teilnehmen möchtest, dann melde dich per E-Mail beim Museum für Kommunikation in Frankfurt am Main: [lebenundlernen@mspt.de](mailto:lebenundlernen@mspt.de) oder via Telefon: 069 60 60 321.**

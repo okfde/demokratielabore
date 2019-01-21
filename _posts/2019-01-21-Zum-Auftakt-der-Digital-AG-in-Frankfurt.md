@@ -26,6 +26,6 @@ In Vidch kann man sich Videos und Nachrichten ansehen, auf dessen Basis dann den
 
 Schnell fanden alle heraus was hinter der Entwicklung einer App steckt: Viel Konzeption, viele Details und vor allem sehr viele Fragen zum Datenschutz, wie z.B., was falsche Freunde oder die Hersteller der Apps im schlimmsten Fall mit den Daten anfangen können. Die Diskussion führte dabei auch zu spannenden Gedanken zur Datennutzung bestehender Apps.
 
-Ein Herzlicher Dank geht an das Museum, welches einen gemütlichen und mit den verschiedensten Materialien bestückten Raum sowie eine Menge Orga beisteuerte - **Wir freuen uns auf die kommenden Digital-AGs! Die nächste ist bereits am 9.2.**, wo wir unseren neuen Workshop “[instAR.lab](https://demokratielabore.de/workshops/instarlab/)” mitbringen werden, bei dem es um Influencer und Augmented Reality geht!
+Ein herzlicher Dank geht an das Museum, welches einen gemütlichen und mit den verschiedensten Materialien bestückten Raum sowie eine Menge Orga beisteuerte - **Wir freuen uns auf die kommenden Digital-AGs! Die nächste ist bereits am 9.2.**, wo wir unseren neuen Workshop “[instAR.lab](https://demokratielabore.de/workshops/instarlab/)” mitbringen werden, bei dem es um Influencer und Augmented Reality geht!
 
 Du kommst aus der Region und hast auch Lust mitzumachen und / oder eigene Ideen einzubringen? Du willst andere Leute für ein gesellschaftlich-digitales Thema oder Projekt begeistern? **Dann melde dich [hier](http://www.lebenx0.de/veranstaltungen/) an und komm' vorbei!**

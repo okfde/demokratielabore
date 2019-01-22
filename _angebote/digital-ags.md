@@ -1,31 +1,30 @@
 ---
+
 title: "Digital-AGs für Jugendliche"
-layout: angebot-detail
+layout: digital-ag
 an_teaser: "Du brennst für digitale Themen und Netzpolitik? Oder hast einfach mal Lust mit Technik zu basteln, in Magazinen zu stöbern und dich mit anderen auszutauschen? Dann bist du in der Digital-AG genau richtig!"
-link: '/angebot/digital-ags'
+link: 'digital-ags'
 featured: true
-hide_hero: true
+img_full: "/static/img/digital_ag_hero.jpg"
 
 ---
-<img  class="img-responsive" src="/static/img/digital-ag.png" alt="Hoppenbrock CC BY-SA 4.0">
-
 <p>
 	Gemeinsam mit Jugendlichen wollen wir mit Hilfe digitaler Tools die Gesellschaft von morgen gestalten. Da dies etwas mehr Zeit braucht als einen Workshoptag, unterstützen wir euch vor Ort beim Aufbau einer Digital AG.   
 </p>
-<div class="fond__grey-bright join__statement">
-    <div class="container text-center">
-        <div class="row">
-        	<h2>Ihr habt Interesse und wollt noch mehr Infos?<br>Dann meldet euch am besten bei Max</h2>
-			<div class="members justify-content-md-center">
-    			<a class="members-image-wrap" href="mailto:maximilian.voigt@okfn.de"><img class="img-circle member-avatar" alt="Maximilian Voigt" src="/img/avatars/max.jpg"></a>
-    		</div>
+<div class="content-element infobox-ag right">
+	<div class="infobox-inner">
+		<div class="teaser-image">
+			<img class="img-responsive" src="/img/avatars/max.jpg"/>
+		</div>
+		<div class="infobox-content">
+			<h3 class="infobox-headline">Fragen? Interesse?</h3>
 			<p>
-    			<span class="speaker-name"><a class="text__blue" href="mailto:maximilian.voigt@okfn.de">Maximilian Voigt</a> </span>Projektmanager Digital-AGs & Materialplattform<br> maximilian.voigt@okfn.de
+				Dann schreib unserem Projektleiter Max!<br>
+				<a href="mailto:maximilian.voigt@okfn.de">E-Mail</a> 
 			</p>
 		</div>
 	</div>
 </div>
-<h3>Die Idee:</h3>
 <p>
 	Ein regelmäßiger Treff für Jugendliche und interessierte Fachkräfte in eurer Jugendeinrichtung, wo ihr gemeinsam zu digitalen und gesellschaftlichen Themen eurer Wahl arbeiten und euch austauschen könnt. Sucht euch einen Schwerpunkt, der euch als Gruppe wirklich interessiert: Von Datenjournalismus und Nachhaltigkeit über Game-Design oder Making und Coding ist alles möglich! Wir unterstützen euch dabei jederzeit gerne mit Erfahrung, Kontakten und Tipps. Stellt euch vor, wir bauen zusammen mit Expert*innen ein Freifunknetz für eure Einrichtung oder ihr designt euer eigenes Game (das ist gar nicht so kompliziert!) und macht es für andere zugänglich, sodass es von jedem gespielt werden kann. Oder macht eure Ideen für eine jugendgerechte Umgebung mit Hilfe von VR oder Minecraft sichtbar und tragt sie so in die Welt! Eurer Kreativität sind keine Grenzen gesetzt!
 </p>

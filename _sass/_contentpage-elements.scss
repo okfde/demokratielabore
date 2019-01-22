@@ -84,6 +84,27 @@ contentpage elements
       }
     }
 
+
+  &.infobox-ag{
+    @include teaser-shadow();
+
+    background-color: #f4f4f4;
+    color: $black;
+    text-align: left;
+    width: 30%;
+    padding-bottom: 0px;
+    
+    &.infobox-image{
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+  }
+}
+
+
+.infobox-content{
+  padding: 10px 20px;
 }
 
 .content-image-wrap{

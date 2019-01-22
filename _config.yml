@@ -34,6 +34,9 @@ collections:
     angebote:
       output: true
       permalink: /angebot/:path/
+    labs:
+      output: true
+      permalink: /labs/:path/
     publikationen:
       output: true
       permalink: /publikationen/:path/

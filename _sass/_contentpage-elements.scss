@@ -44,9 +44,14 @@ contentpage elements
           color: inherit;
       }
     }
-    .infobox-copy{
+    .infobox-copy {
     a{
+      font-weight: bold;
+      color: white;
+    }
+    a:hover {
       text-decoration: underline;
+      color: white;
     }
     }
     .infobox-headline, .infobox-copy{

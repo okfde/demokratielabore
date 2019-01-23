@@ -8,7 +8,7 @@ ideas:
   path              : "materialsammlung/ideas"
   requiredFields    : ['title', 'desc']
   transforms:
-    info            : frontmatterContent
+    details            : frontmatterContent
   generatedFields:
     date:
       type          : "date"

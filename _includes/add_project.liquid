@@ -26,17 +26,33 @@
                 <!-- Zuordnung zu Themen / Tools !!!!!FIX -->
                 <fieldset>
                   <label for="project-form-lizenz"><strong>Zuordnung zu bestehenden Themen oder Tools</strong><br>Dein Projekt sollte zu einem dieser Themen oder Tools passen - wähle einfach das entsprechende aus. Wenn keines passt, ist das auch okay.</label>
-                  <select name="fields[topic]">
-                    <option value="lizenz-1" {% if project_lizenz == "lizenz-1" %}selected{% endif %}>CC0</option>
-                    <option value="lizenz-2" {% if project_lizenz == "lizenz-2" %}selected{% endif %}>CC-BY</option>
-                    <option value="lizenz-3" {% if project_lizenz == "lizenz-3" %}selected{% endif %}>CC-BY-SA</option>
-                    <option value="lizenz-4" {% if project_lizenz == "lizenz-4" %}selected{% endif %}>Andere Lizenz</option>
+                  <select name="fields[topic]" label="Thema">
+                    <option selected disabled hidden>Select Thema</option>
+                    {% for p in site.pages %}
+                      {% if p.layout == 'thema' %}
+                        <optgroup label="{{ p.title }}">
+                        {% for t in site.pages %}
+                          {% if t.layout == 'unterthema' and t.thema == p.thema %}
+                          <option value="{{ t.unterthema }}">{{ t.title }}</option>
+                          {% endif %}
+                        {% endfor %}
+                        </optgroup>
+                      {% endif %}
+                    {% endfor %}
                   </select>
-                  <select name="fields[tool]">
-                    <option value="lizenz-1" {% if project_lizenz == "lizenz-1" %}selected{% endif %}>CC0</option>
-                    <option value="lizenz-2" {% if project_lizenz == "lizenz-2" %}selected{% endif %}>CC-BY</option>
-                    <option value="lizenz-3" {% if project_lizenz == "lizenz-3" %}selected{% endif %}>CC-BY-SA</option>
-                    <option value="lizenz-4" {% if project_lizenz == "lizenz-4" %}selected{% endif %}>Andere Lizenz</option>
+                  <select name="fields[tool]" label="Tool">
+                    <option selected disabled hidden>Select Tool</option>
+                    {% for p in site.pages %}
+                      {% if p.layout == 'tool' %}
+                        <optgroup label="{{ p.title }}">
+                        {% for t in site.pages %}
+                          {% if t.layout == 'untertool' and t.tool == p.tool %}
+                          <option value="{{ t.subtool }}">{{ t.title }}</option>
+                          {% endif %}
+                        {% endfor %}
+                        </optgroup>
+                      {% endif %}
+                    {% endfor %}
                   </select>
                 </fieldset>
 

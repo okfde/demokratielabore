@@ -52,4 +52,7 @@ collections:
 #     dir: 'materialsammlung'
 
 
-
+staticman:
+  branch: "dev"
+  server: "https://staticman.okfn.de"
+  repository: "demokratielabore"

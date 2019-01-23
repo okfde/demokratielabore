@@ -1,0 +1,20 @@
+ideas:
+  allowedFields     : ['title', 'desc', 'desc2', 'topic', 'tool', 'details', 'dauer', 'tags', 'author-name', 'author-email', 'author-website']
+  branch            : "dev"
+  commitMessage     : "New Idea"
+  filename          : "{fields.slug}"
+  format            : "frontmatter"
+  moderation        : true
+  path              : "materialsammlung/ideas"
+  requiredFields    : ['title', 'desc']
+  transforms:
+    info            : frontmatterContent
+  generatedFields:
+    date:
+      type          : "date"
+      options:
+        format      : "iso8601"
+    slug:
+      type          : "slugify"
+      options:
+        field       :  title

@@ -11,7 +11,7 @@
                    <br>Bitte achte darauf, dass verlinkte Inhalte oder verwendete Tools möglichst unter einer freien Lizenz stehen.</p>
             </div>
             <div class="row content-wrap">
-              <form id="edit-project-form" class="form" method="post" action="{{ site.staticman_server }}/v2/entry/{{ site.repository }}/master/dw">
+              <form id="edit-project-form" class="form" method="post" action="{{ site.staticman.server }}/v2/entry/{{ site.staticman.repository }}/{{ site.staticman.branch }}">
 
                 <!-- Random Slug -->
                 <input type="hidden" id="random-slug" name="fields[title]" value="{{ project_random_slug }}" spellcheck="false" {{editable}}/>

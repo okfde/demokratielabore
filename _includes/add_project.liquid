@@ -14,8 +14,7 @@
               <form id="edit-project-form" class="form" method="post" action="{{ site.staticman.server }}/v2/entry/{{ site.staticman.repository }}/{{ site.staticman.branch }}/ideas">
 
                 <!-- Random Slug -->
-                <input type="hidden" id="random-slug" name="fields[titel]" value="{{ project_random_slug }}" spellcheck="false" {{editable}}/>
-                <input type="hidden" id="random-slug" name="fields[desc2]" value="empty" spellcheck="false" {{editable}}/>
+                <input type="hidden" id="layout" name="fields[layout]" value="idee" spellcheck="false"/>
 
                 <!-- Aussagekräftiger Titel -->
                 <fieldset>
@@ -26,21 +25,21 @@
                 <!-- Zuordnung zu Themen / Tools !!!!!FIX -->
                 <fieldset>
                   <label for="project-form-lizenz"><strong>Zuordnung zu bestehenden Themen oder Tools</strong><br>Dein Projekt sollte zu einem dieser Themen oder Tools passen - wähle einfach das entsprechende aus. Wenn keines passt, ist das auch okay.</label>
-                  <select name="fields[topic]" label="Thema">
+                  <select name="fields[themacontent]" label="Thema">
                     <option selected disabled hidden>Select Thema</option>
                     {% for p in site.pages %}
                       {% if p.layout == 'thema' %}
                         <optgroup label="{{ p.title }}">
                         {% for t in site.pages %}
                           {% if t.layout == 'unterthema' and t.thema == p.thema %}
-                          <option value="{{ t.unterthema }}">{{ t.title }}</option>
+                          <option value="{{ t.themacontent }}">{{ t.title }}</option>
                           {% endif %}
                         {% endfor %}
                         </optgroup>
                       {% endif %}
                     {% endfor %}
                   </select>
-                  <select name="fields[tool]" label="Tool">
+                  <select name="fields[subtool]" label="Tool">
                     <option selected disabled hidden>Select Tool</option>
                     {% for p in site.pages %}
                       {% if p.layout == 'tool' %}

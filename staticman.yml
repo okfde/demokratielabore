@@ -1,5 +1,5 @@
 ideas:
-  allowedFields     : ['title', 'desc', 'desc2', 'topic', 'tool', 'details', 'dauer', 'tags', 'author-name', 'author-email', 'link', 'human', 'author-website']
+  allowedFields     : ['title', 'desc', 'desc2', 'topic', 'tool', 'frontmatterContent', 'dauer', 'tags', 'author-name', 'author-email', 'link', 'human', 'author-website']
   branch            : "dev"
   commitMessage     : "New Idea"
   filename          : "{fields.slug}"

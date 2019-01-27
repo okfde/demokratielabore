@@ -5,8 +5,7 @@ hide_hero: true
 img-subpage: /static/img/intro_materialsammlung.png
 ---
 
-Auf der Materialseite kannst du einige Tools und Themen kennenlernen. Was man damit machen kann, das erfährst du hier. Du findest eine Vielzahl von kleinen und großen Ideen, wie du gesellschaftliche Themen durch Digitaler Tools voranbringen und gestalten kannst.
+Hier findest du Ideen, wie du die Themen und Tools dieser Plattform angehen kannst.
+Lasse dich überraschen von Links, Tipps & Tricks. Du hast eigene Ideen oder kennst gute Beispiele? Dann veröffentliche sie auf dieser Plattform:
 
-Lasse dich überraschen von spannenden Links, Tipps & Tricks.
-
-Du hast ganz andere Ideen? Super, dann lege mit deinem eigenen Projekt los und berichte uns davon!
+<a href="/materialsammlung/ideas/add"><button class="btn btn-default btn-submit">Idee Einreichen</button></a>

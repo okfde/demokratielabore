@@ -5,20 +5,32 @@ hide_hero: true
 
 ---
 
+
 <div class="row">
     <div class="col-xs-12 fond__white jumbotron">
         <div class="row">
             <div class="container">
                 <div class="col-lg-10 col-lg-offset-1">
                     <div class="page-sub-material"><a href="./index.html"><p class="sub-material-arrow-back"><img src="/static/img/arrow.svg"> Zurück</p></a></div>
-                    <p>💡 Diese Projektidee ist ein Beispiel dafür, wie du ein Thema mit Hilfe eines Tools angehen kannst.<a href="#projektideen"> Diese Themen und Tools setzt du mit der vorliegenden Idee um.</a></p>
+                    <p>
+                        {% if page.dauer %}
+                            ⏰ {{ site.data.materialsammlung.zeitbedarf[page.dauer] }}
+                        {% endif %}
+                        {% if page.themacontent or page.subtool %}
+                            💡 <a href="#projektideen"> Diese Themen und Tools sind mit der vorliegenden Idee verbunden.</a>
+                        {% endif %}
+                    </p>
                     <hr>
                     <h1 class="section-headline">{{ page.title }}</h1>
                     <p>
                       {{ content }}
                     </p>
-                    <hr>
-                    <h2 id="projektideen">Folgende Themen und Tools sind mit dieser Idee verbunden</h2>
+
+                    {% if page.themacontent or page.subtool %}
+                        <hr>
+                        <h2 id="projektideen">Verbundene Themen und Tools</h2>
+                        <p>Diese Projektidee ist ein Beispiel dafür, wie du ein Thema mit Hilfe eines Tools angehen kannst. Folgende Themen und Tools sind mit der vorliegenden Idee verbunden:</p>
+                    {% endif %}
                 </div>
             </div>
             <div class="container">
@@ -44,7 +56,7 @@ hide_hero: true
             <div class="container">
                 <div class="col-lg-10 col-lg-offset-1">
                     <hr>
-                    <p>Dieses Material wurde von der Organisation <a href="{{ site.data.owner-link-list[page.owner] }}" target="_blank">{{ site.data.owner-name-list[page.owner] }}</a> entwickelt und steht unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 </a>| OKF DE/{{ site.data.owner-short-name-list[page.owner] }}</p>
+                    <p>Dieses Material wurde von der Organisation <a href="{{ site.data.materialsammlung.owner-link-list[page.owner] }}" target="_blank">{{ site.data.materialsammlung.owner-name-list[page.owner] }}</a> entwickelt und steht unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 </a>| OKF DE/{{ site.data.materialsammlung.owner-short-name-list[page.owner] }}</p>
                     <hr>
                 </div>
             </div>

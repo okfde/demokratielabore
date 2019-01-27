@@ -15,7 +15,7 @@
     {% endfor %}
     {% assign subthema = subthema | split:'|' %}
     {% for st in subthema %}
-      <a href="/" data-filter=".{{ st }}" class="filter-item {{site.data.unterthema-color[st]}}">{{site.data.unterthema[st]}}</a>
+      <a href="/" data-filter=".{{ st }}" class="filter-item {{site.data.materialsammlung.unterthema-color[st]}}">{{site.data.materialsammlung.unterthema[st]}}</a>
     {% endfor %}
   </div>
 </div>

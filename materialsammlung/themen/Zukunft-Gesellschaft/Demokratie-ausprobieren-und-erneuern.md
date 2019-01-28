@@ -30,9 +30,7 @@ Demokratie lässt sich an vielen Orten und in vielen Formaten ausprobieren und m
 Auch online passiert einiges: [Liquid Democracy](https://liqd.net/de/) entwickelt innovative Konzepte für demokratische Beteiligung, darunter auch die europäische Jugendbeteiligungsplattform [OP!N](https://opin.me/de/). Möglichkeiten gibt es viele! Die noch junge Plattform [jugend.beteiligen.jetzt](https://jugend.beteiligen.jetzt/) bietet einen stetig wachsenden Überblick zu verschiedenen Möglichkeiten der digitalen Jugendbeteiligung.
 
 ## So kannst du selbst aktiv werden
-
 Mindestens genauso spannend ist es, Demokratie live mitzugestalten.
-
 Das geht in manchen Orten seit Kurzem besonders gut: Im Rahmen der Jugendstrategie [Handeln für eine jugendgerechte Gesellschaft](https://www.jugendgerecht.de/ueber-uns/jugendstrategie-2015-2018/) haben sich 16 Kommunen auf den Weg zu mehr Jugendgerechtigkeit gemacht. Was sie dabei gelernt haben und wie es weitergeht, kannst du hier lesen: [https://www.jugendgerecht.de/jugendgerechte-kommunen/jugendgerecht-vor-ort/](https://www.jugendgerecht.de/jugendgerechte-kommunen/jugendgerecht-vor-ort/).
 
 Mit [Game of Thoughts](https://demokratielabore.de/workshops/game-of-thoughts/) kannst du z.B. eigene Erklärspiele zu Themen entwerfen, die dir am Herzen liegen, und zu Dingen, die du gern verändern würdest.

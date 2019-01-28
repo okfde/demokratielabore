@@ -53,6 +53,6 @@ collections:
 
 
 staticman:
-  branch: "dev"
+  branch: "master"
   server: "https://staticman.okfn.de"
   repository: "okfde/demokratielabore"

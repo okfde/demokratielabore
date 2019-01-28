@@ -37,17 +37,21 @@ hide_hero: true
                 <div class="isotope-wrap">
                     <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% for p in site.pages %}
-                    {% if p.layout contains 'unterthema' or p.layout == 'untertool' %}
-                    {% if p.layout contains 'unterthema' and page.themacontent == p.themacontent %}
-                    <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
-                        {% include unter-thema-ideen-teaser-tile.html post=p %}
-                    </div>
+                    {% if p.layout == 'unterthema'%}
+                      {% assign pa = page.themacontent | replace:' ','' | split:',' %}
+                      {% if pa contains p.themacontent %}
+                      <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+                          {% include unter-thema-ideen-teaser-tile.html post=p %}
+                      </div>
+                      {% endif %}
                     {% endif %}
-                    {% if p.layout contains 'untertool' and page.subtool == p.subtool  %}
-                    <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser tool">
-                        {% include tool-teaser-tile.html post=p %}
-                    </div>
-                    {% endif %}
+                    {% if p.layout == 'untertool' %}
+                      {% assign pa = page.subtool | replace:' ','' | split:',' %}
+                      {% if pa contains p.subtool %}
+                      <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser tool">
+                          {% include tool-teaser-tile.html post=p %}
+                      </div>
+                      {% endif %}
                     {% endif %}
                     {% endfor %}
                 </div>

@@ -41,10 +41,13 @@ hide_hero: true
                 <div class="isotope-wrap">
                     <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% for p in site.pages %}
-                    {% if p.themacontent == page.themacontent and p.layout contains 'idee' %}
+                    {% if p.layout contains 'idee' %}
+                    {% assign pa = p.themacontent | replace:' ','' | split:',' %}
+                        {% if pa contains page.themacontent %}
                         <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser idea">
                             {% include idea-teaser-tile.html post=p %}
                         </div>
+                        {% endif %}
                     {% endif %}
                     {% endfor %}
                 </div>

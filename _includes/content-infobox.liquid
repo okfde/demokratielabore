@@ -1,8 +1,8 @@
-<div class="content-element infobox {{ include.float }} {{ include.border }}{{ include.image }}" style="width:{{ include.width }};">
+<div class="content-element infobox {{ include.float }} {{ include.border }}{% if include.image %}{{ include.image }}{% endif %}" style="width:{{ include.width }};">
     {% if include.headline != '' %}
         <h3 class="infobox-headline">{{ include.headline }}</h3>
     {% endif %}
-    {% if include.src != '' %}
+    {% if include.src %}
         <a href="{{ site.baseurl }}{{ include.src }}" target="_blank"><img src="{{ site.baseurl }}{{ include.src }}" /></a>
     {% endif %}
     <p class="infobox-copy">{{ include.copy }}</p>

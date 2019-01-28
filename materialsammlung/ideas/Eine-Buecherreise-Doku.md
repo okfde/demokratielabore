@@ -4,7 +4,6 @@ themacontent: zukunft2
 title: "Eine Bücherreise-Doku produzieren"
 layout: idee
 owner: "owner1"
-hide_hero: true
 teaser: |
     Wenn Bücher verschenkt oder verliehen werden wandern sie durch viele Hände - berichte darüber!
 ---

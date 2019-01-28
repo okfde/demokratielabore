@@ -19,7 +19,7 @@ img_full: "/static/img/digital_ag_hero.jpg"
 		<div class="infobox-content">
 			<h3 class="infobox-headline">Fragen? Interesse?</h3>
 			<p>
-				Dann schreib unserem Projektleiter Max!<br>
+				Dann schreib' unserem Projektmanager Max!<br>
 				<a href="mailto:maximilian.voigt@okfn.de">E-Mail</a> 
 			</p>
 		</div>

@@ -1,6 +1,6 @@
 ideas:
   allowedFields     : ['title', 'desc', 'desc2', 'themacontent', 'subtool', 'layout', 'details', 'dauer', 'tags', 'author-name', 'author-email', 'link', 'human', 'author-website']
-  branch            : "dev"
+  branch            : "master"
   commitMessage     : "New Idea"
   filename          : "{fields.slug}"
   format            : "frontmatter"

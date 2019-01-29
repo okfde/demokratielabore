@@ -31,7 +31,9 @@ Sich selbstbestimmte Zeit (zurück) zu erobern, ist gar nicht so einfach.
 Ein wichtiger Aspekt ist, deine Zeit gut zu planen. Dazu gibt es viele Wege, von analogen Ansätzen wie dem [Bulletjournal](https://www.pinselleicht.com/bullet-journal-guide/) oder der [Eisenhower Matrix](https://www.lernen-heute.de/selbstmanagement_eisenhower.html) bis hin zu digitalen Tools wie [TeuxDeux](https://teuxdeux.com/) oder [Wunderlist](https://www.wunderlist.com/).
 
 Ein weiteres Puzzleteil ist der Umgang mit realem oder empfundenem [Leistungsdruck](https://www.deutschlandfunk.de/forsa-umfrage-psychologin-druck-auf-schueler-hat-zugenommen.680.de.html?dram:article_id=431419). Deutschlandfunk Nova hat [ein](https://www.deutschlandfunknova.de/beitrag/philosophie-seid-faul) [paar](https://www.deutschlandfunknova.de/beitrag/philosophie-faulheit-als-produktive-lebenspraxis) [Ideen](https://www.deutschlandfunknova.de/beitrag/faulheit-warum-wir-ein-recht-darauf-haben) dazu, wie du dir mehr freie Zeit schaffen und die gewonnene Zeit genießen kannst.
-
 Gut wäre es auch, dem Wissen um den zu frühen Unterrichtsbeginn endlich Taten folgen zu lassen und einen späteren Zeitpunkt durchzusetzen. Wie du solche Veränderungen anstoßen kannst, haben wir an anderer Stelle aufgeschrieben:
 
-*Link zu Demokratie verändern einfügen*
+<p class="link-list">
+    <span class="link-list-headline">Weiterführende Links</span>
+        <a class="external-link" href="/materialsammlung/themen/Zukunft-Gesellschaft/Demokratie-ausprobieren-und-erneuern" target="_blank">Demokratie gestalten</a>
+</p>

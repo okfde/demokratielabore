@@ -6,7 +6,7 @@ layout: untertool
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Der Einstieg in das Programmiere ist ganz leicht, probier es doch mal aus! Hier findest du viele Tipps.
+    Der Einstieg ins Programmieren ist ganz leicht, probier es einfach mal aus! Hier findest du viele Tipps.
 copy-infobox: |
     <ul><li>Welche Lösung für ein Problem in meiner Umgebung könnte ich automatisieren - also programmieren?</li><li>Kann ich das, was ich Programmieren möchte, mit einer visuellen Programmiersprache umsetzen?</li></ul>
 ---

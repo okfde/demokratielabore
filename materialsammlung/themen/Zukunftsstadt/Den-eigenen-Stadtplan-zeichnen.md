@@ -7,7 +7,7 @@ owner: "owner3"
 themacontent: zukunft4
 hide_hero: true
 teaser: |
-  Du möchtest anderen zeigen, wo etwas in deiner Umgebung verortet ist? Dann zeichne eine Karte! Hier erfährst du, wie dabei Daten nutzen kannst.
+  Du möchtest anderen zeigen, wo etwas in deiner Umgebung verortet ist? Dann zeichne eine Karte! Hier erfährst du, wie du dabei Daten nutzen kannst.
 copy-infobox: |
   Probiere "Mapstack" aus und baue dir deine eigene Karte.<br><a href='http://mapstack.stamen.com/' target='_blank'>Hier geht es zur Website</a>
 

@@ -11,4 +11,4 @@ teaser: |
 
 ---
 
-Wie möchten wir die Stadt der Zukunft gestalten? Welchen Raum bekommen die Menschen, die dort leben? Und wer entscheidet über Veränderungen? Hier findest du Texte mit vielen Beispielen, wie eine zukünftige Stadt gestaltet werden kann.
+Wie möchten wir die Stadt der Zukunft gestalten? Welchen Raum bekommen die Menschen, die darin leben? Und wer entscheidet über Veränderungen? Hier findest du Texte mit vielen Beispielen, wie eine zukünftige Stadt geformt werden kann.

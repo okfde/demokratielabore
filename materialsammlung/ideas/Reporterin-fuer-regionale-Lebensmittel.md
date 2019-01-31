@@ -6,7 +6,7 @@ layout: idee
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Was wächst in deiner Umgebung? Berichte darüber und zeige es anderen.
+    Was wächst in deiner Umgebung? Berichte darüber und zeig es anderen.
 ---
 
 *Flugmango, Schiffsavocado oder südamerikanische Quinoa – Lebensmittel aus dem Ausland werden häufig unter unfairen Arbeitsbedingungen angebaut und haben lange Transportwege hinter sich, bevor sie bei uns verkauft werden. Das schadet der Umwelt. Dabei gibt es leckere Lebensmittel doch auch in der eigenen Region! Du willst wissen, was in deiner Umgebung wann wächst, Gerichte ausprobieren und deine Erfahrungen mit anderen teilen? Werde Berichterstatter*in für saisonale Lebensmittel!*

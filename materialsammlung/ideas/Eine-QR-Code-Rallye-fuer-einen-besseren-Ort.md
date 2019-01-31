@@ -6,7 +6,7 @@ layout: idee
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Baue eine digitale Schnitzeljagd, um auf Missstände aufmerksam zu machen - nutze dafür dein Smartphone.
+    Bau eine digitale Schnitzeljagd, um auf Missstände aufmerksam zu machen, und nutz dafür dein Smartphone.
 ---
 
 *In deiner Umgebung fehlen gute Fahrradwege oder die Ausschilderung des öffentlichen Nahverkehrs? Mach mit einer QR-Code-Rallye darauf aufmerksam und verpacke das Ganze in eine spannende Geschichte. Wie gelangst du in deiner Umgebung gut von A nach B? Drucke QR-Codes aus und bringe sie an Orten an, die in deiner Geschichte vorkommen. Für mehr Fahrradwege! Für einen besseren Nahverkehr! Für ein Thema, das dir persönlich auf den Nägeln brennt!*

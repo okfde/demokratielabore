@@ -1,12 +1,12 @@
 ---
 subtool: subtool4
 themacontent: zukunft1
-title: "Mache deine Stadt barrierefrei"
+title: "Mach deine Stadt barrierefrei"
 layout: idee
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Wie stark manche Menschen durch körperliche Beeinträchitungen von Barrieren betroffen sind erfährst du meinstens erst, wenn du dich in ihre Situation versetzt hast.
+    Wie stark manche Menschen durch körperliche Beeinträchtigungen von Barrieren betroffen sind, erfährst du meistens erst, wenn du dich mal in ihre Situation versetzt hast.
 ---
 
 *Du schlüpfst für einen Tag in die Rolle von Menschen, die beim Durchqueren ihrer Stadt täglich auf zahlreiche Hürden stoßen. Plane einen Weg, den du ohnehin machen willst (z.B. zur Schule oder zum Kino), so, als wärest du auf einen Rollstuhl angewiesen, d.h. auf kurze Wege und Fahrstühle. Halte alles mit deinem Smartphone in Fotos oder kurzen Sprachnotizen fest und bastele anschließend eine kleine Reportage daraus.*

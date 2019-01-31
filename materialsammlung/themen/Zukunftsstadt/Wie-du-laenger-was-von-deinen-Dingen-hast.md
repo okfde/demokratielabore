@@ -7,7 +7,7 @@ owner: "owner3"
 themacontent: zukunft13
 hide_hero: true
 teaser: |
-  Dein Smartphone ist schon wieder kaputt, dabei war es neu? So arbeitest du daran, dass das seltener wird.
+  Dein Smartphone ist schon wieder kaputt, dabei ist es noch ziemlich neu? So arbeitest du daran, dass so was seltener passiert.
 
 ---
 

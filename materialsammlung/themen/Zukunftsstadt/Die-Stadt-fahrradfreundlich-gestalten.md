@@ -7,7 +7,7 @@ owner: "owner3"
 themacontent: zukunft6
 hide_hero: true
 teaser: |
-    Dich stört, dass es zu wenige Fahrradwege gibt? Dann ändere es und werde aktiv!
+    Dich stört, dass es zu wenige Fahrradwege gibt? Dann ändere das und werde aktiv!
 
 ---
 

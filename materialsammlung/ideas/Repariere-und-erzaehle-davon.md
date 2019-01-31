@@ -6,7 +6,7 @@ layout: idee
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Zeige anderen, dass sich Gegenstände auch reparieren lassen und berichte über deine Erlebnisse.
+    Zeig anderen, dass sich kaputte Gegenstände auch reparieren lassen, und berichte von deinen Erlebnissen.
 ---
 
 *Wenn Haushaltsgeräte oder Lieblingssachen wie Klamotten, Handy-Cases oder Kopfhörer kaputtgehen, musst du sie nicht gleich wegwerfen und neu kaufen! Geh in ein Repair Café und veröffentliche auf Youtube oder deiner eigenen Webseite ein Tutorial über deine Reparatur-Story.*

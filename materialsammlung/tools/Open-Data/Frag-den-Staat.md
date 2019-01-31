@@ -6,7 +6,7 @@ owner: "owner1"
 layout: untertool
 hide_hero: true
 teaser: |
-    Ein Staat hat viele Informationen. Bürger*innen können diese anfragen. Probier es doch einfach mal aus oder nutze die Möglichkeit bei deiner Kampagne.
+  Der Staat verfügt über viele Informationen. Und Bürger*innen können sie anfragen. Probier es doch einfach mal aus und nutz diese Möglichkeit bei deiner Kampagne.
 copy-infobox: |
     <ul><li>Gibt es auf FragDenStaat.de schon Anfragen zu einem Thema, das mich interessiert?</li><li>Welche Informationen könnten mir für meine Projekte weiterhelfen und bei wem frage ich sie am besten an?</li></ul>
 ---

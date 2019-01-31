@@ -7,7 +7,7 @@ owner: "owner3"
 themacontent: zukunft14
 hide_hero: true
 teaser: |
-    Was sind Daten und wie kannst du sie nutzen, um die Entwicklung deiner Stadt voranzubringen?
+    Was sind Daten, und wie kannst du sie nutzen, um die Entwicklung deiner Stadt voranzubringen?
 
 ---
 

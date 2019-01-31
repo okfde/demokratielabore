@@ -6,7 +6,7 @@ layout: untertool
 hide_hero: true
 owner: "owner1"
 teaser: |
-    Deinem Thema im Internet Gehör verschaffen – das gelingt dir mit einem Podcast. Hier erfährst du wie das geht.
+    Deinem Thema im Internet Gehör verschaffen – das gelingt dir mit einem Podcast. Hier erfährst du, wie das geht.
 copy-infobox: |
     <ul><li>Welche Themen bewegen mich und zu welchen möchte ich einen Podcast aufnehmen?</li><li>Wer ist die Zielgruppe meines Podcasts, wen will ich informieren?</li></ul>
 

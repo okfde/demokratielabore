@@ -1,12 +1,12 @@
 ---
 tool: tool4
-title: So erfährst du in was die Politik Geld steckt
+title: So erfährst du, in was die Politik Geld steckt
 subtool: subtool15
 owner: "owner1"
 layout: untertool
 hide_hero: true
 teaser: |
-    Jede Gemeinde plant eigenständig wohin Steuergelder fließen sollen. Finde heraus, wer oder was in deiner Region Geld bekommt und mische dich ein.
+    Jede Gemeinde plant eigenständig, wohin Steuergelder fließen sollen. Finde heraus, wer oder was in deiner Region Geld bekommt, und misch dich ein.
 copy-infobox: |
     <ul><li>Gibt es auf der Webseite Offener Haushalt schon Daten von meiner Stadt oder Gemeinde?</li><li>Falls ja, wie viel Geld gibt meine Kommune für die Jugendarbeit aus?</li></ul>
 ---

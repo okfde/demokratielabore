@@ -6,7 +6,7 @@ layout: idee
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Du kannst aus Tetrapacks mehr machen, als sie einfach wegzuwerfen - hier erfährst du was das ist.
+    Du kannst aus Tetrapacks mehr machen, als sie einfach wegzuwerfen – hier erfährst du, was.
 ---
 
 *Hast du dich auch schon einmal gefragt, ob aus unserem Haushaltsmüll nicht noch etwas Schönes oder sogar Nützliches hergestellt werden könnte? Das Projekt Tetrapix zeigt dir, wie Tetrapacks und eine Lichterkette sich in einen selbst gebauten Bildschirm verwandeln lassen. Den Bildschirm kannst du dann so programmieren, dass er bunt leuchtet.*

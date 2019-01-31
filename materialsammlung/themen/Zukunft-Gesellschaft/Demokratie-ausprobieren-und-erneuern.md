@@ -7,7 +7,7 @@ owner: "owner3"
 themacontent: fs7
 hide_hero: true
 teaser: |
-    Hinter dem Wort „Demokratie" verbirgt sich eine ungeahnte Vielfalt, denn sie ist Jahrtausende alt. Ständig arbeiten wir daran, sie an unsere Lebenswelt anzupassen. So kannst du mitmachen.
+    Hinter dem Wort „Demokratie“ verbirgt sich eine ungeahnte Vielfalt, denn sie ist Jahrtausende alt. Ständig arbeiten wir daran, sie an unsere Lebenswelt anzupassen. So kannst du daran mitwirken.
 
 ---
 

@@ -6,7 +6,7 @@ layout: idee
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Du hast alte Kleidungsstücke, die dir eigentlich nicht mehr gefallen? Es gibt viele Ideen, wie du sie pimpen kannst!
+    Du hast alte Kleidungsstücke, die dir nicht mehr gefallen? Es gibt viele Ideen, wie du sie pimpen kannst!
 ---
 
 *Wusstest du, dass ein Großteil der in Deutschland verkauften Textilien in Niedriglohnländern wie beispielsweise China, Pakistan oder Bangladesch hergestellt wird? Dort sind die Näher*innen meist unter schlimmen Arbeitsbedingungen tätig. Hinzu kommen die weiten Lieferwege, die die Klamotten bis zu ihren Käufer*innen in westlichen Ländern zurücklegen. Der Transport schadet der Umwelt und ist eigentlich nicht nötig. Mit der Wahl unserer Klamotten haben wir einen großen Einfluss auf den weltweiten Textilmarkt. Es muss doch nicht immer ein neues Teil sein! Mit ein wenig Anleitung kannst du alte Klamotten aufwerten – indem du was Neues daraus machst, sie änderst oder verzierst. Wir zeigen dir, wie das geht.*

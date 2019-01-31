@@ -7,7 +7,7 @@ owner: "owner3"
 themacontent: fs3
 hide_hero: true
 teaser: |
-    Es gibt Zeiten, da ist das Leben toll. Und dann gibt es auch die Zeiten, da ist das alles anders. So kannst du mit ihnen umgehen.
+    Es gibt Zeiten, da ist das Leben toll. Und dann gibt es auch Zeiten, da ist das alles anders. So kannst du mit ihnen umgehen.
 
 ---
 

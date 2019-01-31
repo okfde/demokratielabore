@@ -1,5 +1,5 @@
 ---
-title: Weniger essen wegwerfen
+title: Weniger Essen wegwerfen
 layout: unterthema
 thema: thema2
 unterthema: unter2-1
@@ -7,7 +7,7 @@ owner: "owner3"
 themacontent: zukunft8
 hide_hero: true
 teaser: |
-  Wir werfen unglaublich viele Lebensmittel weg. Dabei gibt es in Deutschland Menschen die sie dringend brauchen.
+  Wir werfen unglaublich viele Lebensmittel weg. Dabei gibt es auch in Deutschland Menschen, die sie dringend brauchen.
 
 ---
 

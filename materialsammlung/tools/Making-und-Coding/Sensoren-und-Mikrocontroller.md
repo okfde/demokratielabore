@@ -6,7 +6,7 @@ layout: untertool
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Wir sind umgeben von kleinen Computern - lerne sie für dich einzusetzen.
+   Wir sind umgeben von kleinen Computern – lern sie für dich einzusetzen.
 copy-infobox: |
     <ul><li>Was für Sensoren kann ich an meinen Mikrocontroller anschließen?</li><li>Wie kann ich die gemessenen Daten nutzen?</li><li>Was für ein eigenständiges Gerät kann ich damit bauen?</li></ul>
 ---

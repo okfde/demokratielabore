@@ -6,7 +6,7 @@ layout: idee
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Recherchiere zu Kinder- und Jugendparlamenten in deinem Wohnort und mache ihre Arbeit bekannter oder starte ein eigenes.
+   Recherchiere zu Kinder- und Jugendparlamenten in deinem Wohnort und mach ihre Arbeit bekannter oder gründe selbst eines.
 ---
 
 *Recherchiere zu Kinder- und Jugendparlamenten in deinem Wohnort und mache ihre Arbeit bekannter. Nutze deine sozialen Netzwerke, um Ideen zu sammeln, worüber Jugendliche mitentscheiden sollten.*

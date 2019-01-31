@@ -1,5 +1,5 @@
 ---
-title: Politik in deiner Stadt aufmischen
+title: Die Politik in deiner Stadt aufmischen
 layout: unterthema
 thema: thema2
 unterthema: unter2-2
@@ -7,7 +7,7 @@ owner: "owner3"
 themacontent: zukunft5
 hide_hero: true
 teaser: |
-  Dich nervt, dass es so oft um den Willen der Erwachsenen geht? Hier findest du Möglichkeiten, das zu ändern.
+  Dich nervt, dass es oft nur um das geht, was die Erwachsenen wollen? Hier findest du Möglichkeiten, das zu ändern.
 
 ---
 

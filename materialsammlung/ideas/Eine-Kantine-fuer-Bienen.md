@@ -6,7 +6,7 @@ layout: idee
 owner: "owner1"
 hide_hero: true
 teaser: |
-  Insekten brauchen unsere Hilfe: Monokulturen nehmen ihnen zunehmend ihre Lebensgrundlage. Bepflanze deine Umgebung und schaffe neue Lebensgrundlagen.
+  Insekten brauchen unsere Hilfe: Monokulturen nehmen ihnen zunehmend ihre Lebensgrundlage. Bepflanz deine Umgebung und schaff neue Lebensgrundlagen.
 
 ---
 

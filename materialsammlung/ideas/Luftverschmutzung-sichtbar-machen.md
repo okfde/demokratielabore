@@ -1,12 +1,12 @@
 ---
 subtool: subtool9
 themacontent: zukunft14
-title: "Mache Luftverschmutzung sichtbar"
+title: "Mach Luftverschmutzung sichtbar"
 layout: idee
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Werde Teil einer Gemeinschaft von Menschen, die das Thema Feinstaub problematisieren und baue deine eigene Messstation.
+    Werde Teil einer Gemeinschaft von Menschen, die das Thema Feinstaub problematisieren, und bau deine eigene Messstation.
 ---
 
 *Feinstaubalarm! Insbesondere in den Großstädten werden die Grenzwerte regelmäßig überschritten. Mit ein paar Sensorik-Kniffen machst du sie sichtbar und setzt so ein Zeichen gegen Luftverschmutzung und für eine bessere Lebensqualität in deiner Stadt. Hierfür baust du dir deinen eigenen Feinstaubsensor und übermittelst die von dir gesammelten Daten dann an eine [deutschlandweite Karte](http://deutschland.maps.luftdaten.info/#6/51.165/10.455).*

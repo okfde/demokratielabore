@@ -6,7 +6,7 @@ layout: untertool
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Bemale deine Umgebung mit deinem Smartphone und teile das Ergebnis.
+    Bemal deine Umgebung mit deinem Smartphone und teile das Ergebnis.
 copy-infobox: |
     <ul><li></li></ul>
 

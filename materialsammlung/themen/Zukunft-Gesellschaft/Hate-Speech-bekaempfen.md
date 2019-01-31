@@ -7,7 +7,7 @@ owner: "owner3"
 themacontent: fs6
 hide_hero: true
 teaser: |
-    Wenn digitale Nachrichten Menschen gezielt abwerten oder angreifen, dann nennt man das Hate Speech. So kannst du dagegen vorgehen.
+    Wenn digitale Nachrichten Menschen gezielt abwerten oder angreifen, wird das Hate Speech genannt. So kannst du dagegen vorgehen.
 
 ---
 

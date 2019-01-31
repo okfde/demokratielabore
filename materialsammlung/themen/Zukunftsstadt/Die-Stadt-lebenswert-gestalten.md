@@ -7,7 +7,7 @@ themacontent: zukunft7
 owner: "owner3"
 hide_hero: true
 teaser: |
-    Wie schaffst du mehr Raum für dich und deine Mitmenschen? Werde aktiv und lerne von anderen Projekten
+    Wie schaffst du mehr Raum für dich und deine Mitmenschen? Werde aktiv und lern von anderen Projekten.
 
 ---
 

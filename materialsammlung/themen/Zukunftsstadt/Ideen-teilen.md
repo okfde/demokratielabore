@@ -7,7 +7,7 @@ owner: "owner3"
 themacontent: zukunft10
 hide_hero: true
 teaser: |
-    Eine Idee basiert immer auf anderen Ideen. Teilen wir unser Wissen, so profitieren auch wieder andere davon.
+    Eine Idee basiert immer auf anderen Ideen. Teilen wir unser Wissen, profitieren wieder andere davon.
 
 ---
 

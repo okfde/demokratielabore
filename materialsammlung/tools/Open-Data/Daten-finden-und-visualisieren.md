@@ -6,7 +6,7 @@ owner: "owner4"
 layout: untertool
 hide_hero: true
 teaser: |
-    Wie gehst du einer Frage mit Hilfe von Daten nach und wie findest du passende Daten?
+    Wie gehst du einer Frage mithilfe von Daten nach und wie findest du passende Daten?
 copy-infobox: |
     <ul><li>Welchem Problem möchte ich nachgehen?</li><li>Gibt es einen Bereich, dem ich das Problem zuordnen kann (z.B. ist der Staat dafür verantwortlich und betrifft es den Naturschutz)?</li></ul>
 ---

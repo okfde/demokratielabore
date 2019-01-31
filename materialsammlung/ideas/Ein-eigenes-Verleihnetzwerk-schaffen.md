@@ -6,7 +6,8 @@ layout: idee
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Bringe deine Nachbarn und Nachbarinnen zusammen, starte ein Verleihnetzwerk und teile Gegenstände.
+    Bring deine Nachbarn und Nachbarinnen zusammen, ruf ein Verleihnetzwerk ins Leben und teile Gegenstände.
+
 ---
 
 *Du brauchst für handwerkliche Arbeiten einen Bohrer und besitzt selbst keinen. Wäre es nicht praktisch, wenn du dir einfach einen bei deiner Nachbarin leihen könntest? Und noch toller, wenn du wüsstest, welche Gegenstände deine Nachbar*innen besitzen?*

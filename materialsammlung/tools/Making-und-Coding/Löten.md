@@ -6,7 +6,7 @@ layout: untertool
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Am Anfang jedes Smartphones oder Computers stand ein Lötwerkzeug. Lerne Löten und baue deine eigenen Geräte!
+    Am Anfang jedes Smartphones oder Computers stand ein Lötwerkzeug. Lern Löten und bau deine eigenen Geräte!
 copy-infobox: |
     <ul><li>Habe ich zuhause technische Gegenstände, die ich durch Löten wieder reparieren kann und deshalb nicht wegschmeißen und neu kaufen muss?</li></ul>
 ---

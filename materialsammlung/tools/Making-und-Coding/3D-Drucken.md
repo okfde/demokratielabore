@@ -6,7 +6,7 @@ layout: untertool
 owner: "owner1"
 hide_hero: true
 teaser: |
-    3D-Drucken ist ein Handwerk, das du lernen kannst - am besten, indem du es ausprobierst. Hier findest du viele Tipps dazu.
+    3D-Drucken ist ein Handwerk, das du lernen kannst – am besten, indem du es ausprobierst. Hier findest du viele Tipps dazu.
 copy-infobox: |
     <ul><li>Es gibt bereits viele 3D-Modelle -  bevor du ein eigenes entwickelst, schau dir an, ob du sie für dein Vorhaben nutzen und weiterentwickeln kannst.</li><li>Habe ich eigene 3D-Modelle, die ich anderen Menschen im Netz zur Verfügung stellen möchte?</li></ul>
 ---

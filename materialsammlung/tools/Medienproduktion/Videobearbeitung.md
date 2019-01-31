@@ -6,7 +6,7 @@ layout: untertool
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Schnell mal ein Video mit dem Handy aufnehmen? Kein Problem! Aber wie mache ich daraus einen Film? So geht's.
+    Schnell mal ein Video mit dem Handy aufnehmen? Kein Problem! Aber wie mache ich daraus einen Film? So geht’s.
 copy-infobox: |
     <ul><li>Welches Thema ist mir wichtig und wie kann ich es in einem Video transportieren?</li><li>Wie kann ich das Thema in eine Geschichte verpacken und welche Kameraeinstellungen bringen den Zuschauer am besten an dieses heran?</li><li>Es gibt zahlreiche Tools für die Videobearbeitung - welche Anforderungen habe ich?</li></ul>
 ---

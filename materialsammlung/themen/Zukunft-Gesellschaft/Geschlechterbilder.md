@@ -7,7 +7,7 @@ owner: "owner3"
 themacontent: fs2
 hide_hero: true
 teaser: |
-    Geschlechterbilder entwickeln und verändern sich permanent. Es ist wichtig sie zu hinterfragen und an ihnen zu arbeiten.
+    Geschlechterbilder entwickeln und verändern sich permanent. Es ist wichtig, sie zu hinterfragen und an ihnen zu arbeiten.
 
 ---
 

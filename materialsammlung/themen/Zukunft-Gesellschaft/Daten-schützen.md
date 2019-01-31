@@ -7,7 +7,7 @@ owner: "owner3"
 themacontent: fs9
 hide_hero: true
 teaser: |
-    Wissen ist Macht! Daten bereichern Diskussionen fast immer, aber mit schlecht aufbereiteten Daten lassen sich Diskussionen auch manipulieren. Kennst du dich aus, dann kannst du unterscheiden.
+    Wissen ist Macht! Daten bereichern Diskussionen fast immer, aber mit schlecht aufbereiteten Daten lassen sich Diskussionen auch manipulieren. Kennst du dich aus, dann kannst du beides unterscheiden.
 
 ---
 

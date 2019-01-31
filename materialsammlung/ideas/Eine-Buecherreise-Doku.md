@@ -5,7 +5,7 @@ title: "Eine Bücherreise-Doku produzieren"
 layout: idee
 owner: "owner1"
 teaser: |
-    Wenn Bücher verschenkt oder verliehen werden wandern sie durch viele Hände - berichte darüber!
+    Wenn Bücher verschenkt oder verliehen werden, wandern sie durch viele Hände – berichte darüber!
 ---
 
 *Nicht jedes Buch, das du besitzt, liest du mehr als einmal – selbst besonders gute Bücher. Hast du schon einmal darüber nachgedacht, wie es wäre, Bücher auf Reisen zu schicken? Inzwischen stehen an vielen öffentlichen Orten Bücherschränke, aus denen Interessierte gratis Bücher nehmen und in die sie Bücher hineinstellen. Wäre es nicht noch netter, wenn du dich mit dem neuen Leser bzw. der neuen Leserin deines Buches über dessen Inhalt austauschen könntest?*

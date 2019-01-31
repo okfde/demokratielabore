@@ -6,7 +6,7 @@ layout: idee
 owner: "owner1"
 hide_hero: true
 teaser: |
-    Nutze 3D-Drucker und gestalte Modelle deiner gewünschten Wohnräume
+    Nutz 3D-Drucker und gestalte Modelle der von dir gewünschten Wohnräume.
 ---
 
 *Hast du schon einmal darüber nachgedacht, wie Städte oder Plätze besser geplant werden könnten? Wie wäre es, wenn du und deine Freund\*innen über Bauvorhaben in deiner Stadt mitentscheiden könnten?*

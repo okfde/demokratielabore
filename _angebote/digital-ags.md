@@ -25,11 +25,14 @@ img_full: "/static/img/digital_ag_hero.jpg"
 		</div>
 	</div>
 </div>
+<h2>Was passiert in der Digital-AG?</h2>
 <p>
-	Ein regelmäßiger Treff für Jugendliche und interessierte Fachkräfte in eurer Jugendeinrichtung, wo ihr gemeinsam zu digitalen und gesellschaftlichen Themen eurer Wahl arbeiten und euch austauschen könnt. Sucht euch einen Schwerpunkt, der euch als Gruppe wirklich interessiert: Von Datenjournalismus und Nachhaltigkeit über Game-Design oder Making und Coding ist alles möglich! Wir unterstützen euch dabei jederzeit gerne mit Erfahrung, Kontakten und Tipps. Stellt euch vor, wir bauen zusammen mit Expert*innen ein Freifunknetz für eure Einrichtung oder ihr designt euer eigenes Game (das ist gar nicht so kompliziert!) und macht es für andere zugänglich, sodass es von jedem gespielt werden kann. Oder macht eure Ideen für eine jugendgerechte Umgebung mit Hilfe von VR oder Minecraft sichtbar und tragt sie so in die Welt! Eurer Kreativität sind keine Grenzen gesetzt!
+	In entspannter Atmosphäre kannst du dich mit anderen Jugendlichen ab 12 Jahren zu gesellschaftlichen und technischen Themen (z. B. Stadt der Zukunft, Identität und soziales Miteinander) austauschen, interessante Menschen für Vorträge einladen, mit Technik basteln, 3D-Drucken, in Magazinen stöbern, digitale Spiele entwickeln und vieles mehr! In der AG geht es vor allem darum Spaß zu haben, gemeinsam Neues auszuprobieren, zu entdecken und zu diskutieren.
+    <br>
+    Als Digital-AGent*in setzt du deine eigenen Ideen und Projekte um. Deiner Kreativität sind dabei keine Grenzen gesetzt! Du hast noch keine Idee? Komm trotzdem vorbei und lass dich inspirieren!
 </p>
 <p>
-	Als Beitrag von uns erhaltet ihr nicht nur unsere volle Unterstützung beim Aufbau eurer AG und Input zu euren Themen durch übersichtliche Selbstlernmaterialien und Tutorials, sondern auch jede Menge nützliches Material wie Hardware (Arduinos, Microcontroller, Sensoren, etc.) oder Fachmagazine. Zusätzlich vernetzen wir euch mit unserer Community und anderen jungen Leuten (z.B. von <a  class="highlight-grey" href="https://jugendhackt.org">Jugend hackt</a>) und natürlich nicht zu vergessen: Es gibt jede Menge T-Shirts, Sticker und Tattoos!
+	Als Beitrag von uns erhaltet ihr nicht nur unsere Unterstützung beim Aufbau eurer AG und Input zu euren Themen durch unsere <a href="/materialsammlung">Selbstlernmaterialien</a> und <a href="/workshops">Tutorials</a>. Wir helfen euch auch bei der Auswahl nützlicher Materialien, wie Microcontroller, Sensoren oder Fachmagazinen. Zusätzlich vernetzen wir euch mit unserer Community und anderen jungen Menschen, z.B. aus dem <a  href="https://jugendhackt.org">Jugend hackt-Netzwerk</a>. Hinzu kommen zahlreiche Materialien, die ihr bei uns anfragen könnt, um für eure Digital-AG zu werben.
 </p>
 
 

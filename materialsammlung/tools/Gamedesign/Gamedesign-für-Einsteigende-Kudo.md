@@ -6,7 +6,7 @@ layout: untertool
 owner: "owner2"
 hide_hero: true
 teaser: |
-    "Mit Kodu kannst du ganz leicht dein erstes Spiel produzieren und dich ganz auf die Geschichte konzentrieren"
+    Mit Kodu kannst du ganz leicht dein erstes Spiel produzieren und dich ganz auf die Geschichte konzentrieren.
 copy-infobox: |
     <ul><li>Hast du schon Erfahrungen mit anderen Gamedesign-Tools gesammelt? Wenn nicht, dann ist dieses Programm ein sehr guter Einstieg, weil du damit spielerisch die Grundlagen des Programmierens erlernst.</li><li>Wie wichtig sind dir die Grafik deines Spiels und die Auswahl an verfügbaren Objekten? Bei diesem Programm liegt der Fokus auf der Gestaltung der Spielwelt und -mechanik. Eigene Grafiken kannst du leider nicht hinzufügen.</li></ul>
 ---

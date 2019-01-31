@@ -6,7 +6,7 @@ owner: "owner2"
 layout: untertool
 hide_hero: true
 teaser: |
-    "Twine ist ein leicht zu bedienender Editor für das Erstellen von textbasierten Spielen"
+    Twine ist ein leicht zu bedienender Editor für das Erstellen von textbasierten Spielen.
 copy-infobox: |
     <ul><li>Wie wichtig sind dir die Grafik deines Spiels und die Auswahl an verfügbaren Objekten? Bei diesem Programm liegt der Fokus auf der Erzählung einer Geschichte in Textform und dem Einbauen von Auswahlmöglichkeiten für ihren Fortgang. Eigene Grafiken und Sounds können jedoch hinzugefügt werden.</li><li>Wenn du deine Geschichte oder dein Thema in einem storybasierten Spiel spannend und verständlich erzählen möchtest, brauchst du ein bisschen Geduld. Überlege, wie viel Zeit du in dein Projekt investieren möchtest. Wenn du nur zwei bis drei Stunden zur Verfügung hast, ist ein Tool wie Twine sehr gut geeignet.</li></ul>
 ---

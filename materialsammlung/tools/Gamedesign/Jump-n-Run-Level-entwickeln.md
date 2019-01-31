@@ -6,7 +6,7 @@ layout: untertool
 owner: "owner2"
 hide_hero: true
 teaser: |
-    "Der Retro Arcade Creator ist ein kostenloses Tool, mit dem du sehr schnell Jump-’n’-Run-Level selbst erstellen kannst."
+    Der Retro Arcade Creator ist ein kostenloses Tool, mit dem du sehr schnell Jump-’n’-Run-Level selbst erstellen kannst.
 copy-infobox: |
     <ul><li>Hast du schon Erfahrungen mit anderen Gamedesign-Tools gesammelt? Wenn nicht, dann ist dieses Programm ein sehr guter Einstieg, weil du damit spielerisch die Grundlagen des Level-Designs erlernst.</li><li>Wie wichtig sind dir die Grafik deines Spiels und die Auswahl an verfügbaren Objekten? Bei diesem Programm liegt der Fokus auf dem Bauen der Umgebung. Im Editor kannst du zwar leider keine eigenen Grafiken, wohl aber kurze Texte einfügen.</li><li>Hast du schon Erfahrungen mit anderen Gamedesign-Tools gesammelt? Wenn nicht, dann ist dieses Programm ein sehr guter Einstieg, weil du damit spielerisch die Grundlagen des Level-Designs erlernst.</li></ul>
 ---

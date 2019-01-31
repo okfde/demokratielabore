@@ -6,7 +6,7 @@ layout: untertool
 owner: "owner2"
 hide_hero: true
 teaser: |
-    "Bitsy ist ein einfacher Editor, mit dem du deine eigenen Spiele im Gameboy-Style entwickeln kannst."
+    Bitsy ist ein einfacher Editor, mit dem du deine eigenen Spiele im Gameboy-Style entwickeln kannst.
 copy-infobox: |
     <ul><li>Hast du schon Erfahrungen mit anderen Gamedesign-Tools gesammelt? Wenn nicht, dann ist dieses Programm ein sehr guter Einstieg, weil du damit spielerisch die Grundlagen logischer Verknüpfungen erlernst und die Technik so sehr im Hintergrund steht, dass du dich ganz darauf konzentrieren kannst, deine Fantasie spielen zu lassen.</li><li>Wie wichtig ist dir die Grafik deines Spiels? Bei diesem Programm liegt der Fokus auf der Erzählung und der Erkundung. Du kannst damit besonders gut deine Meinung kommunizieren. Es ist möglich, im Programm selbst Grafiken und Farben zu editieren, du bist dabei aber an die maximal verfügbare Pixelanzahl gebunden.</li><li>Wenn du deine Geschichte oder dein Thema in einem storybasierten Spiel spannend und verständlich erzählen möchtest, brauchst du ein bisschen Geduld. Überlege, wie viel Zeit du in dein Projekt investieren möchtest. Wenn du nur ein bis zwei Stunden zur Verfügung hast, ist Bitsy ein guter Einstieg, allerdings nur für eine Kurzgeschichte. Mit ca. sechs Stunden dürften aber bereits größere Geschichten möglich sein.</li></ul>
 ---

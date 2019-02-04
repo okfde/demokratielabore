@@ -20,6 +20,8 @@ Im Internet, vor allem in sozialen Netzwerken, wird über vieles geschrieben, di
 Meinungsfreiheit hat also immer da eine Grenze, wo die Würde eines Menschen angegriffen wird.
 Den meisten Menschen geht es ähnlich, wenn sie einen solchen Post lesen: Sie wissen nicht, wie sie darauf reagieren sollen. Ist es okay, so etwas zu ignorieren? Oder ist es besser, sich einzumischen – und wenn ja, wie am besten? Und was machst du, wenn sich der Hass, nachdem du dich eingemischt hast, plötzlich gegen dich selbst richtet?
 
+<div class="videoiframe"><iframe width="560" height="315" src="https://www.youtube.com/embed/1P6uEGNncjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ## Das gibt es bereits
 Natürlich kannst du den Post einfach ignorieren. Das ist auch nicht immer falsch, denn so bekommen die trollenden Verfasser\*innen weit weniger Aufmerksamkeit – um die es ihnen meistens geht. Andererseits dominieren dadurch laute, aggressive Gruppen viele Online-Debatten, obwohl die stille Mehrheit eigentlich ganz anderer Meinung ist, und Trolle verstehen den fehlenden Widerspruch oft auch als Bestätigung. Um dieses Zerrbild in den sozialen Netzwerken zu verändern, ist es also sinnvoll und auch wichtig, selbst aktiv zu werden. Dafür gibt es viele Möglichkeiten. Einige Ideen haben wir hier zusammengestellt:
 Das [Bundestrollamt für gegen digitalen Hass](https://no-hate-speech.de/de/video/#bundestrollamt) hat zwei kurzweilige und informative Staffeln rund um Hate Speech veröffentlicht – und was du dagegen tun kannst.

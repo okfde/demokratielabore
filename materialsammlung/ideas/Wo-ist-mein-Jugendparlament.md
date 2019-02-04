@@ -1,6 +1,6 @@
 ---
 subtool: subtool11
-themacontent: zukunft5
+themacontent: zukunft5, fs7
 title: "Stadt, Land, Kreis – wo ist mein Jugendparlament?"
 layout: idee
 owner: "owner1"

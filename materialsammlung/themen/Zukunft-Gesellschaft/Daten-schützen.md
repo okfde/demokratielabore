@@ -23,7 +23,7 @@ Wenn du das selbst erkunden willst, geht das z.B. mit dem [Data Comix](http://ww
 
 Es gibt auch Konzepte für Workshops, in denen du das Thema mit anderen gemeinsam durchleuchten kannst. Dazu gehören beispielsweise die Methodensammlung [Leben im Datenmeer](http://www.bpb.de/veranstaltungen/netzwerke/teamglobal/67696/leben-im-datenmeer) (auch von der Bundeszentrale zusammengestellt) und der Workshop [Spuren im Netz](https://hackmd.io/s/HyzHKRtwG) von [Chaos macht Schule](https://berlin.ccc.de/wiki/Chaos_macht_Schule), einem Projekt des [Chaos Computer Clubs](https://www.ccc.de/).
 
-<div class="videoiframe"><iframe width="560" height="315" src="https://www.youtube.com/embed/uy2vw-mQ-Kk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videoiframe"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uy2vw-mQ-Kk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## So kannst du selbst aktiv werden
 Dafür, bewusster zu entscheiden, welche deiner Daten du teilen und welche du schützen willst, gibt es einige gute Anleitungen.

@@ -12,6 +12,10 @@ teaser: |
 ---
 
 ## Die Herausforderung
+<div class="img-wrap-center">
+<img src="/img/img_topics_society_1/Front_banner_of_the_FridaysForFuture_Demonstration_25-01-2019_Berlin_25.jpg" style="width: 100%; display: inline-block">
+<div class="caption"></div>
+</div>
 
 Hinter dem Wort „Demokratie" verbirgt sich eine ungeahnte Vielfalt: Demokratie ist Jahrtausende alt, hat viele Formen und Formate, kann im Kleinen ebenso praktiziert werden wie im Großen – und sie widersetzt sich jedem Versuch, sie in ein bestimmtes Modell zu pressen.
 

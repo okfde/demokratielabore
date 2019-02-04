@@ -23,7 +23,7 @@ Liebe und Sexualität sind zwar in Schule und Familie oft noch Tabuthemen, aber 
 
 Zu vielen Tabuthemen gibt es allerdings auch online nur vereinzelte Informationen, und noch viel seltener sind sie von jungen Menschen für junge Menschen gemacht. Und was zur Verfügung steht, ist meist recht schwer zu finden. Über junge Menschen und ihren Umgang mit dem Tod gibt es vom SWR z.B. das Radiofeature [Unvergessen](https://www.swr.de/swr2/programm/sendungen/leben/swr2-leben-unvergessen/-/id=660174/did=21969906/nid=660174/7fkent/index.html) des jungen Journalisten [Marc Feuser](https://twitter.com/feuserwerk/), aber wer Titel und Untertitel des Features nicht kennt, kann es kaum finden.
 
-<div class="videoiframe"><iframe width="560" height="315" src="https://www.youtube.com/embed/CnRetbrJLfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videoiframe"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CnRetbrJLfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## So kannst Du selbst aktiv werden
 Du bist der Meinung, ein Tabuthema sollte keines mehr sein? Du hast tolle Informationen zu einem Tabuthema gefunden und willst sie mit anderen teilen? Du willst ein Thema enttabuisieren, ihm den Charakter des Tabus nehmen? Das ist gar nicht so schwer: Darüber reden und schreiben ist ein wichtiger erster Schritt.

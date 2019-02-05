@@ -1,5 +1,5 @@
 ---
-title: Zukunft Gesellschaft
+title: Die Gesellschaft der Zukunft
 layout: thema
 thema: thema1
 hide_hero: true

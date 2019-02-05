@@ -29,8 +29,3 @@ Zu vielen Tabuthemen gibt es allerdings auch online nur vereinzelte Informatione
 Du bist der Meinung, ein Tabuthema sollte keines mehr sein? Du hast tolle Informationen zu einem Tabuthema gefunden und willst sie mit anderen teilen? Du willst ein Thema enttabuisieren, ihm den Charakter des Tabus nehmen? Das ist gar nicht so schwer: Darüber reden und schreiben ist ein wichtiger erster Schritt.
 
 Das kannst du anonym oder mit einem Pseudonym genauso tun wie mit deinem eigenen Namen. Ob mit einem thematischen Handle wie @queereliebe oder @jungertod oder auf einem der Accounts, die du schon hast; ob mit neuen Webseiten oder auf einer Seite, auf der du bereits schreibst, ist nicht so wichtig. Hauptsache, du redest und schreibst über ein Tabuthema, das dir am Herzen liegt!
-
-<p class="link-list">
-        <span class="link-list-headline">Weiterführende Links</span>
-        <a class="external-link" href="https://demokratielabore.de/materialsammlung/tools/Medienproduktion/" target="_blank">Verschiedene Beispiele für Medientools findest du hier</a>
-</p>

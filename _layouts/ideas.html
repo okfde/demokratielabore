@@ -19,20 +19,20 @@ hide_hero: true
                     <p>
                         {{ content }}
                     </p>
+                    <div class="filter-items green">
+                        <h4 class="filter-items-headline">NACH THEMEN FILTERN:</h4>
+                        <div class="filter-items-inner col-xs-24">
+                            {% for p in site.pages %}
+                            {% if p.layout == 'thema' %}
+                            <a href="/" data-filter=".{{ p.thema }}" class="filter-item green">{{ p.title }}</a>
+                            {% endif %}
+                            {% if p.layout == 'tool' %}
+                            <a href="/" data-filter=".{{ p.tool }}" class="filter-item green">{{ p.title }}</a>
+                            {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="filter-items green">
-              <h4 class="filter-items-headline">NACH THEMEN FILTERN:</h4>
-              <div class="filter-items-inner col-xs-24">
-                  {% for p in site.pages %}
-                    {% if p.layout == 'thema' %}
-                        <a href="/" data-filter=".{{ p.thema }}" class="filter-item red">{{ p.title }}</a>
-                    {% endif %}
-                    {% if p.layout == 'tool' %}
-                        <a href="/" data-filter=".{{ p.tool }}" class="filter-item red">{{ p.title }}</a>
-                  {% endif %}
-                  {% endfor %}
-              </div>
             </div>
             <div class="container">
                 <div class="isotope-wrap">

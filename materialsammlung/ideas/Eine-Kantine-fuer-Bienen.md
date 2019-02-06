@@ -5,6 +5,7 @@ title: "Baue eine Kantine für Bienen"
 layout: idee
 owner: "owner1"
 hide_hero: true
+dauer: "dauer-2"
 teaser: |
   Insekten brauchen unsere Hilfe: Monokulturen nehmen ihnen zunehmend ihre Lebensgrundlage. Bepflanz deine Umgebung und schaff neue Lebensgrundlagen.
 

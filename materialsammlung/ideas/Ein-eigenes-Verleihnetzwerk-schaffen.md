@@ -4,6 +4,7 @@ themacontent: zukunft9
 title: "Ein eigenes Verleihnetzwerk schaffen"
 layout: idee
 owner: "owner1"
+dauer: "dauer-3"
 hide_hero: true
 teaser: |
     Bring deine Nachbarn und Nachbarinnen zusammen, ruf ein Verleihnetzwerk ins Leben und teile Gegenstände.

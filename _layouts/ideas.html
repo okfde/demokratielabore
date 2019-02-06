@@ -40,7 +40,7 @@ hide_hero: true
                     {% for p in site.pages %}
                       {% if p.layout contains 'idee' %}
                           {% for pt in site.pages %}
-                            {% if pt.layout == 'thema' and pt.themacontent == p.themacontet %}
+                            {% if pt.layout == 'unterthema' and pt.themacontent == p.themacontent %}
                                 {% assign thema =  pt.thema %}
                             {% endif %}
                             {% if pt.layout == 'untertool' and pt.subtool == p.subtool %}

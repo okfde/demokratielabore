@@ -40,11 +40,14 @@ hide_hero: true
                     {% for p in site.pages %}
                       {% if p.layout contains 'idee' %}
                           {% for pt in site.pages %}
-                            {% if pt.layout == 'unterthema' and pt.themacontent == p.themacontent %}
-                                {% assign thema =  pt.thema %}
-                            {% endif %}
-                            {% if pt.layout == 'untertool' and pt.subtool == p.subtool %}
-                                {% assign tool =  pt.tool %}
+                            {% if pt.layout == 'unterthema' %}
+                                {% assign pa = p.themacontent | replace:' ','' | split:',' %}
+                                {% if pa contains pt.themacontent %}
+                                    {% assign thema =  pt.thema %}
+                                {% endif %}
+                                {% if pt.layout == 'untertool' and pt.subtool == p.subtool %}
+                                    {% assign tool =  pt.tool %}
+                                {% endif %}
                             {% endif %}
                           {% endfor %}
                           <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser idea {{ thema }} {{ tool }}">

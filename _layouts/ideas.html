@@ -20,7 +20,7 @@ hide_hero: true
                         {{ content }}
                     </p>
                     <div class="filter-items green">
-                        <h4 class="filter-items-headline">NACH THEMEN FILTERN:</h4>
+                        <h4 class="filter-items-headline">NACH THEMEN & TOOLS FILTERN:</h4>
                         <div class="filter-items-inner col-xs-24">
                             {% for p in site.pages %}
                             {% if p.layout == 'thema' %}
@@ -39,14 +39,19 @@ hide_hero: true
                     <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% for p in site.pages %}
                       {% if p.layout contains 'idee' %}
+                        {% assign thema = '' %}
+                        {% assign tool = '' %}
                           {% for pt in site.pages %}
                             {% if pt.layout == 'unterthema' %}
                                 {% assign pa = p.themacontent | replace:' ','' | split:',' %}
                                 {% if pa contains pt.themacontent %}
-                                    {% assign thema =  pt.thema %}
+                                    {% assign thema =  thema | append: ' ' | append: pt.thema %}
                                 {% endif %}
-                                {% if pt.layout == 'untertool' and pt.subtool == p.subtool %}
-                                    {% assign tool =  pt.tool %}
+                            {% endif %}
+                            {% if pt.layout == 'untertool' %}
+                                {% assign pa = p.subtool | replace:' ','' | split:',' %}
+                                {% if pa contains pt.subtool %}
+                                    {% assign tool =  tool | append: ' ' | append: pt.tool %}
                                 {% endif %}
                             {% endif %}
                           {% endfor %}

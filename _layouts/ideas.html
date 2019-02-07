@@ -19,9 +19,9 @@ hide_hero: true
                     <p>
                         {{ content }}
                     </p>
-                    <div class="filter-items green">
-                        <h4 class="filter-items-headline ideas">NACH THEMEN & TOOLS FILTERN:</h4>
-                        <div class="filter-items-inner col-xs-24">
+                    <div class="filter-items green ideas col-xs-24 ">
+                        <h4 class="filter-items-headline ideas">NACH TOOLS FILTERN:</h4>
+                        <div class="filter-items-inner ">
                             {% for p in site.pages %}
                             {% if p.layout == 'thema' %}
                             <a href="/" data-filter=".{{ p.thema }}" class="filter-item red">{{ p.title }}</a>
@@ -30,12 +30,13 @@ hide_hero: true
                             <a href="/" data-filter=".{{ p.tool }}" class="filter-item blue">{{ p.title }}</a>
                             {% endif %}
                             {% endfor %}
+                            <a href="/" data-filter=".{{ 'dauer-1' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-1'] }}</a>
+                            <a href="/" data-filter=".{{ 'dauer-2' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-2'] }}</a>
+                            <a href="/" data-filter=".{{ 'dauer-3' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-3'] }}</a>
                         </div>
                     </div>
-                    <p>Du hast eigene Ideen oder kennst gute Beispiele? Dann veröffentliche sie auf dieser Plattform:
 
-                        <a href="/materialsammlung/ideas/add"><button class="btn btn-default btn-submit">Projektidee einreichen</button></a>
-                    </p>
+
                 </div>
             </div>
             <div class="container">
@@ -43,6 +44,9 @@ hide_hero: true
                     <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
                     {% for p in site.pages %}
                       {% if p.layout contains 'idee' %}
+                        {% if p.dauer %}
+                            {% assign dauer = p.dauer %}
+                        {% endif %}
                         {% assign thema = '' %}
                         {% assign tool = '' %}
                           {% for pt in site.pages %}
@@ -59,7 +63,7 @@ hide_hero: true
                                 {% endif %}
                             {% endif %}
                           {% endfor %}
-                          <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser idea {{ thema }} {{ tool }}">
+                          <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser idea {{ thema }} {{ tool }} {{ dauer }}">
                               {% include idea-teaser-tile.html post=p %}
                           </div>
                       {% endif %}

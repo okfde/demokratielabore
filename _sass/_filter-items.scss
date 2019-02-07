@@ -52,7 +52,6 @@ filter items
   }
 
   &.green{
-
     .filter-item{
       background-color: #000dfe;
       color: $white;
@@ -64,6 +63,10 @@ filter items
       &.blue{
       background-color: #000dfe;
       color: $white;
+      }
+      &.green{
+      background-color: #00f9ac;
+      color: $black;
       }
       &.green_red{
       background-color: #00f9ac;

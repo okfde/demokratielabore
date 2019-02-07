@@ -5,6 +5,7 @@ title: "Wohnraum selbst gestalten"
 layout: idee
 owner: "owner1"
 hide_hero: true
+dauer: "dauer-2"
 teaser: |
     Nutz 3D-Drucker und gestalte Modelle der von dir gewünschten Wohnräume.
 ---

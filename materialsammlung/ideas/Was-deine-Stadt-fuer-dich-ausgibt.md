@@ -5,6 +5,7 @@ title: "Was gibt deine Stadt für dich aus?"
 layout: idee
 owner: "owner1"
 hide_hero: true
+dauer: "dauer-2"
 teaser: |
     Finde heraus, welche Gelder zur Verfügung stehen und was deine Stadt damit macht. Vielleicht fallen dir Verbesserungsvorschläge ein.
 ---

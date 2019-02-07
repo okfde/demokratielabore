@@ -5,6 +5,7 @@ title: "Mach Luftverschmutzung sichtbar"
 layout: idee
 owner: "owner1"
 hide_hero: true
+dauer: "dauer-2"
 teaser: |
     Werde Teil einer Gemeinschaft von Menschen, die das Thema Feinstaub problematisieren, und bau deine eigene Messstation.
 ---

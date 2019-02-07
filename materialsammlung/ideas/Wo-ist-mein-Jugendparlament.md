@@ -5,6 +5,7 @@ title: "Stadt, Land, Kreis – wo ist mein Jugendparlament?"
 layout: idee
 owner: "owner1"
 hide_hero: true
+dauer: "dauer-3"
 teaser: |
    Recherchiere zu Kinder- und Jugendparlamenten in deinem Wohnort und mach ihre Arbeit bekannter oder gründe selbst eines.
 ---

@@ -5,6 +5,7 @@ title: "Mach deine Stadt barrierefrei"
 layout: idee
 owner: "owner1"
 hide_hero: true
+dauer: "dauer-2"
 teaser: |
     Wie stark manche Menschen durch körperliche Beeinträchtigungen von Barrieren betroffen sind, erfährst du meistens erst, wenn du dich mal in ihre Situation versetzt hast.
 ---

@@ -5,6 +5,7 @@ title: "Werde Reporter*in für regionale Lebensmittel"
 layout: idee
 owner: "owner1"
 hide_hero: true
+dauer: "dauer-3"
 teaser: |
     Was wächst in deiner Umgebung? Berichte darüber und zeig es anderen.
 ---

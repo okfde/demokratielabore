@@ -5,6 +5,7 @@ title: "Pimp deine Klamotten!"
 layout: idee
 owner: "owner1"
 hide_hero: true
+dauer: "dauer-1"
 teaser: |
     Du hast alte Kleidungsstücke, die dir nicht mehr gefallen? Es gibt viele Ideen, wie du sie pimpen kannst!
 ---

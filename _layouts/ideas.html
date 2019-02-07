@@ -24,10 +24,10 @@ hide_hero: true
                         <div class="filter-items-inner col-xs-24">
                             {% for p in site.pages %}
                             {% if p.layout == 'thema' %}
-                            <a href="/" data-filter=".{{ p.thema }}" class="filter-item green">{{ p.title }}</a>
+                            <a href="/" data-filter=".{{ p.thema }}" class="filter-item red">{{ p.title }}</a>
                             {% endif %}
                             {% if p.layout == 'tool' %}
-                            <a href="/" data-filter=".{{ p.tool }}" class="filter-item green">{{ p.title }}</a>
+                            <a href="/" data-filter=".{{ p.tool }}" class="filter-item blue">{{ p.title }}</a>
                             {% endif %}
                             {% endfor %}
                         </div>

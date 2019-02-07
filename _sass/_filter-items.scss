@@ -25,7 +25,9 @@ filter items
     font-size: 0.6em;
     font-weight: 700;
     margin: 4em 0 0 0;
-    
+    &.ideas{
+    margin: 0 0 0 0 !important;
+    }
   }
   .filter-items-inner{
 
@@ -63,9 +65,15 @@ filter items
       background-color: #000dfe;
       color: $white;
       }
-      &.green{
+      &.green_red{
       background-color: #00f9ac;
       color: $black;
+      border-top: 3px solid #FF003F;
+      }
+      &.green_blue{
+      background-color: #00f9ac;
+      color: $black;
+      border-top: 3px solid #000dfe;
       }
       &.darkred {
       background-color: #D90036;

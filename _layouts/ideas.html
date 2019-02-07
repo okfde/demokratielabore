@@ -20,7 +20,7 @@ hide_hero: true
                         {{ content }}
                     </p>
                     <div class="filter-items green">
-                        <h4 class="filter-items-headline">NACH THEMEN & TOOLS FILTERN:</h4>
+                        <h4 class="filter-items-headline ideas">NACH THEMEN & TOOLS FILTERN:</h4>
                         <div class="filter-items-inner col-xs-24">
                             {% for p in site.pages %}
                             {% if p.layout == 'thema' %}
@@ -32,6 +32,10 @@ hide_hero: true
                             {% endfor %}
                         </div>
                     </div>
+                    <p>Du hast eigene Ideen oder kennst gute Beispiele? Dann veröffentliche sie auf dieser Plattform:
+
+                        <a href="/materialsammlung/ideas/add"><button class="btn btn-default btn-submit">Projektidee einreichen</button></a>
+                    </p>
                 </div>
             </div>
             <div class="container">

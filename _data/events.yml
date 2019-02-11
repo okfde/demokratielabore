@@ -146,7 +146,7 @@
 - name: Datenspaziergang mit jugend.beteiligen.jetzt
   date: 2018-10-16
   city: Berlin
-  featured: true
+  featured: false
 - name: Jugendkonferenz
   date: 2018-10-16
   city: Greifswald
@@ -163,7 +163,7 @@
 - name: Minetest Hero Theater - PLAY18
   date: 2018-11-02
   city: Hamburg
-  featured: true
+  featured: false
 - name: Infostand - Tag der Medienkompetenz
   date: 2018-11-05
   city: Düsseldorf
@@ -172,23 +172,23 @@
   url:  'https://bits-und-baeume.org/de'
   date: 2018-11-17
   city: Berlin
-  featured: true
+  featured: false
 - name: Netzwerktreffen Demokratielabore
   date: 2018-11-30
   city: Berlin
-  featured: true
+  featured: false
 - name: Netzwerktreffen Demokratielabore
   date: 2018-11-30
   city: Berlin
-  featured: true
+  featured: false
 - name: Data Dancing - Start der Digital-AG
   url:  'https://demokratielabore.de/blog/digital-ag-start-frankfurt-am-main'
   date: 2019-01-12
   city: Frankfurt am Main
-  featured: true
+  featured: false
 - name: instAR.lab - Digital-AG
   url:  'http://www.lebenx0.de/veranstaltungen/'
   date: 2019-02-09
   city: Frankfurt am Main
-  featured: true
+  featured: false
  

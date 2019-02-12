@@ -24,8 +24,3 @@ Wenn du selbst ein bestimmtes Thema hast, auf das du auf Instagram aufmerksam ma
 Verwende [Hashtags](https://de.wikipedia.org/wiki/Hashtag), um deine Arbeit zu verbreiten und andere zum Mitmachen einzuladen. Achte darauf, wirklich nur Hashtags zu verwenden, die zu deinem Thema passen. So können Menschen, die sich dafür interessieren, deine Posts finden. Außerdem kannst du dir einen eigenen Hashtag ausdenken, den deine Follower verwenden können, damit du auch ihre Posts und Gedanken zum Thema siehst.
 
 Eine andere Möglichkeit, dich mit Leuten auf Instagram über ein Thema auszutauschen, sind Storys. Die bleiben zwar nur 24 Stunden online (es sei denn, du speicherst sie auf deinem Profil), bieten aber Werkzeuge zur aktiven Teilnahme für deine Follower. Über sie kannst du eine Umfrage mit zwei festen Antwortmöglichkeiten posten oder auch eine offene Frage stellen, zu der andere Menschen ihre Meinung sagen können. Das ist ein tolles Hilfsmittel, um herauszufinden, was andere zu einem Thema denken, und so eine Diskussion anzustoßen.
-
-<p class="link-list">
-    <span class="link-list-headline">Links zu Beispielen und Hintergrundinformationen</span>
-    <a class="external-link" href="https://edulabs.de/blog/videos-produzieren-als-p%C3%A4dagogische-methode" target="_blank"></a>
-</p>

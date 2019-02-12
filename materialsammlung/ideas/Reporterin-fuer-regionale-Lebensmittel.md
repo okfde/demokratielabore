@@ -10,7 +10,7 @@ teaser: |
     Was wächst in deiner Umgebung? Berichte darüber und zeig es anderen.
 ---
 
-*Flugmango, Schiffsavocado oder südamerikanische Quinoa – Lebensmittel aus dem Ausland werden häufig unter unfairen Arbeitsbedingungen angebaut und haben lange Transportwege hinter sich, bevor sie bei uns verkauft werden. Das schadet der Umwelt. Dabei gibt es leckere Lebensmittel doch auch in der eigenen Region! Du willst wissen, was in deiner Umgebung wann wächst, Gerichte ausprobieren und deine Erfahrungen mit anderen teilen? Werde Berichterstatter*in für saisonale Lebensmittel!*
+*Flugmango, Schiffsavocado oder südamerikanische Quinoa – Lebensmittel aus dem Ausland werden häufig unter unfairen Arbeitsbedingungen angebaut und haben lange Transportwege hinter sich, bevor sie bei uns verkauft werden. Das schadet der Umwelt. Dabei gibt es leckere Lebensmittel doch auch in der eigenen Region! Du willst wissen, was in deiner Umgebung wann wächst, Gerichte ausprobieren und deine Erfahrungen mit anderen teilen? Werde Berichterstatter\*in für saisonale Lebensmittel!*
 
 ## Details:
 Zunächst schaust du dir an, welches Obst und Gemüse in deiner Region gerade Saison hat. Dafür gibt es sogenannte Saisonkalender, die du dir ausdrucken oder als App herunterladen kannst. Dann entscheidest du, ob du über deine saisonale Woche einen Podcast, ein Video oder einen Fotostream (z.B. auf Instagram) produzieren möchtest. Wichtig ist, dass du dir darüber Gedanken machst, worüber du berichten willst (über die Auswahl der Lebensmittel?, über deine Erfahrungen beim Kochen?).

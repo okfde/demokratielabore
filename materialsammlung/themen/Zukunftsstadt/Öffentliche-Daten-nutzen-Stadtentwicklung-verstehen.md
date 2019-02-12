@@ -16,7 +16,7 @@ teaser: |
 Städte werden immer größer und komplexer. Da ganz allein den Überblick zu behalten schafft niemand mehr. Um trotzdem kluge Entscheidungen treffen zu können, häufen Stadtverwaltungen regelrechte Datenberge in Form von Tabellen, Messwerten und Listen an.
 
 ## Das gibt es bereits
-Diese Daten sind aber nicht nur für Politiker*innen nützlich. Ein Gesetz regelt, dass sie auch für die Bürger*innen einsehbar sein müssen. Und tatsächlich haben viele Städte und Kommunen bereits entsprechende Internetportale aufgebaut. Wer z.B. einen Kindergarten eröffnen möchte, kann dort eventuell herausfinden, in welchem Stadtteil besonders viele junge Familien leben. Du kannst da vielleicht feststellen, weshalb die Dauerkarte fürs Freibad dieses Jahr teurer wurde, oder dir den Bauplan für den Spielplatz neben deiner Schule ansehen.
+Diese Daten sind aber nicht nur für Politiker\*innen nützlich. Ein Gesetz regelt, dass sie auch für die Bürger\*innen einsehbar sein müssen. Und tatsächlich haben viele Städte und Kommunen bereits entsprechende Internetportale aufgebaut. Wer z.B. einen Kindergarten eröffnen möchte, kann dort eventuell herausfinden, in welchem Stadtteil besonders viele junge Familien leben. Du kannst da vielleicht feststellen, weshalb die Dauerkarte fürs Freibad dieses Jahr teurer wurde, oder dir den Bauplan für den Spielplatz neben deiner Schule ansehen.
 
 ## So kannst du selbst aktiv werden
 Vielleicht engagierst du dich, etwa für die Sanierung eures Jugendzentrums, und willst herausfinden, ob das nötige Geld dafür vorhanden wäre?

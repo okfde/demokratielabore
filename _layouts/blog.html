@@ -20,11 +20,33 @@ hide_hero: true
                     </div>
                     {% endfor %}
                 </div>
-                <!-- Pagination links -->
+
+                <div class="blog-page-nav clearfix">
+                    {% if paginator.previous_page_path %}
+                    <a class="newer" href="{{ paginator.previous_page_path }}">Neuere Einträge</a>
+                    {% endif %}
+
+                    {% if paginator.next_page_path %}
+                    <a class="older" href="{{ paginator.next_page_path }}">Ältere Einträge</a>
+                    {% endif %}
+                </div>
+
                 <div class="text-center">
-                    {% include pagination.html %}
                 </div>
             </div>
         </div>
     </div>
 </div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('.blog-page-nav').css('display','none');
+
+    $('.blog-main').infinitescroll({
+        navSelector  : ".blog-page-nav",
+        nextSelector : ".blog-page-nav .older",
+        itemSelector : ".blog-main .blog-post-teaser",
+        });
+    });
+</script>

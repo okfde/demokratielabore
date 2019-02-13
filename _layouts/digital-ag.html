@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="de"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="de" > <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="de" > <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="de" > <!--<![endif]-->
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+		{% if page.title %}
+		{{ page.title }} | {{ site.title }}
+		{% else %}
+		{{ site.title }} ~ {{ site.description }}
+		{% endif %}
+	</title>
+
+	<meta name="description" content="{{ page.excerpt | strip_html }}">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+	{% include head-social-og.html %}
+	<link rel="stylesheet" href="/static/fonts/overpass/overpass.css">
+	<link rel="stylesheet" href="/static/css/bootstrap.css">
+	<link rel="stylesheet" href="/static/css/animate.css">
+	<link rel="stylesheet" href="/static/css/main.css?v=1.4">
+	<link rel="icon" href="/static/img/favicon.ico" type="image/x-icon" />
+
+
+</head>
+
+
+<body>
+<!--[if lt IE 7]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to
+	improve your experience.</p>
+<![endif]-->
+
+<div class="body-wrap">
+	<div class="page-wrap">
+        {% include header-nav.liquid %}
+        <div class="row">
+            {% if page.hide_hero != true %}
+                <div class="fullwidth-image" style="background-image:url({{ page.img_full }});"></div>
+            {% endif %}
+        </div>
+        <div class="beneath-sections jumbotron fond__white">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-10 col-lg-offset-1 section-intro">
+                        <h1 class="section-headline">{{ page.title }}</h1>
+                    </div>
+                </div>
+                <div class="container text__black">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-xs-12 fond_red_gradient jumbotron">
+    <div class="row">
+        <div class="container">
+            <div class="col-lg-10 col-lg-offset-1 section-workshop text__white">
+                <h2 class="section-headline">Digital-AGs und Jugend-Labs</h2>
+                <p>
+                    Hier findest du regionale Werkstätten aus unserem Netzwerk, zu denen du gehen und direkt loslegen kannst. Vom gut ausgestatteten Lab bis hin zu regelmäßigen Workshops ist alles dabei. Bei Fragen wende dich bitte direkt an die Werkstätten.
+                </p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="isotope-wrap">
+                <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+                {% assign sortedLabs = site.labs | sort: 'title' %}
+                {% for lab in sortedLabs %}
+                    {% assign post = lab %}
+                    <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+                        {% include digital-ag-teaser-tile.html post=post %}
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% include footer.html %}
+
+{% include scripts.html %}
+
+{% include piwik.html %}
+</body>
+
+</html>

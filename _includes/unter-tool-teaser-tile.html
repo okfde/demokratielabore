@@ -1,0 +1,20 @@
+<div class="post-teaser-inner tool">
+    {% assign path = include.post.url %}
+    <div class="post-teaser-content">
+        {% if include.post.img %}
+        <div>
+            <img class="tool-picture" src="{{ include.post.img }}" alt="">
+        </div>
+        {% endif %}
+        <div class="post-teaser-description workshop">
+            <a href="{{ path }}"><h3 class="post-teaser-title" >{{ include.post.title }}</h3></a>
+            <p>
+                {{ post.ws_teaser | remove: '<p>' | remove: '</p>'}}
+                {{ include.post.teaser }}
+            </p>
+            <a href="{{ path }}">mehr...</a>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,31 @@
+---
+layout: base
+title: "Themen"
+hide_hero: true
+---
+<div class="row">
+    <div class="col-xs-12 fond__white jumbotron">
+        <div class="row">
+            <div class="container">
+                <div class="col-lg-10 col-lg-offset-1 section-workshop">
+                  <h2 class="section-headline">Themen</h2>
+                    <p>
+                        In unseren Workshops könnt ihr eigene Nachrichtenredaktionen gründen, lernen wie  man den öffentlichen Raum positiv einnimmt oder Cybertrolle mit Argumenten besiegt.
+                    </p>
+                </div>
+            </div>
+            <div class="container">
+                <div class="isotope-wrap">
+                    <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+                    {% for p in site.pages %}
+                    {% if p.thema contains page.thema and p.layout contains 'unterthema' %}
+                        <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+                            {% include thema-teaser-tile.html post=p %}
+                        </div>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

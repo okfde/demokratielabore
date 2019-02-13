@@ -7,17 +7,35 @@
 @import "../_sass/mixins";
 @import "../_sass/base";
 @import "../_sass/hero";
+@import "../_sass/contentpage-elements";
 @import "../_sass/events-panel";
 @import "../_sass/post-teaser";
 @import "../_sass/scrollbars";
 @import "../_sass/mobilemenubutton";
 @import "../_sass/pagination";
+@import "../_sass/filter-items";
+@import "../_sass/forms";
 
-@media screen and (min-width: 375px) {
+/*********************
+RETINA (2x RESOLUTION DEVICES)
+This applies to the retina iPhone (4s) and iPad (2,3) along with
+other displays with a 2x resolution. You can also create a media
+query for retina AND a certain size if you want. Go Nuts.
+*********************/
+@media only screen and (min-width:550px) and (max-width:710px) and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min-width:550px) and (max-width:710px) and (min--moz-device-pixel-ratio: 1.5),
+       only screen and (min-width:550px) and (max-width:710px) and (min-device-pixel-ratio: 1.5){
+
+   // styles in 2x.scss
+   @import "../_sass/2x";
+
+} // end of media query
+
+@media only screen and (max-width: 375px) {
   @import "../_sass/375";
 }
 
-@media screen and (min-width: 481px) {
+@media screen and (max-width: 767px) {
 	@import "../_sass/481";
 }
 
@@ -25,6 +43,9 @@
 	@import "../_sass/768";
 }
 
+@media only screen and (max-width: 1400px) {
+  @import "../_sass/1400";
+}
 
 @media screen and (min-width: 960px) {
 	@import "../_sass/960";

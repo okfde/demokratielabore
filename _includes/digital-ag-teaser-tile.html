@@ -1,0 +1,19 @@
+<div class="post-teaser-inner">
+    <a href="{{post.link}}" target="_blank">
+        <img src="{{post.img}}" class="img-responsive" />
+
+    <div class="post-teaser-content angebot">
+        <h3 class="post-teaser-title" >{{ post.title }}</h3>
+    </a>
+        <div class="post-teaser-description angebot">
+            <p>
+                {{ post.an_teaser | remove: '<p>' | remove: '</p>'}}
+            </p>
+            <p class="ort">#{{ post.ort }}</p>
+        </div>
+
+    </div>
+
+</div>
+
+

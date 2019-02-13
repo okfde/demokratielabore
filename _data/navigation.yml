@@ -1,23 +1,15 @@
 de:
-  - title: Mitmachen
-    url: /mitmachen
-
-  - title: Team
-    url: /team
-
-  - title: Info
+  - title: Über das Projekt
     url: /info
-
   - title: Blog
     url: /blog
-
   - title: Publikationen
     url: /publikationen
-
   - title: Digital-AGs
     url: /angebot/digital-ags
-
   - title: Workshops
     url: /workshops
+  - title: Materialien & Ideen
+    url: /materialsammlung
 
 

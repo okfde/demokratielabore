@@ -9,12 +9,59 @@
 }
 
 .post-teaser{
+  &.thema {
+    .post-teaser-inner{
+      border-top: 3px solid #FF003F;
+    }
+  }
+
+  &.tool {
+    .post-teaser-inner{
+      border-top: 3px solid #000EFF;
+    }
+  }
+  &.idea {
+    .post-teaser-inner{
+      border-top: 3px solid #00f9ac;
+    }
+  }
   .post-teaser-inner{
     margin: 20px;
     @include dropshadow_tile();
     background-color: white;
     display: block;
 
+    &.black {
+      .post-teaser-content.thema {
+        border-top: 3px solid black;
+      }
+    }
+
+    &.red {
+      .post-teaser-content.thema {
+        border-top: 3px solid #fe003e;
+      }
+    }
+    &.darkred {
+      .post-teaser-content.thema {
+        border-top: 3px solid #d90034;
+      }
+    }
+    &.orange {
+      .post-teaser-content.thema {
+        border-top: 3px solid #ec6f19;
+      }
+    }
+    &.purple {
+      .post-teaser-content.thema {
+        border-top: 3px solid #9C1139;
+      }
+    }
+    &.yellow {
+      .post-teaser-content.thema {
+        border-top: 3px solid #ffbe00;
+      }
+    }
     .post-teaser-image{
       height: 250px;
       background-size: cover;
@@ -36,6 +83,24 @@
         text-transform: none;
         margin: 10px 0;
         font-size: 24px;
+        font-weight: 600;
+      }
+
+        .post-teaser-img{
+          background-size: cover;
+          min-width: 50%;
+          float: left;
+          position: absolute;
+          top: 3px;
+          left: 0;
+          bottom:0;
+          margin: 20px;
+        }
+
+      .post-teaser-txt{
+        float: right;
+        width: 50%;
+        padding-left: 40px;
       }
       .post-teaser-meta{
 
@@ -56,24 +121,39 @@
           p{
             font-size: 16px;
             margin: 20px 0;
+            &.ort{
+                color: #0A00FF;
+                font-weight: bold;
+            }
           }
         }
-
-
         a{
           color: #0A00FF;
           font-size: 15px;
-        }
+          font-weight: 600;
+           &:hover{
+            cursor: pointer;
+            color: #000EFF;
+          }
 
+        }
       }
     }
   }
+}
+
+
+.post-teaser-category{
+  margin: 0;
+  font-size: 0.8em;
+  font-weight: 600;
 }
 
 @media screen and (min-width: 768px) {
   .post-teaser {
     .post-teaser-inner {
       .post-teaser-content {
+        padding: 27px;
         &.workshop{
           padding: 20px;
         }
@@ -86,4 +166,27 @@
   .post-teaser {
     padding: 0;
   }
+}
+
+.theme-picture{
+  background-size: cover;
+  min-width: 50%; 
+  float: left; 
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  bottom:0; 
+  margin: 20px;
+}
+
+.tool-picture{
+  background-repeat: no-repeat;
+  width: 70px;
+  height: auto;
+  float: right; 
+  position: absolute; 
+  top: 10px;
+  right: 10px;
+  bottom:0; 
+  margin: 20px;
 }

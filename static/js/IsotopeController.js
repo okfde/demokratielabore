@@ -48,18 +48,32 @@
 
             var filter = $(this).attr('data-filter');
 
+            $('.filter-item').not(this).removeClass('active');
+
             if(!$(this).hasClass('active')){
                 //add filter
 
+                if ($(this).hasClass('not-active')) {
+                  $(this).removeClass('not-active');
+                }
+
                 if(!ref.options.multiple){
                     filterList = [];
-                    $('.filter-item').removeClass('active');
+                    filterGroups[filterGroup] = []
+                    $('.filter-item').not(this).addClass('not-active');
                 }
 
                 ref.addFilterToList(filterGroup, filter);
 
                 $(this).addClass('active');
             } else {
+                $('.filter-item').removeClass('not-active');
+
+                if(!ref.options.multiple){
+                    filterList = [];
+                    filterGroups[filterGroup] = []
+                }
+
                 //remove filter
                 ref.removeFilterFromList(filterGroup, filter);
                 $(this).removeClass('active hover');

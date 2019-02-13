@@ -1,0 +1,73 @@
+---
+layout: base
+title: "Ideen"
+hide_hero: true
+
+---
+
+<div class="row">
+    <div class="col-xs-12 fond__white jumbotron">
+        <div class="row">
+            <div class="container">
+                <div class="col-lg-5 section-sub-material-img">
+                    <img src="{{ page.img-subpage }}" id="sub-page-img">
+                </div>
+                <div class="col-lg-7 section-sub-material">
+                    <a href="/materialsammlung"><p class="sub-material-arrow-back"><img src="/static/img/arrow.svg"> Zurück</p></a>
+
+                    <h2 class="section-headline">{{ page.title }}</h2>
+                    <p>
+                        {{ content }}
+                    </p>
+                    <div class="filter-items green ideas col-xs-24 ">
+                        <h4 class="filter-items-headline ideas">NACH TOOLS, THEMEN & ZEITBEDARF FILTERN:</h4>
+                        <div class="filter-items-inner ">
+                            {% for p in site.pages %}
+                            {% if p.layout == 'thema' %}
+                            <a href="/" data-filter=".{{ p.thema }}" class="filter-item red">{{ p.title }}</a>
+                            {% endif %}
+                            {% if p.layout == 'tool' %}
+                            <a href="/" data-filter=".{{ p.tool }}" class="filter-item blue">{{ p.title }}</a>
+                            {% endif %}
+                            {% endfor %}
+                            <a href="/" data-filter=".{{ 'dauer-1' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-1'] }}</a>
+                            <a href="/" data-filter=".{{ 'dauer-2' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-2'] }}</a>
+                            <a href="/" data-filter=".{{ 'dauer-3' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-3'] }}</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="isotope-wrap">
+                    <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+                    {% for p in site.pages %}
+                      {% if p.layout contains 'idee' %}
+                        {% if p.dauer %}
+                            {% assign dauer = p.dauer %}
+                        {% endif %}
+                        {% assign thema = '' %}
+                        {% assign tool = '' %}
+                          {% for pt in site.pages %}
+                            {% if pt.layout == 'unterthema' %}
+                                {% assign pa = p.themacontent | replace:' ','' | split:',' %}
+                                {% if pa contains pt.themacontent %}
+                                    {% assign thema =  thema | append: ' ' | append: pt.thema %}
+                                {% endif %}
+                            {% endif %}
+                            {% if pt.layout == 'untertool' %}
+                                {% assign pa = p.subtool | replace:' ','' | split:',' %}
+                                {% if pa contains pt.subtool %}
+                                    {% assign tool =  tool | append: ' ' | append: pt.tool %}
+                                {% endif %}
+                            {% endif %}
+                          {% endfor %}
+                          <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser idea {{ thema }} {{ tool }} {{ dauer }}">
+                              {% include idea-teaser-tile.html post=p %}
+                          </div>
+                      {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,180 @@
+
+  {% assign redirect = 'https://demokratielabore.de/materialsammlung/ideas/' %}
+  {% assign project_title = '' %}
+
+
+<div class="row fond__white">
+    <div class="col-xs-12 col-md-8 col-md-offset-2 fond__white jumbotron">
+        <section class="section col-xs-12">
+            <div class="row">
+                <h2 class="section-headline">Projektidee hinzufügen</h2>
+                <p>Schön, dass du deine Ideen über die Demokratielabore-Plattform teilen möchtest! Wir freuen uns über Beispiele, wie du selbst oder dir bekannte Projekte die Gesellschaft positiv gestaltet haben.
+                   <br>Bitte achte darauf, dass verlinkte Inhalte oder verwendete Tools möglichst unter einer <a href="https://opendefinition.org/od/2.0/de/">freien Lizenz</a> stehen.</p>
+            </div>
+            <div class="row">
+              <form id="edit-idea-form" class="form" method="post" action="{{ site.staticman.server }}/v2/entry/{{ site.staticman.repository }}/{{ site.staticman.branch }}/ideas">
+
+                <!-- Random Slug -->
+                <input type="hidden" id="layout" name="fields[layout]" value="idee" spellcheck="false"/>
+
+                <!-- Aussagekräftiger Titel -->
+                <fieldset>
+                  <label for="project-form-name"><strong>Aussagekräftiger Titel</strong> <span class="required">*</span><br>Bitte gebe deiner Projektidee einen aussagekräftigen Titel. Zur Orientierung schaue dir <a href="/materialsammlung/ideas">bestehende Projektideen</a> an.</label>
+                  <input type="text" id="project-form-name" name="fields[title]" value="{{ project_title }}" spellcheck="false" {{editable}}/>
+                </fieldset>
+                <br>
+
+                <!-- Short Text -->
+                <fieldset>
+                  <label for="project-form-short-description"><strong>Kurzbeschreibung</strong><span class="required"> *</span><br>Erläutere deine Idee möglichst knapp: Worum handelt es sich und was kann mit der Projektidee erreicht werden?<br><span id="project-form-short-description-left">(noch 500 Zeichen)</span></label>
+                  <textarea type="text" rows="6" id="project-form-short-description" name="fields[desc]" spellcheck="true">{{ project_desc }}</textarea>
+                </fieldset>
+                <br>
+
+                <!-- Zuordnung zu Themen / Tool -->
+                <fieldset>
+                  <label for="project-form-lizenz"><strong>Zuordnung zu bestehenden Themen oder Tools</strong><br>Dein Projekt sollte zu einem dieser Themen oder Tools passen - wähle einfach das entsprechende aus. Wenn keines passt, ist das auch okay.</label>
+                  <select name="fields[themacontent]" label="Thema">
+                    <option selected disabled hidden>Thema wählen</option>
+                    {% for p in site.pages %}
+                      {% if p.layout == 'thema' %}
+                        <optgroup label="{{ p.title }}">
+                        {% for t in site.pages %}
+                          {% if t.layout == 'unterthema' and t.thema == p.thema %}
+                          <option value="{{ t.themacontent }}">{{ t.title }}</option>
+                          {% endif %}
+                        {% endfor %}
+                        </optgroup>
+                      {% endif %}
+                    {% endfor %}
+                  </select>
+
+                  <select name="fields[subtool]" label="Tool">
+                    <option selected disabled hidden>Tool wählen</option>
+                    {% for p in site.pages %}
+                      {% if p.layout == 'tool' %}
+                        <optgroup label="{{ p.title }}">
+                        {% for t in site.pages %}
+                          {% if t.layout == 'untertool' and t.tool == p.tool %}
+                          <option value="{{ t.subtool }}">{{ t.title }}</option>
+                          {% endif %}
+                        {% endfor %}
+                        </optgroup>
+                      {% endif %}
+                    {% endfor %}
+                  </select>
+                </fieldset>
+                <br>
+
+                <!-- Details  -->
+                <fieldset>
+                  <label for="project-form-details"><strong>Details</strong><br>Für eine genaue Beschreibung des Vorgehens oder anderen Details ist hier Platz, zum Beispiel Tipps, die dir geholfen haben über Hürden, die du überwinden musstest.</label>
+                  <textarea type="text" rows="6" id="project-form-details" name="fields[details]" spellcheck="true">{{ project_details }}</textarea>
+                </fieldset>
+                <br>
+
+                <!-- Link  -->
+                <fieldset>
+                  <label for="project-form-link"><strong>Link zum Material</strong><br>Du hast einen Link, der zu deiner Projektidee verweist, zum Beispiel zu einer Dokumentation? Dann gib ihn hier an:</label>
+                  <input type="text" id="project-form-link" name="fields[link]" value="{{ project_link }}" spellcheck="false"/>
+                </fieldset>
+                <br>
+
+                <!-- Zeitbedarf -->
+                <fieldset>
+                  <label for="project-form-dauer"><strong>Zeitbedarf<br></strong>Wie viel Zeit sollten andere einplanen, um das Projekt umzusetzen?</label>
+                  {% assign dauer = "1 bis 4 Stunden, 1 Tag, Langzeitprojekt" | split: "," %}
+                      {% for d in dauer %}
+                        {% assign d_name = "dauer-" | append: forloop.index %}
+                  <br>
+                  <input name="fields[dauer]" type="checkbox" {% if project_dauer contains d_name %}checked{% endif %} value="dauer-{{ forloop.index }}"><label>&nbsp;&nbsp;{{ d }}</label>
+                      {% endfor %}
+                </fieldset>
+                <br>
+
+                <!-- Materialien / Tags -->
+                <fieldset>
+                  <label for="project-form-tags"><strong>Benötigte Materialien</strong><br>Was wird benötigt, um das Projekt umzusetzen? Stichworte, wie “Notebook”, “Internetanschluss” oder “3D-Drucker”, reichen.</label>
+                  <input type="text" id="project-form-tags" name="fields[tags]" value="{{ project_tags }}" spellcheck="false"/>
+                </fieldset>
+                <br>
+
+                <!-- Tool Author -->
+                <fieldset>
+                  <label><strong>Autor*in</strong><br>Gib deinen Namen sowie eine Mail-Adresse an, damit dich Interessierte kontaktieren können, sofern du das möchtest. Die Daten sind öffentlich einsehbar.</label>
+                        <br>{% for author in page.author-name %}
+                             {% if forloop.length == 1 %}
+                               {% assign author_name = author %}
+                               {% assign author_email = page.author-email %}
+                               {% assign author_website = page.author-website %}
+                             {% else %}
+                               {% assign author_name = author %}
+                               {% assign author_email = page.author-email[forloop.index0] %}
+                               {% assign author_website = page.author-website[forloop.index0] %}
+                             {% endif %}
+                            <label for="project-form-author-name"><strong>Name</strong></label>
+                            <input type="text" id="project-form-author-name" name="fields[author-name]" value="{{ author_name }}" spellcheck="false"/>
+                            <label for="project-form-author-email"><strong>Email</strong></label>
+                            <input type="text" id="project-form-author-email" name="fields[author-email]" value="{{ author_email }}" spellcheck="false"/>
+                            <label for="project-form-author-website"><strong>Site</strong></label>
+                            <input type="text" id="project-form-author-website" name="fields[author-website]" value="{{ author_website }}" spellcheck="false"/>
+
+                             {% endfor %}
+
+                        <div class="contacts">
+                              <label for="project-form-author-name"><strong>Name</strong></label>
+                              <input type="text" id="project-form-author-name" name="fields[author-name]" value="{{ project_author_name  }}" spellcheck="false"/>
+                              <label for="project-form-author-email"><strong>Email</strong></label>
+                              <input type="text" id="project-form-author-email" name="fields[author-email]" value="{{ project_author_email  }}" spellcheck="false"/>
+                              <label for="project-form-author-website"><strong>Website</strong></label>
+                              <input type="text" id="project-form-author-website" name="fields[author-website]" value="" spellcheck="false"/>
+                          </div>
+
+                        <br/>
+                </fieldset>
+                <br>
+
+                <fieldset class="hidden" style="display:none;">
+                  <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
+                  <label for="comment-form-location">Leave blank if you are a human</label>
+                  <input id="spam_info" type="hidden" name="fields[human]" value="false">
+                </fieldset>
+
+
+                <p class="hidden js-notice">
+                  <span class="js-notice-text"></span>
+                </p>
+                <!-- End comment form alert messaging -->
+                <div id="too-many-requests" style="display: none">
+                  Der Text konnte noch nicht gespeichert werden.
+                  Bitte halte dieses Fenster offen und versuche es in einer Minute noch einmal.
+                </div>
+                <fieldset>
+                  <button type="submit" id="comment-form-submit" class="btn btn-default btn-form">Senden</button>
+                </fieldset>
+          </form>
+          <div id="idea-submit-waiting" style="display: none">
+              <h3>Wird geladen...</h3>
+          </div>
+          <div id="idea-submit"></div>
+          <div id="idea-submit-message" style="display: none">
+            <h2>
+              Vielen Dank! Die Idee wird gespeichert. Du findest sie nach der Freigabe <a style="font-size: 28px;" href="https://demokratielabore.de/materialsammlung/ideas">hier</a>.</h2>
+          </div>
+          <div id="idea-submit-error" style="display: none">
+
+            <h2 style="color: red">Beim Absenden deiner Idee ist etwas schiefgelaufen. Hast du die Felder mit den roten Sternchen ausgefüllt? Wenn ja, dann halte dieses Fenster geöffnet, warte bitte eine Minute und versuche es erneut.</h2>
+          </div>
+          <div id="contact-template" style="display: none">
+            <label for="project-form-author-name"><strong>Name</strong></label>
+            <input type="text" id="project-form-author-name" name="fields[author-name]" value="" spellcheck="false"/>
+            <label for="project-form-author-email"><strong>Email</strong></label>
+            <input type="text" id="project-form-author-email" name="fields[author-email]" value="" spellcheck="false"/>
+            <label for="project-form-author-website"><strong>Site</strong></label>
+            <input type="text" id="project-form-author-website" name="fields[author-website]" value="" spellcheck="false"/>
+          </div>
+          </div>
+        </section>
+    </div>
+</div>
+

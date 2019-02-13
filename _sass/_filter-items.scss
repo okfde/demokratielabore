@@ -1,0 +1,158 @@
+/*********************
+filter items
+*********************/
+
+@mixin teaser-shadow(){
+  @include transition(box-shadow .5s ease);
+  box-shadow: 10px 10px 15px 1px rgba(0,0,0,0.1);
+}
+@mixin teaser-shadow-hover(){
+  &:hover{
+    transform: scale(1.025);
+    .teaser-inner{
+      box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.1);
+    }
+  }
+}
+
+.filter-items{
+
+  margin: 30px auto !important;
+  display: table;
+
+  .filter-items-headline{
+    color: $black;
+    font-size: 0.6em;
+    font-weight: 700;
+    margin: 4em 0 0 0;
+    &.ideas{
+    margin: 0 0 0 0 !important;
+    }
+  }
+  .filter-items-inner{
+
+  }
+  .filter-item{
+    @include box();
+    @include teaser-shadow();
+    display: inline-block;
+    font-size: 0.8em;
+    cursor: pointer;
+    padding: 5px 15px;
+    margin: 6px 4px;
+
+    &.shrinked{
+      font-size: 1.25em;
+    }
+
+    &.disabled{
+      pointer-events: none;
+    }
+
+  }
+
+  &.green{
+    .filter-item{
+      background-color: #000dfe;
+      color: $white;
+
+      &.red {
+      background-color: #FF003F;
+      color: $white;
+      }
+      &.blue{
+      background-color: #000dfe;
+      color: $white;
+      }
+      &.green{
+      background-color: #00f9ac;
+      color: $black;
+      }
+      &.green_red{
+      background-color: #00f9ac;
+      color: $black;
+      border-top: 3px solid #FF003F;
+      }
+      &.green_blue{
+      background-color: #00f9ac;
+      color: $black;
+      border-top: 3px solid #000dfe;
+      }
+      &.darkred {
+      background-color: #D90036;
+      color: $white;
+      }
+      &.orange {
+      background-color: #FF6B00;
+      color: $white;
+      }
+      &.yellow {
+      background-color: #FFBE00;
+      color: $white;
+      }
+      &.black {
+        background-color: black;
+        color: white;
+      }
+      &.purple {
+        background-color: #9C1139;
+        color: white;
+      }
+      &.hover, &.active{
+        // background-color: $black;
+        color: $white;
+      }
+
+      &.not-active {
+        background-color: #f2f2f2;
+        color: black;
+      }
+    }
+
+  }
+
+  &.blue{
+
+    .filter-item{
+      background-color: $green;
+      color: $white;
+
+      &.hover, &.active{
+        background-color: $black;
+        color: $white;
+      }
+    }
+
+  }
+
+  &.black{
+
+    .filter-item{
+      background-color: $black;
+      color: $white;
+
+      &.hover, &.active{
+        background-color: $white;
+        color: $black;
+      }
+    }
+
+  }
+
+  &.white{
+
+    .filter-item{
+      background-color: $white;
+      color: $black;
+
+      &.hover, &.active{
+        background-color: $black;
+        color: $white;
+      }
+    }
+
+
+  }
+
+}
+

@@ -1,0 +1,184 @@
+/*********************
+contentpage elements
+*********************/
+.content-element{
+  display: block;
+  width: 100%;
+
+  &.img{
+    width: 40%;
+    margin-bottom: 20px !important;
+      img{
+        width: 100%;
+        height: auto;
+        display: block;
+
+      }
+  }
+
+  &.infobox{
+    @include teaser-shadow();
+
+    background-color: $blue;
+    color: $black;
+    text-align: left;
+    width: 40%;
+    padding: 30px;
+    padding-top: 8px;
+    padding-bottom: 0px;
+
+    .infobox-headline{
+      font-weight: 700;
+      margin-bottom: 15px;
+    }
+
+    img{
+       width: 100%;
+       height: auto;
+       display: block;
+
+    }
+    &.true {
+      background-color: white;
+      .infobox-copy{
+          color: inherit;
+      }
+    }
+    .infobox-copy {
+    a{
+      font-weight: bold;
+      color: white;
+    }
+    a:hover {
+      text-decoration: underline;
+      color: white;
+    }
+    }
+    .infobox-headline, .infobox-copy{
+      color: white;
+      display: block;
+
+    }
+    ul{
+        color: white;
+        line-height: 1.5;
+        padding-left: 20px;
+    }
+  }
+    &.left{
+      float: left;
+      margin-top: 20px;
+      margin-right: 40px;
+      margin-left: 0px;
+      margin-bottom: 45px;
+    }
+    &.right{
+      float:right;
+      margin-top: 20px;
+      margin-right: 0px;
+      margin-left: 40px;
+      margin-bottom: 45px;
+    }
+    &.yes{
+      text-align: center;
+      border-style: dotted;
+      border-color: $blue;
+      background-color: white;
+      .infobox-copy{
+          color: black
+      }
+    }
+
+
+  &.infobox-ag{
+    @include teaser-shadow();
+
+    background-color: #f4f4f4;
+    color: $black;
+    text-align: left;
+    width: 30%;
+    padding-bottom: 0px;
+    
+    &.infobox-image{
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+  }
+}
+
+
+.infobox-content{
+  padding: 10px 20px;
+}
+
+.content-image-wrap{
+  margin-bottom: 50px;
+  img{
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+
+
+.caption{
+  display: block;
+  width: 100%;
+  text-align: left;
+  font-size: $body-font-size;
+  margin-top: 10px;
+
+  a{
+    text-decoration: underline;
+    font-size: $body-font-size !important;
+  }
+}
+
+.videoiframe {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  margin-top: 20px;
+  height: 0;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+}
+
+.infobox-quote {
+
+    background-color: transparent !important;
+    box-shadow: none !important;
+    text-align: left;
+    width: 100%;
+    padding: 20px;
+
+    &.left{
+    float: left;
+    margin-top: 35px;
+    margin-right: 40px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    }
+    &.right{
+    float:right;
+    margin-top: 35px;
+    margin-right: 0px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    }
+
+    .content{
+        font-size: 2.0rem;
+        font-style: Italic;
+        display: block;
+        line-height: 1.5;
+     }
+}

@@ -1,0 +1,45 @@
+/******************************************************************
+Author: Maximilian Voigt
+
+
+******************************************************************/
+
+.post-teaser-img{
+    background-image: none !important;
+    width: 0%;
+}
+.post-teaser-txt{
+    float: left !important;
+    width: 100% !important;
+    padding-left: 0px !important;
+}
+
+.section-sub-material-img{
+    width: 0%;
+}
+
+.section-sub-material{
+    text-align: center;
+}
+
+.page-sub-material-img{
+    width: 50px;
+}
+
+.content-element{
+  display: block;
+  width: 100%;
+
+  &.img{
+    width: 100%;
+  }
+
+  &.infobox{
+
+    width: 100% !important;
+  }
+  &.infobox-ag{
+
+    width: 100% !important;
+  }
+}

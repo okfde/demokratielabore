@@ -27,8 +27,6 @@
 	<link rel="stylesheet" href="/static/css/animate.css">
 	<link rel="stylesheet" href="/static/css/main.css?v=1.4">
 	<link rel="icon" href="/static/img/favicon.ico" type="image/x-icon" />
-
-
 </head>
 
 
@@ -42,7 +40,7 @@
 	<div class="page-wrap">
         {% include header-nav.liquid %}
         <div class="row">
-            {% if page.hide_hero != true %}
+            {% if page.hide_hero != true and page.layout != 'idee' %}
                 <div class="hero-wrap"></div>
                     {% if site.data.events  %}
                         {% include event-calendar.html %}
@@ -55,8 +53,6 @@
         </div>
 	</div>
 </div>
-
-{% include newsletter-form.html %}
 
 {% include footer.html %}
 

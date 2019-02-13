@@ -29,11 +29,30 @@ gems:
 # Collections
 collections:
     workshops:
-        output: true
-        permalink: /workshops/:path/
+      output: true
+      permalink: /workshops/:path/
     angebote:
-        output: true
-        permalink: /angebot/:path/
+      output: true
+      permalink: /angebot/:path/
+    labs:
+      output: true
+      permalink: /labs/:path/
     publikationen:
-        output: true
-        permalink: /publikationen/:path/
+      output: true
+      permalink: /publikationen/:path/
+    ideas:
+      output: true
+      permalink: /idea/:path/
+
+# page_gen:
+#   - data: 'materialsammlung.themen'
+#     index_files: true
+#     template: 'themen'
+#     name: 'title'
+#     dir: 'materialsammlung'
+
+
+staticman:
+  branch: "master"
+  server: "https://staticman.okfn.de"
+  repository: "okfde/demokratielabore"

@@ -1,0 +1,64 @@
+---
+layout: base
+title: "Tools"
+hide_hero: true
+
+---
+
+<div class="row">
+    <div class="col-xs-12 fond__white jumbotron">
+        <div class="row">
+            <div class="container">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <div class="page-sub-material"><a href="./index.html"><p class="sub-material-arrow-back"><img src="/static/img/arrow.svg"> Zurück</p></a></div>
+                    {% assign flag = false %}
+                    {% for p in site.pages %}
+                    {% if p.subtool == page.subtool and p.layout contains 'idee' %}
+                    {% assign flag = true %}
+                    {% endif %}
+                    {% endfor %}
+                    {% if flag == true %}
+
+                    <p>💡 Teste das hier beschriebene Tool direkt und starte dein eigenes Projekt.<a href="#projektideen"> Hier findest du passende Projektideen</a></p>
+                    <hr>
+                    {% endif %}
+                    <h1 class="section-headline">{{ page.title }}</h1>
+                    <p>
+                      {{ content }}
+                    </p>
+                    {% assign flag = false %}
+                    {% for p in site.pages %}
+                    {% if p.subtool == page.subtool and p.layout contains 'idee' %}
+                        {% assign flag = true %}
+                    {% endif %}
+                    {% endfor %}
+                    {% if flag == true %}
+                        <hr>
+                        <h2 id="projektideen">Projektideen</h2>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="container">
+                <div class="isotope-wrap">
+                    <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+                    {% for p in site.pages %}
+                    {% if p.subtool == page.subtool and p.layout contains 'idee' %}
+                        <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser idea">
+                            {% include idea-teaser-tile.html post=p %}
+                        </div>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            {% if page.owner != '' %}
+            <div class="container">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <hr>
+                    <p>Dieses Material wurde von der Organisation <a href="{{ site.data.materialsammlung.owner-link-list[page.owner] }}" target="_blank">{{ site.data.materialsammlung.owner-name-list[page.owner] }}</a> entwickelt und steht unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 </a>| OKF DE{% if site.data.materialsammlung.owner-short-name-list[page.owner] %}/{{ site.data.materialsammlung.owner-short-name-list[page.owner] }}{% endif %}</p>
+                    <hr>
+                </div>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>

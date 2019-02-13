@@ -1,0 +1,21 @@
+<div class="filter-items green">
+  <div class="filter-items-inner col-xs-24">
+    {% assign subthema = [] %}
+    {% for p in site.pages %}
+      {% if p.layout contains 'unterthema' and p.thema == include.thema %}
+        {% if subthema %}
+        {% unless subthema contains p.unterthema %}
+        {% assign subthema = subthema | append:'|' %}
+        {% endunless %}
+        {% endif %}
+        {% unless subthema contains p.unterthema %}
+        {% assign subthema = subthema | append: p.unterthema %}
+        {% endunless %}
+      {% endif %}
+    {% endfor %}
+    {% assign subthema = subthema | split:'|' %}
+    {% for st in subthema %}
+      <a href="/" data-filter=".{{ st }}" class="filter-item {{site.data.materialsammlung.unterthema-color[st]}}">{{site.data.materialsammlung.unterthema[st]}}</a>
+    {% endfor %}
+  </div>
+</div>

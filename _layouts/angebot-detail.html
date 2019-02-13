@@ -62,30 +62,6 @@
                 </div>
             </div>
         </div>
-        <div class="col-xs-12 fond_darkblue_gradient jumbotron">
-            <div class="row">
-                <div class="container">
-                    <div class="col-lg-10 col-lg-offset-1 section-workshop text__white">
-                        <h2 class="section-headline">Weitere Angebote</h2>
-                        <p>
-                            Damit unsere Workshopangebote keine einmalige Sache bleiben, wollen wir unser Wissen auf allen Ebenen weitergeben.
-                        </p>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="isotope-wrap">
-                        <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
-                        {% assign sortedAngebote = site.angebote | sort: 'title' %}
-                        {% for angebot in sortedAngebote %}
-                            {% assign post = angebot %}
-                            <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
-                                {% include angebote-teaser-tile.html post=post %}
-                            </div>
-                        {% endfor %}
-                    </div>
-                </div>
-            </div>
-    	</div>
     </div>
 </div>
 

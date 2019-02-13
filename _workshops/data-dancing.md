@@ -9,7 +9,7 @@ img: "/workshops/teasers/datadancing.png"
 img_full: "/workshops/heros/datadancing.png"
 ws_date: "16. februar"
 ws_year: "2018"
-ws_teaser: Entwirf eine App, die Freunden vernetzt! Wieviele Informationen möchtest du freigeben, um die Daten anderer zu sehen? In diesem Workshop lernst du, wie man mit Papier und Tablets interaktive Prototypen erstellt, welche Rolle Anonymität und Überwachung spielt und warum Schubladen-Denken nervt.
+ws_teaser: Entwirf eine App, die Freunde miteinander vernetzt! Wie viele Informationen möchtest du freigeben, um die Daten anderer zu sehen? In diesem Workshop lernst du, wie man mit Papier und Tablets interaktive Prototypen erstellt, welche Rolle Anonymität und Überwachung spielt und warum Schubladen-Denken nervt.
 link: '/workshops/data-dancing'
 featured: true
 
@@ -27,13 +27,13 @@ downloads:
 
 <h3>Kurzbeschreibung</h3>
 <p>
-	Alle Teilnehmenden entwerfen zum Start diverse Charaktere, bei denen teilweise Eigenschaften vorgegeben sind. Diese gilt es in kleinen Gruppen zusammenzuführen - durch welche App könne das gelingen? Wie können sie sich über welche Hobbys, Interessen oder sonstigen Gemeinsamkeiten kennenlernen? Oder spielen Sensoren und Automatismen eine viel größere Rolle?
+	Alle Teilnehmenden entwerfen zum Start verschiedene Charaktere, bei denen teilweise schon Eigenschaften vorgegeben sind. Diese gilt es in kleinen Gruppen zusammenzuführen - durch welche App könne das gelingen? Wie können sie sich über ihre Hobbys, Interessen oder sonstigen Gemeinsamkeiten kennenlernen? Oder spielen Sensoren und Automatismen eine viel größere Rolle?
     </p>
 <p>
-    Mit einer kurzen Einführung in die Basics des App-Designs werden diese Screen für Screen auf Papier aufgezeichnet, abfotografiert und die Fotos letztlich mit Hilfe eines Tablets untereinander verknüpft, so dass ein klickbarer Prototyp der Idee entsteht. Anhand einer kleinen Nutzungsgeschichte wird diese gegen Ende auch vorgestellt.
+    Mit einer kurzen Einführung in die Basics des App-Designs werden diese Screen für Screen auf Papier aufgezeichnet, abfotografiert und die Fotos mit Hilfe eines Tablets untereinander verknüpft, sodass ein klickbarer Prototyp der Idee entsteht. Anhand einer kleinen Nutzungsgeschichte stellen die Teilnehmenden ihre App-Prototypen am Ende des Workshops vor.
     </p>
 <p>
-Gemeinsam wird nun geschaut: Welche Daten nutzen diese Apps? Was könnte man mit den Daten aus Hersteller- oder aus Freundesperspektive alles anstellen? Funktionieren die Apps auch für andere der diversen Figuren? Tragen sie dazu bei, in einer sozialen Blase zu bleiben oder daraus auszubrechen?
+Gemeinsam schauen wir dann: Welche Daten nutzen diese Apps? Was könnte man mit den Daten aus Hersteller- oder aus Freundesperspektive alles anstellen? Funktionieren die Apps auch für andere Figuren? Tragen sie dazu bei, in einer sozialen Blase zu bleiben oder daraus auszubrechen?
 
     </p>
 <p>

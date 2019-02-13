@@ -1,0 +1,41 @@
+---
+layout: base
+title: "Themen"
+hide_hero: true
+---
+<div class="row">
+    <div class="col-xs-12 fond__white jumbotron">
+        <div class="row">
+            <div class="container">
+                <div class="col-lg-10 col-lg-offset-1 section-sammlung">
+                  <h2 class="section-headline">Aktiv werden und Demokratie mitgestalten</h2>
+                    <p id="teaser-oer-page">
+                        Wie schaffen wir es, eine Gesellschaft zu gestalten, die offen ist und im Sinne der Gemeinschaft agiert? Wir müssen aktiv werden. Hier findest du Materialien zu Themen, die eine solche Gesellschaft ausmachen, und Tools, mit denen du zu einer solchen offenen Gesellschaft beitragen und deine Meinung sichtbar machen kannst.<br><strong>Wenn du gleich damit loslegen möchtest, dann schau dir die <a href="/materialsammlung/ideas/">Projektideen</a> an.</strong>
+                    </p>
+                    {% include blog-filters.liquid %}
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="isotope-wrap">
+                    <div class="grid-sizer col-xs-12 col-md-6 col-lg-3"></div>
+                    {% for p in site.pages %}
+                      {% if p.layout == 'thema' or p.layout == 'tool' %}
+                        {% if p.layout == 'thema' %}
+                        <div class="col-xs-12 col-md-6 col-lg-6 isotope-item post-teaser thema">
+                        {% else %}
+                        <div class="col-xs-12 col-md-6 col-lg-3 isotope-item post-teaser tool">
+                        {% endif |%}
+                          {% if p.layout == 'thema' %}
+                            {% include thema-teaser-tile.html post=p %}
+                          {% else %}
+                            {% include tool-teaser-tile.html post=p %}
+                          {% endif %}
+                        </div>
+                      {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

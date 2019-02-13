@@ -1,0 +1,39 @@
+<!-- Blog -->
+<div class="beneath-sections jumbotron fond__white">
+</div>
+
+<div class="beneath-sections jumbotron fond__white">
+    <div class="col-lg-8 col-lg-offset-2 title">
+        <div class="container text-center text__black">
+            <h1 class="section-headline">Neues, News und Neuigkeiten</h1>
+        </div>
+    </div>
+</div>
+
+<div class="beneath-sections jumbotron fond__white">
+    <div class="row">
+        <div class="col-lg-6 col-lg-offset-3 blog-main" >
+            
+        </div> 
+    </div>
+
+<div class="rss-feed col-lg-2">
+    <h3><a href="/feed.xml">RSS Feed</a></h3>
+</div>
+
+</div>
+<script src="/static/js/jquery.infinitescroll.min.js"></script>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+    $('.blog-page-nav').css('display','none');
+
+    $('.blog-main').infinitescroll({
+        navSelector  : ".blog-page-nav",
+        nextSelector : ".blog-page-nav .older",
+        itemSelector : ".blog-main .blog-post-teaser",
+        });
+    });
+</script>

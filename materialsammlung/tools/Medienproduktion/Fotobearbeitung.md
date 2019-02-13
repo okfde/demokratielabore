@@ -3,7 +3,7 @@ tool: tool3
 title: Eigene Bilder bewerben & Themen setzen
 subtool: subtool16
 layout: untertool
-owner: "owner3"
+owner: "owner4"
 hide_hero: true
 teaser: |
     Mit Instagram folgst du nicht nur deinen Lieblingen. Du kannst auch selbst aktiv werden und dich für dir wichtige Themen einsetzen.

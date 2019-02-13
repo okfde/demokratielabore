@@ -5,7 +5,7 @@ date: 2019-02-13
 excerpt:
 images:
  -
-   imgname: instarlab_FFM.JPG
+   imgname: instarlab_FFM.jpg
    sub: "<a href=''>CC BY 4.0, OKF DE, Foto: Lea Pfau</a>"
 published: true
 title: "Das war das erste instAR.lab der Digital-AG Frankfurt"

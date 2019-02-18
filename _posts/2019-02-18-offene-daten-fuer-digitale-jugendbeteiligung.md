@@ -42,3 +42,5 @@ Ein Beispiel dafür, wo offene Daten auch für die Jugendarbeit genutzt werden k
 <center><img src="/assets/blog/moers.JPG" alt="Haushalt der Stadt Moers, OffenerHaushalt.de" width="60%"></center>
 
 Weitere Ideen zur Nutzung von offenen Daten für die Jugendarbeit gibt es auch in unserem [Lernmaterial zu Open Data](https://demokratielabore.de/publikationen/downloads/Handreichung_Offene_Daten.pdf) und auf unserer [Materialplattform](https://demokratielabore.de/materialsammlung).
+
+*Dieser Artikel ist in leicht veränderter Form zuerst auf [jugend.beteiligen.jetzt](https://jugend.beteiligen.jetzt/aktuelles/themen/thema-offene-daten/offene-daten-fuer-die-digitale-jugendbeteiligung) erschienen.*

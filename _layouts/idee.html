@@ -26,7 +26,9 @@ hide_hero: true
                     <p>
                       {{ content }}
                     </p>
-
+                    {% if page.link %}
+                    <center><a href="{{ page.link }}" type="button" class="btn btn-default" style="color: #f21c5e">Mehr zur Idee</a></center>
+                    {% endif %}
                     {% if page.themacontent or page.subtool %}
                         <hr>
                         <h2 id="projektideen">Verbundene Themen und Tools</h2>

@@ -29,7 +29,7 @@ Die Beschäftigung mit offenen Daten in der Jugendarbeit kann sich zunächst auf
 - Wie viele öffentliche Fußballplätze gibt es und wie steht es um deren Zustand über die Jahre hinweg? <br>
 - Wie viel Geld wurde in den vergangenen Jahren für bestimmte Bereiche wie Jugendzentren, Radwege oder Bildungsprojekte ausgegeben? <br>
 
-Die Antworten auf diese Fragen können Jugendliche dann ganz konkret Daten recherchieren und diese in ihrer Ansprache an Verwaltung und politische Entscheidungsträger\*innen nutzen, um ihren Forderungen Gewicht zu verleihen.
+Die Antworten auf diese Fragen können Jugendliche dann ganz konkret Daten recherchieren und diese in ihrer Ansprache an Verwaltung und politische Entscheidungsträger\*innen nutzen, um ihren Forderungen Gewicht zu verleihen. Viele offene Datensätze von öffentlichen Einrichtungen in Deutschland gibt es z. B. bei [Govdata.de](https://www.govdata.de/). 
 
 Eine weitere Möglichkeit sich mit offenen Daten  in Kombination mit Making und Coding zu beschäftigen, sind  Veranstaltungsformate wie [Jugend-Hackathons](https://handbuch.jugendhackt.de). Dabei entwickeln Jugendliche eigene kleine Anwendungen, von deren Grundideen auch die eigenen Region profitieren kann.
 

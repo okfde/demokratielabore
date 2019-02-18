@@ -15,6 +15,7 @@ dauer: dauer-2
 tags: 'Computer, Twine'
 author-name: Johanna Otte
 author-email: johanna.otte@creative-gaming.eu
+owner: "owner2"
 author-website: 'http://www.creative-gaming.eu/'
 date: '2019-02-05T07:56:30.971Z'
 slug: thema-hate-speech-in-twine

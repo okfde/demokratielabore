@@ -42,7 +42,7 @@
             //isotope
             isotopeController = new IsotopeController(this);
             var options = {
-                multiple: false //if set to TRUE you can filter by multiple items
+                multiple: true //if set to TRUE you can filter by multiple items
             };
             isotopeController.init(options);
         }

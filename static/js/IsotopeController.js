@@ -27,6 +27,12 @@
         ref.options = pOptions;
 
         filterGroups = {};
+
+        $('.filter-item').each(function(i,e) {
+          var group = $(e).attr('data-filter-group')
+          filterGroups[group] = []
+        });
+
         filterList = [];
 
         $itemsWrap = $('.isotope-wrap');
@@ -38,17 +44,15 @@
 
             e.preventDefault();
 
-            var $buttonGroup = $(this).parents('.filter');
             var filterGroup = ''
-            if ($buttonGroup) {
-                filterGroup = $buttonGroup.attr('data-filter-group');
+            if (ref.options.multiple) {
+                filterGroup = $(this).attr('data-filter-group')
             } else {
                 filterGroup = 'default';
             }
 
             var filter = $(this).attr('data-filter');
 
-            $('.filter-item').not(this).removeClass('active');
 
             if(!$(this).hasClass('active')){
                 //add filter
@@ -61,13 +65,22 @@
                     filterList = [];
                     filterGroups[filterGroup] = []
                     $('.filter-item').not(this).addClass('not-active');
+                } else {
                 }
 
                 ref.addFilterToList(filterGroup, filter);
 
+                $('.filter-item[data-filter-group="' + filterGroup + '"]').each(function (i, e) {
+                    var f = $(e).attr('data-filter');
+                    if (filterGroups[filterGroup].indexOf(f) < 0) {
+                       $(this).addClass('not-active')
+                    }
+                })
+
                 $(this).addClass('active');
+
             } else {
-                $('.filter-item').removeClass('not-active');
+                // $('.filter-item').removeClass('not-active');
 
                 if(!ref.options.multiple){
                     filterList = [];
@@ -76,7 +89,20 @@
 
                 //remove filter
                 ref.removeFilterFromList(filterGroup, filter);
+
+                $('.filter-item[data-filter-group="' + filterGroup + '"]').each(function (i, e) {
+                    var f = $(e).attr('data-filter');
+                    if (filterGroups[filterGroup].indexOf(f) < 0) {
+                       $(this).addClass('not-active')
+                    }
+                })
+
+                if (filterGroups[filterGroup].length === 0) {
+                   $('.filter-item[data-filter-group="' + filterGroup + '"]').removeClass('not-active');
+                }
+
                 $(this).removeClass('active hover');
+
             }
 
             return false;
@@ -91,12 +117,30 @@
     };
 
     IsotopeController.prototype.concatValues = function ( obj  ) {
-           var value = '';
-           for ( var prop in obj  ) {
-                   value += obj[ prop  ];
+           var filter = [];
+           var groups = Object.keys(obj)
 
+           var recconcat = function (t, i) {
+             for (var r = 1; r < groups.length; ++r) {
+               var nt = []
+               if (t.length > 0) {
+                for (var j = 0; j < t.length; ++j) {
+                  nt = nt.concat(obj[groups[r]].map(x => x + t[j]))
+                }
+                if (nt.length >= t.length) {
+                  t = nt
+                }
+               } else {
+                t = obj[groups[r]]
+               }
+             }
+             return t
            }
-             return value;
+
+           console.log(obj)
+
+           filter = recconcat(obj[groups[0]], 0)
+           return filter.join(',')
     }
 
     IsotopeController.prototype.setTileZindex = function($e){
@@ -109,20 +153,8 @@
     };
 
     IsotopeController.prototype.addFilterToList = function(group, filter){
-        Logger.log("add filter -> " + filter);
-        //check if filter is already in list
-        var found = false;
-        if (filterGroups.hasOwnProperty(group)) {
-            for (var a = 0; a < filterGroups[group].length; ++a) {
-                var f = filterGroups[group][a];
-                if(filter == f) found = true;
-            }
-        } else {
-             filterGroups[group] = [];
-             found = false;
-        }
-        if(!found) filterGroups[group].push(filter);
-        //ref.filterList(filterGroups.join());
+        Logger.log("add filter -> " + filter, group);
+        filterGroups[group].push(filter);
         ref.filterList();
     };
 
@@ -164,6 +196,7 @@
             }).isotope({
                 itemSelector: '.isotope-item',
                 percentPosition: true,
+                multiple: true,
                 masonry: {
                     // use element for option
                     columnWidth: '.grid-sizer',

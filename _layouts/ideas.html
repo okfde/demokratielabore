@@ -23,16 +23,16 @@ hide_hero: true
                         <h4 class="filter-items-headline ideas">NACH TOOLS, THEMEN & ZEITBEDARF FILTERN:</h4>
                         <div class="filter-items-inner ">
                             {% for p in site.pages %}
-                            {% if p.layout == 'thema' %}
-                            <a href="/" data-filter=".{{ p.thema }}" class="filter-item red">{{ p.title }}</a>
-                            {% endif %}
-                            {% if p.layout == 'tool' %}
-                            <a href="/" data-filter=".{{ p.tool }}" class="filter-item blue">{{ p.title }}</a>
-                            {% endif %}
+                              {% if p.layout == 'thema' %}
+                                <a href="/" data-filter-group="thema" data-filter=".{{ p.thema }}" class="filter-item red">{{ p.title }}</a>
+                              {% endif %}
+                              {% if p.layout == 'tool' %}
+                                <a href="/" data-filter-group="tool" data-filter=".{{ p.tool }}" class="filter-item blue">{{ p.title }}</a>
+                              {% endif %}
                             {% endfor %}
-                            <a href="/" data-filter=".{{ 'dauer-1' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-1'] }}</a>
-                            <a href="/" data-filter=".{{ 'dauer-2' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-2'] }}</a>
-                            <a href="/" data-filter=".{{ 'dauer-3' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-3'] }}</a>
+                            <a href="/" data-filter-group="time" data-filter=".{{ 'dauer-1' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-1'] }}</a>
+                            <a href="/" data-filter-group="time" data-filter=".{{ 'dauer-2' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-2'] }}</a>
+                            <a href="/" data-filter-group="time" data-filter=".{{ 'dauer-3' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-3'] }}</a>
                         </div>
                     </div>
                 </div>

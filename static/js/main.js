@@ -41,6 +41,7 @@
         if($('.isotope-wrap').length > 0){
             //isotope
             isotopeController = new IsotopeController(this);
+            window.isotope = isotopeController;
             var options = {
                 multiple: false //if set to TRUE you can filter by multiple items
             };

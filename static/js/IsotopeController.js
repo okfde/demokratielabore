@@ -108,7 +108,7 @@
         }
     };
 
-    IsotopeController.prototype.addFilterToList = function(group, filter){
+    IsotopeController.prototype.addFilterToList = function(group, filter, unique=false, andFilter=true){
         Logger.log("add filter -> " + filter);
         //check if filter is already in list
         var found = false;
@@ -121,10 +121,34 @@
              filterGroups[group] = [];
              found = false;
         }
-        if(!found) filterGroups[group].push(filter);
+        if(!found) {
+          if (!unique) {
+            filterGroups[group].push(filter);
+          } else {
+            filterGroups[group] = filter;
+          }
+        }
         //ref.filterList(filterGroups.join());
-        ref.filterList();
+        if (andFilter) {
+          ref.filterList();
+        }
     };
+
+    IsotopeController.prototype.addFilterSelectToList = function(group, filter){
+      var filterValue = '';
+      if (filter !== 'no-filter') {
+        ref.addFilterToList(group, filter, true, false);
+      } else {
+        filterGroups[group] = '';
+      }
+
+      for (var k of Object.keys(filterGroups)) {
+        if (filterGroups[k] !== '')
+          filterValue += '.' + filterGroups[k];
+      }
+
+      $itemsWrap.isotope({ filter: filterValue });
+    }
 
     IsotopeController.prototype.removeFilterFromList = function(group, filter){
         Logger.log("remove filter -> " + filter);

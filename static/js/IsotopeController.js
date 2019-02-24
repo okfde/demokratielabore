@@ -27,6 +27,7 @@
         ref.options = pOptions;
 
         filterGroups = {};
+        ref.filterGroups = filterGroups;
         filterList = [];
 
         $itemsWrap = $('.isotope-wrap');
@@ -109,9 +110,15 @@
     };
 
     IsotopeController.prototype.addFilterToList = function(group, filter, unique=false, andFilter=true){
-        Logger.log("add filter -> " + filter);
+        Logger.log("add filter -> ",  filter);
         //check if filter is already in list
         var found = false;
+        if (!filter) {
+          filterGroups[group] = []
+          ref.filterList();
+          return
+        }
+
         if (filterGroups.hasOwnProperty(group)) {
             for (var a = 0; a < filterGroups[group].length; ++a) {
                 var f = filterGroups[group][a];
@@ -134,18 +141,40 @@
         }
     };
 
-    IsotopeController.prototype.addFilterSelectToList = function(group, filter){
-      var filterValue = '';
-      if (filter !== 'no-filter') {
-        ref.addFilterToList(group, filter, true, false);
-      } else {
-        filterGroups[group] = '';
+    IsotopeController.prototype.concatMultipleValues = function ( obj  ) {
+      var filter = [];
+      var groups = Object.keys(obj)
+
+      var concat = function (t, i) {
+        for (var r = 1; r < groups.length; ++r) {
+          var nt = []
+          if (t.length > 0) {
+           for (var j = 0; j < t.length; ++j) {
+             nt = nt.concat(obj[groups[r]].map(x => x + t[j]))
+           }
+           if (nt.length >= t.length) {
+             t = nt
+           }
+          } else {
+           t = obj[groups[r]]
+          }
+        }
+        return t
       }
 
-      for (var k of Object.keys(filterGroups)) {
-        if (filterGroups[k] !== '')
-          filterValue += '.' + filterGroups[k];
+      filter = concat(obj[groups[0]], 0)
+      return filter.join(',')
+    }
+
+    IsotopeController.prototype.addFilterSelectToList = function(group, filter){
+      var filterValue = '';
+      if (filter) {
+        filterGroups[group] = filter.map(x=>'.'+x)
+      } else {
+        filterGroups[group] = [];
       }
+
+      filterValue = ref.concatMultipleValues(filterGroups)
 
       $itemsWrap.isotope({ filter: filterValue });
     }

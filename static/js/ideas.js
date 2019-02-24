@@ -1,5 +1,5 @@
 jQuery(document).ready(function ($) {
-  $('.selectFilter').change((e) => {
+  $("select[multiple='multiple']").change((e) => {
     window.isotope.addFilterSelectToList($(e.target).attr('data-group'), $(e.target).val());
-  })
+  }).chosen();
 })

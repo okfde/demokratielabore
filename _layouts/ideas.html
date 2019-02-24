@@ -21,24 +21,24 @@ hide_hero: true
                     <div class="filter-items green ideas col-xs-24 ">
                         <h4 class="filter-items-headline ideas">NACH TOOLS, THEMEN & ZEITBEDARF FILTERN:</h4>
                         <div class="filter-items-inner ">
-                            <select data-group="thema" class="selectFilter">
-                              <option value="no-filter" selected>Thema auswählen</option>
+                          <h2>Thema auswählen</h2>
+                            <select multiple="multiple" data-placeholder=" " data-group="thema" class="selectFilter">
                             {% for p in site.pages %}
                             {% if p.layout == 'thema' %}
                             <option value="{{ p.thema }}">{{ p.title }}</option>
                             {% endif %}
                             {% endfor %}
                             </select>
-                            <select data-group="tool" class="selectFilter">
-                              <option value="no-filter" selected>Tool auswählen</option>
+                              <h2>Tool auswählen</h2>
+                            <select multiple="multiple" data-placeholder=" "  data-group="tool" class="selectFilter">
                             {% for p in site.pages %}
                             {% if p.layout == 'tool' %}
                             <option value="{{ p.tool }}">{{ p.title }}</option>
                             {% endif %}
                             {% endfor %}
                             </select>
-                            <select data-group="time" class="selectFilter">
-                              <option value="no-filter" selected>Dauer auswählen</option>
+                            <h2>Dauer auswählen</h2>
+                            <select multiple="multiple" data-placeholder=" "  data-group="time" class="selectFilter">
                               <option value="{{ 'dauer-1' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-1'] }}</option>
                               <option value="{{ 'dauer-2' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-2'] }}</option>
                               <option value="{{ 'dauer-3' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-3'] }}</option>

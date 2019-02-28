@@ -2,7 +2,6 @@
 layout: base
 title: "Ideen"
 hide_hero: true
-
 ---
 
 <div class="row">
@@ -19,20 +18,37 @@ hide_hero: true
                     <p>
                         {{ content }}
                     </p>
-                    <div class="filter-items green ideas col-xs-24 ">
-                        <h4 class="filter-items-headline ideas">NACH TOOLS, THEMEN & ZEITBEDARF FILTERN:</h4>
-                        <div class="filter-items-inner ">
+                    <h3>NACH THEMEN, TOOLS & ZEITBEDARF FILTERN:</h3>
+
+                    <div class="filter-items green ideas col-xs-24 col-lg-4">
+                        <div class="filter-items-inner filterselect">
+                            <select multiple="multiple" data-placeholder="Thema wählen" data-group="thema" class="selectFilter">
                             {% for p in site.pages %}
                             {% if p.layout == 'thema' %}
-                            <a href="/" data-filter=".{{ p.thema }}" class="filter-item red">{{ p.title }}</a>
-                            {% endif %}
-                            {% if p.layout == 'tool' %}
-                            <a href="/" data-filter=".{{ p.tool }}" class="filter-item blue">{{ p.title }}</a>
+                            <option value="{{ p.thema }}">{{ p.title }}</option>
                             {% endif %}
                             {% endfor %}
-                            <a href="/" data-filter=".{{ 'dauer-1' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-1'] }}</a>
-                            <a href="/" data-filter=".{{ 'dauer-2' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-2'] }}</a>
-                            <a href="/" data-filter=".{{ 'dauer-3' }}" class="filter-item green">{{ site.data.materialsammlung.zeitbedarf['dauer-3'] }}</a>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="filter-items green ideas col-xs-24 col-lg-4">
+                        <div class="filter-items-inner filterselect">
+                            <select multiple="multiple" data-placeholder="Tool wählen"  data-group="tool" class="selectFilter">
+                                {% for p in site.pages %}
+                                {% if p.layout == 'tool' %}
+                                <option value="{{ p.tool }}">{{ p.title }}</option>
+                                {% endif %}
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+                    <div class="filter-items green ideas col-xs-24 col-lg-4">
+                        <div class="filter-items-inner filterselect">
+                            <select multiple="multiple" data-placeholder="Zeitbedarf wählen"  data-group="time" class="selectFilter">
+                                <option value="{{ 'dauer-1' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-1'] }}</option>
+                                <option value="{{ 'dauer-2' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-2'] }}</option>
+                                <option value="{{ 'dauer-3' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-3'] }}</option>
+                            </select>
                         </div>
                     </div>
                 </div>

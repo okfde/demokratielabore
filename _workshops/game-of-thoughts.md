@@ -1,4 +1,4 @@
----
+﻿---
 title: "Game Of Thoughts"
 thema: "Meinungsbildung"
 prinzip: "Game Jam"
@@ -20,12 +20,15 @@ voraussetzungen:
 downloads:
 - name: 'Steckbrief zum Workshop'
   file: '/workshops/downloads/steckbriefe/Steckbrief%20WS%20Game%20of%20Thoughts.pdf'
-- name: 'Online-Ablaufplan'
-  file: 'https://handbuch.demokratielabore.de/#3-3-Game%20of%20Thoughts%20%E2%80%93%20Kleine%20Spiele%20selbst%20gemacht'
-- name: 'Benötigtes Material (Ablauf, Präsentation, Print)'
+- name: 'Ablaufplan'
+  file: '/workshops/downloads/gameofthoughts/GoT Ablaufplan.zip'
+- name: 'Material'
   file: '/workshops/downloads/gameofthoughts/GoT Material.zip'
 - name: 'Tutorial: Game of Thoughts im Zeltlager'
   file: 'https://demokratielabore.de/zeltlager/'
+- name: 'Selbstlernmaterial zu Gamedesign:'
+  file: 'https://demokratielabore.de/materialsammlung/tools/Gamedesign/'
+
 ---
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/tN6a2Oz_gpM?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Invasion der Cybertrolle"
 thema: "Diskussionskultur im Netz"
 prinzip: "Digitales Pen&Paper-Rollenspiel"
@@ -20,14 +20,15 @@ voraussetzungen:
 downloads:
 - name: 'Steckbrief zum Workshop'
   file: '/workshops/downloads/steckbriefe/Steckbrief%20WS%20Invasion%20der%20Cybertrolle.pdf'
-- name: 'Online-Ablaufplan'
-  file: 'https://handbuch.demokratielabore.de/#3-2-Invasion%20der%20Cybertrolle%20%E2%80%93%20Argumente%20gegen%20Trolle'
-- name: 'Begleit-App (BETA!)'
+- name: 'Ablaufplan'
+  file: '/workshops/downloads/invasiondercybertrolle/Invasion der Cybertrolle Ablaufplan.zip'
+- name: 'Material'
+  file: '/workshops/downloads/invasiondercybertrolle/Invasion der Cybertrolle Material.zip'
+- name: 'Begleit-App'
   file: '/workshops/downloads/invasiondercybertrolle/app/index.html'
 - name: 'Begleit-App (Source)'
   file: '/workshops/downloads/invasiondercybertrolle/Invasion%20der%20Cybertrolle.capx'
-- name: 'Benötigtes Material (BETA!)'
-  file: '/workshops/downloads/invasiondercybertrolle/Invasion der Cybertrolle Material - BETA.zip'
+
 
 
 ---

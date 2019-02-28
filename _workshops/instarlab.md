@@ -1,4 +1,4 @@
----
+﻿---
 title: "instAR.lab"
 thema: "Influencer"
 prinzip: "Augmented Reality & Instagram"
@@ -20,7 +20,10 @@ voraussetzungen:
 downloads:
 - name: 'Steckbrief zum Workshop'
   file: '/workshops/downloads/steckbriefe/Steckbrief%20WS%20instAR.lab.pdf'
-
+- name: 'Ablaufplan'
+  file: '/workshops/downloads/instarlab/instARlab Ablaufplan.zip'
+- name: 'Material'
+  file: '/workshops/downloads/instarlab/instARlab Material.zip'
 
 ---
 
@@ -37,7 +40,7 @@ downloads:
 	Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
 </p>
 <p>
-	Die kompletten Materialien und Abläufe folgen im März 2019.
+	Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
 </p>
 
 

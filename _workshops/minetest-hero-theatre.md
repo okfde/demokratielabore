@@ -1,4 +1,4 @@
----
+﻿---
 title: "Minetest Hero Theatre"
 thema: "Ungerechtigkeit"
 prinzip: "Live-Machinima"
@@ -20,7 +20,12 @@ voraussetzungen:
 downloads:
 - name: 'Steckbrief zum Workshop'
   file: '/workshops/downloads/steckbriefe/Steckbrief%20WS%20Minetest%20Hero%20Theatre.pdf'
-
+- name: 'Ablaufplan'
+  file: '/workshops/downloads/minetestherotheatre/MHT Ablaufplan.zip'
+- name: 'Material'
+  file: '/workshops/downloads/minetestherotheatre/MHT Material.zip'
+- name: 'Minetest Template Welt'
+  file: '/workshops/downloads/minetestherotheatre/minetest-0.4.17.1-win64-GoT-Template.zip'
 
 ---
 
@@ -40,7 +45,7 @@ downloads:
 	Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
 </p>
 <p>
-	Die kompletten Materialien und Abläufe folgen im März 2019.
+	Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
 </p>
 
 

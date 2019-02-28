@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ungehörsam"
 thema: "Kreative Meinungsäußerung"
 prinzip: "Digitales Spielbuch"
@@ -20,9 +20,9 @@ voraussetzungen:
 downloads:
 - name: 'Steckbrief zum Workshop'
   file: '/workshops/downloads/steckbriefe/Steckbrief WS Ungehoersam.pdf'
-- name: 'Online-Ablaufplan'
-  file: 'https://handbuch.demokratielabore.de/#3-4-Ungeh%C3%B6rsam%20%E2%80%93%20Gut%20und%20verru%CC%88ckt%20demonstrieren'
-- name: 'Benötigtes Material (Ablauf, Präsentation, Print)'
+- name: 'Ablaufplan'
+  file: '/workshops/downloads/ungehoersam/Ungehörsam Ablaufplan.zip'
+- name: 'Material'
   file: '/workshops/downloads/ungehoersam/Ungehörsam Material.zip'
 - name: 'Ungehörsam-Editor'
   file: '/workshops/downloads/ungehoersam/editor/index.html'

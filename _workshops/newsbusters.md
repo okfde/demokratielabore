@@ -1,4 +1,4 @@
----
+﻿---
 title: "Newsbusters"
 thema: "Medienanalyse und Fake News"
 prinzip: "Simulationsspiel/Gruppenspiel"
@@ -18,9 +18,9 @@ voraussetzungen:
 downloads:
 - name: 'Steckbrief zum Workshop'
   file: '/workshops/downloads/steckbriefe/Steckbrief%20WS%20Newsbusters.pdf'
-- name: 'Online-Ablaufplan'
-  file: 'https://handbuch.demokratielabore.de/#3-1-Newsbusters%20%E2%80%93%20Skandale%20streuen%20und%20aufdecken'
-- name: 'Benötigtes Material (Ablauf, Präsentation, Print)'
+- name: 'Ablaufplan'
+  file: 'workshops/downloads/newsbusters/Newsbusters Ablaufplan.zip'
+- name: 'Material'
   file: '/workshops/downloads/newsbusters/Newsbusters Material.zip'
 
 

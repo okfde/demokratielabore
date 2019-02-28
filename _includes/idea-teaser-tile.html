@@ -7,6 +7,7 @@
         <div class="post-teaser-description workshop">
             <p>
                 {{ include.post.teaser | remove: '<p>' | remove: '</p>'}}
+                {% if include.post.desc %}{{ include.post.desc }}{% endif %}
             </p>
             {% if include.post.dauer %}
             <p>⏰ {{ site.data.materialsammlung.zeitbedarf[include.post.dauer] }}</p>

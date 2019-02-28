@@ -22,10 +22,13 @@ hide_hero: true
                     </p>
                     <hr>
                     <h1 class="section-headline">{{ page.title }}</h1>
+                    <p style="font-style: italic;">{{ page.desc }}</p>
                     <p>
                       {{ content }}
                     </p>
-
+                    {% if page.link %}
+                    <center><a href="{{ page.link }}" type="button" class="btn btn-default" style="background-color: #00f9ac; color: black">Mehr zur Idee</a></center>
+                    {% endif %}
                     {% if page.themacontent or page.subtool %}
                         <hr>
                         <h2 id="projektideen">Verbundene Themen und Tools</h2>
@@ -60,7 +63,7 @@ hide_hero: true
             <div class="container">
                 <div class="col-lg-10 col-lg-offset-1">
                     <hr>
-                    <p>Dieses Material wurde von der Organisation <a href="{{ site.data.materialsammlung.owner-link-list[page.owner] }}" target="_blank">{{ site.data.materialsammlung.owner-name-list[page.owner] }}</a> entwickelt und steht unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 </a>| OKF DE/{{ site.data.materialsammlung.owner-short-name-list[page.owner] }}</p>
+                    <p>Dieses Material wurde von der Organisation <a href="{{ site.data.materialsammlung.owner-link-list[page.owner] }}" target="_blank">{{ site.data.materialsammlung.owner-name-list[page.owner] }}</a> entwickelt und steht unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 </a>| OKF DE{% if site.data.materialsammlung.owner-short-name-list[page.owner] %}/{{ site.data.materialsammlung.owner-short-name-list[page.owner] }}{% endif %}</p>
                     <hr>
                 </div>
             </div>

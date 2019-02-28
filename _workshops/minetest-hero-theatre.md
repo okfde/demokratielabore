@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Minetest Hero Theatre"
 thema: "Ungerechtigkeit"
 prinzip: "Live-Machinima"

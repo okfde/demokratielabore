@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Data Dancing"
 thema: "Diversität & Datenschutz"
 prinzip: "App-Prototyping"

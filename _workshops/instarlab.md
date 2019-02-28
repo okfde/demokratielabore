@@ -1,4 +1,4 @@
-﻿---
+---
 title: "instAR.lab"
 thema: "Influencer"
 prinzip: "Augmented Reality & Instagram"

@@ -18,11 +18,12 @@ hide_hero: true
                     <p>
                         {{ content }}
                     </p>
-                    <h3>NACH THEMEN, TOOLS & ZEITBEDARF FILTERN:</h3>
+                    <h3>NACH KATEGORIE FILTERN:</h3>
 
                     <div class="filter-items green ideas col-xs-24 col-lg-4">
                         <div class="filter-items-inner filterselect">
-                            <select multiple="multiple" data-placeholder="Thema wählen" data-group="thema" class="selectFilter">
+                            <label for="filter-themen">Thema</label>
+                            <select multiple="multiple" data-placeholder="Bitte wählen" data-group="thema" class="selectFilter">
                             {% for p in site.pages %}
                             {% if p.layout == 'thema' %}
                             <option value="{{ p.thema }}">{{ p.title }}</option>
@@ -33,7 +34,8 @@ hide_hero: true
                     </div>
                     <div class="filter-items green ideas col-xs-24 col-lg-4">
                         <div class="filter-items-inner filterselect">
-                            <select multiple="multiple" data-placeholder="Tool wählen"  data-group="tool" class="selectFilter">
+                            <label for="filter-tools">Tool</label>
+                            <select multiple="multiple" data-placeholder="Bitte wählen"  data-group="tool" class="selectFilter">
                                 {% for p in site.pages %}
                                 {% if p.layout == 'tool' %}
                                 <option value="{{ p.tool }}">{{ p.title }}</option>
@@ -44,7 +46,8 @@ hide_hero: true
                     </div>
                     <div class="filter-items green ideas col-xs-24 col-lg-4">
                         <div class="filter-items-inner filterselect">
-                            <select multiple="multiple" data-placeholder="Zeitbedarf wählen"  data-group="time" class="selectFilter">
+                            <label for="filter-zeitbedarf">Zeitbedarf</label>
+                            <select multiple="multiple" data-placeholder="Bitte wählen"  data-group="time" class="selectFilter">
                                 <option value="{{ 'dauer-1' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-1'] }}</option>
                                 <option value="{{ 'dauer-2' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-2'] }}</option>
                                 <option value="{{ 'dauer-3' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-3'] }}</option>

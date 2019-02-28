@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Newsbusters"
 thema: "Medienanalyse und Fake News"
 prinzip: "Simulationsspiel/Gruppenspiel"

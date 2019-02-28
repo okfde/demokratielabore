@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ungehörsam"
 thema: "Kreative Meinungsäußerung"
 prinzip: "Digitales Spielbuch"

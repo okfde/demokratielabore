@@ -27,4 +27,5 @@ Viele öffentliche Flächen liegen brach oder sind einfallslos mit Rasen bepflan
         <a class="external-link" href="https://www.stadtbienen.org/" target="_blank">So kannst du selbst imkern</a>
         <a class="external-link" href="https://anstiftung.de/urbane-gaerten/gaerten-im-ueberblick?view=map" target="_blank">Finde einen Stadtgarten in deiner Nähe</a>
         <a class="external-link" href="http://common-grounds.net/2015/01/356/" target="_blank">Starte mit anderen das eigene Gartenprojekt</a>
+    <a class="external-link" href="https://kinder.wdr.de/tv/wissen-macht-ah/bibliothek/dasfamoseexperiment/riechenundschmecken/bibliothek-blumenbomben-basteln-100.html" target="_blank">Bastel deine eigenen Blumenbomben</a>
 </p>

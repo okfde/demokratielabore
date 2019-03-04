@@ -28,6 +28,6 @@ Das Konzept von Scratch und Snap! steckt auch in den Programmierumgebungen für 
 <p class="link-list">
     <span class="link-list-headline">Links zu Beispielen und Hintergrundinformationen</span>
     <a class="external-link" href="http://starthardware.org/" target="_blank">Eine tolle Einführung in die Programmierung von kleinen Computern</a>
-    <a class="external-link" href="www.jshero.net" target="_blank">Programmieren lernen mit JavaScript Hero</a>
+    <a class="external-link" href="https://www.jshero.net" target="_blank">Programmieren lernen mit JavaScript Hero</a>
 </p>
 

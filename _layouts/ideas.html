@@ -19,39 +19,40 @@ hide_hero: true
                         {{ content }}
                     </p>
                     <h3>NACH KATEGORIE FILTERN:</h3>
-
-                    <div class="filter-items green ideas col-xs-24 col-lg-4">
-                        <div class="filter-items-inner filterselect">
-                            <label for="filter-themen">Thema</label><br>
-                            <select multiple="multiple" data-placeholder="Bitte wählen" data-group="thema" class="selectFilter">
-                            {% for p in site.pages %}
-                            {% if p.layout == 'thema' %}
-                            <option value="{{ p.thema }}">{{ p.title }}</option>
-                            {% endif %}
-                            {% endfor %}
-                            </select>
-                        </div>
-                    </div>
-                    <div class="filter-items green ideas col-xs-24 col-lg-4">
-                        <div class="filter-items-inner filterselect">
-                            <label for="filter-tools">Tool</label><br>
-                            <select multiple="multiple" data-placeholder="Bitte wählen"  data-group="tool" class="selectFilter">
+                    <div class="col-md-offset-2 col-lg-offset-0 col-xs-offset-0">
+                        <div class="filter-items green ideas col-xs-24 col-lg-3 col-md-3">
+                            <div class="filter-items-inner filterselect">
+                                <label for="filter-themen">Thema</label><br>
+                                <select multiple="multiple" data-placeholder="Bitte wählen" data-group="thema" class="selectFilter">
                                 {% for p in site.pages %}
-                                {% if p.layout == 'tool' %}
-                                <option value="{{ p.tool }}">{{ p.title }}</option>
+                                {% if p.layout == 'thema' %}
+                                <option value="{{ p.thema }}">{{ p.title }}</option>
                                 {% endif %}
                                 {% endfor %}
-                            </select>
+                                </select>
+                            </div>
                         </div>
-                    </div>
-                    <div class="filter-items green ideas col-xs-24 col-lg-4">
-                        <div class="filter-items-inner filterselect">
-                            <label for="filter-zeitbedarf">Zeitbedarf</label><br>
-                            <select multiple="multiple" data-placeholder="Bitte wählen"  data-group="time" class="selectFilter">
-                                <option value="{{ 'dauer-1' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-1'] }}</option>
-                                <option value="{{ 'dauer-2' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-2'] }}</option>
-                                <option value="{{ 'dauer-3' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-3'] }}</option>
-                            </select>
+                        <div class="filter-items green ideas col-xs-24 col-lg-3 col-md-3">
+                            <div class="filter-items-inner filterselect">
+                                <label for="filter-tools">Tool</label><br>
+                                <select multiple="multiple" data-placeholder="Bitte wählen"  data-group="tool" class="selectFilter">
+                                    {% for p in site.pages %}
+                                    {% if p.layout == 'tool' %}
+                                    <option value="{{ p.tool }}">{{ p.title }}</option>
+                                    {% endif %}
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="filter-items green ideas col-xs-24 col-lg-3 col-md-3">
+                            <div class="filter-items-inner filterselect">
+                                <label for="filter-zeitbedarf">Zeitbedarf</label><br>
+                                <select multiple="multiple" data-placeholder="Bitte wählen"  data-group="time" class="selectFilter">
+                                    <option value="{{ 'dauer-1' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-1'] }}</option>
+                                    <option value="{{ 'dauer-2' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-2'] }}</option>
+                                    <option value="{{ 'dauer-3' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-3'] }}</option>
+                                </select>
+                            </div>
                         </div>
                     </div>
                 </div>

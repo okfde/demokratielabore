@@ -4,7 +4,7 @@ layout: idee
 title: Programmieren lernen in Minetest
 desc: Lass deine virtuelle Welt mit intelligenten Blöcken lebendig werden!
 themacontent: zukunft7
-subtool: subtool8
+subtool: subtool8, subtool0
 link: >-
   https://www.ch-open.ch/wp-content/uploads/2017/01/11_Workshop-Ronny_Standtke.pdf
 dauer: dauer-3

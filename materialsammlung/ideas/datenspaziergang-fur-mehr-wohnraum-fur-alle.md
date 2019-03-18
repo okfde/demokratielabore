@@ -8,6 +8,7 @@ desc: >-
   Wohnraums aufmerksam machen? Dann erstelle deinen eigenen Datenspaziergang –
   für deine Stadt oder deine Umgebung.
 subtool: subtool16
+themacontent: zukunft12
 link: 'https://spaziergang.demokratielabore.de/overview'
 dauer: dauer-3
 tags: Laptop

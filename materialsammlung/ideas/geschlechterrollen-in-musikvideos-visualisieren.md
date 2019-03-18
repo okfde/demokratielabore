@@ -8,6 +8,8 @@ desc: >-
   visualisiere ihn.
 link: 'https://www.mediamanual.at/mediamanual/workshop/gender/weiblichkeit.php'
 dauer: dauer-3
+themacontent: fs2
+subtool: subtool16
 tags: Laptop
 author-name: Lisa Passing
 author-email: ''

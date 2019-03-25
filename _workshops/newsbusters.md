@@ -19,7 +19,7 @@ downloads:
 - name: 'Steckbrief zum Workshop'
   file: '/workshops/downloads/steckbriefe/Steckbrief%20WS%20Newsbusters.pdf'
 - name: 'Ablaufplan'
-  file: 'workshops/downloads/newsbusters/Newsbusters Ablaufplan.zip'
+  file: '/workshops/downloads/newsbusters/Newsbusters Ablaufplan.zip'
 - name: 'Material'
   file: '/workshops/downloads/newsbusters/Newsbusters Material.zip'
 

@@ -4,6 +4,7 @@ layout: idee
 title: Apps zum Faulenzen
 desc: 'Entwirf eine App, die dir beim Faulenzen hilft.'
 themacontent: fs1
+subtool: subtool20
 link: 'https://familienlabore.de/idee/as-arbeitssperre-alle-spielen'
 dauer: dauer-2
 tags: Laptop

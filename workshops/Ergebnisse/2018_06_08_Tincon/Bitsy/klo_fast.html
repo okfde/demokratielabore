@@ -222,12 +222,12 @@ SPR c
 11111111
 11111111
 DLG SPR_1
-POS 0 12,12
+POS 0 13,13
 
 SPR d
 00000000
-00001111
-00000011
+00001110
+00110011
 00000101
 11111001
 10001000
@@ -237,9 +237,9 @@ DLG SPR_2
 POS 0 4,4
 
 SPR e
-00111100
+00111110
 01000010
-01000010
+01000100
 00100100
 00011000
 00011000
@@ -249,9 +249,9 @@ DLG SPR_3
 POS 0 11,4
 
 ITM 0
-00111100
+00111110
 01000010
-01000010
+01000100
 00100100
 00011000
 00011000
@@ -262,8 +262,8 @@ DLG ITM_0
 
 ITM 1
 00000000
-00001111
-00000011
+00001110
+00110011
 00000101
 11111001
 10001000
@@ -281,29 +281,28 @@ Du bist nun auf dem Männerklo. Es ist wie das Damenklo, nur mit Pinkelbecken.
 DLG SPR_0
 """
 Wähle dein Schicksal!
-
+Und gehe dann in die rechte untere Ecke.
 Dieses Spiel hat kein Ende, weil die Debatte vorerst auch keins hat.
-"""
-
-DLG SPR_2
-"""
-Du bist nun auf dem Männerklo. Es ist wie das Damenklo, {wvy}nur mit Pinkelbecken.{wvy}
-
-Es ist schön, dass du deine Tür wählen konntest! Leider standen viele Geschlechtermöglichkeiten (oder die Möglichkeit sich keinem Zugehörig zu fühlen) nicht zur Auswahl, was dazu führen kann, dass sich Menschen unwohl fühlen.
-"""
-
-DLG SPR_3
-"""
-Du bist nun auf dem Damenklo. Es ist wie das Männerklo, {wvy}nur ohne Pinkelbecken.{wvy}
-
-Es ist schön, dass du deine Tür wählen konntest! Leider standen viele Geschlechtermöglichkeiten (oder die Möglichkeit sich keinem Zugehörig zu fühlen) nicht zur Auswahl, was dazu führen kann, dass sich Menschen unwohl fühlen.
 """
 
 DLG SPR_1
 """
-Es tut mir leid, dass du keine Tür gefunden hast, in der du dich wohlfühlst. Das sollte nicht so sein.
-Man sollte sich keine philosophischen Fragen stellen müssen, nur um kurz pinkeln zu gehen.
+{
+  - {item "0"} == 1 ?
+    Es ist schön, dass du deine Tür wählen konntest! Leider standen viele Geschlechtermöglichkeiten (oder die Möglichkeit sich keinem Zugehörig zu fühlen) nicht zur Auswah, was dazu führen kann, dass sich Menschen unwohl fühlen.
+  - else ?
+    Es tut mir leid, dass du keine Tür gefunden hast, in der du dich wohlfühlst. Das sollte nicht so sein.
+    Man sollte sich keine philosophischen Fragen stellen müssen, nur um kurz pinkeln zu gehen.
+  - {item "man"} == 1 ?
+    Es ist schön, dass du deine Tür wählen konntest! Leider standen viele Geschlechtermöglichkeiten (oder die Möglichkeit sich keinem Zugehörig zu fühlen) nicht zur Auswah, was dazu führen kann, dass sich Menschen unwohl fühlen.
+}
 """
+
+DLG SPR_2
+Du bist nun auf dem Männerklo. Es ist wie das Damenklo, {wvy}nur mit Pinkelbecken.{wvy}
+
+DLG SPR_3
+Du bist nun auf dem Damenklo. Es ist wie das Männerklo, {wvy}nur ohne Pinkelbecken.{wvy}
 
 VAR a
 42

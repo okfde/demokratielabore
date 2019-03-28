@@ -155,3 +155,17 @@ filter items
   }
 
 }
+
+#selectedFilters {
+  margin: 10px;
+  span {
+    background-color: #005adb;
+    color: white;
+    padding: 0px 5px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    font-size: 13px;
+  }
+}

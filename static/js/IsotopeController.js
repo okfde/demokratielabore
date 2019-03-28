@@ -163,15 +163,31 @@
       }
 
       filter = concat(obj[groups[0]], 0)
+      console.log(filter)
       return filter.join(',')
     }
 
     IsotopeController.prototype.addFilterSelectToList = function(group, filter){
-      var filterValue = '';
-      if (filter) {
-        filterGroups[group] = filter.map(x=>'.'+x)
+      Logger.log("add filter -> ",  filter);
+      //check if filter is already in list
+      var found = false;
+      if (!filter) {
+        filterGroups[group] = []
+        ref.filterList();
+        return
+      }
+
+      if (filterGroups.hasOwnProperty(group)) {
+          for (var a = 0; a < filterGroups[group].length; ++a) {
+              var f = filterGroups[group][a];
+              if(filter == f) found = true;
+          }
       } else {
-        filterGroups[group] = [];
+           filterGroups[group] = [];
+           found = false;
+      }
+      if(!found) {
+        filterGroups[group].push(filter);
       }
 
       filterValue = ref.concatMultipleValues(filterGroups)
@@ -179,15 +195,25 @@
       $itemsWrap.isotope({ filter: filterValue });
     }
 
-    IsotopeController.prototype.removeFilterFromList = function(group, filter){
-        Logger.log("remove filter -> " + filter);
+    IsotopeController.prototype.removeFilterFromList = function(group, filter, isMultiple=false){
+        Logger.log("remove filter -> " + group, filter);
+        console.log(filterGroups)
         //check if filter is already in list
         for (var a = 0; a < filterGroups[group].length; ++a) {
             var f = filterGroups[group][a];
-            if(filter == f)filterGroups[group].splice(a, 1);
+            if('.' + filter === f) {
+              console.log('remove')
+              filterGroups[group].splice(a, 1);
+              console.log(filterGroups)
+            }
         }
         //ref.filterList(filterList.join());
-        ref.filterList();
+        if (!isMultiple) {
+          ref.filterList();
+        } else {
+          var filterValue = ref.concatMultipleValues(filterGroups)
+          $itemsWrap.isotope({ filter: filterValue });
+        }
     };
 
     IsotopeController.prototype.filterList = function(filters){

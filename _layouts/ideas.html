@@ -22,8 +22,8 @@ hide_hero: true
                     <div class="col-md-offset-2 col-lg-offset-0 col-xs-offset-0">
                         <div class="filter-items green ideas col-xs-24 col-lg-3 col-md-3">
                             <div class="filter-items-inner filterselect">
-                                <label for="filter-themen">Thema</label><br>
-                                <select multiple="multiple" data-placeholder="Bitte wählen" data-group="thema" class="selectFilter">
+                                <select data-placeholder="Bitte wählen" data-group="thema" class="selectFilter">
+                                  <option disabled selected>Thema</option>
                                 {% for p in site.pages %}
                                 {% if p.layout == 'thema' %}
                                 <option value="{{ p.thema }}">{{ p.title }}</option>
@@ -34,8 +34,8 @@ hide_hero: true
                         </div>
                         <div class="filter-items green ideas col-xs-24 col-lg-3 col-md-3">
                             <div class="filter-items-inner filterselect">
-                                <label for="filter-tools">Tool</label><br>
-                                <select multiple="multiple" data-placeholder="Bitte wählen"  data-group="tool" class="selectFilter">
+                                <select data-placeholder="Bitte wählen"  data-group="tool" class="selectFilter">
+                                    <option disabled selected>Tool</option>
                                     {% for p in site.pages %}
                                     {% if p.layout == 'tool' %}
                                     <option value="{{ p.tool }}">{{ p.title }}</option>
@@ -46,8 +46,8 @@ hide_hero: true
                         </div>
                         <div class="filter-items green ideas col-xs-24 col-lg-3 col-md-3">
                             <div class="filter-items-inner filterselect">
-                                <label for="filter-zeitbedarf">Zeitbedarf</label><br>
-                                <select multiple="multiple" data-placeholder="Bitte wählen"  data-group="time" class="selectFilter">
+                                <select data-placeholder="Bitte wählen"  data-group="time" class="selectFilter">
+                                    <option disabled selected>Zeitbedarf</option>
                                     <option value="{{ 'dauer-1' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-1'] }}</option>
                                     <option value="{{ 'dauer-2' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-2'] }}</option>
                                     <option value="{{ 'dauer-3' }}">{{ site.data.materialsammlung.zeitbedarf['dauer-3'] }}</option>
@@ -55,6 +55,8 @@ hide_hero: true
                             </div>
                         </div>
                     </div>
+                </div>
+                <div id="selectedFilters">
                 </div>
             </div>
             <div class="container">

@@ -28,7 +28,9 @@ downloads:
   file: '/workshops/downloads/minetestherotheatre/minetest-0.4.17.1-win64-GoT-Template.zip'
 
 ---
-
+<div class="embed-container">
+	<iframe src="https://www.youtube-nocookie.com/embed/W1cdbg1Stpg?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 <h3>Kurzbeschreibung</h3>
 <p>

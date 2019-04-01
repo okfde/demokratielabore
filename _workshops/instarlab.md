@@ -27,6 +27,9 @@ downloads:
 
 ---
 
+<div class="embed-container">
+	<iframe src="https://www.youtube-nocookie.com/embed/f4jQGn06QUM?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 <h3>Kurzbeschreibung</h3>
 <p>
@@ -36,9 +39,6 @@ downloads:
     Gemeinsam analysieren, liken und diskutieren wir am Ende die entstandenen Posts. Was geht am ehesten viral und warum? Wie wird potentiell beeinflusst und wo liegt die Verantwortung?
 
     </p>
-<p>
-	Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
-</p>
 <p>
 	Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
 </p>

@@ -26,7 +26,9 @@ downloads:
   file: '/workshops/downloads/datadancing/Data Dancing Material.zip'
 
 ---
-
+<div class="embed-container">
+	<iframe src="https://www.youtube-nocookie.com/embed/OC33I7M5e7w?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 <h3>Kurzbeschreibung</h3>
 <p>

@@ -165,10 +165,9 @@ button:active {
 
 @keyframes tileFadeIn{
   0%{
-    background-color: rgba(#121645, 0)
   }
   100%{
-    background-color: rgba(#121645, 0.8)
+    @include dropshadow_tile();
   }
 }
 

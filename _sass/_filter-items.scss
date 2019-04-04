@@ -10,7 +10,7 @@ filter items
   &:hover{
     transform: scale(1.025);
     .teaser-inner{
-      box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.1);
+      box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.2);
     }
   }
 }
@@ -34,7 +34,8 @@ filter items
   }
   .filter-item{
     @include box();
-    @include teaser-shadow();
+    //@include teaser-shadow();
+    @include transition(all .1s ease);
     display: inline-block;
     font-size: 0.8em;
     cursor: pointer;
@@ -48,7 +49,6 @@ filter items
     &.disabled{
       pointer-events: none;
     }
-
   }
 
   &.green{
@@ -57,12 +57,12 @@ filter items
       color: $white;
 
       &.red {
-      background-color: #FF003F;
-      color: $white;
+        background-color: #FF003F;
+        color: $white;
       }
       &.blue{
-      background-color: #000dfe;
-      color: $white;
+        background-color: #000dfe;
+        color: $white;
       }
       &.green{
       background-color: #00f9ac;
@@ -101,11 +101,14 @@ filter items
       &.hover, &.active{
         // background-color: $black;
         color: $white;
+        text-decoration: none;
+        //@include teaser-shadow();
       }
 
       &.not-active {
         background-color: #f2f2f2;
         color: black;
+        text-decoration: none;
       }
     }
 

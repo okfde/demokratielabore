@@ -30,6 +30,13 @@
     @include dropshadow_tile();
     background-color: white;
     display: block;
+    transition: 200ms;
+
+    &:hover{
+      @include transition(box-shadow .25s ease);
+      box-shadow: 0 0 35px 1px rgba(197, 197, 197, 0.7);
+      //transform: scale(1.005);
+    }
 
     &.black {
       .post-teaser-content.thema {
@@ -80,10 +87,19 @@
       text-align: left;
 
       .post-teaser-title{
-        text-transform: none;
+        text-decoration: none;
         margin: 10px 0;
         font-size: 24px;
         font-weight: 600;
+        }
+        a{
+          color: black;
+          text-decoration: none;
+        
+        a:hover{
+          color: black;
+          text-decoration: none;
+          }
       }
 
         .post-teaser-img{
@@ -113,6 +129,14 @@
           p{
             font-size: 16px;
             margin: 20px 0;
+            font-weight: 500;
+          }
+          a{
+            color: black;
+          }
+          a:hover{
+            color: black;
+            text-decoration: none;
           }
         }
 
@@ -139,9 +163,17 @@
         }
       }
     }
+    .post-teaser-read-more {
+      a{
+        color: black;
+        font-size: 14px;
+        &:hover {
+          color: $mint;
+        }
+      }
+    }
   }
 }
-
 
 .post-teaser-category{
   margin: 0;

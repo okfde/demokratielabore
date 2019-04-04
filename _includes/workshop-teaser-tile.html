@@ -1,16 +1,14 @@
-<div class="post-teaser-inner">
-    <a href="{{post.link}}">
-        <img src="{{post.img}}" class="img-responsive" />
-    </a>
+<a href="{{post.link}}">
+  <div class="post-teaser-inner">
+    <img src="{{post.img}}" class="img-responsive" />
     <div class="post-teaser-content workshop">
         <h3 class="post-teaser-title" >{{ post.title }}</h3>
         <div class="post-teaser-description workshop">
             <p>
                 {{ post.ws_teaser | remove: '<p>' | remove: '</p>'}}
             </p>
-            <a class="post-teaser-read-more" href="{{post.link}}">zum Workshop ⟶ </a>
+            <a class="post-teaser-read-more" href="{{post.link}}">zum Workshop</a>
         </div>
     </div>
-</div>
-
-
+  </div>
+</a>

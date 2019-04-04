@@ -687,30 +687,6 @@ label {
   display: inline-block;
 }
 
-.post-teaser-read-more {
-
-  a{
-    color: $mint;
-    font-size: 14px;
-
-      &:hover{
-        &:after{
-          margin-left: 15px;
-        }
-      }
-    }
-
-  &:after{
-
-    @include transition(margin .25s ease);
-
-    color: $dl-mint;
-    display: inline-block;
-    margin-left: 10px;
-    position: relative;
-    top: 2px;
-  }
-}
 
 .post img {
   max-width: 100%;

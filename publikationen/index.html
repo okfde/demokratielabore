@@ -3,29 +3,93 @@ layout: base
 title: "Publikationen"
 hide_hero: true
 ---
-<div class="row">
-    <div class="col-xs-12 fond__white jumbotron">
-        <div class="row">
-            <div class="container">
-                <div class="col-lg-10 col-lg-offset-1 section-workshop">
-                    <h2 class="section-headline">Publikationen</h2>
-                    <p>
-                       All unsere Publikationen im Überblick
-                    </p>
-                </div>
-            </div>
-            <div class="container">
-                <div class="isotope-wrap">
-                    <div class="grid-sizer col-xs-12 col-sm-6 col-md-4 col-lg-3"></div>
-                    {% assign sortedPublikationen = site.publikationen %}
-                    {% for publikation in sortedPublikationen %}
-                        {% assign post = publikation %}
-                        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 isotope-item post-teaser">
-                            {% include publikation-teaser-tile.html post=post %}
-                        </div>
-                    {% endfor %}
-                </div>
-            </div>
+<div class="title__teens">
+  <h3>Workshops für Jugendliche</h3>
+</div>
+<div class="container-fluid featured-publication-section">
+  <div class="row">
+    <div class="col-lg-11 col-sm-12 col-lg-offset-1 col-md-offset-1 ">
+      <div class="featured-publication">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 featured-publication_inner">
+          <img class="handbuch__image full" src="/static/img/publikationen/handbuch_4.png">
         </div>
+      </div>
+      <div class="col-lg-5 col-md-5 col-sm-6 featured-publication-text">
+        <h2>Handbuch zur Durchführung medienpädagogischer Workshops</h2>
+        <p>
+          Im Rahmen der Demokratielabore haben wir sieben Workshopformate entwickelt, die die digitale Mündigkeit Jugendliche fördern. Dieses Handbuch richtet sich  Pädagog*innen, Mitarbeiter*innen aus Jugendeinrichtungen sowie Fachkräfte der politischen Bildung und soll dazu befähigen, unsere Workshopformate eigenständig durchzuführen. Wir liefern eine detaillierte Anleitung und führen durch die einzelnen Schritte der Umsetzung – von der Planung, Organisation und Kommunikation bis hin zur Nachbereitung und individuellen Anpassung.
+        </p>
+        <div class="klasse">
+          <a href="https://handbuch.demokratielabore.de/"><button type="button" class="btn-arrow">Zu Kapitel 1 <span class="btn-arrow"></span></button></a>
+          <a class="linked" href="/">Download PDF</a>
+        </div>
+      </div>
     </div>
+  </div>
+</div>
+
+<div class="title__specialists">
+  <h3>Workshops für Fachkräfte</h3>
+</div>
+<div class="container-fluid">
+  <div class="col-lg-11 col-lg-offset-1 col-md-offset-1">
+    <div class="publication-section">
+      <div class="publication">
+        <div class="publication-teaser-inner">
+          <div class="overlay">
+            <a href="/publikationen/downloads/Handreichung_Citizen_Science.pdf">
+              <div class="publication-teaser-title">
+                <h3>Citizen Science – Mit Arduinos und Sensoren selbst aktiv werden</h3>
+              </div>
+            </a>
+            <a href="/publikationen/downloads/Handreichung_Citizen_Science.pdf">
+              <img src="/static/img/publikationen/citizen_science_2.png" class="img-responsive"/>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="publication">
+        <div class="publication-teaser-inner">
+          <div class="overlay">
+            <a href="/publikationen/downloads/Handreichung_Offene_Daten.pdf">
+              <div class="publication-teaser-title">
+                <h3>Offene Daten und digitale Beteiligung – Daten in der Jugendarbeit nutzen</h3>
+              </div>
+            </a>
+            <a href="/publikationen/downloads/Handreichung_Offene_Daten.pdf">
+              <img src="/static/img/publikationen/open_data_2.png" class="img-responsive"/>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="publication">
+        <div class="publication-teaser-inner">
+          <div class="overlay">
+            <a href="/publikationen/downloads/Handreichung_digitales_Storytelling.pdf">
+              <div class="publication-teaser-title">
+                <h3>Digitales Storytelling – Daten visualisieren und Geschichten erzählen</h3>
+              </div>
+            </a>
+            <a href="/publikationen/downloads/Handreichung_digitales_Storytelling.pdf">
+              <img src="/static/img/publikationen/storytelling_2.png" class="img-responsive"/>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="publication">
+        <div class="publication-teaser-inner">
+          <div class="overlay">
+            <a href="/publikationen/downloads/Handreichung_Twitterdebatte">
+              <div class="publication-teaser-title">
+                <h3>Eliza meets Tay – Bots bauen und Debatten auf Twitter analysieren</h3>
+              </div>
+            </a>
+            <a href="/publikationen/downloads/Handreichung_Twitterdebatten.pdf">
+              <img src="/static/img/publikationen/debatten_2.png" class="img-responsive"/>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>

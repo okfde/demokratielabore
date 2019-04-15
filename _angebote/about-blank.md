@@ -13,7 +13,7 @@ hide_hero: true
 </p>
 
 <p>
-	Gibt es ein Recht auf Internet? Wie kann ich sicher vor Überwachung kommunizieren? Und wozu brauchen wir eigentlich ein neutrales Netz? In unserem Webvideo-Channel <a  class="highlight-grey" href="https://www.facebook.com/aboutblankvideo/">about:blank</a> gehen wir gemeinsam mit unseren Partnern <a  class="highlight-grey" href="http://medialepfade.org">medialepfade.org</a> und <a  class="highlight-grey" href="https://netzpolitik.org">netzpolitik.org</a> diesen Fragen auf den Grund. 
+	Gibt es ein Recht auf Internet? Wie kann ich sicher vor Überwachung kommunizieren? Und wozu brauchen wir eigentlich ein neutrales Netz? In unserem Webvideo-Channel <a href="https://www.facebook.com/aboutblankvideo/">about:blank</a> gehen wir gemeinsam mit unseren Partnern <a href="http://medialepfade.org">medialepfade.org</a> und <a href="https://netzpolitik.org">netzpolitik.org</a> diesen Fragen auf den Grund. 
 </p>
 <p>
 	In insgesamt 16 Folgen von Dezember 2017 bis April 2018 haben wir die wichtigsten digitalen, netzpolitischen und gesellschaftlichen Themen, die junge Menschen beschäftigen, aufgegriffen und jugendgerecht aufbereitet: Von Fake News und Safer Nudes bis Darknet und Überwachung!
@@ -21,7 +21,7 @@ hide_hero: true
 <br>
 <h2>Schaut doch mal rein</h2>
 <p>
-	<a  class="highlight-grey" href="https://www.youtube.com/channel/UCLGZBlrotKM_nuPPcvuR9SQ">Youtube</a><br>
-	<a  class="highlight-grey" href="http://www.instagram.com/aboutblankvideo/">Instagram</a><br>
-	<a  class="highlight-grey" href="http://www.facebook.com/aboutblankvideo/">Facebook</a>
+	<a href="https://www.youtube.com/channel/UCLGZBlrotKM_nuPPcvuR9SQ">Youtube</a><br>
+	<a href="http://www.instagram.com/aboutblankvideo/">Instagram</a><br>
+	<a href="http://www.facebook.com/aboutblankvideo/">Facebook</a>
 </p>

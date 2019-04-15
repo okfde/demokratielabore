@@ -40,54 +40,75 @@
 
 <div class="body-wrap">
 	<div class="page-wrap">
-        {% include header-nav.liquid %}
+    {% include header-nav.liquid %}
+    <div class="beneath-sections jumbotron fond__white">
+      <div class="container">
         <div class="row">
-            {% if page.hide_hero != true %}
-                <div class="fullwidth-image" style="background-image:url({{ page.img_full }});"></div>
-            {% endif %}
+          <div class="col-lg-10 col-lg-offset-1 section-intro">
+            <h1 class="section-headline">{{ page.title }}</h1>
+            <p>Gemeinsam mit Jugendlichen wollen wir mit Hilfe digitaler Tools die Gesellschaft von morgen gestalten. Da dies etwas mehr Zeit braucht als einen Workshoptag, unterstützen wir euch vor Ort beim Aufbau einer Digital AG.</p>
+          </div>
         </div>
-        <div class="beneath-sections jumbotron fond__white">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-10 col-lg-offset-1 section-intro">
-                        <h1 class="section-headline">{{ page.title }}</h1>
-                    </div>
-                </div>
-                <div class="container text__black">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        {{ content }}
-                    </div>
-                </div>
+        <div class="col-lg-10 col-lg-offset-2 image_section">
+          <img class="img-one" src="/static/img/digital_ag_hero_2.jpg">
+          <img class="img-two" src="/static/img/digital_ag_hero_3.jpg">
+        </div>          
+        <div class="container text__black">
+          <div class="col-lg-6 col-lg-offset-3">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div> 
+  </div> 
+  <div class="row">
+    <div class="jumbotron fond__grey-bright">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <h2 class="section-headline text-center">Materialien & Ideen zu digitalen Tools und gesellschaftlichen Themen</h2>
+          </div>
+        </div>
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="post-teaser-wrap">
+            <p class="text-center">
+              In unserer Materialsammlung bieten wir AGs und Labs in Jugendeinrichtungen jede Menge Information beispielsweise zum Umgang mit Ressourcen, Identität oder demokratischer Teilhabe. Anleitungen und einführende Texte zu Werkzeugen geben konkrete Mittel an die Hand, die Themenbereiche anzugehen.
+            </p>
+            <div class="btn-wrap">
+              <a href="/mitmachen"><button  class="btn btn-start color-3">Zur Materialsammlung</button> </a>
             </div>
+            <img  class="img-responsive" src="/static/img/mitmachen-start.png" alt="Wimmelbild CC BY-SA 4.0">
         </div>
+      </div>
     </div>
+  </div>
 </div>
 
-<div class="col-xs-12 fond_red_gradient jumbotron">
-    <div class="row">
-        <div class="container">
-            <div class="col-lg-10 col-lg-offset-1 section-workshop text__white">
-                <h2 class="section-headline">Digital-AGs und Jugend-Labs</h2>
-                <p>
-                    Hier findest du regionale Werkstätten aus unserem Netzwerk, zu denen du gehen und direkt loslegen kannst. Vom gut ausgestatteten Lab bis hin zu regelmäßigen Workshops ist alles dabei. Bei Fragen wende dich bitte direkt an die Werkstätten.
-                </p>
-            </div>
-        </div>
-        <div class="container">
-            <div class="isotope-wrap">
-                <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
-                {% assign sortedLabs = site.labs | sort: 'title' %}
-                {% for lab in sortedLabs %}
-                    {% assign post = lab %}
-                    <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
-                        {% include digital-ag-teaser-tile.html post=post %}
-                    </div>
-                {% endfor %}
-            </div>
-        </div>
+<!--<div class="col-xs-12 fond_red_gradient jumbotron">
+  <div class="row">
+    <div class="container">
+      <div class="col-lg-6 col-lg-offset-3 section-workshop text__white">
+        <h2 class="section-headline">Die Digital-AGs und Jugend-Labs</h2>
+        <p>
+            Hier findest du regionale Werkstätten aus unserem Netzwerk, zu denen du gehen und direkt loslegen kannst. Vom gut ausgestatteten Lab bis hin zu regelmäßigen Workshops ist alles dabei. Bei Fragen wende dich bitte direkt an die Werkstätten.
+        </p>
+      </div>
     </div>
+    <div class="container">
+      <div class="isotope-wrap">
+        <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+        {% assign sortedLabs = site.labs | sort: 'title' %}
+        {% for lab in sortedLabs %}
+            {% assign post = lab %}
+            <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+                {% include digital-ag-teaser-tile.html post=post %}
+            </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
 </div>
-
+-->
 
 {% include footer.html %}
 

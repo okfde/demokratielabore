@@ -147,10 +147,12 @@
           a{
             color: black;
             text-decoration: none;
+            border-bottom: none;
           }
           a:hover{
             color: black;
             text-decoration: none;
+            border-bottom: none;
           }
         }
 
@@ -181,8 +183,11 @@
       a{
         color: black;
         font-size: 14px;
+        text-decoration: none;
+        border-bottom: none;
         &:hover {
           color: $mint;
+          border-bottom: none;
         }
       }
     }

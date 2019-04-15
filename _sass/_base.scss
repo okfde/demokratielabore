@@ -17,7 +17,7 @@ $dl-mint: #00d4e2;
 
 $button-color-1: #00ffbf;
 $button-color-2: #00d4e2;
-$button-color-3: #f21c5e;
+$button-color-3: #F21C5E;
 
 p{
   -moz-hyphens: auto;
@@ -226,15 +226,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-
-
-a:hover {
- text-decoration: none;}
-
-a {
-  text-decoration: none;
-}
-
 .logo {
   width: 150px;
   margin: 20px 20px 20px 5px;
@@ -280,6 +271,7 @@ content
     background-color: $grey-bright;
 }
 .section-headline{
+  margin-top: 1em;
   font-size: 28px;
   text-transform: none;
 }
@@ -336,6 +328,7 @@ h1, .h1, h2, .h2, h3, .h3 {
 
 h2, .h2 {
   font-size: 28px;
+  margin-top: 2em;
 }
 
 h3, .h3 {
@@ -411,12 +404,14 @@ label {
   }
 
     a{
-      color: #0A00FF;
-      //text-decoration: underline;
+      padding-bottom: 1px;
+      //border-bottom: 1px solid $grey-dark;
+      color: $blue;
     }
     a:hover{
       text-decoration: none;
-      text-decoration: underline;
+      //border-bottom: 1px solid black;
+
     }
     #teaser-oer-page {
         a{
@@ -462,66 +457,6 @@ label {
   text-transform: uppercase;
 }
 
-.highlight-red {
-  @extend .fond__red;
-  @extend .text__white;
-  @include inline-background($red);
-}
-
-.highlight-cyan {
-  @extend .fond__cyan;
-  @extend .text__white;
-  @include inline-background($cyan);
-}
-
-.highlight-blue {
-  @extend .fond__blue;
-  @extend .text__white;
-  @include inline-background($blue);
-}
-
-.highlight-green {
-  @extend .fond__green;
-  @extend .text__white;
-  @include inline-background($green);
-}
-
-.highlight-white {
-  @extend .fond__white;
-  @extend .text__red;
-  @include inline-background($white);
-}
-
-
-.highlight-white {
-  @extend .fond__white;
-  @extend .text__black;
-  @include inline-background($white);
-
-    &:hover {
-    background-color: $button-color-2;
-    @include inline-background(#A5FFF8);
-    text-decoration: none;
-  }
-}
-
-.highlight-purple {
-  @extend .fond__purple;
-  @extend .text__white;
-  @include inline-background($purple);
-}
-
-.highlight-grey {
-  @extend .fond__grey-bright;
-  @extend .text__black;
-  @include inline-background($grey-bright);
-
-  &:hover {
-    background-color: $button-color-1;
-    @include inline-background(#A5FFF8);
-    text-decoration: none;
-  }
-}
 
 .form-control, .btn {
   font-size: $body-font-size;
@@ -529,11 +464,6 @@ label {
   background-color: $grey-bright;
 }
 
-.faq .row div {
-  p {
-    font-size: 16px;
-  }
-}
 
 .meta-links-foot {
   p {
@@ -582,10 +512,15 @@ label {
 .btn {
   border-radius: 0;
   border: 0;
+  text-decoration: none;
+  a{
+    text-decoration: none;
+  }
 }
 
 .btn-mitmachen {
   background-color: $button-color-3;
+  text-decoration: none;
   color: $white;
   width: 100%;
   padding: 12px;
@@ -598,17 +533,22 @@ label {
 .btn-mitmachen:hover {
   background-color: #00EEF8;
   color: $white;
+  text-decoration: none;
 }
 
 .btn-wrap{
   width: 100%;
   text-align: center;
+  a, a:hover {
+    border-bottom: none;
+  }
 }
 .btn-start {
   background-color: $dl-mint;
   color: $white;
   margin-top: 30px;
-  padding: 20px 25px 18px 25px;
+  padding: 16px 18px 15px 18px;
+  border-radius: 2px 2px 2px 2px ;
   font-size: 18px;
   line-height: 1;
   @include transition(background-color .25s ease);
@@ -800,21 +740,10 @@ $keep: 44 + 2 * 15px;
 }
 
 .hero-pattern {
-
   position: relative;
 
 }
 
-.hero-pattern__drl {
-
-  &:before {
-    padding-top: 30%;
-  }
-
-  svg {
-    stroke: none;
-  }
-}
 
 /* Newsletter Signup */
 
@@ -890,50 +819,13 @@ $keep: 44 + 2 * 15px;
         }
       }
     }
-
   }
-
-
-
-
 }
 
 
 
 /*-----  End of Home  ------*/
 
-.members {
-  line-height: 26px;
-  font-size: 20px;
-
-  .member {
-    margin-bottom: 26px;
-    min-width: 100%;
-    display: block;
-    float: center;
-  }
-
-  .member-avatar {
-    margin: 60px auto 10px auto;
-    width: 100%;
-    height: auto;
-
-  }
-}
-
-.speaker-big {
-  width: 350px;
-  height: 350px;
-  margin: 0px 60px 200px auto;
-  float: left;
-}
-
-.speaker-bio {
-  margin: 150px 0 0 0;
-  font-size: 30px;
-}
-
-/*-----  End of Lab Page  ------*/
 
 /*============================
 =            Blog            =
@@ -1188,35 +1080,6 @@ $keep: 44 + 2 * 15px;
   }
 }
 
-.hero-overlay {
-
-  padding: 0;
-  text-align: left;
-  width: 100%;
-  height: 100%;
-
-  h1 {
-    font-family: 'Overpass', sans-serif;
-    width: 80%;
-    margin: 1em 0em 0em 1em;
-    font-size: 24px;
-    letter-spacing: 3px;
-    line-height: 30px;
-  }
-
-  h3 {
-    font-family: 'Overpass', sans-serif;
-    width: 60%;
-    margin: 1em 0em 1em 1.8em;
-    font-size: 14px;
-    line-height: 18px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-
-  }
-}
-
-
 
 .section-sub-material{
   text-align: left;
@@ -1257,6 +1120,10 @@ $keep: 44 + 2 * 15px;
 .page-sub-material-img{
     width: 80px;
     padding-left: 0.5em;
+
+    h2 {
+      margin-top: 2em;
+    }
 }
 .section-intro, .section-workshop, .section-angebot{
   text-align: center;
@@ -1297,6 +1164,7 @@ $keep: 44 + 2 * 15px;
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
 .vs-background{
   padding: 35px;
   background: #5e00bd; /* Old browsers */
@@ -1321,74 +1189,20 @@ $keep: 44 + 2 * 15px;
       float: none;
     }
   }
-
   .nav-pills .current {
     display: block;
   }
 
 }
 
-#animation-wrapper {
-  //background: transparent;
-}
-
 .packery-item {
   width: 47.5%;
 }
 
-.members .member {
-  min-width: 40%;
-}
-
-.speaker-name {
-  display: block;
-  font-weight: bold;
-  color: $red;
-  text-decoration: none;
-
-  a, a:visited {
-    color: $red;
-    text-decoration: none;
-
-  }
-
-  a:hover, a:focus {
-    color: $orange;
-    text-decoration: none;
-  }
-}
-
-.speaker-margin {
-  margin: 20px 0;
-}
-
-.slogan {
-
-  h2 {
-    margin: -20px 20px 30px 20px;
-    text-transform: none;
-    max-width: 400px;
-    font-size: 18px;
-    line-height: 30px;
-    text-align: center;
-  }
-}
 
 .img-center {
   margin: 0 auto;
   display: block;
-}
-
-.attendance {
-  padding: 30px 0;
-  margin: 10px auto;
-
-  h3 {
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-    padding: 0 0 20px 0;
-  }
 }
 
 .required {
@@ -1401,22 +1215,8 @@ $keep: 44 + 2 * 15px;
 
 .container-margin {
   padding: 0 20px;
-
 }
 
-.format__illustration-wrapper {
-  text-align: right;
-}
-
-.format__statement {
-  padding: 0 60px 40px 60px;
-
-}
-
-.join__statement {
-  padding: 30px;
-  margin: 20px 0;
-}
 
 .gradient-box{
   padding: 0;
@@ -1525,158 +1325,11 @@ newsletter
       text-decoration: none;
       outline: none;
     }
-
   }
-
 }
-
-
-//==========
-//Social Media
-//------=-----
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 70px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 50%;
-  color: white;
-}
-
-a .fa {
-  color: white;
-}
-
-a.fa:hover {
-  text-decoration: none;
-  color: $black
-}
-
-.fa:before {
-  color:white;
-}
-
-.fa:hover {
-  opacity: 0.7;
-}
-
-.fa-facebook {
-  background: #3B5998;
-  color: white;
-}
-
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-}
-
-.fa-google {
-  background: #dd4b39;
-  color: white;
-}
-
-.fa-linkedin {
-  background: #007bb5;
-  color: white;
-}
-
-.fa-youtube {
-  background: #bb0000;
-  color: white;
-}
-
-.fa-instagram {
-  background: #125688;
-  color: white;
-}
-
-.fa-pinterest {
-  background: #cb2027;
-  color: white;
-}
-
-.fa-snapchat-ghost {
-  background: #fffc00;
-  color: white;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-
-.fa-skype {
-  background: #00aff0;
-  color: white;
-}
-
-.fa-android {
-  background: #a4c639;
-  color: white;
-}
-
-.fa-dribbble {
-  background: #ea4c89;
-  color: white;
-}
-
-.fa-vimeo {
-  background: #45bbff;
-  color: white;
-}
-
-.fa-tumblr {
-  background: #2c4762;
-  color: white;
-}
-
-.fa-vine {
-  background: #00b489;
-  color: white;
-}
-
-.fa-foursquare {
-  background: #45bbff;
-  color: white;
-}
-
-.fa-stumbleupon {
-  background: #eb4924;
-  color: white;
-}
-
-.fa-flickr {
-  background: #f40083;
-  color: white;
-}
-
-.fa-yahoo {
-  background: #430297;
-  color: white;
-}
-
-.fa-soundcloud {
-  background: #ff5500;
-  color: white;
-}
-
-.fa-reddit {
-  background: #ff5700;
-  color: white;
-}
-
-.fa-rss {
-  background: #ff6600;
-  color: white;
-}
-
-
-
-.slick-prev:before, .slick-next:before {
-  color: black
-}
-
-footer img {
-
-}
+/*********************
+newsletter ende
+*********************/
 
 .logo-okf {
   width: 19em;
@@ -1685,6 +1338,7 @@ footer img {
 .logo-bmfsfj {
   width: 35em;
 }
+
 
 .intro {
   img {
@@ -1697,41 +1351,21 @@ footer img {
   }
 }
 
-.datenschutzhinweis{
+.datenschutzhinweis {
+  p{
     font-size: 14px;
-    color: $grey-dark;
-
-}
-
-.table-list {
-  margin-top: 4em;
-  @media (min-width: 600px) {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  dt {
-    flex: 1 0 40%;
-  }
-  dd {
-    flex: 2 0 60%;
-    margin-bottom: 3em;
-    padding-left: 2em;
-  }
-  p {
-    margin-top: 0
+    color: #8C9094;
+    a{
+      font-size: 14px;
+      color: black;
+    }
+    a:hover{
+      font-size: 14px;
+      color: blue;
+    }
   }
 }
 
-.table-list__alternate {
-  margin-top: 1em;
-  dt {
-    flex-basis: 20%;
-  }
-  dd {
-    flex-basis: 80%;
-    margin-bottom: 1em;
-  }
-}
 
 .link-list{
   color: $blue;
@@ -1743,13 +1377,12 @@ footer img {
   a, a:hover, a:focus, a:visited{
     background-color: transparent !important;
   }
-
 }
-.external-link{
 
+
+.external-link{
   color: $blue !important;
   display: block;
-
   &.fixed{
     &:hover{
       &::before{
@@ -1757,7 +1390,6 @@ footer img {
       }
     }
   }
-
   &::before{
     margin-right: 5px;
     content:"\2197";
@@ -1768,14 +1400,12 @@ footer img {
     transform: rotate(0deg);
     margin-left: 0;
   }
-
   &:hover{
     &::before{
       transform: rotate(45deg);
       margin-left: 23px;
     }
   }
-
 }
 
 .fullwidth-image{
@@ -1785,4 +1415,30 @@ footer img {
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
+}
+
+
+
+
+.stats{
+  h1, .h1{
+    font-size: 100px;
+    font-weight: 500;
+  }
+  p {
+    font-size: 12px;
+  }
+}
+
+.image_section {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  .img-one{
+    width: 50%;
+  }
+
+  .img-two{
+    margin: 1em 0 0 -5em;
+    width: 40%;
+  }
 }

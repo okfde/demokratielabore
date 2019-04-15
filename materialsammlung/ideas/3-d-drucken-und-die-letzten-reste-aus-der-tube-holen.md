@@ -10,7 +10,7 @@ themacontent: zukunft13
 subtool: subtool6
 link: 'https://www.thingiverse.com/thing:867811/'
 dauer: dauer-2
-skill: s-2
+schwierigkeitsgrad: s-2
 tags: '3D-Drucker,Laptop'
 author-name: Maximilian Voigt
 author-email: maximilian.voigt@okfn.de

@@ -54,6 +54,16 @@ hide_hero: true
                                 </select>
                             </div>
                         </div>
+                        <div class="filter-items green ideas col-xs-24 col-lg-3 col-md-3">
+                            <div class="filter-items-inner filterselect">
+                                <select data-placeholder="Bitte wählen"  data-group="skill" class="selectFilter">
+                                    <option disabled selected>Schwierigkeit</option>
+                                    <option value="{{ 's-1' }}">{{ site.data.materialsammlung.schwierigkeitsgrad['s-1'] }}</option>
+                                    <option value="{{ 's-2' }}">{{ site.data.materialsammlung.schwierigkeitsgrad['s-2'] }}</option>
+                                    <option value="{{ 's-3' }}">{{ site.data.materialsammlung.schwierigkeitsgrad['s-3'] }}</option>
+                                </select>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div id="selectedFilters">

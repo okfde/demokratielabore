@@ -5,6 +5,7 @@ title: "Bäumen Wasser spenden"
 layout: idee
 owner: "owner1"
 hide_hero: true
+schwierigkeitsgrad: s-2
 dauer: "dauer-1"
 teaser: |
     Im Sommer geraten viele Bäume in Not und benötigen Wasser. Hilf ihnen dabei, nicht auszutrocknen.

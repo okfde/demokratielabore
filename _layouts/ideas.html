@@ -76,9 +76,13 @@ hide_hero: true
                       {% if p.layout contains 'idee' %}
                         {% if p.schwierigkeitsgrad %}
                             {% assign schwierigkeitsgrad = p.schwierigkeitsgrad %}
+                        {% else %}
+                            {% assign schwierigkeitsgrad = '' %}
                         {% endif %}
                         {% if p.dauer %}
                             {% assign dauer = p.dauer %}
+                        {% else %}
+                            {% assign dauer = '' %}
                         {% endif %}
                         {% assign thema = '' %}
                         {% assign tool = '' %}

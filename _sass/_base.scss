@@ -621,10 +621,10 @@ label {
 }
 
 .members-image-wrap, .members-image-content{
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
-  display: inline-block;
+//  position: relative;
+//  left: 50%;
+//  transform: translateX(-50%);
+//  display: inline-block;
 }
 
 
@@ -1441,4 +1441,35 @@ newsletter ende
     margin: 1em 0 0 -5em;
     width: 40%;
   }
+}
+
+.members {
+ line-height: 26px;
+ font-size: 20px;
+
+ .member {
+   margin-bottom: 26px;
+   min-width: 100%;
+   display: block;
+   float: center;
+ }
+
+ .member-avatar {
+   margin: 60px auto 10px auto;
+   width: 100%;
+   height: auto;
+
+ }
+}
+
+.speaker-big {
+ width: 350px;
+ height: 350px;
+ margin: 0px 60px 200px auto;
+ float: left;
+}
+
+.speaker-bio {
+ margin: 150px 0 0 0;
+ font-size: 30px;
 }

@@ -167,3 +167,25 @@
     width: 80%;
   }
 }
+
+
+.stats{   
+  p {
+    font-size: 14px;
+  }
+}
+
+.datenschutzhinweis {
+  p{
+    font-size: 14px;
+    color: #8C9094;
+    a{
+      font-size: 14px;
+      color: black;
+    }
+    a:hover{
+      font-size: 14px;
+      color: blue;
+    }
+  }
+}

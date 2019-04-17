@@ -1,35 +1,31 @@
 ---
 layout: base
-title: "Themen"
+title: "Tool"
 hide_hero: true
 
 ---
 
-<div class="row">
-    <div class="col-xs-12 fond__white jumbotron">
-        <div class="row">
-            <div class="container">
-                <div class="col-lg-8 col-lg-offset-2 page-sub-material">
-                    <a href="/materialsammlung"><p class="sub-material-arrow-back"><img src="/static/img/arrow.svg"> Zurück</p></a>
+<div class="col-xs-12 fond__white jumbotron">
+  <div class="row">
+    <div class="container">
+      <div class="col-lg-6 col-lg-offset-2 page-sub-material">
+        <a href="/materialsammlung"><p class="sub-material-arrow-back"><img src="/static/img/arrow.svg"> Zurück</p></a>
 
-                    <h2 class="section-headline">{{ page.title }}<img class="page-sub-material-img" src="{{ page.img }}"></h2>
-                    <p>
-                        {{ content }}
-                    </p>
-                </div>
-            </div>
-            <div class="container">
-                <div class="isotope-wrap">
-                    <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
-                    {% for p in site.pages %}
-                    {% if p.tool contains page.tool and p.layout == 'untertool' %}
-                        <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser tool">
-                            {% include unter-tool-teaser-tile.html post=p %}
-                        </div>
-                    {% endif %}
-                    {% endfor %}
-                </div>
-            </div>
-        </div>
+        <h2 class="section-headline">{{ page.title }}<img class="page-sub-material-img" src="{{ page.img }}"></h2>
+        <p>{{ content }}</p>
+      </div>
     </div>
+    <div class="container">
+      <div class="isotope-wrap">
+        <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+        {% for p in site.pages %}
+        {% if p.tool contains page.tool and p.layout == 'untertool' %}
+          <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser tool">
+            {% include unter-tool-teaser-tile.html post=p %}
+          </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
 </div>

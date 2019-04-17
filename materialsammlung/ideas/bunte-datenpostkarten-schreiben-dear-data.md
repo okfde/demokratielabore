@@ -10,6 +10,7 @@ desc: >-
   vorhergegangenen Zeit visualisiert.
 themacontent: fs8
 subtool: subtool16
+schwierigkeitsgrad: s-1
 link: 'http://www.dear-data.com/theproject'
 dauer: dauer-3
 tags: 'leere Postkarten,DIN-A-4-Papier,Stifte'

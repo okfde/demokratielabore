@@ -10,6 +10,7 @@ subtool: subtool5
 link: >-
   https://demokratielabore.de/workshops/Ergebnisse/2018_06_08_Tincon/Bitsy/klo.html
 dauer: dauer-1
+schwierigkeitsgrad: s-2
 tags: Laptop
 author-name: Matthias Löwe
 author-email: ''

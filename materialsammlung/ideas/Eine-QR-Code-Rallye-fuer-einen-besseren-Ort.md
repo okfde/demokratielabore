@@ -5,6 +5,7 @@ title: "Eine QR-Code-Rallye für eine bessere Umgebung"
 layout: idee
 owner: "owner1"
 hide_hero: true
+schwierigkeitsgrad: s-2
 dauer: "dauer-2"
 teaser: |
     Bau eine digitale Schnitzeljagd, um auf Missstände aufmerksam zu machen, und nutz dafür dein Smartphone.

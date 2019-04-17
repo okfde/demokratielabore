@@ -9,6 +9,7 @@ desc: >-
   anschrauben oder einfach auf den Boden drücken.
 themacontent: zukunft1
 subtool: subtool6
+schwierigkeitsgrad: s-2
 link: 'https://pinshape.com/items/34519-3d-printed-tactile-tiles'
 dauer: dauer-3
 tags: '3D-Drucker,Laptop'

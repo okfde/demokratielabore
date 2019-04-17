@@ -6,6 +6,7 @@ layout: idee
 owner: "owner1"
 hide_hero: true
 dauer: "dauer-1"
+schwierigkeitsgrad: s-1
 teaser: |
     Deine Umgebung ist dir zu langweilig und grau? Schau dir an, was du virtuell verändern kannst. Mach Entwürfe und überzeuge andere, etwas zu verändern.
 ---

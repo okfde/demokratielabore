@@ -4,6 +4,7 @@ themacontent: zukunft7
 title: "Das Messgerät in deiner Tasche: dein Smartphone"
 layout: idee
 owner: "owner4"
+schwierigkeitsgrad: s-1
 hide_hero: true
 dauer: "dauer-1"
 teaser: |

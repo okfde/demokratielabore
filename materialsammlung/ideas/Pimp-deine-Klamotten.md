@@ -4,6 +4,7 @@ themacontent: zukunft13
 title: "Pimp deine Klamotten!"
 layout: idee
 owner: "owner1"
+schwierigkeitsgrad: s-1
 hide_hero: true
 dauer: "dauer-1"
 teaser: |

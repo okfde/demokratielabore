@@ -4,6 +4,7 @@ themacontent: zukunft11
 title: "Baue eine Kantine für Bienen"
 layout: idee
 owner: "owner1"
+schwierigkeitsgrad: s-2
 hide_hero: true
 dauer: "dauer-2"
 teaser: |

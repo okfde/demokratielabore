@@ -4,6 +4,7 @@ themacontent: zukunft3
 title: "Wohnraum selbst gestalten"
 layout: idee
 owner: "owner1"
+schwierigkeitsgrad: s-3
 hide_hero: true
 dauer: "dauer-2"
 teaser: |

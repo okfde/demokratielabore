@@ -5,6 +5,7 @@ title: "Müll neu entdecken"
 layout: idee
 owner: "owner1"
 dauer: "dauer-1"
+schwierigkeitsgrad: s-2
 hide_hero: true
 teaser: |
     Du kannst aus Tetrapacks mehr machen, als sie einfach wegzuwerfen – hier erfährst du, was.

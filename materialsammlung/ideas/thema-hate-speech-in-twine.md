@@ -10,6 +10,7 @@ link: >-
 dauer: dauer-2
 tags: 'Computer, Twine'
 author-name: Johanna Otte
+schwierigkeitsgrad: s-2
 author-email: johanna.otte@creative-gaming.eu
 owner: "owner2"
 author-website: 'http://www.creative-gaming.eu/'

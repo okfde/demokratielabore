@@ -10,6 +10,7 @@ themacontent: fs4
 subtool: subtool10
 link: 'https://www.youtube.com/user/kampfderkuenstehh'
 dauer: dauer-3
+schwierigkeitsgrad: s-2
 tags: 'Laptop,Kamera,Audioaufnahmegerät'
 author-name: Lisa Passing
 author-email: ''

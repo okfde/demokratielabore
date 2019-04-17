@@ -9,6 +9,7 @@ desc: >-
   App für dich gefunden hast. Vielleicht lernst du dabei auch etwas über dich
   und deinen Organisationsstil!
 themacontent: fs1
+schwierigkeitsgrad: s-1
 subtool: subtool16
 link: 'https://todoist.com/'
 dauer: dauer-3

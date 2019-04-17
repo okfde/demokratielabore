@@ -9,6 +9,7 @@ link: >-
   https://thevirtualmirror.com/DerBlindband/index.php/2015/01/28/ethik-als-spielmechanik3-die-normative-kraft-des-ethischen
 dauer: dauer-3
 tags: Laptop
+schwierigkeitsgrad: s-2
 author-name: Matthias Löwe
 author-email: ''
 author-website: 'https://okfn.de/team/'

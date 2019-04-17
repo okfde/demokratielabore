@@ -5,6 +5,7 @@ title: "Repariere und erzähle davon"
 layout: idee
 owner: "owner1"
 hide_hero: true
+schwierigkeitsgrad: s-1
 dauer: "dauer-2"
 teaser: |
     Zeig anderen, dass sich kaputte Gegenstände auch reparieren lassen, und berichte von deinen Erlebnissen.

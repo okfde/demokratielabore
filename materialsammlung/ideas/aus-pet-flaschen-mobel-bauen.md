@@ -8,6 +8,7 @@ desc: >-
   Möbelstücken zusammenfügen.
 themacontent: zukunft13
 subtool: subtool6
+schwierigkeitsgrad: s-2
 link: 'https://hpi.de/baudisch/projects/trussfab.html'
 dauer: dauer-3
 tags: '3D-Drucker,Laptop'

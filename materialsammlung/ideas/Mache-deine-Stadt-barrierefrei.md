@@ -4,6 +4,7 @@ themacontent: zukunft1
 title: "Mach deine Stadt barrierefrei"
 layout: idee
 owner: "owner1"
+schwierigkeitsgrad: s-2
 hide_hero: true
 dauer: "dauer-2"
 teaser: |

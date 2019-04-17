@@ -7,6 +7,7 @@ desc: >-
   der virtuellen Welt!
 themacontent: zukunft13
 subtool: subtool8
+schwierigkeitsgrad: s-2
 link: 'http://www.medienistik.de/Raspberry_Pi_Materialien.pdf'
 dauer: dauer-3
 tags: 'Laptop,Schalter'

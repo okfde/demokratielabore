@@ -12,6 +12,7 @@ subtool: subtool17
 link: 'https://twitter.com/hashtag/MeToo'
 dauer: dauer-3
 tags: Laptop
+schwierigkeitsgrad: s-1
 author-name: Lea Pfau
 author-email: ''
 author-website: 'https://okfn.de/team/'

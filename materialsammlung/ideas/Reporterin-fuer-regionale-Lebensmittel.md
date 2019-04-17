@@ -4,6 +4,7 @@ themacontent: zukunft8
 title: "Werde Reporter*in für regionale Lebensmittel"
 layout: idee
 owner: "owner1"
+schwierigkeitsgrad: s-2
 hide_hero: true
 dauer: "dauer-3"
 teaser: |

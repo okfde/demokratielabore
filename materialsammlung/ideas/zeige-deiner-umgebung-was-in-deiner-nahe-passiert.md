@@ -11,6 +11,7 @@ subtool: subtool16
 link: 'https://radar.squat.net/de/events'
 dauer: dauer-3
 tags: Laptop
+schwierigkeitsgrad: s-2
 author-name: Lisa Passing
 author-email: ''
 author-website: 'https://okfn.de/team/'

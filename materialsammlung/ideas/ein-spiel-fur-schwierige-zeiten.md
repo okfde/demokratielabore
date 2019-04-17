@@ -12,6 +12,7 @@ subtool: subtool1
 link: 'https://birthdaygirl.itch.io/the-crying-game'
 dauer: dauer-3
 tags: Laptop
+schwierigkeitsgrad: s-2
 author-name: Lydia Böttcher
 author-email: ''
 author-website: 'https://okfn.de/team/'

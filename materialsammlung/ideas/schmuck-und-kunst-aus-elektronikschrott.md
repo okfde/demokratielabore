@@ -9,6 +9,7 @@ link: 'https://www.instructables.com/id/Electronic-Space-Shuttle/'
 dauer: dauer-1
 tags: 'Lötkolben,Entlötpumpe,Spitzzange,Lötdraht,Metallsäge'
 owner: "owner4"
+schwierigkeitsgrad: s-1
 author-name: Maximilian
 author-email: Voigt
 author-website: ''

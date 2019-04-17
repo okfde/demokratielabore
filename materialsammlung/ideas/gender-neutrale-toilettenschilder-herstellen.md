@@ -10,6 +10,7 @@ themacontent: fs2
 subtool: subtool6
 link: 'https://www.instructables.com/id/Gender-Fluid-Bathroom-Sign/'
 dauer: dauer-3
+schwierigkeitsgrad: s-1
 tags: '3D-Drucker,Laptop,Motor,Kabel,Lötkolben'
 author-name: Maximilian Voigt
 author-email: maximilian.voigt@okfn.de

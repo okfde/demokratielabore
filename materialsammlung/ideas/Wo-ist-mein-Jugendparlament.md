@@ -4,6 +4,7 @@ themacontent: zukunft5, fs7
 title: "Stadt, Land, Kreis – wo ist mein Jugendparlament?"
 layout: idee
 owner: "owner1"
+schwierigkeitsgrad: s-3
 hide_hero: true
 dauer: "dauer-3"
 teaser: |

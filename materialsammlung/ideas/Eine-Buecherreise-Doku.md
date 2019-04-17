@@ -3,6 +3,7 @@ subtool: subtool10
 themacontent: zukunft2
 title: "Eine Bücherreise-Doku produzieren"
 layout: idee
+schwierigkeitsgrad: s-2
 owner: "owner1"
 dauer: "dauer-3"
 teaser: |

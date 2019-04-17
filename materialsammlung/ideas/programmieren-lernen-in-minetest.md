@@ -9,6 +9,7 @@ link: >-
   https://www.ch-open.ch/wp-content/uploads/2017/01/11_Workshop-Ronny_Standtke.pdf
 dauer: dauer-3
 tags: Laptop
+schwierigkeitsgrad: s-2
 author-name: Matthias Löwe
 author-email: ''
 author-website: 'https://okfn.de/team/'

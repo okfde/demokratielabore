@@ -12,6 +12,7 @@ themacontent: zukunft12
 link: 'https://spaziergang.demokratielabore.de/overview'
 dauer: dauer-3
 tags: Laptop
+schwierigkeitsgrad: s-3
 author-name: Lisa Passing
 author-email: ''
 author-website: 'https://okfn.de/team/'

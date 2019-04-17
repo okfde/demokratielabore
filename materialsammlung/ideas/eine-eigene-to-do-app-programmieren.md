@@ -10,6 +10,7 @@ themacontent: fs1
 subtool: subtool8
 link: 'http://todomvc.com/'
 dauer: dauer-3
+schwierigkeitsgrad: s-3
 tags: Laptop
 author-name: Lisa Passing
 author-email: ''

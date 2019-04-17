@@ -4,6 +4,7 @@ themacontent: zukunft14, fs8
 title: "Mach Luftverschmutzung sichtbar"
 layout: idee
 owner: "owner1"
+schwierigkeitsgrad: s-3
 hide_hero: true
 dauer: "dauer-2"
 teaser: |

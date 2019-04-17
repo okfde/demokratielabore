@@ -7,6 +7,7 @@ desc: >-
   eine virtuelle Welt!
 themacontent: zukunft12
 subtool: subtool0
+schwierigkeitsgrad: s-1
 link: 'https://games.jff.de/minecraft-wettbewerb-zukunftsstadt'
 dauer: dauer-2
 tags: Laptop

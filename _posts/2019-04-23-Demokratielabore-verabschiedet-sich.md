@@ -1,33 +1,36 @@
 ---
 layout: post
 author: Demokratielabore-Team
-date: 2019-03-19
+date: 2019-04-23
 excerpt:
 images:
  -
-   imgname: rostock_workshop.jpg
-   sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC BY 4.0, OKF DE, Foto: Lea Pfau</a>"
+   imgname: dl_teambild.jpg
+   sub: "<a href='https://creativecommons.org/licenses/by/4.0/'>CC BY 4.0, OKF DE, Foto: Demokratielabore</a>"
 published: true
-title: "Digitalisierung in der Jugendarbeit - unsere Erfahrungen"
+title: "Wir verabschieden uns mit Erfolgen & Forderungen"
 ---
 
-Die Digitalisierung ist insbesondere im schulischen und außerschulischen Bereich ein viel diskutiertes Thema - von der Infrastruktur bis hin zu digitalen Kompetenzen. Doch wie wirkt sich die Digitalisierung konkret auf die Jugendarbeit aus? Wo gibt es Bedarfe und Potentiale? Und welche Tools und Methoden funktionieren besonders gut? Im Rahmen von Demokratielabore konnten wir hierzu zahlreiche Erfahrungen sammeln, die wir im Folgenden teilen.
+“Mit digitalen Tools die Gesellschaft von morgen gestalten!” – Diesen Claim haben wir gemeinsam mit vielen Jugendlichen, unzähligen Jugendeinrichtungen, Multiplikator\*innen und Teamer\*innen gelebt und erlebt. Nach knapp zwei Jahren läuft das Projekt Demokratielabore nun Ende April 2019 aus – und wir blicken zurück auf eine spannende, erfolgreiche Zeit.
 
-Als wir mit dem Projekt im Sommer 2017 gestartet sind, stellten wir schnell fest: Materialien und Konzepte mit dem Fokus auf digitale Tools sind in der außerschulischen Jugendarbeit sehr gefragt. Besonders der Ansatz der entwickelten Formate, die einerseits verschiedene gesellschaftspolitische Themen mit andererseits digitalen Methoden und einem spielerischen Ansatz verknüpfen, kam gut an.
-Bei den verwendeten Tools wurde darauf geachtet, dass sie kostenlos oder kostengünstig zur Verfügung stehen oder die Jugendlichen diese schon besitzen. Die Einstiegshürden sind also gering. Oft konnten wir dafür auch Open Source-Varianten nutzen (z. B. Minetest anstatt Minecraft). **Leider gehen frei lizenzierte Tools oft einher mit einer geringeren Benutzerfreundlichkeit, die dann wiederum dem Anspruch an eine niedrige Einstiegshürde entgegen steht.**
-Viel Wert haben wir außerdem darauf gelegt, die Formate und Materialien nachnutzbar sowie adaptierbar aufzubereiten: Alle Materialien stehen unter einer [offenen Lizenz](https://opendefinition.org/od/2.1/de/) und sind skalierbar in Zeit und Teilnehmendenzahl. Das hat es uns und anderen Fachkräften ermöglicht, die Formate in vielen verschiedenen Kontexten und für unterschiedliche Zielgruppen anzubieten.
+Wir haben die Demokratielabore im Juni 2017 gestartet, um gesellschaftliche Diskussionen durch jugendliche Perspektiven zu bereichern und die Freude an digitalen Tools zu nutzen, um aktiv zu gestalten, statt passiv zu konsumieren. Auf dem Weg zu mehr Digitalisierung in der Jugendarbeit haben wir viele Highlights und Überraschungen erlebt, uns mit tollen Leuten vernetzt und den ein oder anderen Stolperstein übersprungen. In unseren 94 Workshop-Durchführungen stand aber vor allem eines im Fokus: Spaß an digitalen Tools zu haben und Neues zu entdecken! Dabei durften wir mit 40 verschiedenen Jugendeinrichtungen an 21 Orten bundesweit arbeiten und konnten über 400 Fachkräften und 880 Jugendlichen zeigen, wie man mit digitalen Formaten die eigenen Ideen für eine bessere Welt umsetzen kann. Dafür sind wir durch ganz Deutschland gereist – mit Bus und Bahn und zweimal sogar mit einem Wohnmobil. Von den Ergebnissen der Workshops waren wir immer wieder beeindruckt: Von digitalen Games zum Thema Umweltverschmutzung oder Diversität bis hin zu QR-Code-Rallyes, die die Gesundheit durch mehr Bewegung fördern.
 
-## Jugendliche mehr beteiligen
-Die Jugendlichen zeigten bei den Workshops und in den Digital-AGs viel Interesse und Motivation, Neues auszuprobieren und die Inhalte und Formate mit ihren eigenen Themen zu verknüpfen. Sie machten sichtbar wie viel junge Menschen über aktuelle gesellschaftspolitische Herausforderungen nachdenken und (digitale) Lösungsmöglichkeiten entwickeln. Das zeigt einmal mehr: **Das Digitale gehört fest zur Lebenswelt der Jugendlichen. Dieser müssen wir mehr Beachtung schenken, digitales Ehrenamt fördern und anerkennen.** Denn Jugendliche wollen mitbestimmen und gehört werden - und das nicht erst seit den Fridays-for-Future-Demonstrationen!
-Wir bemerkten aber auch, wie schwierig es ist, Jugendliche mit unseren Angeboten zu erreichen, die nicht schon in verschiedenen Initiativen engagiert sind. Diese Jugendlichen benötigen eine besondere Ansprache und Empowerment, um Mut und Motivation für neue Angebote zu bekommen. Die Beteiligung Jugendlicher im Projektprozess ist dabei umso wichtiger und braucht viel Zeit, Ressourcen und geeignete Strukturen, z. B. durch Mentoringsysteme, Jugendbeiräte oder Peer-to-Peer-Ansätze mit großem Zeitpuffer und einer gelebten und erlaubten Fehlerkultur.
+Dafür möchten wir einmal **DANKE** sagen – an alle Kooperationspartner\*innen, Teamer\*innen, Jugendeinrichtungen, Fachkräfte und natürlich allen jungen Menschen, die Lust hatten, neue (digitale) Wege mit uns zu gehen und ihre Ideen zu teilen. Es war uns eine Freude! <3
 
-<img src="/assets/blog/dataexp.jpg" alt="Dataexpedition" width="100%">
+## Was passiert mit den Materialien?
 
-## Die Notwendigkeit für digital gestützte Formate ist groß
-Insbesondere bei den pädagogischen Fachkräften ist der Bedarf hoch, mehr digitale Kompetenzen zu erlernen, neue Methoden einzusetzen und digitale Tools zu nutzen - das zeigte auch unsere Bedarfsanalyse, die wir im Dezember 2017 durchgeführt haben. Aber auch aktuelle Jugendhilfeplanungen fordern die Vermittlung von digitalen Kompetenzen, insbesondere in Bezug auf Medien. **Der Bedarf an digital gestützten Formaten steht also erst am Anfang.**
-Neben diesem allgemeinen Interesse an digitalen gestützten Methoden wurde besonders die Frage, wie offene Daten in der Jugendarbeit eingesetzt werden können, gut aufgenommen. Hier gibt es noch viel Potential für neue Projekte und Ideen.
-Wichtig ist auch der Austausch und die Vernetzung untereinander: Wir haben in den vergangenen zwei Jahren viel von anderen Projekten und Einrichtungen in der Jugendarbeit gelernt und wünschen uns, dass noch viel mehr Initiativen aus verschiedenen Bereichen zusammenkommen, um ihre Ideen miteinander zu teilen! Aus diesem Grund arbeiten wir zur Zeit auch an einem Netzwerk, das noch über das Projekt hinaus Bestand haben soll.
+Die bleiben natürlich online erhalten! Alle Materialien, Projektideen, Publikationen und Formate stehen unter einer freien Lizenz, dürfen und sollen angepasst und weiter genutzt werden. Dafür haben wir ausführliche Dokumentationen angelegt und Train-the-Trainer-Anleitungen erstellt, die den Zugang und die Nutzung erleichtern. Wir freuen uns, wenn möglichst viele Menschen unsere Vision teilen und die Formate ausprobieren und weiterentwickeln. Und falls doch mal ein Besuch vor Ort gewünscht ist - Die Workshopformate können weiterhin über unsere [Kooperationspartner\*innen bei Bedarf angefragt werden](https://demokratielabore.de/team/).
 
-## Strukturen nachhaltig fördern!
-Neben diesen positiven Aspekten sind wir aber auch immer wieder an Grenzen und Herausforderungen gestoßen: Viele lokale Jugendeinrichtungen hatten Lust mit uns zu arbeiten, insbesondere auch in längerfristigen Digital-AGs, aber keine personellen und finanziellen Ressourcen für die Umsetzung. Auch die fehlende technische Infrastruktur vor Ort beklagten viele Initiativen, die die Formate ausprobieren wollten. Hier muss sich politisch etwas ändern: **Wir brauchen eine nachhaltige und langfristige Stärkung bestehender Strukturen, damit offene Räume für Jugendliche dauerhaft geschaffen werden können!**
-Für die Einrichtung von Digital-AGs haben wir außerdem festgestellt: Insbesondere für die Erschließung neuer Zielgruppen und die Vermittlung von digitalen Themen braucht es ein attraktives Image und klare Begrifflichkeiten. Es müssen genügend Ressourcen für die Ansprache von Jugendlichen eingeplant und ein gutes Konzept für die Öffentlichkeitsarbeit erarbeitet werden, damit die Digital-AG gut anläuft. Hier benötigen viele Einrichtungen Unterstützung, die deutschlandweit schwer zu leisten ist und eher regional gefördert werden sollte.
+## Digitale Demokratieförderung braucht nachhaltige Strukturen!
+
+Eine Sache liegt uns außerdem sehr am Herzen: In unserer Arbeit mussten wir immer wieder feststellen, wie wichtig eine nachhaltige und langfristige Förderung bestehender Strukturen der Jugendarbeit ist. Gemeinnützige Organisationen sind dabei auf zuverlässige Förderstrukturen angewiesen – das bedeutet nicht nur rechtzeitige Projektbewilligungen und pünktliche Zahlungen, sondern auch realistische Finanzplanungen, ausreichend Zeit für Berichterstattung und Transparenz im Förderprozess!
+
+Digitale Projekte spielen in der gemeinnützigen gesellschaftspolitischen Arbeit eine besonders wichtige Rolle, nicht nur in der Auseinandersetzung mit Hate Speech, Fake News und Populismus im Netz. Ziel einer Demokratieförderung sollte es daher auch sein, die Digitalisierung als Chance zur Gestaltung von Umwelt und Gesellschaft zu begreifen, zu stärken und nachhaltig zu fördern. Denn: digitale Demokratieförderung heißt auch Stärkung der Zivilgesellschaft!
+
+**Deswegen fordern wir von Finanzmittelgebern:**
+
+die bundesweite, langfristige Förderung bestehender Strukturen in der Jugendarbeit, mit ausreichend Personal und Ressourcen
+die Überarbeitung der strukturellen Umsetzung von Förderprogrammen, damit Projekte im Bereich der Jugendarbeit nachhaltig umgesetzt und auf inhaltliche Arbeit fokussiert stattfinden können
+die Digitalisierung als festen Bestandteil von Demokratieförderung zu planen und umzusetzen – regional wie bundesweit.
+
+Ihr habt noch Fragen? Dann schreibt uns an info@demokratielabore.de (erreichbar bis zum 31.05.2019) oder info@okfn.de.

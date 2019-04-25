@@ -29,8 +29,8 @@ Digitale Projekte spielen in der gemeinnützigen gesellschaftspolitischen Arbeit
 
 **Deswegen fordern wir von Finanzmittelgebern:**
 
-die bundesweite, langfristige Förderung bestehender Strukturen in der Jugendarbeit, mit ausreichend Personal und Ressourcen
-die Überarbeitung der strukturellen Umsetzung von Förderprogrammen, damit Projekte im Bereich der Jugendarbeit nachhaltig umgesetzt und auf inhaltliche Arbeit fokussiert stattfinden können
-die Digitalisierung als festen Bestandteil von Demokratieförderung zu planen und umzusetzen – regional wie bundesweit.
+* die bundesweite, langfristige Förderung bestehender Strukturen in der Jugendarbeit, mit ausreichend Personal und Ressourcen
+* die Überarbeitung der strukturellen Umsetzung von Förderprogrammen, damit Projekte im Bereich der Jugendarbeit nachhaltig umgesetzt und auf inhaltliche Arbeit fokussiert stattfinden können
+* die Digitalisierung als festen Bestandteil von Demokratieförderung zu planen und umzusetzen – regional wie bundesweit.
 
 Ihr habt noch Fragen? Dann schreibt uns an info@demokratielabore.de (erreichbar bis zum 31.05.2019) oder info@okfn.de.

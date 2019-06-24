@@ -10,7 +10,7 @@ title: Hello
         <div class="col-lg-10 col-lg-offset-1 section-intro">
           <h2 class="section-headline">Mit digitalen Tools die Gesellschaft von morgen gestalten</h2>
           <p>
-            Wie können Jugendliche das Internet in Zeiten von Hate Speech und Populismus positiv gestalten? Die Demokratielabore bieten verschiedene Formate rund um Digitalisierung, Technologien und gesellschaftliches Miteinander, in denen sich Jugendliche ausprobieren können.
+            Wie können Jugendliche das Internet in Zeiten von Hate Speech und Populismus als positiven Gestaltungsspielraum zurückerobern? Die Demokratielabore haben Workshops rund um Digitalisierung, Technologien und gesellschaftliches Miteinander entwickelt. Alle Materialien, um die Workshops selber durchzuführen, stellen wir euch auf dieser Seite zur Verfügung.
           </p>
           <div class="btn-wrap">
             <a href="/info"><button  class="btn btn-start color-1">Über das Projekt</button> </a>
@@ -26,9 +26,9 @@ title: Hello
     <div class="row">
       <div class="container">
         <div class="col-lg-10 col-lg-offset-1 section-workshop">
-          <h2 class="section-headline">Workshops, Workshops, Workshops</h2>
+          <h2 class="section-headline">Workshops selbst gemacht</h2>
           <p>
-              Jugendliche können sich in unseren Workshops in Nachrichtenredaktionen verwandeln, lernen wie man den öffentlichen Raum positiv einnimmt oder Cybertrolle mit Argumenten besiegt.
+              Wir geben dir alle Anleitungen an die Hand, mit denen Jugendliche digitale Kompetenzen erlernen können. Im Rahmen der Workshops können sie sich in Nachrichtenredaktionen verwandeln, lernen wie  man den öffentlichen Raum positiv einnimmt oder Cybertrolle mit Argumenten zu besiegt.
           </p>
         </div>
       </div>
@@ -51,28 +51,6 @@ title: Hello
 </div>
 
 <div class="row">
-  <div class="jumbotron background-white">
-    <div class="row">
-      <div class="container">
-        <div class="col-xs-10 col-lg-offset-1 section-workshop">
-          <h2 class="section-headline">Neues, News und Neuigkeiten</h2>
-        </div>
-      </div>
-      <div class="post-teaser-wrap">
-        {% for post in site.posts limit:3 %}
-        {% assign url=post.url |replace_first:'/','' %}
-        <div class="col-xs-10 col-md-6 col-lg-4 post-teaser">
-            {% include post-teaser-tile.html post=post %}
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    <div class="btn-wrap">
-      <a href="/blog"><button  class="btn btn-start color-2">Alle anzeigen</button> </a>
-    </div>
-  </div>
-</div>
-<div class="row">
   <div class="jumbotron fond__grey-bright">
     <div class="container">
       <div class="row">
@@ -93,30 +71,3 @@ title: Hello
     </div>
   </div>
 </div>
-
-<!--
-<div class="row">
-  <div class="jumbotron fond__grey-bright">
-    <div class="row">
-      <div class="container">
-        <div class="col-lg-8 col-lg-offset-2">
-            <h2 class="section-headline text-center">Mach mit bei den Demokratielaboren</h2>
-        </div>
-      </div>
-      <div class="col-lg-8 col-lg-offset-2">
-        <div class="post-teaser-wrap">
-          <div class="row">
-            <p class="text-center">
-              Wir sind immer auf der Suche nach außerschulischen Einrichtungen und pädagogischen Fachkräften, die Lust haben, unsere Formate auszuprobieren oder längerfristig in einer Digital-AG anzubieten.
-            </p>
-          </div>
-           <div class="btn-wrap">
-            <a href="/mitmachen"><button  class="btn btn-start color-3">Erfahre wie du mitmachen kannst</button> </a>
-          </div>
-          <img  class="img-responsive" src="/static/img/mitmachen-start.png" alt="Wimmelbild CC BY-SA 4.0">
-      </div>
-      </div>
-    </div>
-  </div>
-</div>
--->

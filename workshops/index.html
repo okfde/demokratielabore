@@ -5,27 +5,47 @@ hide_hero: true
 ---
 <div class="row">
   <div class="col-xs-12 fond__white jumbotron">
-    <div class="row">
-      <div class="container">
-        <div class="col-lg-10 col-lg-offset-1 section-workshop">
-            <h2 class="section-headline">Workshops, Workshops, Workshops</h2>
-            <p>
-                In unseren Workshops könnt ihr eigene Nachrichtenredaktionen gründen, lernen wie  man den öffentlichen Raum positiv einnimmt oder Cybertrolle mit Argumenten besiegt. Die Workshops sind dokumentiert, stehen unter einer freien Lizenz und können nachgenutzt werden.
-            </p>
-        </div>
-      </div>
-      <div class="container">
-        <div class="isotope-wrap">
-          <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
-          {% assign sortedWorkshops = site.workshops | sort: 'title' %}
-          {% for workshop in sortedWorkshops %}
-              {% assign post = workshop %}
-              <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
-                  {% include workshop-teaser-tile.html post=post %}
-              </div>
-          {% endfor %}
-        </div>
+    <div class="container">
+      <div class="col-lg-10 col-lg-offset-1 section-workshop">
+        <h2 class="section-headline">Workshops für Jugendliche</h2>
+        <p>
+          In unseren Workshops könnt ihr eigene Nachrichtenredaktionen gründen, lernen wie  man den öffentlichen Raum positiv einnimmt oder Cybertrolle mit Argumenten besiegt. Die Workshops sind dokumentiert, stehen unter einer freien Lizenz und können nachgenutzt werden.
+        </p>
       </div>
     </div>
+    <div class="container">
+      <div class="isotope-wrap">
+        <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+        {% assign sortedWorkshops = site.workshops | sort: 'title' %}
+        {% for workshop in sortedWorkshops %}
+            {% assign post = workshop %}
+            <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+                {% include workshop-teaser-tile.html post=post %}
+            </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1 section-workshop">
+      <h2 class="section-headline">Schulungen für Fachkräfte in der Jugendarbeit</h2>
+      <p>
+          Wie können Tools meine Arbeit erleichtern? Und wie kann man mit Daten gute Geschichten erzählen? Wir wollen Jugendverbände und gemeinnützige Organisationen in der Jugendarbeit auf dem Weg in die Digitalisierung begleiten: Dazu haben wir verschiedene Formate rund um offene Daten und digitale Tools konzipiert.
+      </p>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="isotope-wrap">
+    <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+    {% assign sortedWorkshops = site.workshops | sort: 'title' %}
+    {% for workshop in sortedWorkshops %}
+        {% assign post = workshop %}
+        <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+            {% include workshop-teaser-tile.html post=post %}
+        </div>
+    {% endfor %}
   </div>
 </div>

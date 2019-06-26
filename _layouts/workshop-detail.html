@@ -40,76 +40,88 @@
 
 <div class="body-wrap">
 	<div class="page-wrap">
-      {% include header-nav.liquid %}
+    {% include header-nav.liquid %}
+    <div class="container">
+      {% if page.hide_hero != true %}
+        <div class="hero-wrap" style="background-image:url({{ page.img_full }});"></div>
+      {% endif %}
+    </div>
+    <div class="jumbotron fond__white">
       <div class="container">
-        {% if page.hide_hero != true %}
-          <div class="hero-wrap" style="background-image:url({{ page.img_full }});"></div>
-        {% endif %}
+        <div class="row">
+          <div class="col-lg-10 col-lg-offset-1 section-intro">
+            <h2 class="section-headline">{{ page.title }}</h2>
+            <p>{{ page.ws_teaser }}</p>
+            <p>
+                Thema: {{ page.thema }} –   
+                Prinzip: {{ page.prinzip }} – 
+                Dauer: {{ page.dauer }}
+            </p>
+          </div>
+        </div>
       </div>
-      <div class="jumbotron fond__white">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-10 col-lg-offset-1 section-intro">
-              <h2 class="section-headline">{{ page.title }}</h2>
-              <p>{{ page.ws_teaser }}</p>
-              <p>
-                  Thema: {{ page.thema }} –   
-                  Prinzip: {{ page.prinzip }} – 
-                  Dauer: {{ page.dauer }}
-              </p>
+      <div class="container">
+        <div class="row text__black">
+          <div class="col-lg-8 col-lg-offset-2"> 
+            <div class="container">{{ content }}</div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row text__black">
+          <div class="col-lg-8 col-lg-offset-2"> 
+            <div class="container">
+              <h2>Workshop beauftragen</h2>
+              <p>Hast du Interesse am Workshop, willst ihn aber nicht selber durchführen? Dann kannst dich an folgende Vertreterinnen unseres deutschlandweiten Netzwerks anfragen:</p>
+              <h3>Stuhlkreis-Revolte</h3>
+              <p>Stuhlkreis-Revolte ist ein Kollektiv aus Moderator*innen, die Seminare organisieren, aber auch Gruppen bei der Durchführung von Workshops unterstützen. Sie haben Newsbusters schon mehrere Male durchgeführt.</p>
+              <h3>CreativeGaming</h3>
+              <p>Creative-Gaming ist Pionierin des medienpädagogischen und kreativen Einsatzes von Computerspielen. Die Initiative  hat Newsbusters schon mehrere Male durchgeführt.</p>
             </div>
           </div>
         </div>
+      </div>
+      {% if page.downloads.size > 0 %}
         <div class="container">
           <div class="row text__black">
-            <div class="col-lg-8 col-lg-offset-2">
-      
-              <div class="container">{{ content }}</div>
+            <div class="col-lg-7 col-lg-offset-2">
+              <h3>Downloads</h3>
+              {% for dwl in page.downloads %}
+              <a href="{{ dwl.file }}" class="btn-download" target="_blank"><span>{{ dwl.name }}</span></a>
+              {% endfor %}
             </div>
           </div>
         </div>
-        {% if page.downloads.size > 0 %}
-          <div class="container">
-            <div class="row text__black">
-              <div class="col-lg-7 col-lg-offset-2">
-                <h3>Downloads</h3>
-                {% for dwl in page.downloads %}
-                <a href="{{ dwl.file }}" class="btn-download" target="_blank"><span>{{ dwl.name }}</span></a>
-                {% endfor %}
-              </div>
-            </div>
-          </div>
-        {% endif %}
-    </div>
-    <div class="container">
-      <div class="jumbotron related-workshop-background">
-        <div class="row">
-          <h2 class="section-headline text-center text__black">Weitere Workshops</h2>
-          <div class="isotope-wrap">
-            <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
-            {% assign maxRelated = 3 %}
-            {% assign maxRelatedCounter = 0 %}
-            {% assign randomWorkshops = site.workshops | sample:4 %}
-            {% for post in randomWorkshops %}
-              {% if post.title != page.title %}
-                <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
-                  {% include workshop-teaser-tile.html post=post %}
-                </div>
-                {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-                {% if maxRelatedCounter >= maxRelated %}
-                {% break %}
-                {% endif %}
-              {% endif %}
-            {% endfor %}
-          </div>
-        </div>
-        <div class="btn-wrap">
-          <a href="/workshops"><button  class="btn btn-start color-2">Zur Workshopübersicht</button> </a>
-        </div>
-      </div>
+      {% endif %}
     </div>
 	</div>
+  <div class="jumbotron related-workshop-background">
+    <div class="row">
+      <h2 class="section-headline text-center text__black">Weitere Workshops</h2>
+      <div class="isotope-wrap">
+        <div class="grid-sizer col-xs-12 col-md-6 col-lg-4"></div>
+        {% assign maxRelated = 3 %}
+        {% assign maxRelatedCounter = 0 %}
+        {% assign randomWorkshops = site.workshops | sample:4 %}
+        {% for post in randomWorkshops %}
+          {% if post.title != page.title %}
+            <div class="col-xs-12 col-md-6 col-lg-4 isotope-item post-teaser">
+              {% include workshop-teaser-tile.html post=post %}
+            </div>
+            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+            {% if maxRelatedCounter >= maxRelated %}
+            {% break %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+    <div class="btn-wrap">
+      <a href="/workshops"><button  class="btn btn-start color-2">Zur Workshopübersicht</button> </a>
+    </div>
+  </div>
 </div>
+
 
 {% include footer.html %}
 {% include scripts.html %}

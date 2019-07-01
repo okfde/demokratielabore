@@ -10,6 +10,7 @@ ws_date: "16. februar"
 ws_year: "2018"
 ws_teaser: "Mika ist verschwunden. Um herauszufinden, wo Mika steckt, hast du eine Stunde Zeit, um in seinem Zimmer auf Spurensuche zu gehen und das Rätsel zu lösen!"
 link: '/workshops/auf-mikas-spuren'
+ws_hinweis: "Mika ist verschwunden. Um herauszufinden, wo Mika steckt, hast du eine Stunde Zeit, um in seinem Zimmer auf Spurensuche zu gehen und das Rätsel zu lösen!"
 
 voraussetzungen:
 - text: 'Teilnehmer/innen: Gleiche Sprache, herkömmliche Internetsuchmaschinen sind bekannt'
@@ -17,10 +18,13 @@ voraussetzungen:
 
 downloads:
 - name: 'Steckbrief zum Workshop'
+  decription: 'Steckbrief zum Workshop'
   file: '/workshops/downloads/steckbriefe/Steckbrief%20WS%20Auf%20Mikas%20Spuren.pdf'
 - name: 'Leitfaden'
+  decription: 'Steckbrief zum Workshop'
   file: '/workshops/downloads/aufmikasspuren/Auf Mikas Spuren Material.zip'
 - name: 'Online-Material'
+  decription: 'Steckbrief zum Workshop'
   file: 'https://drive.google.com/drive/folders/1dRjA_I6jMbTaePaG6nPIqDSrhNLa56dO?usp=sharing'
   
 

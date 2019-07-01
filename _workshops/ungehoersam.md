@@ -36,19 +36,12 @@ downloads:
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/GTbIWyJiwk0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <h3>Inhaltlicher Ablauf</h3>
-<p>
-	In einer kurzen Einleitung in das Thema „interaktive Geschichten” erfährst du, was eine QR-Code-Rallye ist und wie sie funktioniert. Dann kannst du gemeinsam mit anderen Teilnehmenden einmal praktisch eine Rallye durchspielen, die schon vorbereitet ist: Alles beginnt an einem Startpunkt, an dem du einen QR-Code findest und ihn mit Hilfe eines Tablets lesen kannst. Der Code enthält ein konkretes Problem und gibt dir  zwei Möglichkeiten darauf zu reagieren. Entscheide dich für eine der beiden Möglichkeiten und folge der Anweisung zum nächsten Ort. Dort erwartet dich ein neuer Code mit neuen Informationen - wieder ist eine Entscheidung nötig! Da deine Mitspieler/innen vielleicht andere Entscheidungen treffen als du, nimmt die Geschichte der Rallye ganz verschiedene Wendungen und endet auf unterschiedliche Weise. Es gibt also mehrere Lösungswege. 
-</p>
-<p>
-	Nachdem du die vorbereitete Rallye einmal durchgespielt hast, kannst du gemeinsam mit anderen in einer Gruppe an einer eigenen Rallye basteln: Deine Rallye sollte dabei die Orte in deiner Umgebung miteinbeziehen. Welche Orte findest du gut und welche Ecken in deiner Stadt sind vielleicht nicht so schön?  Überlege dabei: Wie können alle problematischen Orten zu guten Orten werden? Nun wird das gleiche Spielprinzip mit deiner fiktiven Geschichte zum Thema “perfektes Stadtviertel” mit Hilfe der App umgesetzt und die QR-Codes an realen Objekten in deiner Nähe verteilt.
-</p>
-<p>
-	Sobald du deine Rallye mit deinem Team fertig hast, kannst du die Rallyes der anderen Gruppen spielen und testen. Anschließend diskutieren wir gemeinsam, welche Ideen zur Verbesserung deiner Umgebung leicht umgesetzt werden können.	 
-</p>
-<p>
-	Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
-</p>
 
+In einer kurzen Einleitung in das Thema „interaktive Geschichten” erfährst du, was eine QR-Code-Rallye ist und wie sie funktioniert. Dann kannst du gemeinsam mit anderen Teilnehmenden einmal praktisch eine Rallye durchspielen, die schon vorbereitet ist: Alles beginnt an einem Startpunkt, an dem du einen QR-Code findest und ihn mit Hilfe eines Tablets lesen kannst. Der Code enthält ein konkretes Problem und gibt dir  zwei Möglichkeiten darauf zu reagieren. Entscheide dich für eine der beiden Möglichkeiten und folge der Anweisung zum nächsten Ort. Dort erwartet dich ein neuer Code mit neuen Informationen - wieder ist eine Entscheidung nötig! Da deine Mitspieler/innen vielleicht andere Entscheidungen treffen als du, nimmt die Geschichte der Rallye ganz verschiedene Wendungen und endet auf unterschiedliche Weise. Es gibt also mehrere Lösungswege. 
+
+Nachdem du die vorbereitete Rallye einmal durchgespielt hast, kannst du gemeinsam mit anderen in einer Gruppe an einer eigenen Rallye basteln: Deine Rallye sollte dabei die Orte in deiner Umgebung miteinbeziehen. Welche Orte findest du gut und welche Ecken in deiner Stadt sind vielleicht nicht so schön?  Überlege dabei: Wie können alle problematischen Orten zu guten Orten werden? Nun wird das gleiche Spielprinzip mit deiner fiktiven Geschichte zum Thema “perfektes Stadtviertel” mit Hilfe der App umgesetzt und die QR-Codes an realen Objekten in deiner Nähe verteilt.
+
+Sobald du deine Rallye mit deinem Team fertig hast, kannst du die Rallyes der anderen Gruppen spielen und testen. Anschließend diskutieren wir gemeinsam, welche Ideen zur Verbesserung deiner Umgebung leicht umgesetzt werden können.	 
 
 
 

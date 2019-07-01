@@ -35,15 +35,11 @@ downloads:
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/uDPvf0Rs3Jw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <h3>Kurzbeschreibung</h3>
-<p>
-	Nachdem du dich mit anderen Teilnehmenden zu einer Gruppe zusammengefunden hast, kannst du dir eine von vier Spielfiguren aussuchen, die unterschiedliche Fähigkeiten haben. Dann startet das Abenteuer: Im Brettspiel „Invasion der Cybertrolle” musst du mit deinem Team  die sozialen Netzwerke von gemeinen Trollen  befreien.  Gemeinsam löst ihr Aufgaben und stellt euch euren Gegnern in den Weg, die euch mit fiesen Sprüchen ärgern. Bekämpfen könnt ihr die Trolle aber nur mit Worten: Dafür ist es wichtig herauszufinden, wie man Trolle im Netz erkennt und mit ihnen umgeht, Hassreden (Hate Speech) verhindert und in Debatten gut argumentieren kann.
-</p>
-<p>
-	Euer digitaler Begleiter in dem Spiel ist eine App, die mit einem Tablet bedient wird. Nachdem ihr das Spiel einmal durchgespielt habt, stellt ihr euch gegenseitig in den Gruppen vor, welchen Lösungsweg ihr gefunden habt und welche Strategien dabei hilfreich waren.  
-</p>
-<p>
-	Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
-</p>
+
+Nachdem du dich mit anderen Teilnehmenden zu einer Gruppe zusammengefunden hast, kannst du dir eine von vier Spielfiguren aussuchen, die unterschiedliche Fähigkeiten haben. Dann startet das Abenteuer: Im Brettspiel „Invasion der Cybertrolle” musst du mit deinem Team  die sozialen Netzwerke von gemeinen Trollen  befreien.  Gemeinsam löst ihr Aufgaben und stellt euch euren Gegnern in den Weg, die euch mit fiesen Sprüchen ärgern. Bekämpfen könnt ihr die Trolle aber nur mit Worten: Dafür ist es wichtig herauszufinden, wie man Trolle im Netz erkennt und mit ihnen umgeht, Hassreden (Hate Speech) verhindert und in Debatten gut argumentieren kann.
+
+Euer digitaler Begleiter in dem Spiel ist eine App, die mit einem Tablet bedient wird. Nachdem ihr das Spiel einmal durchgespielt habt, stellt ihr euch gegenseitig in den Gruppen vor, welchen Lösungsweg ihr gefunden habt und welche Strategien dabei hilfreich waren.  
+
 
 
 

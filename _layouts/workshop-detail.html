@@ -62,37 +62,67 @@
       </div>
       <div class="container">
         <div class="row text__black">
-          <div class="col-lg-8 col-lg-offset-2"> 
+          <div class="col-lg-6 col-lg-offset-3"> 
             <div class="container">{{ content }}</div>
           </div>
         </div>
       </div>
       <div class="container">
-        <div class="row text__black">
-          <div class="col-lg-8 col-lg-offset-2"> 
-            <div class="container">
-              <h2>Workshop beauftragen</h2>
-              <p>Hast du Interesse am Workshop, willst ihn aber nicht selber durchführen? Dann kannst dich an folgende Vertreterinnen unseres deutschlandweiten Netzwerks anfragen:</p>
+        <div class="col-lg-6 col-lg-offset-3"> 
+          <div class="container">
+            <h2 class="section-headline">Workshop beauftragen</h2>
+            <p>Hast du Interesse am Workshop, willst ihn aber nicht selber durchführen? Dann kannst dich an folgende Vertreterinnen unseres deutschlandweiten Netzwerks wenden:</p>
+          </div>
+        </div>
+        <div class="col-lg-8 col-lg-offset-2"> 
+          <div class="container provider">
+            <div class="col-lg-3">
+              <img src="/static/img/Stuhlkreis-revolte.png" width="110" alt="Logo Stuhlkreis-Revolte">
+            </div>
+            <div class="col-lg-7">
               <h3>Stuhlkreis-Revolte</h3>
-              <p>Stuhlkreis-Revolte ist ein Kollektiv aus Moderator*innen, die Seminare organisieren, aber auch Gruppen bei der Durchführung von Workshops unterstützen. Sie haben Newsbusters schon mehrere Male durchgeführt.</p>
+              <p>
+                Stuhlkreis-Revolte ist ein Kollektiv aus Moderator*innen, die Seminare organisieren, aber auch Gruppen bei der Durchführung von Workshops unterstützen. Sie haben den Workshop „{{ page.title }}“ schon mehrere Male durchgeführt.
+                <br>
+                <a class="text__blue" href="mailto:anfragen@stuhlreisrevolte.de">Anfragen</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-8 col-lg-offset-2"> 
+          <div class="container provider">
+            <div class="col-lg-3">
+              <img src="/static/img/creativegaming.png" width="110" alt="Logo Creative Gaming">
+            </div>
+            <div class="col-lg-7">
               <h3>CreativeGaming</h3>
-              <p>Creative-Gaming ist Pionierin des medienpädagogischen und kreativen Einsatzes von Computerspielen. Die Initiative  hat Newsbusters schon mehrere Male durchgeführt.</p>
+              <p>Creative-Gaming ist Pionierin des medienpädagogischen und kreativen Einsatzes von Computerspielen. Die Initiative hat den Workshop {{ page.title }} schon mehrere Male durchgeführt.
+              <br>
+                <a class="text__blue" href="mailto:info@creative-gaming.eu">Anfragen</a>
+              </p>
             </div>
           </div>
         </div>
       </div>
-      {% if page.downloads.size > 0 %}
-        <div class="container">
-          <div class="row text__black">
-            <div class="col-lg-7 col-lg-offset-2">
-              <h3>Downloads</h3>
-              {% for dwl in page.downloads %}
-              <a href="{{ dwl.file }}" class="btn-download" target="_blank"><span>{{ dwl.name }}</span></a>
-              {% endfor %}
-            </div>
+      <div class="container">
+        <div class="col-lg-6 col-lg-offset-3"> 
+          <div class="container">
+            <h2 class="section-headline">Workshop selber durchführen</h2>
+            <p>Um den Workshop selbst durchführen zu können, haben wir dir alle notwendigen Infos zusammengestellt – eine Übersicht über alle Matieralien, einen detaillierten Ablaufplan sowie Teaservideos und fertiges Informationsmaterial zum selber Drucken. Alle Materialien sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a></p>
           </div>
+          {% if page.downloads.size > 0 %}
+            <div class="container">
+              <div class="row text__black">
+                <div class="col-lg-7">
+                  {% for dwl in page.downloads %}
+                  <a href="{{ dwl.file }}" class="btn-download" target="_blank"><span>{{ dwl.name }}</span></a>
+                  {% endfor %}
+                </div>
+              </div>
+            </div>
+          {% endif %}
         </div>
-      {% endif %}
+      </div>
     </div>
 	</div>
   <div class="jumbotron related-workshop-background">

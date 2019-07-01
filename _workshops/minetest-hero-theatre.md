@@ -33,23 +33,14 @@ downloads:
 </div>
 
 <h3>Kurzbeschreibung</h3>
-<p>
-	Im Warm-Up zum Thema “Heldenfiguren” werden verschiedenste Ungerechtigkeiten gesammelt. Dann geht es schon direkt los und alle Teilnehmenden erstellen in kleinen Gruppen innerhalb eines gemeinsamen Levels die Kulissen, an denen sie ihre Vorstellung einer ungerechten Welt abbilden. Dazu wird Minetest, eine kostenlose Open-Source Version von Minecraft, genutzt, sodass die Spielwelten am Ende mit nach Hause genommen und weiterbespielt werden können.
-    Die Gruppen müssen sich für ihr Stück überlegen, welche Heldenfiguren mit welchem Handeln, Superkräften oder Ausrüstung die Ungerechtigkeit besiegen können. Teamplay ist gefragt, denn dazu braucht es ein Storyboard, Dialoge, Schauspielende für die Heldenfiguren, Sidekicks und Statist*innen sowie Personen, die sich um die Kamera, Produktion, Kostüme, Licht, Sounds und Musik kümmern.
-</p>
-<p>
-	Zum großen Finale wird die Story wie in einem Puppentheater aufgeführt: Eine Projektion zeigt einen Ausschnitt des Sets, an dem die Handlung live gespielt und vertont wird. Gleichzeitig wird die Vorstellung aufgezeichnet, so dass ein Animationsfilm entsteht.  
-</p>
-<p>
-	Abschließend werden die Heldenfiguren, ihre Kräfte und Aufgaben, sowie die Ungerechtigkeiten und die Form ihrer Lösung diskutiert. Welche Ungerechtigkeiten können real angegangen werden?
-</p>
-<p>
-	Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
-</p>
-<p>
-	Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
-</p>
 
+Im Warm-Up zum Thema “Heldenfiguren” werden verschiedenste Ungerechtigkeiten gesammelt. Dann geht es schon direkt los und alle Teilnehmenden erstellen in kleinen Gruppen innerhalb eines gemeinsamen Levels die Kulissen, an denen sie ihre Vorstellung einer ungerechten Welt abbilden. Dazu wird Minetest, eine kostenlose Open-Source Version von Minecraft, genutzt, sodass die Spielwelten am Ende mit nach Hause genommen und weiterbespielt werden können.
+
+Die Gruppen müssen sich für ihr Stück überlegen, welche Heldenfiguren mit welchem Handeln, Superkräften oder Ausrüstung die Ungerechtigkeit besiegen können. Teamplay ist gefragt, denn dazu braucht es ein Storyboard, Dialoge, Schauspielende für die Heldenfiguren, Sidekicks und Statist*innen sowie Personen, die sich um die Kamera, Produktion, Kostüme, Licht, Sounds und Musik kümmern.
+
+Zum großen Finale wird die Story wie in einem Puppentheater aufgeführt: Eine Projektion zeigt einen Ausschnitt des Sets, an dem die Handlung live gespielt und vertont wird. Gleichzeitig wird die Vorstellung aufgezeichnet, so dass ein Animationsfilm entsteht.  
+
+Abschließend werden die Heldenfiguren, ihre Kräfte und Aufgaben, sowie die Ungerechtigkeiten und die Form ihrer Lösung diskutiert. Welche Ungerechtigkeiten können real angegangen werden?
 
 
 

@@ -32,20 +32,7 @@ downloads:
 </div>
 
 <h3>Kurzbeschreibung</h3>
-<p>
-	Worauf werdet ihr im Internet aufmerksam? Was teilt ihr? Was nervt euch richtig? Nach einer kurzen Auseinandersetzung zu beliebten Influencern lasst ihr mit Augmented Reality eure Wünsche real werden. Wie wäre es mit einem Skate-Park am Marktplatz, Bäume an der trostlosen Straße, ein Pool in der Schule oder einem Garten auf dem Dach? In Gruppen sollen die Ideen anschließend in Szene gesetzt und mit Hilfe allerlei verrückter Möglichkeiten Instagrams vermarktet werden.
-    </p>
-<p>
-    Gemeinsam analysieren, liken und diskutieren wir am Ende die entstandenen Posts. Was geht am ehesten viral und warum? Wie wird potentiell beeinflusst und wo liegt die Verantwortung?
 
-    </p>
-<p>
-	Die folgenden Downloads zum Workshop sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
-</p>
+Worauf werdet ihr im Internet aufmerksam? Was teilt ihr? Was nervt euch richtig? Nach einer kurzen Auseinandersetzung zu beliebten Influencern lasst ihr mit Augmented Reality eure Wünsche real werden. Wie wäre es mit einem Skate-Park am Marktplatz, Bäume an der trostlosen Straße, ein Pool in der Schule oder einem Garten auf dem Dach? In Gruppen sollen die Ideen anschließend in Szene gesetzt und mit Hilfe allerlei verrückter Möglichkeiten Instagrams vermarktet werden.
 
-
-
-
-
-
-
+Gemeinsam analysieren, liken und diskutieren wir am Ende die entstandenen Posts. Was geht am ehesten viral und warum? Wie wird potentiell beeinflusst und wo liegt die Verantwortung?

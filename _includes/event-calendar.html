@@ -1,34 +1,12 @@
-<!---<div class="events-wrap container">
+<div class="events-wrap container">
     <div class="events-panel">
         <div class="events-panel-inner">
-            <h3 class="events-headline">Kommende Events</h3>
-            <ul class="events-list">
-                {% assign events = site.data.events | where: "featured","true" | sort: "date" %}
-                {% for event in  events %}
-                  {% capture e %}{{ event.date | date: "%s" | plus:0}}{% endcapture %}
-                  {% capture n %}{{ site.time | date: "%s" | plus:0}}{% endcapture %}
-                  {% assign comp = e | minus: n %}
-                  {% if comp >= 0 %}
-                    {% if event.url %}
-                    <a href="{{event.url}}" target="_blank">
-                    {% endif %}
-                        <li class="events-item">
-
-                            <div class="event-date">
-                                {{ event.date | date:"%d.%m" }}
-                            </div>
-                            <div class="event-info">
-                                {{ event.name }},<br/>{{ event.city }}
-                            </div>
-                        </li>
-                    {% if event.url %}
-                    </a>
-                    {% endif %}
-                  {% endif %}
-                {% endfor %}
-            </ul>
+            <h3 class="events-headline">Goodbye!</h3>
+            <p class="events-list">
+                Seit April 2019 ist das Modellprojekt Demokratielabore beendet. Unsere Workshops und Selbstlernmatierialen stehen euch weiterhin zur Nachnutzung zur Verfügung. Bei Fragen könnt ihr euch über info[at]okfn.de an uns wenden. 
+            </p>
         </div>
     </div>
-</div>--->
+</div>
 
 

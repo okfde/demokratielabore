@@ -33,19 +33,10 @@ downloads:
 
 
 <h3>Inhaltlicher Ablauf</h3>
-<p> 
-	Nach einer kurzen Vorstellung des Formates und der Verhaltensregeln, wirst du  direkt mit deinem Team in Mikas  Raum gebracht: Besorgte Nachbarn bitten euch  um Mithilfe, den/die vermisste/n Mika zu finden, bevor die Eltern zurück nach Hause kommen. Dazu müsst ihr innerhalb von einer Stunde verschiedensten Spuren folgen, Schlösser öffnen, Rätsel lösen und Entscheidungen treffen.
-</p>
 
-<p>
-	Im Verlauf des Spieles kommen verschiedene Informationen hinzu, die Mika in ein unterschiedliches Licht rücken: Ist er/sie Rechtsextremist/in  oder Islamist/in geworden oder keins von beidem? Die Entscheidungen, die du mit deiner Gruppe triffst, und die unterschiedlichen Lösungsmöglichkeiten werden im Anschluss diskutiert und gemeinsam analysiert.
-</p>
+Nach einer kurzen Vorstellung des Formates und der Verhaltensregeln, wirst du  direkt mit deinem Team in Mikas  Raum gebracht: Besorgte Nachbarn bitten euch  um Mithilfe, den/die vermisste/n Mika zu finden, bevor die Eltern zurück nach Hause kommen. Dazu müsst ihr innerhalb von einer Stunde verschiedensten Spuren folgen, Schlösser öffnen, Rätsel lösen und Entscheidungen treffen.
 
-<p>
-	Die folgenden Downloads zum Workshop wurden gemeinsam mit <a class="highlight-grey" href="http://polyspektiv.eu/">polyspektiv</a> entwickelt und sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>
-</p>
-
-
+Im Verlauf des Spieles kommen verschiedene Informationen hinzu, die Mika in ein unterschiedliches Licht rücken: Ist er/sie Rechtsextremist/in  oder Islamist/in geworden oder keins von beidem? Die Entscheidungen, die du mit deiner Gruppe triffst, und die unterschiedlichen Lösungsmöglichkeiten werden im Anschluss diskutiert und gemeinsam analysiert.
 
 
 

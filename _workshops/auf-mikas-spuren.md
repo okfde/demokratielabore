@@ -26,7 +26,9 @@ downloads:
 - name: 'Online-Material'
   decription: 'Steckbrief zum Workshop'
   file: 'https://drive.google.com/drive/folders/1dRjA_I6jMbTaePaG6nPIqDSrhNLa56dO?usp=sharing'
-  
+- name: 'Illustrationen zum Workshop'
+  decription: 'CC BY-SA 4.0 Christoph Hoppenbrock'
+  file: '/workshops/downloads/aufmikasspuren/Mika-Illustrationen-CC-BY-SA-4-Christoph-Hoppenbrock.zip'
 
 
 ---

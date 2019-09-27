@@ -108,7 +108,11 @@
         <div class="col-lg-6 col-lg-offset-3"> 
           <div class="container">
             <h2 class="section-headline">Workshop selber durchführen</h2>
-            <p>Um den Workshop selbst durchführen zu können, haben wir dir alle notwendigen Infos zusammengestellt – eine Übersicht über alle Matieralien, einen detaillierten Ablaufplan sowie Teaservideos und fertiges Informationsmaterial zum selber Drucken. Alle Materialien sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a>{{ post.ws_hinweis }} </p>
+            <p>Um den Workshop selbst durchführen zu können, haben wir dir alle notwendigen Infos zusammengestellt – eine Übersicht über alle Matieralien, einen detaillierten Ablaufplan sowie Teaservideos und fertiges Informationsmaterial zum selber Drucken. Alle Materialien sind, falls nicht anders gekennzeichnet, unter folgender Creative Commons Lizenz verwendbar: <a class="highlight-grey" href="https://www.creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0, OKF DE</a><br><br>
+            {% if page.ws_hinweis%}
+              {{ page.ws_hinweis }} 
+            {% endif %}
+            </p>
           </div>
           {% if page.downloads.size > 0 %}
             <div class="container">

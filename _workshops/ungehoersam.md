@@ -30,6 +30,9 @@ downloads:
   file: '/workshops/downloads/ungehoersam/Ungeh%C3%B6rsam-Reader.apk'
 - name: 'GIT zum Ungehörsam-Editor und -Reader (Android)'
   file: 'https://github.com/okfde/demolabs-ungehoersam'
+- name: 'Illustrationen zum Workshop'
+  decription: 'CC BY-SA 4.0 Christoph Hoppenbrock'
+  file: '/workshops/downloads/ungehoersam/Ungehoersam-Illustrationen-CC-BY-SA-4-Christoph-Hoppenbrock.zip'
 
 
 ---

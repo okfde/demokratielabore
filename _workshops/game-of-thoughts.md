@@ -28,6 +28,9 @@ downloads:
   file: 'https://demokratielabore.de/zeltlager/'
 - name: 'Selbstlernmaterial zu Gamedesign:'
   file: 'https://demokratielabore.de/materialsammlung/tools/Gamedesign/'
+- name: 'Illustrationen zum Workshop'
+  decription: 'CC BY-SA 4.0 Christoph Hoppenbrock'
+  file: '/workshops/downloads/gameofthoughts/GameOfThoughts-Illustrationen-CC-BY-SA-4-Christoph-Hoppenbrock.zip'
 
 ---
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/tN6a2Oz_gpM?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

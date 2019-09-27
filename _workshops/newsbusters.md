@@ -22,6 +22,9 @@ downloads:
   file: '/workshops/downloads/newsbusters/Newsbusters Ablaufplan.zip'
 - name: 'Material'
   file: '/workshops/downloads/newsbusters/Newsbusters Material.zip'
+- name: 'Illustrationen zum Workshop'
+  decription: 'CC BY-SA 4.0 Christoph Hoppenbrock'
+  file: '/workshops/downloads/newsbusters/Newsbusters-Illustrationen-CC-BY-SA-4-Christoph-Hoppenbrock.zip'
 
 
 ---

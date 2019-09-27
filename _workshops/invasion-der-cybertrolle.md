@@ -28,6 +28,9 @@ downloads:
   file: '/workshops/downloads/invasiondercybertrolle/app/index.html'
 - name: 'Begleit-App (Source)'
   file: '/workshops/downloads/invasiondercybertrolle/Invasion%20der%20Cybertrolle.capx'
+- name: 'Illustrationen zum Workshop'
+  decription: 'CC BY-SA 4.0 Christoph Hoppenbrock'
+  file: '/workshops/downloads/invasiondercybertrolle/Cybertrolle-Illustrationen-CC-BY-SA-4-Christoph-Hoppenbrock.zip'
 
 
 

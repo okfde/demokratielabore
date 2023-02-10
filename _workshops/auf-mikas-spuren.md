@@ -25,7 +25,7 @@ downloads:
   file: '/workshops/downloads/aufmikasspuren/Auf Mikas Spuren Material.zip'
 - name: 'Online-Material'
   decription: 'Steckbrief zum Workshop'
-  file: 'https://drive.google.com/drive/folders/1dRjA_I6jMbTaePaG6nPIqDSrhNLa56dO?usp=sharing'
+  file: 'https://creativegamingcloud.de/s/4w552NwwqKCnC5N'
 - name: 'Illustrationen zum Workshop'
   decription: 'CC BY-SA 4.0 Christoph Hoppenbrock'
   file: '/workshops/downloads/aufmikasspuren/Mika-Illustrationen-CC-BY-SA-4-Christoph-Hoppenbrock.zip'

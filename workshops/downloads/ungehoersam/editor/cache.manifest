@@ -10,11 +10,11 @@ dist/vendor.js
 jspm_packages/system-csp-production.js
 jspm_packages/system-polyfills.js
 jspm_packages/system.js
+styles/bootstrap.css
+styles/styles.css
 media/Demokratielabore_Logo_Schwarz.png
 media/freisteller_Raeume_Demokratielabore_RGB_0000_demo_small.png
 media/Ungehoersam_Editor_Logo-01.png
-styles/bootstrap.css
-styles/styles.css
 jspm_packages/npm/font-awesome@4.6.3/css/font-awesome.min.css
 jspm_packages/npm/font-awesome@4.6.3/fonts/fontawesome-webfont.eot?v=4.6.3
 jspm_packages/npm/font-awesome@4.6.3/fonts/fontawesome-webfont.svg?v=4.6.3
@@ -35,4 +35,4 @@ NETWORK:
 SETTINGS:
 prefer-online
 
-# hash: d098ae42fe8de6adbcf7ee03f89ad9c56bbe9943c7b804dc09b1f4b0b8ba0999
+# hash: 74327a6f956901a01ca607fa766f6192f9f133f4d5abfd1bdea2550a2f034c48
